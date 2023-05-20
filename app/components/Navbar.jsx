@@ -11,9 +11,9 @@ export const Navbar = () => {
     setMenuOpen(!menuOpen);
   };
   return (
-    <nav className="fixed w-full h-48 shadow-xl bg-[#322D35]">
+    <nav className="fixed w-full sm:h-48 h-32 shadow-xl bg-[#322D35]">
       <div className="flex flex-col">
-        <Link className="flex justify-center pt-4" href="/">
+        <Link className="flex justify-center pt-2" href="/">
           <Image
             src="/fslogo.png"
             alt="Fretboar Summit Logo"
@@ -59,7 +59,7 @@ export const Navbar = () => {
         </div>
         <div
           onClick={() => handleNav(!menuOpen)}
-          className="sm:hidden cursor-pointer pl-24"
+          className="absolute top-5 left-5 sm:hidden cursor-pointer"
         >
           <AiOutlineMenu size={25} />
         </div>
@@ -80,6 +80,17 @@ export const Navbar = () => {
           </div>
         </div>
         <div className="flex-col py-4">
+          <Link className="flex justify-center py-4" href="/">
+            <Image
+              src="/fslogo.png"
+              alt="Fretboar Summit Logo"
+              className=""
+              width={300}
+              height={48}
+              priority
+            />
+          </Link>
+
           <ul>
             <Link href="/concerts">
               <li
