@@ -5,8 +5,8 @@ export default function Home() {
   return (
     <>
       <Navbar />
-      <main className="flex min-h-screen flex-col items-center justify-between p-24 bg-[#4C454F]">
-        <div className="w-full max-w-5xl items-center justify-between font-mono text-sm lg:flex mt-20">
+      <main className="flex min-h-screen flex-col items-center justify-between p-4 bg-gradient-to-r from-[#322D35] to-[#4C454F] ">
+        <div className="w-full max-w-5xl items-center justify-between font-mono text-sm lg:flex mt-4">
           homepage
         </div>
         {/* <div className="z-10 w-full max-w-5xl items-center justify-between font-mono text-sm lg:flex">

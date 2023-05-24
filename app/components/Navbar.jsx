@@ -11,28 +11,35 @@ export const Navbar = () => {
     setMenuOpen(!menuOpen);
   };
   return (
-    <nav className="fixed w-full sm:h-48 h-32 shadow-xl bg-[#322D35]">
+    <nav className="w-full shadow-xl bg-[#322D35]">
       <div className="flex flex-col">
-        <Link className="flex justify-center pt-2" href="/">
+        <div className="hidden sm:flex justify-center pt-1">
           <Image
-            src="/fslogo.png"
-            alt="Fretboar Summit Logo"
-            className=""
-            width={400}
+            src="/Group22.png"
+            width={300}
+            height={32}
+            alt="Fretboard Journal and Old Town School present"
+          />
+        </div>
+        <Link className="flex justify-center mt-1.5" href="/">
+          <Image
+            src="/Fslogo.png"
+            alt="Fretboard Summit Logo"
+            width={600}
             height={48}
             priority
           />
         </Link>
         <div className="hidden sm:flex justify-center">
-          <ul className="hidden sm:flex">
-            <Link href="/concerts">
+          <ul className="hidden sm:flex text-[#4DB3AC]">
+            <Link href="">
               <li className="mx-2 p-2 uppercase hover:border-b text-xl">
-                Concerts
+                Tickets
               </li>
             </Link>
-            <Link href="/workshops">
+            <Link href="/music">
               <li className="mx-2 p-2 uppercase hover:border-b text-xl">
-                Workshops
+                Music
               </li>
             </Link>
             <Link href="/luthiers">
@@ -40,19 +47,9 @@ export const Navbar = () => {
                 Luthiers
               </li>
             </Link>
-            <Link href="/schedule">
-              <li className="mx-2 p-2 uppercase hover:border-b text-xl">
-                Schedule
-              </li>
-            </Link>
             <Link href="/directions">
               <li className="mx-2 p-2 uppercase hover:border-b text-xl">
                 Getting Here
-              </li>
-            </Link>
-            <Link href="">
-              <li className="mx-2 p-2 uppercase hover:border-b text-xl">
-                Buy Tickets
               </li>
             </Link>
           </ul>
@@ -91,21 +88,21 @@ export const Navbar = () => {
             />
           </Link>
 
-          <ul>
-            <Link href="/concerts">
+          <ul className="text-[#4DB3AC]">
+            <Link href="">
               <li
                 onClick={() => handleNav(!menuOpen)}
                 className="py-4 uppercase hover:border-b text-xl"
               >
-                Concerts
+                Tickets
               </li>
             </Link>
-            <Link href="/workshops">
+            <Link href="/music">
               <li
                 onClick={() => handleNav(!menuOpen)}
                 className="py-4 uppercase hover:border-b text-xl"
               >
-                Workshops
+                Music
               </li>
             </Link>
             <Link href="/luthiers">
@@ -116,28 +113,12 @@ export const Navbar = () => {
                 Luthiers
               </li>
             </Link>
-            <Link href="/schedule">
-              <li
-                onClick={() => handleNav(!menuOpen)}
-                className="py-4 uppercase hover:border-b text-xl"
-              >
-                Schedule
-              </li>
-            </Link>
             <Link href="/directions">
               <li
                 onClick={() => handleNav(!menuOpen)}
                 className="py-4 uppercase hover:border-b text-xl"
               >
                 Getting Here
-              </li>
-            </Link>
-            <Link href="">
-              <li
-                onClick={() => handleNav(!menuOpen)}
-                className="py-4 uppercase hover:border-b text-xl"
-              >
-                Buy Tickets
               </li>
             </Link>
           </ul>
