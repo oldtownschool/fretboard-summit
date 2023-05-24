@@ -11,7 +11,7 @@ export const Navbar = () => {
     setMenuOpen(!menuOpen);
   };
   return (
-    <nav className="w-full shadow-xl bg-[#322D35]">
+    <nav className="w-full bg-gradient-to-r from-[#322D35] to-[#4C454F]">
       {/* mobile layout */}
       <div className="flex flex-col py-4 sm:py-0">
         <div className="hidden sm:flex justify-center pt-1">
