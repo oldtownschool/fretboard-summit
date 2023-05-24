@@ -6,7 +6,7 @@ export default function Home() {
     <>
       <Navbar />
       <main className="flex min-h-screen flex-col items-center bg-gradient-to-r from-[#322D35] to-[#4C454F]">
-        <div className="w-full max-w-5xl items-center font-mono text-sm lg:flex">
+        <div className="w-full max-w-5xl items-center lg:flex">
           <Image
             src="/DSC07226.png"
             alt="fs video placeholder"
@@ -14,6 +14,55 @@ export default function Home() {
             height={500}
           />
         </div>
+
+        <div className="block sm:flex sm:flex-row py-10">
+          <div className="w-full sm:flex sm:w-2/4">
+            <Image
+              className="hidden sm:flex mx-2"
+              src="/border.png"
+              alt="border"
+              width={10}
+              height={400}
+            />
+            <div>
+              <Image
+                src="/Group22.png"
+                alt="banner top"
+                width={300}
+                height={50}
+              />
+              <Image
+                src="/Group24.png"
+                alt="banner left"
+                width={300}
+                height={400}
+              />
+            </div>
+            <Image
+              className="hidden sm:flex mx-2"
+              src="/border.png"
+              alt="border"
+              width={10}
+              height={400}
+            />
+          </div>
+          <div className="w-full mt-6 sm:mt-0 sm:flex sm:w-2/4">
+            <Image
+              src="/performers.png"
+              alt="banner left"
+              width={300}
+              height={400}
+            />
+            <Image
+              className="hidden sm:flex mx-2"
+              src="/border.png"
+              alt="border"
+              width={10}
+              height={400}
+            />
+          </div>
+        </div>
+
         <div className="text-6xl w-full max-w-5xl items-center font-aurochs font-thin">
           Aurochs (thin)
         </div>
