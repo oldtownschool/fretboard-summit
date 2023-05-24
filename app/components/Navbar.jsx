@@ -12,7 +12,8 @@ export const Navbar = () => {
   };
   return (
     <nav className="w-full shadow-xl bg-[#322D35]">
-      <div className="flex flex-col">
+      {/* mobile layout */}
+      <div className="flex flex-col py-4 sm:py-0">
         <div className="hidden sm:flex justify-center pt-1">
           <Image
             src="/Group22.png"
@@ -61,6 +62,8 @@ export const Navbar = () => {
           <AiOutlineMenu size={25} />
         </div>
       </div>
+
+      {/* fullpage layout */}
       <div
         className={
           menuOpen
@@ -87,7 +90,6 @@ export const Navbar = () => {
               priority
             />
           </Link>
-
           <ul className="text-[#4DB3AC]">
             <Link href="">
               <li
