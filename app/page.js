@@ -5,14 +5,32 @@ export default function Home() {
   return (
     <>
       <Navbar />
-      <main className="flex min-h-screen flex-col items-center justify-between bg-gradient-to-r from-[#322D35] to-[#4C454F]">
-        <div className="w-full max-w-5xl items-center justify-between font-mono text-sm lg:flex">
+      <main className="flex min-h-screen flex-col items-center bg-gradient-to-r from-[#322D35] to-[#4C454F]">
+        <div className="w-full max-w-5xl items-center font-mono text-sm lg:flex">
           <Image
             src="/DSC07226.png"
             alt="fs video placeholder"
             width={1200}
             height={500}
           />
+        </div>
+        <div className="text-6xl w-full max-w-5xl items-center font-aurochs font-thin">
+          Aurochs (thin)
+        </div>
+        <div className="text-6xl w-full max-w-5xl items-center font-aurochs font-normal">
+          Aurochs (normal)
+        </div>
+        <div className="text-6xl w-full max-w-5xl items-center font-aurochs font-bold">
+          Aurochs (bold)
+        </div>
+        <div className="text-6xl w-full max-w-5xl items-center font-handbill font-thin">
+          Handbill (condensed)
+        </div>
+        <div className="text-6xl w-full max-w-5xl items-center font-handbill font-normal">
+          Handbill (grotesk)
+        </div>
+        <div className="text-6xl w-full max-w-5xl items-center font-handbill font-bold">
+          Handbill (slab)
         </div>
 
         {/* <div className="z-10 w-full max-w-5xl items-center justify-between font-mono text-sm lg:flex">
