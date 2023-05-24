@@ -31,25 +31,25 @@ export const Navbar = () => {
             priority
           />
         </Link>
-        <div className="hidden sm:flex justify-center">
+        <div className="font-aurochs tracking-wide text-3xl hidden sm:flex justify-center">
           <ul className="hidden sm:flex text-[#4DB3AC]">
             <Link href="">
-              <li className="mx-2 p-2 uppercase hover:border-b text-xl">
+              <li className="mx-2 p-2 uppercase hover:bg-[#4DB3AC] hover:text-white">
                 Tickets
               </li>
             </Link>
             <Link href="/music">
-              <li className="mx-2 p-2 uppercase hover:border-b text-xl">
+              <li className="mx-2 p-2 uppercase hover:bg-[#4DB3AC] hover:text-white">
                 Music
               </li>
             </Link>
             <Link href="/luthiers">
-              <li className="mx-2 p-2 uppercase hover:border-b text-xl">
+              <li className="mx-2 p-2 uppercase hover:bg-[#4DB3AC] hover:text-white">
                 Luthiers
               </li>
             </Link>
             <Link href="/directions">
-              <li className="mx-2 p-2 uppercase hover:border-b text-xl">
+              <li className="mx-2 p-2 uppercase hover:bg-[#4DB3AC] hover:text-white">
                 Getting Here
               </li>
             </Link>
@@ -79,11 +79,11 @@ export const Navbar = () => {
             <AiOutlineClose size={25} />
           </div>
         </div>
-        <div className="flex-col py-4">
+        <div className="font-aurochs tracking-wide text-3xl text-center flex-col py-4">
           <Link className="flex justify-center py-4" href="/">
             <Image
               src="/fslogo.png"
-              alt="Fretboar Summit Logo"
+              alt="Fretboard Summit Logo"
               className=""
               width={300}
               height={48}
@@ -94,7 +94,7 @@ export const Navbar = () => {
             <Link href="">
               <li
                 onClick={() => handleNav(!menuOpen)}
-                className="py-4 uppercase hover:border-b text-xl"
+                className="py-4 uppercase hover:bg-[#4DB3AC] hover:text-white hover:bg-[#4DB3AC] hover:text-white"
               >
                 Tickets
               </li>
@@ -102,7 +102,7 @@ export const Navbar = () => {
             <Link href="/music">
               <li
                 onClick={() => handleNav(!menuOpen)}
-                className="py-4 uppercase hover:border-b text-xl"
+                className="py-4 uppercase hover:bg-[#4DB3AC] hover:text-white"
               >
                 Music
               </li>
@@ -110,7 +110,7 @@ export const Navbar = () => {
             <Link href="/luthiers">
               <li
                 onClick={() => handleNav(!menuOpen)}
-                className="py-4 uppercase hover:border-b text-xl"
+                className="py-4 uppercase hover:bg-[#4DB3AC] hover:text-white"
               >
                 Luthiers
               </li>
@@ -118,7 +118,7 @@ export const Navbar = () => {
             <Link href="/directions">
               <li
                 onClick={() => handleNav(!menuOpen)}
-                className="py-4 uppercase hover:border-b text-xl"
+                className="py-4 uppercase hover:bg-[#4DB3AC] hover:text-white"
               >
                 Getting Here
               </li>
