@@ -9,7 +9,7 @@ const aurochs = localFont({
   display: "swap",
   src: [
     {
-      path: "../public/fonts/Aurochs/Aurochs-Light.woff",
+      path: "../public/fonts/Aurochs/Aurochs-Light.woff2",
       weight: "100",
       style: "normal",
     },
@@ -19,7 +19,7 @@ const aurochs = localFont({
       style: "normal",
     },
     {
-      path: "../public/fonts/Aurochs/Aurochs-Heavy.woff",
+      path: "../public/fonts/Aurochs/Aurochs-Heavy.woff2",
       weight: "700",
       style: "normal",
     },
@@ -31,7 +31,7 @@ const handbill = localFont({
   display: "swap",
   src: [
     {
-      path: "../public/fonts/Handbill/Handbill-Condensed.woff",
+      path: "../public/fonts/Handbill/Handbill-Condensed.woff2",
       weight: "100",
       style: "normal",
     },
@@ -41,7 +41,7 @@ const handbill = localFont({
       style: "normal",
     },
     {
-      path: "../public/fonts/Handbill/Handbill-Slab.woff",
+      path: "../public/fonts/Handbill/Handbill-Slab.woff2",
       weight: "700",
       style: "normal",
     },
