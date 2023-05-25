@@ -234,22 +234,26 @@ export const Footer = () => {
           </h4>
         </div>
         <div className="flex justify-center pt-4">
-          <Image
-            className="flex"
-            src="/socialFb.png"
-            alt="border"
-            width={50}
-            height={50}
-            style={{ alignSelf: "center" }}
-          />
-          <Image
-            className="flex ml-6"
-            src="/socialInsta.png"
-            alt="border"
-            width={50}
-            height={50}
-            style={{ alignSelf: "center" }}
-          />
+          <Link href="https://www.facebook.com/fretboardsummit">
+            <Image
+              className="flex"
+              src="/socialFb.png"
+              alt="border"
+              width={50}
+              height={50}
+              style={{ alignSelf: "center" }}
+            />
+          </Link>
+          <Link href="https://www.instagram.com/fretboardsummit">
+            <Image
+              className="flex ml-6"
+              src="/socialInsta.png"
+              alt="border"
+              width={50}
+              height={50}
+              style={{ alignSelf: "center" }}
+            />
+          </Link>
         </div>
       </div>
 
