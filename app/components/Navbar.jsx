@@ -10,8 +10,16 @@ export const Navbar = () => {
   const handleNav = () => {
     setMenuOpen(!menuOpen);
   };
+  const navStyle = {
+    background:
+      "url('/web-background-texture1.png'), linear-gradient(to right, var(--tw-gradient-stops))",
+    backgroundBlendMode: "screen",
+  };
   return (
-    <nav className="w-full bg-gradient-to-r from-[#322D35] to-[#4C454F]">
+    <nav
+      className="w-full bg-gradient-to-r from-[#322D35] to-[#4C454F]"
+      style={navStyle}
+    >
       {/* mobile layout */}
       <div className="flex flex-col py-4 sm:py-0">
         <div className="hidden sm:flex justify-center pt-1">
@@ -94,7 +102,7 @@ export const Navbar = () => {
             <Link href="">
               <li
                 onClick={() => handleNav(!menuOpen)}
-                className="py-4 uppercase hover:bg-[#4DB3AC] hover:text-white hover:bg-[#4DB3AC] hover:text-white"
+                className="py-4 uppercase hover:bg-[#4DB3AC] hover:text-white"
               >
                 Tickets
               </li>

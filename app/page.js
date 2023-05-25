@@ -1,5 +1,6 @@
 import Image from "next/image";
 import { Navbar } from "./components/Navbar.jsx";
+import Link from "next/link";
 
 export default function Home() {
   return (
@@ -62,6 +63,12 @@ export default function Home() {
             />
           </div>
         </div>
+
+        <Link href="">
+          <button className="text-3xl font-aurochs px-6 py-2 uppercase bg-[#4DB3AC] hover:bg-[#14948c] text-white">
+            Buy Tickets
+          </button>
+        </Link>
 
         <div className="text-6xl w-full max-w-5xl items-center font-aurochs font-thin">
           Aurochs (thin)
