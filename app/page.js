@@ -8,9 +8,16 @@ export default function Home() {
       <Navbar />
       <main className="flex min-h-screen flex-col items-center bg-gradient-to-r from-[#322D35] to-[#4C454F]">
         <div className="w-full max-w-5xl items-center lg:flex">
-          <Image
+          {/* <Image
             src="/DSC07226.png"
             alt="fs video placeholder"
+            width={1200}
+            height={500}
+          /> */}
+          <video
+            autoPlay
+            src={"/FS-hp-reel-1.mp4"}
+            loop
             width={1200}
             height={500}
           />
