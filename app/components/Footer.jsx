@@ -227,6 +227,54 @@ export const Footer = () => {
             style={{ alignSelf: "center" }}
           />
         </div>
+
+        <div className="flex justify-center pt-4">
+          <h4 className="text-3xl tracking-widest	uppercase text-[#BE4338] font-handbill font-normal md:mx-4">
+            Follow us
+          </h4>
+        </div>
+        <div className="flex justify-center pt-4">
+          <Image
+            className="flex"
+            src="/socialFb.png"
+            alt="border"
+            width={50}
+            height={50}
+            style={{ alignSelf: "center" }}
+          />
+          <Image
+            className="flex ml-6"
+            src="/socialInsta.png"
+            alt="border"
+            width={50}
+            height={50}
+            style={{ alignSelf: "center" }}
+          />
+        </div>
+      </div>
+
+      <div className="flex flex-col text-center  py-4">
+        <ul className="flex flex-row justify-center text-[#4DB3AC]">
+          <Link href="">
+            <li className="mx-2 p-2 uppercase hover:text-[#4DB3AC]">Tickets</li>
+          </Link>
+          <Link href="/music">
+            <li className="mx-2 p-2 uppercase hover:text-[#4DB3AC]">Music</li>
+          </Link>
+          <Link href="/luthiers">
+            <li className="mx-2 p-2 uppercase hover:text-[#4DB3AC]">
+              Luthiers
+            </li>
+          </Link>
+          <Link href="/directions">
+            <li className="mx-2 p-2 uppercase hover:text-[#4DB3AC]">
+              Getting Here
+            </li>
+          </Link>
+        </ul>
+        <p className="pt-6 text-slate-700">
+          ©2023 Old Town School of Folk Music
+        </p>
       </div>
     </div>
   );
