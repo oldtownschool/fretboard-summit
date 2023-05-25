@@ -67,7 +67,7 @@ export const Navbar = () => {
       <div
         className={
           menuOpen
-            ? "fixed left-0 top-0 w-[65%] sm:hidden h-screen bg-[#322D35] p-10 ease-in duration-500"
+            ? "fixed left-0 top-0 w-[100%] sm:hidden h-screen bg-[#322D35] p-10 ease-in duration-500"
             : "fixed left-[-100%] top-0 p-10 ease-in duration-500"
         }
       >
@@ -80,7 +80,7 @@ export const Navbar = () => {
           </div>
         </div>
         <div className="font-aurochs tracking-wide text-3xl text-center flex-col py-4">
-          <Link className="flex justify-center py-4" href="/">
+          {/* <Link className="flex justify-center py-4" href="/">
             <Image
               src="/fslogo.png"
               alt="Fretboard Summit Logo"
@@ -89,7 +89,7 @@ export const Navbar = () => {
               height={48}
               priority
             />
-          </Link>
+          </Link> */}
           <ul className="text-[#4DB3AC]">
             <Link href="">
               <li
