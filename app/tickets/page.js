@@ -9,23 +9,71 @@ export default function Tickets() {
       <Navbar />
       <main className="flex min-h-screen flex-col items-center bg-gradient-to-r from-[#322D35] to-[#4C454F]">
         <div className="w-full max-w-5xl items-center lg:flex">
-          <p>tickets page</p>
+          <p>ticket page</p>
           {/* <Image
             src="/DSC07226.png"
             alt="fs video placeholder"
             width={1200}
             height={500}
           /> */}
-          {/* <video
+          <video
             autoPlay
             src={"https://fretboardsummit.org/beta/FS-hp-reel-1.mp4"}
             loop
             width={1200}
             height={500}
-          /> */}
+          />
         </div>
 
-        <div className="block sm:flex sm:flex-row py-10">
+        <div className="block sm:flex sm:flex-row py-10 max-w-5xl">
+          <div className="w-full sm:flex sm:w-2/4">
+            <Image
+              className="hidden sm:flex mx-2"
+              src="/border.png"
+              alt="border"
+              width={10}
+              height={400}
+            />
+            <div>
+              <Image
+                src="/Group22.png"
+                alt="banner top"
+                width={500}
+                height={50}
+              />
+              <Image
+                src="/Group24.png"
+                alt="banner left"
+                width={500}
+                height={400}
+              />
+            </div>
+            <Image
+              className="hidden sm:flex mx-2"
+              src="/border.png"
+              alt="border"
+              width={10}
+              height={400}
+            />
+          </div>
+          <div className="w-full mt-6 sm:mt-0 sm:flex sm:w-2/4">
+            <Image
+              src="/performers.png"
+              alt="banner left"
+              width={500}
+              height={400}
+            />
+            <Image
+              className="hidden sm:flex mx-2"
+              src="/border.png"
+              alt="border"
+              width={10}
+              height={400}
+            />
+          </div>
+        </div>
+
+        {/* <div className="block sm:flex sm:flex-row py-10">
           <div className="w-full sm:flex sm:w-2/4">
             <Image
               className="hidden sm:flex mx-2"
@@ -71,7 +119,7 @@ export default function Tickets() {
               height={400}
             />
           </div>
-        </div>
+        </div> */}
 
         <Link href="">
           <button className="text-3xl font-aurochs px-6 py-2 uppercase bg-[#4DB3AC] hover:bg-[#14948c] text-white">
@@ -81,14 +129,14 @@ export default function Tickets() {
 
         {/* 4 square grid */}
 
-        <div className="block sm:flex sm:flex-row mt-10">
-          <div className="max-w-md	w-full sm:flex-col sm:flex sm:w-2/4 m-2 p-4 bg-[#A4CCDA] h-80 text-center text-[#322D25]">
+        <div className="block sm:flex sm:flex-row mt-10 max-w-5xl">
+          <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-2 p-4 bg-[#A4CCDA] text-center text-[#322D25]">
             <div className="flex justify-center">
               <Image
                 src="/Rectangle12.png"
                 alt="banner left"
                 className="self-start mb-2"
-                width={300}
+                width={600}
                 height={400}
               />
             </div>
@@ -101,13 +149,13 @@ export default function Tickets() {
               from the makers themselves!
             </p>
           </div>
-          <div className="max-w-md	w-full sm:flex-col sm:flex sm:w-2/4 m-2 p-4 bg-[#F0E5D1] h-80 text-center text-[#322D25]">
+          <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-2 p-4 bg-[#F0E5D1] text-center text-[#322D25]">
             <div className="flex justify-center">
               <Image
                 src="/Rectangle13.png"
                 alt="banner left"
                 className="self-start mb-2"
-                width={300}
+                width={600}
                 height={400}
               />
             </div>
@@ -123,14 +171,14 @@ export default function Tickets() {
           </div>
         </div>
 
-        <div className="block sm:flex sm:flex-row">
-          <div className="max-w-md	w-full sm:flex-col sm:flex sm:w-2/4 m-2 p-4 bg-[#F0E5D1] h-80 text-center text-[#322D25]">
+        <div className="block sm:flex sm:flex-row max-w-5xl">
+          <div className="w-full sm:flex-col sm:flex sm:w-2/4 mt-0 sm:mt-2 m-2 p-4 bg-[#F0E5D1] text-center text-[#322D25]">
             <div className="flex justify-center">
               <Image
                 src="/Rectangle15.png"
                 alt="banner left"
                 className="self-start mb-2"
-                width={300}
+                width={600}
                 height={400}
               />
             </div>
@@ -142,13 +190,13 @@ export default function Tickets() {
               greatest stringed instruments on eart. Play their latest.
             </p>
           </div>
-          <div className="max-w-md	w-full sm:flex-col sm:flex sm:w-2/4 m-2 p-4 bg-[#A4CCDA] h-80 text-center text-[#322D25]">
+          <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-2 p-4 bg-[#A4CCDA] text-center text-[#322D25]">
             <div className="flex justify-center">
               <Image
                 src="/Vintageamps.png"
                 alt="banner left"
                 className="self-start mb-2"
-                width={300}
+                width={600}
                 height={400}
               />
             </div>

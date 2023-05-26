@@ -32,7 +32,7 @@ export default function Home() {
               width={10}
               height={400}
             />
-            <div>
+            <div className="px-8 sm:px-0">
               <Image
                 src="/Group22.png"
                 alt="banner top"
@@ -60,6 +60,7 @@ export default function Home() {
               alt="banner left"
               width={500}
               height={400}
+              className="px-8 sm:px-0"
             />
             <Image
               className="hidden sm:flex mx-2"
@@ -127,8 +128,8 @@ export default function Home() {
 
         {/* 4 square grid */}
 
-        <div className="block sm:flex sm:flex-row mt-10 max-w-5xl">
-          <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-2 p-4 bg-[#A4CCDA] text-center text-[#322D25]">
+        <div className="block sm:flex sm:flex-row mt-10 max-w-5xl p-2 sm:p-0">
+          <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-0 sm:m-2 p-4 bg-[#A4CCDA] text-center text-[#322D25]">
             <div className="flex justify-center">
               <Image
                 src="/Rectangle12.png"
@@ -147,7 +148,7 @@ export default function Home() {
               from the makers themselves!
             </p>
           </div>
-          <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-2 p-4 bg-[#F0E5D1] text-center text-[#322D25]">
+          <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-0 mt-4 sm:m-2 p-4 bg-[#F0E5D1] text-center text-[#322D25]">
             <div className="flex justify-center">
               <Image
                 src="/Rectangle13.png"
@@ -169,8 +170,8 @@ export default function Home() {
           </div>
         </div>
 
-        <div className="block sm:flex sm:flex-row max-w-5xl">
-          <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-2 p-4 bg-[#F0E5D1] text-center text-[#322D25]">
+        <div className="block sm:flex sm:flex-row max-w-5xl p-2 sm:p-0">
+          <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-0 sm:m-2 mt-0 sm:mt-2 p-4 bg-[#F0E5D1] text-center text-[#322D25]">
             <div className="flex justify-center">
               <Image
                 src="/Rectangle15.png"
@@ -188,7 +189,7 @@ export default function Home() {
               greatest stringed instruments on eart. Play their latest.
             </p>
           </div>
-          <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-2 p-4 bg-[#A4CCDA] text-center text-[#322D25]">
+          <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-0 mt-4  sm:m-2 p-4 bg-[#A4CCDA] text-center text-[#322D25]">
             <div className="flex justify-center">
               <Image
                 src="/Vintageamps.png"
