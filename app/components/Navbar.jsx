@@ -41,7 +41,7 @@ export const Navbar = () => {
         </Link>
         <div className="font-aurochs tracking-wide text-3xl hidden sm:flex justify-center">
           <ul className="hidden sm:flex text-[#4DB3AC]">
-            <Link href="">
+            <Link href="/tickets">
               <li className="mx-2 p-2 uppercase hover:bg-[#4DB3AC] hover:text-white">
                 Tickets
               </li>
@@ -99,7 +99,7 @@ export const Navbar = () => {
             />
           </Link> */}
           <ul className="text-[#4DB3AC]">
-            <Link href="">
+            <Link href="/tickets">
               <li
                 onClick={() => handleNav(!menuOpen)}
                 className="py-4 uppercase hover:bg-[#4DB3AC] hover:text-white"
