@@ -20,7 +20,7 @@ export const Navbar = () => {
       className="w-full bg-gradient-to-r from-[#322D35] to-[#4C454F]"
       style={navStyle}
     >
-      {/* mobile layout */}
+      {/* desktop layout */}
       <div className="flex flex-col py-4 sm:py-0">
         <div className="hidden sm:flex justify-center pt-1">
           <Image
@@ -71,11 +71,11 @@ export const Navbar = () => {
         </div>
       </div>
 
-      {/* fullpage layout */}
+      {/* mobile layout */}
       <div
         className={
           menuOpen
-            ? "fixed left-0 top-0 w-[100%] sm:hidden h-screen bg-[#322D35] p-10 ease-in duration-500"
+            ? "fixed left-0 top-0 w-[100%] sm:hidden h-screen bg-[#322D35] p-10 ease-in duration-500 z-10"
             : "fixed left-[-100%] top-0 p-10 ease-in duration-500"
         }
       >
