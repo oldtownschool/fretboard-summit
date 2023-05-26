@@ -79,29 +79,95 @@ export default function Home() {
 
         {/* 4 square grid */}
 
-        <div className="block sm:flex sm:flex-row py-10">
-          <div className="w-full sm:flex sm:w-2/4 m-2 p-4 bg-[#A4CCDA] h-80 items-start">
-            <Image
-              src="/Rectangle12.png"
-              alt="banner left"
-              className="self-start"
-              width={300}
-              height={400}
-              // style={{ alignSelf: "center" }}
-            />
+        <div className="block sm:flex sm:flex-row mt-10">
+          <div className="max-w-md	w-full sm:flex-col sm:flex sm:w-2/4 m-2 p-4 bg-[#A4CCDA] h-80 text-center text-[#322D25]">
+            <div className="flex justify-center">
+              <Image
+                src="/Rectangle12.png"
+                alt="banner left"
+                className="self-start mb-2"
+                width={300}
+                height={400}
+              />
+            </div>
+            <h2 className="tracking-wide font-aurochs font-normal uppercase text-3xl">
+              a 3 day guitar extravaganza
+            </h2>
+            <p>
+              <span className="font-bold">Experience</span> rooms full of
+              custom-built guitars for you to hear, play, or purchase-directyly
+              from the makers themselves!
+            </p>
           </div>
-          <div className="w-full sm:flex sm:w-2/4 m-2 p-4 bg-[#F0E5D1] h-80">
-            <Image
-              src="/Rectangle13.png"
-              alt="banner left"
-              className="self-start"
-              width={300}
-              height={400}
-            />
+          <div className="max-w-md	w-full sm:flex-col sm:flex sm:w-2/4 m-2 p-4 bg-[#F0E5D1] h-80 text-center text-[#322D25]">
+            <div className="flex justify-center">
+              <Image
+                src="/Rectangle13.png"
+                alt="banner left"
+                className="self-start mb-2"
+                width={300}
+                height={400}
+              />
+            </div>
+            <h2 className="tracking-wide font-aurochs font-normal uppercase text-3xl">
+              the germanium chef live!
+            </h2>
+            <p>
+              <span className="font-bold">Watch</span> pedal wizards{" "}
+              <span className="font-bold">Heather Brown</span> and{" "}
+              <span className="font-bold">Robert Keeley</span> battle in a race
+              to build the ultimate FUZZ PEDAL!
+            </p>
           </div>
         </div>
 
-        <div className="text-6xl w-full max-w-5xl items-center font-aurochs font-thin">
+        <div className="block sm:flex sm:flex-row">
+          <div className="max-w-md	w-full sm:flex-col sm:flex sm:w-2/4 m-2 p-4 bg-[#F0E5D1] h-80 text-center text-[#322D25]">
+            <div className="flex justify-center">
+              <Image
+                src="/Rectangle15.png"
+                alt="banner left"
+                className="self-start mb-2"
+                width={300}
+                height={400}
+              />
+            </div>
+            <h2 className="tracking-wide font-aurochs font-normal uppercase text-3xl">
+              meet the makers
+            </h2>
+            <p>
+              <span className="font-bold">Meet</span> the builders of the
+              greatest stringed instruments on eart. Play their latest.
+            </p>
+          </div>
+          <div className="max-w-md	w-full sm:flex-col sm:flex sm:w-2/4 m-2 p-4 bg-[#A4CCDA] h-80 text-center text-[#322D25]">
+            <div className="flex justify-center">
+              <Image
+                src="/Vintageamps.png"
+                alt="banner left"
+                className="self-start mb-2"
+                width={300}
+                height={400}
+              />
+            </div>
+            <h2 className="tracking-wide font-aurochs font-normal uppercase text-3xl">
+              the truth about vintage amps lounge
+            </h2>
+            <p>
+              <span className="font-bold">Plug in</span> to some of the classic,
+              rare, and cult favorite amps and PAs mentioned in our weekly
+              podcast.
+            </p>
+          </div>
+        </div>
+
+        <Link href="">
+          <button className="text-3xl font-aurochs px-6 py-2 uppercase bg-[#4DB3AC] hover:bg-[#14948c] text-white my-10">
+            Buy Tickets
+          </button>
+        </Link>
+
+        {/* <div className="text-6xl w-full max-w-5xl items-center font-aurochs font-thin">
           Aurochs (thin)
         </div>
         <div className="text-6xl w-full max-w-5xl items-center font-aurochs font-normal">
@@ -118,7 +184,7 @@ export default function Home() {
         </div>
         <div className="text-6xl w-full max-w-5xl items-center font-handbill font-bold">
           Handbill (slab)
-        </div>
+        </div> */}
 
         {/* <div className="z-10 w-full max-w-5xl items-center justify-between font-mono text-sm lg:flex">
           <p className="fixed left-0 top-0 flex w-full justify-center border-b border-gray-300 bg-gradient-to-b from-zinc-200 pb-6 pt-8 backdrop-blur-2xl dark:border-neutral-800 dark:bg-zinc-800/30 dark:from-inherit lg:static lg:w-auto  lg:rounded-xl lg:border lg:bg-gray-200 lg:p-4 lg:dark:bg-zinc-800/30">
