@@ -77,6 +77,30 @@ export default function Home() {
           </button>
         </Link>
 
+        {/* 4 square grid */}
+
+        <div className="block sm:flex sm:flex-row py-10">
+          <div className="w-full sm:flex sm:w-2/4 m-2 p-4 bg-[#A4CCDA] h-80 items-start">
+            <Image
+              src="/Rectangle12.png"
+              alt="banner left"
+              className="self-start"
+              width={300}
+              height={400}
+              // style={{ alignSelf: "center" }}
+            />
+          </div>
+          <div className="w-full sm:flex sm:w-2/4 m-2 p-4 bg-[#F0E5D1] h-80">
+            <Image
+              src="/Rectangle13.png"
+              alt="banner left"
+              className="self-start"
+              width={300}
+              height={400}
+            />
+          </div>
+        </div>
+
         <div className="text-6xl w-full max-w-5xl items-center font-aurochs font-thin">
           Aurochs (thin)
         </div>

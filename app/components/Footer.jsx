@@ -17,214 +17,191 @@ export const Footer = () => {
         </div>
         <div className="flex justify-center pt-4">
           <Image
-            className="hidden md:flex"
+            className="hidden md:flex self-center"
             src="/borderRed1.png"
             alt="border"
             width={200}
             height={5}
-            style={{ alignSelf: "center" }}
           />
           <h4 className="text-3xl tracking-wider	uppercase text-[#BE4338] font-handbill font-normal md:mx-4">
             Fretboard summit is brought to you by
           </h4>
           <Image
-            className="hidden md:flex"
+            className="hidden md:flex self-center"
             src="/borderRed1.png"
             alt="border"
             width={200}
             height={5}
-            style={{ alignSelf: "center" }}
           />
         </div>
         <div className="flex justify-center pt-4">
           <Image
-            className="flex mx-2"
+            className="flex mx-2 self-center"
             src="/FJlogo.png"
             alt="border"
             width={250}
             height={150}
-            style={{ alignSelf: "center" }}
           />
           <Image
-            className="flex mx-2 sm:ml-12"
+            className="flex mx-2 sm:ml-12 self-center"
             src="/OTS_2L_left_horz_black1.png"
             alt="border"
             width={350}
             height={150}
-            style={{ alignSelf: "center" }}
           />
         </div>
 
         <div className="flex justify-center pt-4">
           <Image
-            className="hidden md:flex"
+            className="hidden md:flex self-center"
             src="/borderRed2.png"
             alt="border"
             width={350}
             height={5}
-            style={{ alignSelf: "center" }}
           />
           <h4 className="text-3xl tracking-widest	uppercase text-[#BE4338] font-handbill font-normal md:mx-4">
             Sponsors
           </h4>
           <Image
-            className="hidden md:flex"
+            className="hidden md:flex self-center"
             src="/borderRed2.png"
             alt="border"
             width={350}
             height={5}
-            style={{ alignSelf: "center" }}
           />
         </div>
 
         <div className="flex justify-center pt-4">
           <Image
-            className="flex mx-2"
+            className="flex mx-2 self-center mix-blend-multiply"
             src="/image5.png"
             alt="Henriksen"
             width={200}
             height={150}
-            style={{ alignSelf: "center", mixBlendMode: "multiply" }}
           />
           <Image
-            className="flex mx-2 sm:ml-12"
+            className="flex mx-2 sm:ml-12  self-center mix-blend-multiply"
             src="/image6.png"
             alt="Martin&amp;Co"
             width={200}
             height={150}
-            style={{ alignSelf: "center", mixBlendMode: "multiply" }}
           />
           <Image
-            className="flex mx-2 sm:ml-12"
+            className="flex mx-2 sm:ml-12 self-center mix-blend-multiply"
             src="/image7.png"
             alt="Santa Cruz"
             width={200}
             height={150}
-            style={{ alignSelf: "center", mixBlendMode: "multiply" }}
           />
         </div>
 
         <div className="flex justify-center pt-4">
           <Image
-            className="flex mx-2"
+            className="flex mx-2 self-center "
             src="/image8.png"
             alt="Collings Guitar"
             width={150}
             height={150}
-            style={{ alignSelf: "center" }}
           />
           <Image
-            className="flex mx-2 sm:ml-12"
+            className="flex mx-2 sm:ml-12 self-center mix-blend-multiply"
             src="/image9.png"
             alt="Yamaha"
             width={150}
             height={150}
-            style={{ alignSelf: "center", mixBlendMode: "multiply" }}
           />
         </div>
 
         <div className="flex justify-center pt-4">
           <Image
-            className="flex mx-2"
+            className="flex mx-2 self-center mix-blend-multiply"
             src="/image10.png"
             alt="Bourgeors"
             width={100}
             height={150}
-            style={{ alignSelf: "center", mixBlendMode: "multiply" }}
           />
           <Image
-            className="flex mx-2 sm:ml-12"
+            className="flex mx-2 sm:ml-12 self-center mix-blend-multiply"
             src="/image11.png"
             alt="Rode"
             width={100}
             height={150}
-            style={{ alignSelf: "center", mixBlendMode: "multiply" }}
           />
           <Image
-            className="flex mx-2 sm:ml-12"
+            className="flex mx-2 sm:ml-12 self-center mix-blend-multiply"
             src="/image13.png"
             alt="Galloup"
             width={100}
             height={150}
-            style={{ alignSelf: "center", mixBlendMode: "multiply" }}
           />
           <Image
-            className="flex mx-2 sm:ml-12"
+            className="flex mx-2 sm:ml-12 self-center mix-blend-multiply"
             src="/taylorlogo.png"
             alt="Taylor"
             width={100}
             height={150}
-            style={{ alignSelf: "center", mixBlendMode: "multiply" }}
           />
           <Image
-            className="flex mx-2 sm:ml-12"
+            className="flex mx-2 sm:ml-12 self-center mix-blend-multiply"
             src="/lake-pine-logo-primary-dark-rgb-500px-w-72ppi1.png"
             alt="Lake and Pine"
             width={100}
             height={150}
-            style={{ alignSelf: "center", mixBlendMode: "multiply" }}
           />
         </div>
 
         <div className="flex justify-center pt-4">
           <Image
-            className="flex mx-2"
+            className="flex mx-2 self-center mix-blend-multiply"
             src="/Bruce-Guitars-Banner-WEB1.png"
             alt="Bruce Guitars.png"
             width={75}
             height={150}
-            style={{ alignSelf: "center", mixBlendMode: "multiply" }}
           />
           <Image
-            className="flex mx-2 sm:ml-12"
+            className="flex mx-2 sm:ml-12 self-center mix-blend-multiply"
             src="/image14.png"
             alt="Acoustic Coffee Co"
             width={75}
             height={150}
-            style={{ alignSelf: "center", mixBlendMode: "multiply" }}
           />
           <Image
-            className="flex mx-2 sm:ml-12"
+            className="flex mx-2 sm:ml-12 self-center mix-blend-multiply"
             src="/image15.png"
             alt="D'Addario"
             width={75}
             height={150}
-            style={{ alignSelf: "center", mixBlendMode: "multiply" }}
           />
           <Image
-            className="flex mx-2 sm:ml-12"
+            className="flex mx-2 sm:ml-12 self-center mix-blend-multiply"
             src="/image12.png"
             alt="Thompson"
             width={75}
             height={150}
-            style={{ alignSelf: "center", mixBlendMode: "multiply" }}
           />
           <Image
-            className="flex mx-2 sm:ml-12"
+            className="flex mx-2 sm:ml-12 self-center mix-blend-difference"
             src="/image16.png"
             alt="Pacific Rim Tonewood"
             width={75}
             height={150}
-            style={{ alignSelf: "center", mixBlendMode: "difference" }}
           />
           <Image
-            className="flex mx-2 sm:ml-12"
+            className="flex mx-2 sm:ml-12 self-center mix-blend-multiply"
             src="/image17.png"
             alt="Acoustic Tuesday"
             width={75}
             height={150}
-            style={{ alignSelf: "center", mixBlendMode: "multiply" }}
           />
         </div>
 
-        <div className="flex justify-center pt-4">
+        <div className="flex justify-center pt-4 self-center">
           <Image
             className="hidden md:flex"
             src="/borderRedbtm.png"
             alt="border"
             width={850}
             height={5}
-            style={{ alignSelf: "center" }}
           />
         </div>
 
@@ -236,22 +213,20 @@ export const Footer = () => {
         <div className="flex justify-center pt-4">
           <Link href="https://www.facebook.com/fretboardsummit">
             <Image
-              className="flex"
+              className="flex self-center"
               src="/socialFb.png"
               alt="border"
               width={50}
               height={50}
-              style={{ alignSelf: "center" }}
             />
           </Link>
           <Link href="https://www.instagram.com/fretboardsummit">
             <Image
-              className="flex ml-6"
+              className="flex ml-6 self-center"
               src="/socialInsta.png"
               alt="border"
               width={50}
               height={50}
-              style={{ alignSelf: "center" }}
             />
           </Link>
         </div>
