@@ -121,7 +121,7 @@ export default function Home() {
         </div> */}
 
         <Link href="">
-          <button className="text-3xl font-aurochs px-6 py-2 uppercase bg-[#4DB3AC] hover:bg-[#14948c] text-white">
+          <button className="text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1]">
             Buy Tickets
           </button>
         </Link>
@@ -211,7 +211,7 @@ export default function Home() {
         </div>
 
         <Link href="">
-          <button className="text-3xl font-aurochs px-6 py-2 uppercase bg-[#4DB3AC] hover:bg-[#14948c] text-white my-10">
+          <button className="text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1] my-10">
             Buy Tickets
           </button>
         </Link>
