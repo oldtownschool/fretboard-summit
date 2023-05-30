@@ -20,7 +20,14 @@ export default function Tickets() {
           </p>
         </div>
 
-        <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#A4CCDA] text-[#322D25]">
+        <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#A4CCDA] text-[#322D25] relative">
+          <Image
+            src="/BestValue.svg"
+            alt="best value"
+            className="absolute -left-4 -top-14 sm:top-4"
+            width={200}
+            height={100}
+          />
           <h2 className="tracking-wider font-aurochs font-normal uppercase text-5xl text-center">
             a 3 day all access pass
           </h2>
