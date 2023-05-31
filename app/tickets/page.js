@@ -29,26 +29,33 @@ export default function Tickets() {
             height={100}
           />
           <h2 className="tracking-wider font-aurochs font-normal uppercase text-5xl text-center">
-            a 3 day all access pass $350
+            3-DAY ALL ACCESS PASS $350.00
           </h2>
           <h3 className="font-bold text-2xl my-6">
-            Our All Access passes get you in to everything at the Fretboard
-            Summit, including private events, gear giveaways, gift bags &amp;
-            more.
+            Experience everything at the Fretboard Summit, including concerts,
+            workshops, gear giveaways, gift bags &amp; more.
           </h3>
           <ul className="list-disc ml-4">
-            <li> Admission to all events</li>
+            <li>Admission to all events</li>
             <li className="ml-4">Live performances</li>
-            <li className="ml-4">Artists workshops</li>
-            <li className="ml-4">Lectures</li>
-            <li className="ml-4">Demos</li>
+            <li className="ml-4">Workshops &amp; panel discussions</li>
+            <li className="ml-4">Hands-on demos</li>
+            <li className="ml-4">Guitar showcase</li>
             <li className="ml-4">Jams &amp; more...</li>
+            <li className="ml-4">After-parties</li>
             <li>Early priority access to the Luthier Exhibition</li>
             <li>Exclusive Thursday performance from Jeff Parker</li>
             <li>Welcome reception</li>
             <li>Gift bags &amp; sponsor prizes &amp; giveaways</li>
+            <li>
+              Entry to win our custom 2023 Fretboard Summit guitar, built by
+              Bruce Guitars
+            </li>
           </ul>
-          <h3 className="my-4 font-black text-xl">Limited to 250 attendees.</h3>
+
+          <h3 className="my-4 font-black text-xl">
+            Limited to the first 250 registered attendees.
+          </h3>
           <Link href="" className="text-center">
             <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1]">
               Buy 3-day pass
@@ -58,36 +65,43 @@ export default function Tickets() {
 
         <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#F0E5D1] text-[#322D25]">
           <h2 className="tracking-wider font-aurochs font-normal uppercase text-5xl text-center">
-            single day pass $150
+            SINGLE DAY PASS $150.00
           </h2>
           <h3 className="font-bold text-2xl my-6">
             Day Pass holders have access to everything at the Fretboard Summit,
             including private events, gear giveaways, gift bags &amp; more.
           </h3>
           <ul className="list-disc ml-4">
-            <li> Admission to:</li>
-            <li className="ml-4">Daily workshops</li>
-            <li className="ml-4">Lectures</li>
-            <li className="ml-4">Demos</li>
+            <li>Admission to All Events</li>
+            <li className="ml-4">Live performances</li>
+            <li className="ml-4">Workshops &amp; panel discussions</li>
+            <li className="ml-4">Hands-on demos</li>
             <li className="ml-4">Jams &amp; more...</li>
+            <li className="ml-4">After-parties</li>
             <li>Luthier Exhibition</li>
           </ul>
-          <h3 className="my-4 font-black text-xl">Limited to 250 attendees.</h3>
-          <Link href="" className="text-center">
-            <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1]">
-              Buy day pass
-            </button>
-          </Link>
+          <div className="flex flex-row justify-evenly mt-6">
+            <Link href="" className="text-center">
+              <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1]">
+                Buy Day Pass: Fri, Aug. 25
+              </button>
+            </Link>
+            <Link href="" className="text-center ml-1">
+              <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1]">
+                Buy Day Pass: Sat, Aug. 26
+              </button>
+            </Link>
+          </div>
         </div>
 
         <div className="mt-10 mb-20 w-full max-w-5xl items-center sm:flex sm:flex-col px-4 lg:px-14 text-center">
           <h2 className="mb-4 text-[#4DB3AC] font-bold uppercase text-xl tracking-widest ">
-            More ticket packages available soon
+            OTHER TICKET PACKAGES &amp; ON SALE SCHEDULE:
           </h2>
           <p className="text-white text-lg">
-            <span className="font-bold">Guitar showcase only</span>
+            <span className="font-bold">Guitar Showcase only - $30</span>
             <br />
-            June 1, 2023, $30
+            June 1, 2023 (Tickets will also be available at the door)
           </p>
           <p className="text-white text-lg my-6">
             <span className="font-bold">Individual Concert Tickets</span>&nbsp;
