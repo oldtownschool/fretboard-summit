@@ -65,7 +65,7 @@ export default function Music() {
         </Link>
 
         {/* <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#A4CCDA] text-[#322D25]">
-          <div class="flex justify-center">
+          <div className="flex justify-center">
             <Image
               src="/JormaKaukonen.jpeg"
               alt="Jorma Kaukonen"
