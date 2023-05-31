@@ -3,7 +3,7 @@ import { Navbar } from "../components/Navbar.jsx";
 import Link from "next/link";
 import { Footer } from "../components/Footer";
 
-export default function Tickets() {
+export default function Music() {
   return (
     <>
       <Navbar />
