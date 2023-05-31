@@ -29,7 +29,7 @@ export default function Tickets() {
             height={100}
           />
           <h2 className="tracking-wider font-aurochs font-normal uppercase text-5xl text-center">
-            a 3 day all access pass
+            a 3 day all access pass $350
           </h2>
           <h3 className="font-bold text-2xl my-6">
             Our All Access passes get you in to everything at the Fretboard
