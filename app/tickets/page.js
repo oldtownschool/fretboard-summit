@@ -56,11 +56,13 @@ export default function Tickets() {
           <h3 className="my-4 font-black text-xl">
             Limited to the first 250 registered attendees.
           </h3>
-          <Link href="" className="text-center">
-            <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1]">
-              Buy 3-day pass
-            </button>
-          </Link>
+          <div className="flex flex-row justify-evenly mt-6">
+            <Link href="" className="text-center">
+              <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1]">
+                Buy 3-day pass
+              </button>
+            </Link>
+          </div>
         </div>
 
         <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#F0E5D1] text-[#322D25]">
@@ -104,7 +106,8 @@ export default function Tickets() {
             June 1, 2023 (Tickets will also be available at the door)
           </p>
           <p className="text-white text-lg my-6">
-            <span className="font-bold">Individual Concert Tickets</span>&nbsp;
+            <span className="font-bold">Individual Concert Tickets</span>
+            <br />
             Summer 2023 (pending availability)
           </p>
         </div>
