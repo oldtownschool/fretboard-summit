@@ -14,8 +14,8 @@ export default function Tickets() {
           </h2>
           <p className="text-[#F0E5D1] text-2xl">
             All-access tickets include admission to all the concerts, workshops,
-            and we`&apos;`ve also create the Midwest`&apos;`s largest showcase
-            of handmade and boutique guitars to date, with luthitext-centerers
+            and we&apos;ve also create the Midwest&apos;s largest showcase of
+            handmade and boutique guitars to date, with luthitext-centerers
             exhibiting their creations.
           </p>
         </div>
