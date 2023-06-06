@@ -65,7 +65,7 @@ export const Navbar = () => {
         </div>
         <div
           onClick={() => handleNav(!menuOpen)}
-          className="absolute top-5 left-5 sm:hidden cursor-pointer"
+          className="absolute top-5 left-5 sm:hidden cursor-pointer text-amber-100"
         >
           <AiOutlineMenu size={25} />
         </div>
@@ -82,7 +82,7 @@ export const Navbar = () => {
         <div className="flex w-full items-center justify-end">
           <div
             onClick={() => handleNav(!menuOpen)}
-            className="sm:hidden cursor-pointer pl-24"
+            className="sm:hidden cursor-pointer pl-24 text-amber-100"
           >
             <AiOutlineClose size={25} />
           </div>
