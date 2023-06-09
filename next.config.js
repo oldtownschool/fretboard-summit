@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   // output: "export",
-  // basePath: "/beta",
+  // basePath: "",
   // images: {
   //   domains: ["https://fretboardsummit.org/"],
   //   formats: ["image/webp"],
