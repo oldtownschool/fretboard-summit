@@ -78,7 +78,47 @@ export default function Tickets() {
             <li className="ml-4">After-parties</li>
             <li>Luthier Exhibition</li>
           </ul>
-          <div className="flex flex-row justify-evenly mt-6">
+
+          <div className="block sm:flex sm:flex-row  max-w-5xl sm:p-0">
+            <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-0 sm:m-2 p-4">
+              <Link href="" className="text-center">
+                <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1]">
+                  Buy Day Pass: Fri, Aug. 25
+                </button>
+              </Link>
+              <ul className="list-disc ml-4 mt-6">
+                <li>Friday Highlights Include:</li>
+                <li className="ml-4">JHS Live: the Germanium Chef competition featuring Robert Keeley versus Heather Brown</li>
+                <li className="ml-4">Wayne & Jayne Henderson</li>
+                <li className="ml-4">Jake Eddy</li>
+                <li className="ml-4">Tom Bukovac & Bryan Sutton, interviewed by Joe Glaser</li>
+                <li className="ml-4">Jorma Kaukonen</li>
+                <li className="ml-4">The Blue Guitars</li>
+                <li className="ml-4">The Truth About Vintage Amps Lounge</li>
+                <li className="ml-4">and much more</li>
+              </ul>
+            </div>
+            <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-0 sm:m-2 p-4">
+              <Link href="" className="text-center ml-1">
+                <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1]">
+                  Buy Day Pass: Sat, Aug. 26
+                </button>
+              </Link>
+              <ul className="list-disc ml-4 mt-6">
+                <li>Saturday Highlights Include:</li>
+                <li className="ml-4">Tommy Emmanuel</li>
+                <li className="ml-4">The Bill Frisell Guitar Orchestra</li>
+                <li className="ml-4">A Celebration of Norman Blake feat. Bob Minner and Cameron Knowler</li>
+                <li className="ml-4">Adam Miller</li>
+                <li className="ml-4">Via Mardot</li>
+                <li className="ml-4">The Truth About Vintage Amps Lounge</li>
+                <li className="ml-4">and much more</li>
+              </ul>
+            </div>
+          </div>
+
+
+          {/* <div className="flex flex-row justify-evenly mt-6">
             <Link href="" className="text-center">
               <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1]">
                 Buy Day Pass: Fri, Aug. 25
@@ -90,6 +130,33 @@ export default function Tickets() {
               </button>
             </Link>
           </div>
+          <div className="flex flex-row justify-evenly mt-6">
+            <ul className="list-disc ml-4">
+              <li>Friday Highlights Include:</li>
+              <li className="ml-4">JHS Live: the Germanium Chef competition featuring Robert Keeley versus Heather Brown</li>
+              <li className="ml-4">Wayne & Jayne Henderson</li>
+              <li className="ml-4">Jake Eddy</li>
+              <li className="ml-4">Tom Bukovac & Bryan Sutton, interviewed by Joe Glaser</li>
+              <li className="ml-4">Jorma Kaukonen</li>
+              <li className="ml-4">The Blue Guitars</li>
+              <li className="ml-4">The Truth About Vintage Amps Lounge</li>
+              <li className="ml-4">and much more</li>
+            </ul>
+            <ul className="list-disc ml-4">
+              <li>Saturday Highlights Include:</li>
+              <li className="ml-4">Tommy Emmanuel</li>
+              <li className="ml-4">The Bill Frisell Guitar Orchestra</li>
+              <li className="ml-4">A Celebration of Norman Blake feat. Bob Minner and Cameron Knowler</li>
+              <li className="ml-4">Adam Miller</li>
+              <li className="ml-4">Via Mardot</li>
+              <li className="ml-4">The Truth About Vintage Amps Lounge</li>
+              <li className="ml-4">and much more</li>
+            </ul>
+          </div> */}
+
+
+
+
         </div>
 
         <div className="mt-10 mb-20 w-full max-w-5xl items-center sm:flex sm:flex-col px-4 lg:px-14 text-center">
