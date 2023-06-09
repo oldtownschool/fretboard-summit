@@ -23,7 +23,7 @@ export const Footer = () => {
             width={200}
             height={5}
           />
-          <h4 className="text-3xl tracking-wider	uppercase text-[#BE4338] font-handbill font-normal md:mx-4">
+          <h4 className="text-2xl sm:text-3xl tracking-wider	uppercase text-[#BE4338] font-handbill font-normal md:mx-4">
             Fretboard summit is brought to you by
           </h4>
           <Image
@@ -112,45 +112,45 @@ export const Footer = () => {
           />
         </div>
 
-        <div className="flex justify-center pt-4">
+        <div className="flex justify-center pt-4 px-2">
           <Image
-            className="flex mx-2 self-center mix-blend-multiply"
+            className="flex sm:mx-2 self-center mix-blend-multiply"
             src="/image10.png"
             alt="Bourgeors"
             width={100}
             height={150}
           />
           <Image
-            className="flex mx-2 sm:ml-12 self-center mix-blend-multiply"
+            className="flex sm:mx-2 sm:ml-12 self-center mix-blend-multiply"
             src="/image11.png"
             alt="Rode"
             width={100}
             height={150}
           />
           <Image
-            className="flex mx-2 sm:ml-12 self-center mix-blend-multiply"
+            className="flex sm:mx-2 sm:ml-12 self-center mix-blend-multiply"
             src="/image13.png"
             alt="Galloup"
             width={100}
             height={150}
           />
           <Image
-            className="flex mx-2 sm:ml-12 self-center mix-blend-multiply"
+            className="flex sm:mx-2 sm:ml-12 self-center mix-blend-multiply"
             src="/taylorlogo.png"
             alt="Taylor"
             width={100}
             height={150}
           />
           <Image
-            className="flex mx-2 sm:ml-12 self-center mix-blend-multiply"
+            className="flex sm:mx-2 ml-2 sm:ml-12 self-center mix-blend-multiply"
             src="/lake-pine-logo-primary-dark-rgb-500px-w-72ppi1.png"
             alt="Lake and Pine"
-            width={100}
+            width={90}
             height={150}
           />
         </div>
 
-        <div className="flex justify-center pt-4">
+        <div className="flex justify-center pt-4 px-2">
           <Image
             className="flex mx-2 self-center mix-blend-multiply"
             src="/Bruce-Guitars-Banner-WEB1.png"
@@ -159,35 +159,35 @@ export const Footer = () => {
             height={150}
           />
           <Image
-            className="flex mx-2 sm:ml-12 self-center mix-blend-multiply"
+            className="flex mx-1 sm:mx-2 sm:ml-12 self-center mix-blend-multiply"
             src="/image14.png"
             alt="Acoustic Coffee Co"
             width={75}
             height={150}
           />
           <Image
-            className="flex mx-2 sm:ml-12 self-center mix-blend-multiply"
+            className="flex mx-1 sm:mx-2 sm:ml-12 self-center mix-blend-multiply"
             src="/image15.png"
             alt="D'Addario"
             width={75}
             height={150}
           />
           <Image
-            className="flex mx-2 sm:ml-12 self-center mix-blend-multiply"
+            className="flex mx-1 sm:mx-2 sm:ml-12 self-center mix-blend-multiply"
             src="/image12.png"
             alt="Thompson"
             width={75}
             height={150}
           />
           <Image
-            className="flex mx-2 sm:ml-12 self-center mix-blend-difference"
+            className="flex mx-1 sm:mx-2 sm:ml-12 self-center mix-blend-difference"
             src="/image16.png"
             alt="Pacific Rim Tonewood"
             width={75}
             height={150}
           />
           <Image
-            className="flex mx-2 sm:ml-12 self-center mix-blend-multiply"
+            className="flex mr-2 sm:mx-2 sm:ml-12 self-center mix-blend-multiply"
             src="/image17.png"
             alt="Acoustic Tuesday"
             width={75}
@@ -235,18 +235,22 @@ export const Footer = () => {
       <div className="flex flex-col text-center  py-4">
         <ul className="flex flex-row justify-center text-[#4DB3AC]">
           <Link href="">
-            <li className="mx-2 p-2 uppercase hover:text-[#4DB3AC]">Tickets</li>
+            <li className="sm:mx-2 p-2 uppercase hover:text-[#4DB3AC]">
+              Tickets
+            </li>
           </Link>
           <Link href="/music">
-            <li className="mx-2 p-2 uppercase hover:text-[#4DB3AC]">Music</li>
+            <li className="sm:mx-2 p-2 uppercase hover:text-[#4DB3AC]">
+              Music
+            </li>
           </Link>
           <Link href="/luthiers">
-            <li className="mx-2 p-2 uppercase hover:text-[#4DB3AC]">
+            <li className="sm:mx-2 p-2 uppercase hover:text-[#4DB3AC]">
               Luthiers
             </li>
           </Link>
           <Link href="/directions">
-            <li className="mx-2 p-2 uppercase hover:text-[#4DB3AC]">
+            <li className="sm:mx-2 p-2 uppercase hover:text-[#4DB3AC]">
               Getting Here
             </li>
           </Link>
