@@ -82,7 +82,7 @@ export default function Directions() {
 
             
 
-          <ul className="font-bold text-2xl my-6">
+          {/* <ul className="font-bold text-2xl my-6">
             <li>
               <Link href="https://www.oldtownschool.org/">Old Town School</Link>
             </li>
@@ -117,7 +117,7 @@ export default function Directions() {
                 Green Mill ~ Jazz Speakeasy
               </Link>
             </li>
-          </ul>
+          </ul> */}
         </div>
 
         <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#A4CCDA] text-[#322D25]">
