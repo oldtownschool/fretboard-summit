@@ -1,7 +1,7 @@
 import Image from "next/image";
 import { Navbar } from "../components/Navbar.jsx";
 import Link from "next/link";
-import { Footer } from "../components/Footer";
+import { Footer } from "../components/Footer.jsx";
 
 export default function Directions() {
   return (
@@ -19,7 +19,7 @@ export default function Directions() {
             />
           </div>
           <h2 className="tracking-wider font-aurochs font-normal uppercase text-5xl text-center my-6">
-            GETTING HERE
+            Getting Here & Chicago Info
           </h2>
           <p className="text-xl">
             Old Town School of Folk Music is hosting the Fretboard Summit at the
@@ -46,12 +46,47 @@ export default function Directions() {
 
         <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#F0E5D1] text-[#322D25]">
           <h2 className="tracking-wider font-aurochs font-normal uppercase text-5xl text-center">
-            Chicago is and always has been a great place for music lovers and
-            guitar lovers. Here are the top 7 things to do.
+          CHICAGO IS AND ALWAYS HAS BEEN A GREAT PLACE FOR MUSIC LOVERS AND GUITAR LOVERS.
           </h2>
+          
+          <p className="mt-6">We&apos;ve asked some of our friends for their favorite hangs and eats in Chicago:</p>
+
+          <figure className="max-w-screen-md mx-auto text-center mt-6 bg-yellow-50 p-4">
+            <svg aria-hidden="true" class="w-10 h-10 mx-auto text-gray-400 dark:text-gray-600" viewBox="0 0 24 27" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M14.017 18L14.017 10.609C14.017 4.905 17.748 1.039 23 0L23.995 2.151C21.563 3.068 20 5.789 20 8H24V18H14.017ZM0 18V10.609C0 4.905 3.748 1.038 9 0L9.996 2.151C7.563 3.068 6 5.789 6 8H9.983L9.983 18L0 18Z" fill="currentColor"/></svg>
+            <blockquote>
+                <p className="text-2xl italic font-medium text-gray-900 dark:text-white">I always take the easy way out and eat wherever is convenient. Though it is non-gourmet and inelegantly spicy/barely healthy fare, I love <Link href="https://www.tacomaxmx.com/">Taco Max</Link>. I think there are two, both on the west side. Fine &#40;as in costly haute-style&#41; cuisine: <Link href="https://www.nextrestaurant.com/">Next</Link> and <Link href="https://www.proxichicago.com/"></Link>Proxi. In Andersonville: <Link href="https://www.anteprimachicago.net/">Anteprima</Link></p>
+            </blockquote>
+            <figcaption className="flex items-center justify-center mt-6 space-x-3">
+                <div className="flex items-center divide-x-2 divide-gray-500 dark:divide-gray-700">
+                    <cite className="pr-3 font-medium text-gray-900 dark:text-white">Nels Cline </cite>
+                    <cite className="pl-3 text-sm text-gray-500 dark:text-gray-400"><Link
+            href="https://www.instagram.com/wilco/">@wilco</Link> <Link
+            href="https://www.instagram.com/nelscline/">@nelscline</Link> </cite>
+                </div>
+            </figcaption>
+        </figure>
+
+        <figure className="max-w-screen-md mx-auto text-center mt-6 bg-yellow-50 p-4">
+            <svg aria-hidden="true" class="w-10 h-10 mx-auto text-gray-400 dark:text-gray-600" viewBox="0 0 24 27" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M14.017 18L14.017 10.609C14.017 4.905 17.748 1.039 23 0L23.995 2.151C21.563 3.068 20 5.789 20 8H24V18H14.017ZM0 18V10.609C0 4.905 3.748 1.038 9 0L9.996 2.151C7.563 3.068 6 5.789 6 8H9.983L9.983 18L0 18Z" fill="currentColor"/></svg>
+            <blockquote>
+                <p className="text-2xl italic font-medium text-gray-900 dark:text-white">“The La Scarola to Richards Pipeline” My favorite &#91;Chicago&#93; restaurant is La Scarola and my favorite bar is Richards bar, right next door. It’s the La Scarola to Richards pipeline. I recommend the grilled octopus.</p>
+            </blockquote>
+            <figcaption className="flex items-center justify-center mt-6 space-x-3">
+                <div className="flex items-center divide-x-2 divide-gray-500 dark:divide-gray-700">
+                    <cite className="pr-3 font-medium text-gray-900 dark:text-white">		Colleen Fazio </cite>
+                    <cite className="pl-3 text-sm text-gray-500 dark:text-gray-400"><Link
+            href="https://www.instagram.com/fazioelectric/">@fazioelectric</Link>  </cite>
+                </div>
+            </figcaption>
+        </figure>
+
+            
+
           <ul className="font-bold text-2xl my-6">
-            <li></li>
-            <Link href="https://www.oldtownschool.org/">Old Town School</Link>
+            <li>
+              <Link href="https://www.oldtownschool.org/">Old Town School</Link>
+            </li>
+            
             <li>
               <Link href="https://www.chicagomusicexchange.com/">
                 Chicago Music Exchange
