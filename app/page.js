@@ -16,7 +16,8 @@ export default function Home() {
           /> */}
           <video
             autoPlay
-            src="/FS-hp-reel-1.mp4"
+            muted
+            src={"https://fretboardsummit.org/FS-hp-reel-1.mp4"}
             loop
             width={1200}
             height={500}
