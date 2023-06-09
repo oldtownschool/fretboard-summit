@@ -13,10 +13,7 @@ export default function Tickets() {
             Buy tickets
           </h2>
           <p className="text-[#F0E5D1] text-2xl">
-            All-access tickets include admission to all the concerts, workshops,
-            and we&apos;ve also create the Midwest&apos;s largest showcase of
-            handmade and boutique guitars to date, with luthitext-centerers
-            exhibiting their creations.
+            All-access tickets include admission to all the evening concerts, workshops, events and fun, as well as our guitar showcase. It&apos;s three days of fun and inspiring programming, crafted just for guitar people by the Fretboard Journal and the Old Town School of Folk Music.
           </p>
         </div>
 
@@ -70,8 +67,7 @@ export default function Tickets() {
             SINGLE DAY PASS $150.00
           </h2>
           <h3 className="font-bold text-2xl my-6">
-            Day Pass holders have access to everything at the Fretboard Summit,
-            including private events, gear giveaways, gift bags &amp; more.
+          Can only attend for one day? Day Pass holders have access to all the Fretboard Summit fun, including our concerts, workshops, events, and More.
           </h3>
           <ul className="list-disc ml-4">
             <li>Admission to All Events</li>
