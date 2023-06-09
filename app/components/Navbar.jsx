@@ -56,7 +56,7 @@ export const Navbar = () => {
                 Luthiers
               </li>
             </Link>
-            <Link href="/directions">
+            <Link href="/chicago">
               <li className="mx-2 p-2 uppercase hover:bg-[#4DB3AC] hover:text-white">
                 Getting Here
               </li>
@@ -123,7 +123,7 @@ export const Navbar = () => {
                 Luthiers
               </li>
             </Link>
-            <Link href="/directions">
+            <Link href="/chicago">
               <li
                 onClick={() => handleNav(!menuOpen)}
                 className="py-4 uppercase hover:bg-[#4DB3AC] hover:text-white"

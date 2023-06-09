@@ -249,7 +249,7 @@ export const Footer = () => {
               Luthiers
             </li>
           </Link>
-          <Link href="/directions">
+          <Link href="/chicago">
             <li className="sm:mx-2 p-2 uppercase hover:text-[#4DB3AC]">
               Getting Here
             </li>
