@@ -41,6 +41,7 @@ export const Footer = () => {
             alt="border"
             width={250}
             height={150}
+            sizes="(max-width: 200px) 10vw"		
           />
           <Image
             className="flex mx-2 sm:ml-12 self-center"
@@ -48,6 +49,7 @@ export const Footer = () => {
             alt="border"
             width={350}
             height={150}
+            sizes="(max-width: 200px) 10vw"	
           />
         </div>
 
@@ -78,6 +80,7 @@ export const Footer = () => {
             alt="Henriksen"
             width={200}
             height={150}
+            sizes="(max-width: 120px) 10vw"	
           />
           <Image
             className="flex mx-2 sm:ml-12  self-center mix-blend-multiply"
@@ -85,6 +88,7 @@ export const Footer = () => {
             alt="Martin&amp;Co"
             width={200}
             height={150}
+            sizes="(max-width: 120px) 10vw"	
           />
           <Image
             className="flex mx-2 sm:ml-12 self-center mix-blend-multiply"
@@ -92,6 +96,7 @@ export const Footer = () => {
             alt="Santa Cruz"
             width={200}
             height={150}
+            sizes="(max-width: 120px) 10vw"	
           />
         </div>
 
@@ -102,6 +107,7 @@ export const Footer = () => {
             alt="Collings Guitar"
             width={150}
             height={150}
+            sizes="(max-width: 200px) 10vw"	
           />
           <Image
             className="flex mx-2 sm:ml-12 self-center mix-blend-multiply"
@@ -109,6 +115,7 @@ export const Footer = () => {
             alt="Yamaha"
             width={150}
             height={150}
+            sizes="(max-width: 200px) 10vw"	
           />
         </div>
 
@@ -119,6 +126,7 @@ export const Footer = () => {
             alt="Bourgeors"
             width={100}
             height={150}
+            sizes="(max-width: 70px) 10vw"	
           />
           <Image
             className="flex sm:mx-2 sm:ml-12 self-center mix-blend-multiply"
@@ -126,6 +134,7 @@ export const Footer = () => {
             alt="Rode"
             width={100}
             height={150}
+            sizes="(max-width: 70px) 10vw"	
           />
           <Image
             className="flex sm:mx-2 sm:ml-12 self-center mix-blend-multiply"
@@ -133,6 +142,7 @@ export const Footer = () => {
             alt="Galloup"
             width={100}
             height={150}
+            sizes="(max-width: 70px) 10vw"	
           />
           <Image
             className="flex sm:mx-2 sm:ml-12 self-center mix-blend-multiply"
@@ -140,6 +150,7 @@ export const Footer = () => {
             alt="Taylor"
             width={100}
             height={150}
+            sizes="(max-width: 70px) 10vw"	
           />
           <Image
             className="flex sm:mx-2 ml-2 sm:ml-12 self-center mix-blend-multiply"
@@ -147,6 +158,7 @@ export const Footer = () => {
             alt="Lake and Pine"
             width={90}
             height={150}
+            sizes="(max-width: 70px) 10vw"	
           />
         </div>
 
@@ -157,6 +169,7 @@ export const Footer = () => {
             alt="Bruce Guitars.png"
             width={75}
             height={150}
+            sizes="(max-width: 70px) 10vw"	            
           />
           <Image
             className="flex mx-1 sm:mx-2 sm:ml-12 self-center mix-blend-multiply"
@@ -164,6 +177,7 @@ export const Footer = () => {
             alt="Acoustic Coffee Co"
             width={75}
             height={150}
+            sizes="(max-width: 70px) 10vw"	
           />
           <Image
             className="flex mx-1 sm:mx-2 sm:ml-12 self-center mix-blend-multiply"
@@ -171,6 +185,7 @@ export const Footer = () => {
             alt="D'Addario"
             width={75}
             height={150}
+            sizes="(max-width: 70px) 10vw"	
           />
           <Image
             className="flex mx-1 sm:mx-2 sm:ml-12 self-center mix-blend-multiply"
@@ -178,6 +193,7 @@ export const Footer = () => {
             alt="Thompson"
             width={75}
             height={150}
+            sizes="(max-width: 70px) 10vw"	
           />
           <Image
             className="flex mx-1 sm:mx-2 sm:ml-12 self-center mix-blend-difference"
@@ -185,6 +201,7 @@ export const Footer = () => {
             alt="Pacific Rim Tonewood"
             width={75}
             height={150}
+            sizes="(max-width: 70px) 10vw"	
           />
           <Image
             className="flex mr-2 sm:mx-2 sm:ml-12 self-center mix-blend-multiply"
@@ -192,6 +209,7 @@ export const Footer = () => {
             alt="Acoustic Tuesday"
             width={75}
             height={150}
+            sizes="(max-width: 70px) 10vw"	
           />
         </div>
 
