@@ -234,7 +234,7 @@ export const Footer = () => {
 
       <div className="flex flex-col text-center  py-4">
         <ul className="flex flex-row justify-center text-[#4DB3AC]">
-          <Link href="">
+          <Link href="/tickets">
             <li className="sm:mx-2 p-2 uppercase hover:text-[#4DB3AC]">
               Tickets
             </li>
