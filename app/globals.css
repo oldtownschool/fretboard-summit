@@ -27,18 +27,62 @@ body {
 }
 
 .image-container {
-
   width: 100%;
 
   > div {
     position: unset !important;
   }
-
   .image {
     object-fit: contain;
     width: 100% !important;
     position: relative !important;
     height: unset !important;
     max-width: 300px;
+  }
+  .image-md {
+    object-fit: contain;
+    width: 100% !important;
+    position: relative !important;
+    height: unset !important;
+    max-width: 200px;
+  }
+  .image-sm {
+    object-fit: contain;
+    width: 100% !important;
+    position: relative !important;
+    height: unset !important;
+    max-width: 120px;
+  }
+}
+
+
+@media only screen and (max-width: 600px) {
+  .image-container {
+    width: 100%;
+  
+    > div {
+      position: unset !important;
+    }
+    .image {
+      object-fit: contain;
+      width: 100% !important;
+      position: relative !important;
+      height: unset !important;
+      max-width: 150px;
+    }
+    .image-md {
+      object-fit: contain;
+      width: 100% !important;
+      position: relative !important;
+      height: unset !important;
+      max-width: 100px;
+    }
+    .image-sm {
+      object-fit: contain;
+      width: 100% !important;
+      position: relative !important;
+      height: unset !important;
+      max-width: 60px;
+    }
   }
 }
