@@ -37,21 +37,21 @@ body {
     width: 100% !important;
     position: relative !important;
     height: unset !important;
-    max-width: 300px;
+    max-width: 250px;
   }
   .image-md {
     object-fit: contain;
     width: 100% !important;
     position: relative !important;
     height: unset !important;
-    max-width: 200px;
+    max-width: 170px;
   }
   .image-sm {
     object-fit: contain;
     width: 100% !important;
     position: relative !important;
     height: unset !important;
-    max-width: 120px;
+    max-width: 90px;
   }
 }
 
