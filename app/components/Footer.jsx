@@ -95,16 +95,16 @@ export const Footer = () => {
           />
         </div>
 
-        <div className="flex justify-center pt-4">
+        <div className="flex justify-center pt-4 image-container">
           <Image
-            className="flex mx-2 self-center "
+            className="flex mx-2 self-center image"
             src="/image8.png"
             alt="Collings Guitar"
             width={150}
             height={150}
           />
           <Image
-            className="flex mx-2 sm:ml-12 self-center mix-blend-multiply"
+            className="flex mx-2 sm:ml-12 self-center mix-blend-multiply image"
             src="/image9.png"
             alt="Yamaha"
             width={150}
