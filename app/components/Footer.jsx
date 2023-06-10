@@ -39,14 +39,14 @@ export const Footer = () => {
               className="flex mx-2 self-center image"
               src="/FJlogo.png"
               alt="border"
-              width={250}
+              width={200}
               height={150}
             />
             <Image
               className="flex mx-2 sm:ml-12 self-center image"
               src="/OTS_2L_left_horz_black1.png"
               alt="border"
-              width={250}
+              width={200}
               height={150}
             />
         </div>
@@ -76,21 +76,21 @@ export const Footer = () => {
             className="flex mx-2 self-center mix-blend-multiply image-md"
             src="/image5.png"
             alt="Henriksen"
-            width={200}
+            width={150}
             height={150}
           />
           <Image
             className="flex mx-2 sm:ml-12  self-center mix-blend-multiply image-md"
             src="/image6.png"
             alt="Martin&amp;Co"
-            width={200}
+            width={150}
             height={150}
           />
           <Image
             className="flex mx-2 sm:ml-12 self-center mix-blend-multiply image-md"
             src="/image7.png"
             alt="Santa Cruz"
-            width={200}
+            width={150}
             height={150}
           />
         </div>
@@ -117,35 +117,35 @@ export const Footer = () => {
             className="flex sm:mx-2 self-center mix-blend-multiply image-sm"
             src="/image10.png"
             alt="Bourgeors"
-            width={100}
+            width={75}
             height={150}
           />
           <Image
             className="flex sm:mx-2 sm:ml-12 self-center mix-blend-multiply image-sm"
             src="/image11.png"
             alt="Rode"
-            width={100}
+            width={75}
             height={150}
           />
           <Image
             className="flex sm:mx-2 sm:ml-12 self-center mix-blend-multiply image-sm"
             src="/image13.png"
             alt="Galloup"
-            width={100}
+            width={75}
             height={150}
           />
           <Image
             className="flex sm:mx-2 sm:ml-12 self-center mix-blend-multiply image-sm"
             src="/taylorlogo.png"
             alt="Taylor"
-            width={100}
+            width={75}
             height={150}
           />
           <Image
             className="flex sm:mx-2 ml-2 sm:ml-12 self-center mix-blend-multiply image-sm"
             src="/lake-pine-logo-primary-dark-rgb-500px-w-72ppi1.png"
             alt="Lake and Pine"
-            width={90}
+            width={75}
             height={150}
           />
         </div>

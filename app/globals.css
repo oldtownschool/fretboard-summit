@@ -37,7 +37,7 @@ body {
     width: 100% !important;
     position: relative !important;
     height: unset !important;
-    max-width: 250px;
+    max-width: 200px;
   }
   .image-md {
     object-fit: contain;
