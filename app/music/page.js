@@ -58,7 +58,7 @@ export default function Music() {
           announced.
         </h3>
 
-        <Link href="" className="text-center mb-10">
+        <Link href="/tickets" className="text-center mb-10">
           <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1]">
             Buy Tickets
           </button>

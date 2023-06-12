@@ -110,7 +110,7 @@ export default function Luthiers() {
             </Link>
           </p>
 
-          <Link href="" className="text-center mt-6">
+          <Link href="/tickets" className="text-center mt-6">
             <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1]">
               Buy Tickets
             </button>
