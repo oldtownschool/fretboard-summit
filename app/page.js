@@ -2,9 +2,24 @@ import Image from "next/image";
 import { Navbar } from "./components/Navbar.jsx";
 import Link from "next/link";
 import { Footer } from "./components/Footer";
+import Script from 'next/script';
+
 export default function Home() {
   return (
     <>
+      <Script
+        src="https://www.googletagmanager.com/gtag/js?id=G-X904VGK5WS"
+        strategy="afterInteractive"
+      />
+      <Script id="google-analytics" strategy="afterInteractive">
+        {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){window.dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-X904VGK5WS');
+        `}
+      </Script>
       <Navbar />
       <main className="flex min-h-screen flex-col items-center bg-gradient-to-r from-[#322D35] to-[#4C454F]">
         <div className="w-full max-w-5xl items-center lg:flex">
