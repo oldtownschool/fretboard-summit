@@ -36,7 +36,7 @@ export default function Luthiers() {
             <li>Dammann Custom Instruments</li>
             <li>FE Tellier Guitars</li>
             <li>Grez Guitars</li>
-            <li>44H Guitars</li>
+            <li>H Guitars</li>
             <li>Halland Guitars</li>
             <li>Hoffee Cases</li>
             <li>Lamehorse Guitars</li>
