@@ -53,12 +53,62 @@ export default function Music() {
           </div>
         </div>
 
-        <h3 className="my-4 px-4 text-3xl tracking-wider font-aurochs text-[#F0E5D1]">
+        <div className="block sm:flex sm:flex-row max-w-5xl p-2 sm:p-0">
+          
+          <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-0 sm:m-2 p-4 bg-[#F0E5D1] text-center text-[#322D25]">
+            <div className="flex justify-center">
+              <Image
+                src="/JeffParkerPromoPhoto2021_2022photocreditLeeAnneSchmitt.jpeg"
+                alt="Jeff Parker"
+                className="self-start mb-2"
+                width={600}
+                height={400}
+              />
+            </div>
+            <h2 className="tracking-wide font-aurochs font-normal uppercase text-3xl">
+            THURSDAY, AUGUST 24
+              <br />
+              <span className="font-bold">JEFF PARKER</span>
+              <br />{" "}
+              <span className="font-light tracking-wider">
+              & SPECIAL GUEST OPENER
+              </span>
+            </h2>
+            <p></p>
+          </div>
+          <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-0 sm:m-2 mt-4 p-4 bg-[#A4CCDA] text-center text-[#322D25]">
+            <div className="mt-6 sm:mt-0 flex items-stretch justify-center">
+              <Image
+                className="hidden sm:flex mx-2"
+                src="/border.png"
+                alt="border"
+                width={10}
+                height={400}
+              />
+              <Image
+                src="/performersUpdate.svg"
+                alt="banner left"
+                width={420}
+                height={400}
+                className="px-8 sm:px-0"
+              />
+              <Image
+                className="hidden sm:flex mx-2"
+                src="/border.png"
+                alt="border"
+                width={10}
+                height={400}
+              />
+            </div>
+          </div>
+        </div>
+
+        {/* <h3 className="my-4 px-4 text-3xl tracking-wider font-aurochs text-[#F0E5D1]">
           Also...Jeff Parker / Via Mardot / Jake Eddy &amp; more to be
           announced.
-        </h3>
+        </h3> */}
 
-        <Link href="/tickets" className="text-center mb-10">
+        <Link href="/tickets" className="text-center my-10">
           <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1]">
             Buy Tickets
           </button>
