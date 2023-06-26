@@ -142,6 +142,13 @@ export const Footer = () => {
             height={150}
           />
           <Image
+            className="flex sm:mx-2 sm:ml-12 self-center image-sm"
+            src="/pre-war-logo_FBS-bkg.png"
+            alt="Pre War"
+            width={75}
+            height={150}
+          />
+          <Image
             className="flex sm:mx-2 ml-2 sm:ml-12 self-center mix-blend-multiply image-sm"
             src="/lake-pine-logo-primary-dark-rgb-500px-w-72ppi1.png"
             alt="Lake and Pine"

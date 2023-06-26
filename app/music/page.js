@@ -49,7 +49,6 @@ export default function Music() {
               <br />
               <span className="font-bold">Tommy Emmanuel</span>
             </h2>
-            <p></p>
           </div>
         </div>
 
