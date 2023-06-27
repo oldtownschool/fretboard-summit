@@ -161,13 +161,27 @@ export default function Tickets() {
 
         <div className="mt-10 mb-20 w-full max-w-5xl items-center sm:flex sm:flex-col px-4 lg:px-14 text-center">
           <h2 className="mb-4 text-[#4DB3AC] font-bold uppercase text-xl tracking-widest ">
-            OTHER TICKET PACKAGES &amp; ON SALE SCHEDULE:
+            OTHER TICKET PACKAGES:
           </h2>
           <p className="text-white text-lg">
             <span className="font-bold">Guitar Showcase only - $30</span>
-            <br />
-            July 1, 2023 (Tickets will also be available at the door)
           </p>
+          <div className="w-full sm:flex-row sm:flex sm:w-3/4">
+            <Link href="https://www.oldtownschool.org/events/event.php?event_id=8881" className="text-center">
+              <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1]">
+              Luthier Showcase Only - Friday,&nbsp;August&nbsp;25
+              </button>
+            </Link>
+            <Link href="https://www.oldtownschool.org/events/event.php?event_id=8882" className="text-center ml-0 sm:ml-1">
+              <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1] mt-2 sm:mt-0">
+              Luthier Showcase Only - Saturday,&nbsp;August&nbsp;26           
+              </button>
+            </Link>
+          </div>
+          <p className="text-white text-lg">
+            Tickets will also be available at the door
+          </p>
+
           <p className="text-white text-lg mt-6">
             <span className="font-bold">Individual Concert Tickets</span>
           </p>
