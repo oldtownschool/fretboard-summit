@@ -160,7 +160,7 @@ export default function Home() {
             </h2>
             <p>
               <span className="font-bold">Experience</span> rooms full of
-              custom-built guitars for you to hear, play, or purchase-directyly
+              custom-built guitars for you to hear, play, or purchase-directly
               from the makers themselves!
             </p>
           </div>
