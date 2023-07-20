@@ -85,7 +85,7 @@ export default function Music() {
                 height={400}
               />
               <Image
-                src="/performersUpdate1.svg"
+                src="/performersUpdate2.svg"
                 alt="banner left"
                 width={420}
                 height={400}
