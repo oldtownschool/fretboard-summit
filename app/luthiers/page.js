@@ -75,11 +75,13 @@ export default function Luthiers() {
             <li>Shock the Fox</li>
             <li>Baranik Guitars</li>
             <li>Widman Custom Electrics</li>
-            <li>The Chicago School of Lutherie</li>
+            <li>Chicago Luthiers Workshop</li>
             <li>Lattanze Guitars</li>
             <li>Lyon and Healy</li>
             <li>Bashkin Guitars</li>
             <li>Hybrid Guitars</li>
+            <li>ZVEX Effects</li>
+            <li>Duneland Labs</li>
           </ul>
 
           <p className="text-xl my-6">Note: Most of the luthiers will have guitars available for purchase. Most of these brands are showcasing never-before-seen and new instruments, as well. Nearly all of them will have their head designers/builders present &#40;ie Bob Taylor himself will be attending for Taylor; Steve McCreary will be attending for Collings, etc&#41;. We will have quiet rooms and amp rooms available for demos.</p>
