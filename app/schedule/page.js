@@ -10,8 +10,8 @@ export default function Schedule() {
       <script
       src="https://code.jquery.com/jquery-3.7.0.min.js"
       integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g="
-      crossorigin="anonymous" as="script"></script>
-      <script src="/slickslider.js"></script>
+      crossorigin="anonymous" as="script" async></script>
+      <script src="/slickslider.js" async></script>
       <link href="/slider.css" rel="stylesheet"></link>
 
       <Navbar />
@@ -20,13 +20,13 @@ export default function Schedule() {
         
 
         {/* <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#A4CCDA] text-[#322D25]"> */}
-          <div class=" max-w-5xl w-full my-10 p-4 bg-[#A4CCDA] text-[#322D25]">
-            <div class="slider1">
-              <img src="https://placehold.co/500x1300?text=coming%20soon%201" />
-              <img src="https://placehold.co/500x1300?text=coming%20soon%202" />
-              <img src="https://placehold.co/500x1300?text=coming%20soon%203" />	
-            </div>
+        <div class=" max-w-5xl w-full my-10 p-4 bg-[#A4CCDA] text-[#322D25]">
+          <div class="slider1">
+            <img src="https://placehold.co/500x1300?text=coming%20soon%201" />
+            <img src="https://placehold.co/500x1300?text=coming%20soon%202" />
+            <img src="https://placehold.co/500x1300?text=coming%20soon%203" />	
           </div>
+        </div>
 
         <div class="w-auto">
             <h2 className="px-10 tracking-wider font-aurochs font-normal uppercase text-5xl text-center">
