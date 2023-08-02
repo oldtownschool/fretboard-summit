@@ -38,7 +38,7 @@ export default function Schedule() {
 
             <p className="italic text-lg leading-relaxed">Updated August 2, 2023<br/>Schedule subject to change.</p>
 
-            <p className="underline mt-4  text-lg leading-relaxed">Campus Addresses & Locations:</p>
+            <p className="underline font-bold mt-4  text-lg leading-relaxed">Campus Addresses & Locations:</p>
             <p className="mb-4 text-lg leading-relaxed">
             Old Town School of Folk Music - West, 4544 N. Lincoln Ave.<br/>
             (Maurer Hall, Mabie Gallery, Workshop Rooms, Art Gallery, Music Store, Cafe & Bar)</p>
@@ -54,30 +54,30 @@ export default function Schedule() {
         <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#A4CCDA] text-[#322D25]">
 
 
-          <p className="italic text-lg leading-relaxed">Updated August 2, 2023<br/>Schedule subject to change.</p>
+          <p className="italic text-sm leading-relaxed">Updated August 2, 2023<br/>Schedule subject to change.</p>
 
-          <p className="underline mt-4  text-lg leading-relaxed">Campus Addresses & Locations:</p>
+          {/* <p className="underline font-bold mt-4  text-lg leading-relaxed">Campus Addresses & Locations:</p>
           <p className="mb-4 text-lg leading-relaxed">
           Old Town School of Folk Music - West, 4544 N. Lincoln Ave.<br/>
           (Maurer Hall, Mabie Gallery, Workshop Rooms, Art Gallery, Music Store, Cafe & Bar)</p>
 
           <p className="mb-10 text-lg leading-relaxed">
           Old Town School of Folk Music - East, 4545 N. Lincoln Ave.<br/>
-          (Szold Hall, Luthier Showcase Exhibit Halls, East Lobby, Workshop Rooms, Cafe & Bar)</p>
+          (Szold Hall, Luthier Showcase Exhibit Halls, East Lobby, Workshop Rooms, Cafe & Bar)</p> */}
 
           <h3 className="font-aurochs mt-10 uppercase text-3xl sm:text-4xl tracking-wider leading-relaxed" >Thursday, August 24th</h3>
 
-          <p className="italic mb-4 text-black text-lg" >Exclusive For Three-Day All-Access Pass Holders Only</p>
+          <p className="italic mb-4  text-lg" >Exclusive For Three-Day All-Access Pass Holders Only</p>
 
-          <p className="underline mt-4  text-lg leading-relaxed" >Check-In - West Lobby</p>
+          <p className="underline font-bold mt-4 leading-relaxed" >Check-In - West Lobby</p>
           <p className=" mb-4  text-lg leading-relaxed" >12:00pm - 4:00pm</p>
 
-          <p className="underline mt-4  text-lg leading-relaxed" >Welcome Remarks</p>
-          <p className="mt-4  text-lg leading-relaxed" >Maurer Hall - West</p>
+          <p className="underline font-bold mt-4  text-lg leading-relaxed" >Welcome Remarks</p>
+          <p className="text-lg leading-relaxed" >Maurer Hall - West</p>
           <p className=" mb-4  text-lg leading-relaxed" >12:30pm  Welcome Remarks with Jason Verlinde, Jim Newcomb, and Acoustic Life’s Tony Polecastro</p>
 
-          <p className="underline mt-4  text-lg leading-relaxed" >Luthier Showcase</p>
-          <p className="mt-4  text-lg leading-relaxed" >East bldg (floors 1-3), West bldg (floors 1 & 2)</p>
+          <p className="underline font-bold mt-4  text-lg leading-relaxed" >Luthier Showcase</p>
+          <p className="text-lg leading-relaxed" >East bldg (floors 1-3), West bldg (floors 1 & 2)</p>
           <p className=" mb-4  text-lg leading-relaxed" >1:00pm - 5:00pm	Preview Showcase Exhibit Halls Open</p>
 
           <p className="mt-4  text-lg leading-relaxed" >Mabie Gallery - West</p>
@@ -85,8 +85,8 @@ export default function Schedule() {
           </p>
           <p className="italic">Presented by Henriksen Amplifiers</p>
 
-          <p className="underline mt-4  text-lg leading-relaxed" >Concert Performances</p>
-          <p className="italic mb-4 text-black text-lg" >Exclusive For Three-Day All-Access Pass Holders Only</p>
+          <p className="underline font-bold mt-4  text-lg leading-relaxed" >Concert Performances</p>
+          <p className="italic mb-4  text-lg" >Exclusive For Three-Day All-Access Pass Holders Only</p>
           <p className="text-lg leading-relaxed" >Maurer Hall - West </p>
           <p className="mb-4  text-lg leading-relaxed" >4:00pm - 5:00pm	Joey Landreth</p>
           <p className="text-lg leading-relaxed" >Maurer Hall - West </p>
@@ -94,10 +94,10 @@ export default function Schedule() {
           <p className="mb-4  text-lg leading-relaxed" >8:00pm		Finom </p>
           <p className="mb-4  text-lg leading-relaxed" >9:00pm		Jeff Parker</p>
 
-          <p className="underline mt-4  text-lg leading-relaxed" > Workshops, Jams, Interviews, Talks, & More</p>
-          <p className="mb-4  text-lg leading-relaxed" >11:00-11:45		Luthier Lunch & Learn w/ Pacific Rim Tonewoods
+          <p className="underline font-bold mt-4  text-lg leading-relaxed" > Workshops, Jams, Interviews, Talks, & More</p>
+          <p className="text-lg leading-relaxed" >11:00-11:45		Luthier Lunch & Learn w/ Pacific Rim Tonewoods
           </p>
-          <p className="italic">(exclusive content for luthiers)</p>
+          <p className="italic mb-4">(exclusive content for luthiers)</p>
 
           <p className="text-lg leading-relaxed" >Maurer Hall - East </p>
           <p className="mb-4  text-lg leading-relaxed" >2:00pm - 3:00PM	Ordering Your First Custom Guitar & How To Get It Right with Paul Heumiller of Dream Guitars</p>
@@ -114,17 +114,17 @@ export default function Schedule() {
 
           <h3 className="font-aurochs mt-10 uppercase text-3xl sm:text-4xl tracking-wider leading-relaxed" >Friday, August 25th</h3>
 
-          <p className="underline mt-4  text-lg leading-relaxed" >Check-In - West Lobby</p>
+          <p className="underline font-bold mt-4  text-lg leading-relaxed" >Check-In - West Lobby</p>
           <p className=" mb-4  text-lg leading-relaxed" >9:30am - 4:00pm	For Single Day All-Access Passholders & Luthier Showcase Day Passes </p>
 
-          <p className="underline mt-4  text-lg leading-relaxed" >Luthier Showcase</p>
+          <p className="underline font-bold mt-4  text-lg leading-relaxed" >Luthier Showcase</p>
           <p className="text-lg leading-relaxed" >East, 3rd Floor</p>
           <p className=" mb-4  text-lg leading-relaxed" >10:00am - 12:30pm	Luthier Showcase Exhibit Halls Open</p>
           <p className=" mb-4  text-lg leading-relaxed" >12:30pm-1:30pm 	Exhibitor Break Time, Exhibits closed</p>
           <p className=" mb-4  text-lg leading-relaxed" >1:30pm - 5:00pm	Luthier Showcase Exhibit Halls Open</p>
 
-          <p className="underline mt-4  text-lg leading-relaxed" >Workshops, Jams, Interviews, Talks, & More</p>
-          <p className="italic mb-4 text-black text-lg" >All-Access Three-Day and All-Access Single-Day Pass holders can attend any workshops & events. Seating is general admission.</p>
+          <p className="underline font-bold mt-4  text-lg leading-relaxed" >Workshops, Jams, Interviews, Talks, & More</p>
+          <p className="italic mb-4  text-lg" >All-Access Three-Day and All-Access Single-Day Pass holders can attend any workshops & events. Seating is general admission.</p>
 
           <p className="text-lg leading-relaxed" >Maurer Hall - West</p>
 
@@ -154,8 +154,8 @@ export default function Schedule() {
           <p className="pl-4 mb-4  text-lg leading-relaxed" >11:00am - 4:00pm	The Blue Guitars Exhibition from the Archtop Foundation</p>
 
 
-          <p className="underline mt-4  text-lg leading-relaxed" >Concert Performances</p>
-          <p className="italic mb-4 text-black text-lg" >Concert performances are included with 3-Day All-Access and 1-Day All Access Pasess only. Limited tickets may be available for purchase, see box office for details. Seating is general admission. </p>
+          <p className="underline font-bold mt-4  text-lg leading-relaxed" >Concert Performances</p>
+          <p className="italic mb-4  text-lg" >Concert performances are included with 3-Day All-Access and 1-Day All Access Pasess only. Limited tickets may be available for purchase, see box office for details. Seating is general admission. </p>
 
           <p className="text-lg leading-relaxed" >Maurer Hall - West</p>
           <p className="text-lg leading-relaxed" >7:15pm		Doors Open For Concert Seating, General Admission</p>
@@ -175,14 +175,14 @@ export default function Schedule() {
 
           <h3 className="font-aurochs mt-10 uppercase text-3xl sm:text-4xl tracking-wider leading-relaxed" >Saturday, August 26th</h3>
 
-          <p className="underline mt-4  text-lg leading-relaxed" >Luthier Showcase</p>
+          <p className="underline font-bold mt-4  text-lg leading-relaxed" >Luthier Showcase</p>
           <p className="text-lg leading-relaxed" >East, 3rd Floor</p>
           <p className=" mb-4  text-lg leading-relaxed" >10:00am - 12:30pm	Luthier Showcase Exhibit Halls Open</p>
           <p className=" mb-4  text-lg leading-relaxed" >12:30pm-1:30pm 	Exhibitor Break Time, Exhibits closed</p>
           <p className=" mb-4  text-lg leading-relaxed" >1:30pm - 5:00pm	Luthier Showcase Exhibit Halls Open</p>
 
-          <p className="underline mt-4  text-lg leading-relaxed" >Workshops, Jams, Interviews, Talks, & More</p>
-          <p className="italic mb-4 text-black text-lg" >All-Access Three-Day and All-Access Single-Day Pass holders can attend any workshops & events. Seating is general admission.</p>
+          <p className="underline font-bold mt-4  text-lg leading-relaxed" >Workshops, Jams, Interviews, Talks, & More</p>
+          <p className="italic mb-4  text-lg" >All-Access Three-Day and All-Access Single-Day Pass holders can attend any workshops & events. Seating is general admission.</p>
 
           <p className="text-lg leading-relaxed" >Maurer Hall - West</p>
 
@@ -215,8 +215,8 @@ export default function Schedule() {
 
 
 
-          <p className="underline mt-4  text-lg leading-relaxed" >Concert Performances</p>
-          <p className="italic mb-4 text-black text-lg" >Concert performances are included with 3-Day All-Access and 1-Day All Access Pasess only. Limited tickets may be available for purchase, see box office for details. Seating is general admission.</p>
+          <p className="underline font-bold mt-4  text-lg leading-relaxed" >Concert Performances</p>
+          <p className="italic mb-4  text-lg" >Concert performances are included with 3-Day All-Access and 1-Day All Access Pasess only. Limited tickets may be available for purchase, see box office for details. Seating is general admission.</p>
 
           <p className="text-lg leading-relaxed" >Maurer Hall - West</p>
           <p className="mb-4  text-lg leading-relaxed" >7:15pm		Doors Open For Concert Seating, General Admission</p>
