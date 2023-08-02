@@ -104,11 +104,11 @@ export default function Schedule() {
           <p className="mb-4  text-lg leading-relaxed" >3:00pm - 4:00PM	The Guitar Market Today with Lillian Werbin (Elderly), Mark Stutman (Folkway Music), and guests</p>
 
 
-          <p className="mt-4 mb-10  text-lg leading-relaxed" >West Cafe & Bar open 1:00pm - 5:00pm & during concerts<br/>
+          <p className="mt-4  text-lg leading-relaxed" >West Cafe & Bar open 1:00pm - 5:00pm & during concerts<br/>
           <a href="https://musicstore.oldtownschool.org">Old Town School Music Store</a> open 11:00am - 5:00pm<br/>
           Gear Check is located in room 201 in the West building, second floor wing (2W) available 10am - ??pm
           </p>
-          <p className="italic">Complimentary coffee provided by Acoustic Coffee in both buildings daily.</p>
+          <p className="italic mb-10">Complimentary coffee provided by Acoustic Coffee in both buildings daily.</p>
 
           <div className="bg-gray-200 h-2 w-full"></div>
 
@@ -164,11 +164,11 @@ export default function Schedule() {
           <p className="text-lg leading-relaxed" >Szold Hall - East</p>
           <p className="mb-4  text-lg leading-relaxed" >9:00pm		Summit Shorts: All-star short sets featuring Jake Eddy, Adam Levy & Ethan Sherman, and other surprise guests. </p>
 
-          <p className="mt-4 mb-10  text-lg leading-relaxed" >Cafe & Bars open 1:00pm - 5:00pm & during concerts<br/>
+          <p className="mt-4 text-lg leading-relaxed" >Cafe & Bars open 1:00pm - 5:00pm & during concerts<br/>
           <a href="https://musicstore.oldtownschool.org">Old Town School Music Store</a> open 11:00am - 5:00pm<br/>
           Gear Check  – room 201 in the West building, second floor wing (2W)
           </p>
-          <p className="italic">Complimentary coffee provided by Acoustic Coffee in both buildings daily.</p>
+          <p className="italic mb-10">Complimentary coffee provided by Acoustic Coffee in both buildings daily.</p>
 
 
           <div className="bg-gray-200 h-2 w-full"></div>
@@ -227,11 +227,11 @@ export default function Schedule() {
           <p className="text-lg leading-relaxed" >8:00pm		Via Mardot scores the 1934 stop-motion masterpiece, The Mascot</p>
           <p className="mb-4 text-lg leading-relaxed" >After performances	Late Night “Summit All-Star Super Session:” Ethan Sherman, Adam Levy, Ryan Richter and special guests </p>
 
-          <p className="mt-4 mb-10  text-lg leading-relaxed" >Cafe & Bars open 11:00am - 5:00pm & during concerts <br/>
+          <p className="mt-4  text-lg leading-relaxed" >Cafe & Bars open 11:00am - 5:00pm & during concerts <br/>
           <a href="https://musicstore.oldtownschool.org">Old Town School Music Store</a> open 11:00am - 5:00pm<br/>
           Gear Check is located in room 201 in the West building, second floor wing (2W)
           </p>
-          <p className="italic">Complimentary coffee provided by Acoustic Coffee in both buildings daily.</p>
+          <p className="italic mb-10">Complimentary coffee provided by Acoustic Coffee in both buildings daily.</p>
 
         </div>
 
