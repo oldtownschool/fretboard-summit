@@ -65,7 +65,7 @@ export default function Schedule() {
           Old Town School of Folk Music - East, 4545 N. Lincoln Ave.<br/>
           (Szold Hall, Luthier Showcase Exhibit Halls, East Lobby, Workshop Rooms, Cafe & Bar)</p> */}
 
-          <h3 className="font-aurochs mt-10 uppercase text-3xl sm:text-4xl tracking-wider leading-relaxed" >Thursday, August 24th</h3>
+          <h3 className="font-aurochs mt-2 uppercase text-3xl sm:text-4xl tracking-wider leading-relaxed" >Thursday, August 24th</h3>
 
           <p className="italic mb-4  text-lg" >Exclusive For Three-Day All-Access Pass Holders Only</p>
 
