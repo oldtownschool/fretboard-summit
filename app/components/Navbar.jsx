@@ -56,11 +56,11 @@ export const Navbar = () => {
                 Luthiers
               </li>
             </Link>
-            {/* <Link href="/schedule">
+            <Link href="/schedule">
               <li className="mx-2 p-2 uppercase hover:bg-[#4DB3AC] hover:text-white">
                 Schedule
               </li>
-            </Link> */}
+            </Link>
             <Link href="/chicago">
               <li className="mx-2 p-2 uppercase hover:bg-[#4DB3AC] hover:text-white">
                 Getting Here
