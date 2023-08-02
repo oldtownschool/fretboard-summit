@@ -3,16 +3,16 @@ import { Navbar } from "../components/Navbar.jsx";
 import Link from "next/link";
 import { Footer } from "../components/Footer.jsx";
 import Script from "next/script.js";
+import "../slider.css";
 
 export default function Schedule() {
   return (
     <>
-      <link href="/slider.css" rel="stylesheet"></link>
+      {/* <link href="/slider.css" rel="stylesheet"></link> */}
       <Script src="/jquery.js" as="script" strategy="beforeInteractive"></Script>
       <Script src="/slickslider.js" ></Script>
       
       
-
       <Navbar />
       <main className="flex min-h-screen flex-col items-center bg-gradient-to-r from-[#322D35] to-[#4C454F]">
 
@@ -81,8 +81,9 @@ export default function Schedule() {
           <p className=" mb-4  text-lg leading-relaxed" >1:00pm - 5:00pm	Preview Showcase Exhibit Halls Open</p>
 
           <p className="mt-4  text-lg leading-relaxed" >Mabie Gallery - West</p>
-          <p className=" mb-4  text-lg leading-relaxed" >5:00pm - 6:00pm	Welcome Reception - Drinks & Light Snacks <br/>
-          <span className="italic">Presented by Henriksen Amplifiers</span></p>
+          <p className=" mb-4  text-lg leading-relaxed" >5:00pm - 6:00pm	Welcome Reception - Drinks & Light Snacks
+          </p>
+          <p className="italic">Presented by Henriksen Amplifiers</p>
 
           <p className="underline mt-4  text-lg leading-relaxed" >Concert Performances</p>
           <p className="italic mb-4 text-black text-lg" >Exclusive For Three-Day All-Access Pass Holders Only</p>
@@ -94,8 +95,9 @@ export default function Schedule() {
           <p className="mb-4  text-lg leading-relaxed" >9:00pm		Jeff Parker</p>
 
           <p className="underline mt-4  text-lg leading-relaxed" > Workshops, Jams, Interviews, Talks, & More</p>
-          <p className="mb-4  text-lg leading-relaxed" >11:00-11:45		Luthier Lunch & Learn w/ Pacific Rim Tonewoods<br/>
-          <span className="italic">			(exclusive content for luthiers)</span></p>
+          <p className="mb-4  text-lg leading-relaxed" >11:00-11:45		Luthier Lunch & Learn w/ Pacific Rim Tonewoods
+          </p>
+          <p className="italic">(exclusive content for luthiers)</p>
 
           <p className="text-lg leading-relaxed" >Maurer Hall - East </p>
           <p className="mb-4  text-lg leading-relaxed" >2:00pm - 3:00PM	Ordering Your First Custom Guitar & How To Get It Right with Paul Heumiller of Dream Guitars</p>
@@ -104,9 +106,9 @@ export default function Schedule() {
 
           <p className="mt-4 mb-10  text-lg leading-relaxed" >West Cafe & Bar open 1:00pm - 5:00pm & during concerts<br/>
           <a href="https://musicstore.oldtownschool.org">Old Town School Music Store</a> open 11:00am - 5:00pm<br/>
-          Gear Check is located in room 201 in the West building, second floor wing (2W) available 10am - ??pm<br/>
-          <span className="italic">Complimentary coffee provided by Acoustic Coffee in both buildings daily.</span>
+          Gear Check is located in room 201 in the West building, second floor wing (2W) available 10am - ??pm
           </p>
+          <p className="italic">Complimentary coffee provided by Acoustic Coffee in both buildings daily.</p>
 
           <div className="bg-gray-200 h-2 w-full"></div>
 
@@ -164,9 +166,9 @@ export default function Schedule() {
 
           <p className="mt-4 mb-10  text-lg leading-relaxed" >Cafe & Bars open 1:00pm - 5:00pm & during concerts<br/>
           <a href="https://musicstore.oldtownschool.org">Old Town School Music Store</a> open 11:00am - 5:00pm<br/>
-          Gear Check  – room 201 in the West building, second floor wing (2W)<br/>
-          <span className="italic">Complimentary coffee provided by Acoustic Coffee in both buildings daily.</span>
+          Gear Check  – room 201 in the West building, second floor wing (2W)
           </p>
+          <p className="italic">Complimentary coffee provided by Acoustic Coffee in both buildings daily.</p>
 
 
           <div className="bg-gray-200 h-2 w-full"></div>
@@ -184,7 +186,7 @@ export default function Schedule() {
 
           <p className="text-lg leading-relaxed" >Maurer Hall - West</p>
 
-          <p className="pl-4  mb-4  text-lg leading-relaxed" >10:00am - 10:45am	The Mortal Guitar Lover: Of Life, Music, and Legacy with the Fretboard Journal's John Thomas</p>
+          <p className="pl-4  mb-4  text-lg leading-relaxed" >10:00am - 10:45am	The Mortal Guitar Lover: Of Life, Music, and Legacy with the Fretboard Journal&apos;s John Thomas</p>
           <p className="pl-4  mb-4  text-lg leading-relaxed" >11:00am - 12:45pm	Ridge Road: A Celebration of Norman Blake featuring Bob Minner, Cameron Knowler & Friends</p>
           <p className="pl-4  mb-4  text-lg leading-relaxed" >1:00pm - 2:45pm	Workshop: The Bill Frisell Orchestra<br/>	Bring a guitar and let Bill Frisell be your conductor and bandleader</p>
           <p className="pl-4  mb-4  text-lg leading-relaxed" >3:00pm - 3:45pm	Workshop: Fingerstyle Freedom with Adam Miller</p>
@@ -228,8 +230,8 @@ export default function Schedule() {
           <p className="mt-4 mb-10  text-lg leading-relaxed" >Cafe & Bars open 11:00am - 5:00pm & during concerts <br/>
           <a href="https://musicstore.oldtownschool.org">Old Town School Music Store</a> open 11:00am - 5:00pm<br/>
           Gear Check is located in room 201 in the West building, second floor wing (2W)
-          <span className="italic">Complimentary coffee provided by Acoustic Coffee in both buildings daily.</span>
           </p>
+          <p className="italic">Complimentary coffee provided by Acoustic Coffee in both buildings daily.</p>
 
         </div>
 
