@@ -193,8 +193,8 @@ export default function Schedule() {
           <p className="pl-4  mb-4  text-lg leading-relaxed" >4:00pm - 4:45pm	Live Podcast: Tommy Emmanuel interviewed by Adam Miller</p>
 
           <p className="text-lg leading-relaxed" >Szold Hall - East</p>
-          <p className="pl-4  mb-4  text-lg leading-relaxed" >10:00pm - 10:45pm	Tony Polecastro: Getting Out of Your Playing Rut </p>
-          <p className="pl-4  mb-4  text-lg leading-relaxed" >11:00pm - 11:45pm	Offset Care & Feeding with Mike Adams (@puisheen) </p>
+          <p className="pl-4  mb-4  text-lg leading-relaxed" >10:00am - 10:45am	Tony Polecastro: Getting Out of Your Playing Rut </p>
+          <p className="pl-4  mb-4  text-lg leading-relaxed" >11:00am - 11:45am	Offset Care & Feeding with Mike Adams (@puisheen) </p>
           <p className="pl-4  mb-4  text-lg leading-relaxed" >1:00pm - 1:45pm	Live Podcast: Luthier on Luthier: Richard Hoover (Santa Cruz Guitar Co. founder) and Michael Bashkin</p>
           <p className="pl-4  mb-4  text-lg leading-relaxed" >2:00pm - 2:45pm	The Golden Era Meets Tech with Luthier Jason Kostal </p>
           <p className="pl-4  mb-4  text-lg leading-relaxed" >3:00pm - 3:45pm	A Martin History Masterclass with Grieg Hutton: Untold stories from the Martin Guitar Co. vaults</p>
