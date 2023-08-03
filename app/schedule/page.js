@@ -134,7 +134,6 @@ export default function Schedule() {
           <p className="pl-4  mb-4  text-lg leading-relaxed" >3:00pm - 4:30pm	Vintage Acoustic repair and restoration with Mark Stutman, TJ Thompson & Greig Hutton</p>
 
           <p className="text-lg leading-relaxed" >Szold Hall - East</p>
-          <p className="pl-4  mb-4  text-lg leading-relaxed" >Workshop: Sierra Hull – “Right Hand Technique & Tone” </p>
           <p className="pl-4  mb-4  text-lg leading-relaxed" >10:00am - 10:45am	The Art of Inlay: Simon Haycraft (Preston Thompson), Jayne Henderson, and friends</p>
           <p className="pl-4  mb-4  text-lg leading-relaxed" >11:00am - 11:45pm	Workshop: Flatpicking with Jake Eddy</p>
           <p className="pl-4  mb-4  text-lg leading-relaxed" >12:00pm - 12:45pm	Workshop: Joey Landreth</p>
