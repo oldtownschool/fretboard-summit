@@ -91,7 +91,6 @@ export default function Tickets() {
                 <li className="ml-4">JHS Live: the Germanium Chef competition featuring Robert Keeley versus Heather Brown</li>
                 <li className="ml-4">Wayne & Jayne Henderson</li>
                 <li className="ml-4">Jake Eddy</li>
-                <li className="ml-4">Tom Bukovac & Bryan Sutton, interviewed by Joe Glaser</li>
                 <li className="ml-4">Jorma Kaukonen</li>
                 <li className="ml-4">The Blue Guitars</li>
                 <li className="ml-4">The Truth About Vintage Amps Lounge</li>
