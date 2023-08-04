@@ -51,14 +51,14 @@ export default function Tickets() {
           </ul>
 
           <h3 className="my-4 font-black text-xl">
-            Limited to the first 250 registered attendees.
+            Limited to the first 200 registered attendees.
           </h3>
           <div className="flex flex-row justify-evenly mt-6">
-            <Link href="https://www.oldtownschool.org/events/event.php?event_id=8733" className="text-center">
-              <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1]">
-                Buy 3-day pass
+            {/* <Link href="https://www.oldtownschool.org/events/event.php?event_id=8733" className="text-center"> */}
+              <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#2B6F6D] text-[#F0E5D1] opacity-50 cursor-not-allowed">
+              SOLD OUT - Buy 3-day pass
               </button>
-            </Link>
+            {/* </Link> */}
           </div>
         </div>
 
@@ -67,7 +67,7 @@ export default function Tickets() {
             SINGLE DAY PASS $150.00
           </h2>
           <h3 className="font-bold text-2xl my-6">
-          Can only attend for one day? Day Pass holders have access to all the Fretboard Summit fun, including our concerts, workshops, events, and More.
+          Can only attend for one day? Day Pass holders have access to all the Fretboard Summit fun, including our concerts, workshops, events, and more.
           </h3>
           <ul className="list-disc ml-4">
             <li>Admission to All Events</li>
@@ -185,16 +185,16 @@ export default function Tickets() {
             <span className="font-bold">Individual Concert Tickets</span>
           </p>
           <div className="w-full sm:flex-row sm:flex sm:w-3/4">
-            <Link href="https://www.oldtownschool.org/concerts/2023/08-25-2023-fretboard-summit-jorma-kaukonen/" className="text-center">
-              <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1]">
-                Jorma Koukonen - Friday,&nbsp;August&nbsp;25&nbsp;-&nbsp;8pm
+            {/* <Link href="https://www.oldtownschool.org/concerts/2023/08-25-2023-fretboard-summit-jorma-kaukonen/" className="text-center"> */}
+              <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#2B6F6D] text-[#F0E5D1] opacity-50 cursor-not-allowed">
+                Jorma Koukonen - Friday - SOLD OUT
               </button>
-            </Link>
-            <Link href="https://www.oldtownschool.org/concerts/2023/08-26-2023-fretboard-summit-tommy-emman/" className="text-center ml-0 sm:ml-1">
-              <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1] mt-2 sm:mt-0">
-                Tommy Emmanuel - Saturday,&nbsp;August&nbsp;26&nbsp;-&nbsp;8pm              
+            {/* </Link> */}
+            {/* <Link href="https://www.oldtownschool.org/concerts/2023/08-26-2023-fretboard-summit-tommy-emman/" className="text-center ml-0 sm:ml-1"> */}
+              <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#2B6F6D] text-[#F0E5D1] mt-2 sm:mt-0 opacity-50 cursor-not-allowed sm:ml-1">
+                Tommy Emmanuel - Saturday - SOLD OUT
               </button>
-            </Link>
+            {/* </Link> */}
           </div>
         </div>
       </main>
