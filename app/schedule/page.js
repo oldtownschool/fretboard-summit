@@ -131,7 +131,7 @@ export default function Schedule() {
           <p className="pl-4  mb-4  text-lg leading-relaxed" >10:00am - 12:00pm	JHS Live: The Germanium Chef featuring Robert Keeley vs. Heather Brown, hosted by Josh Scott</p>
           <p className="pl-4  mb-4  text-lg leading-relaxed" >1:00pm - 1:45pm	Rugby Roots: A Conversation with acclaimed builders Wayne & Elizabeth Jayne Henderson</p>
           <p className="pl-4  mb-4  text-lg leading-relaxed" >2:00pm - 2:45pm	Fretboard Journal Podcast: Jorma Kaukonen </p>
-          <p className="pl-4  mb-4  text-lg leading-relaxed" >3:00pm - 4:30pm	Vintage Acoustic repair and restoration with Mark Stutman, TJ Thompson & Greig Hutton</p>
+          <p className="pl-4  mb-4  text-lg leading-relaxed" >3:00pm - 4:30pm	Vintage Acoustic repair and restoration with Mark Stutman, TJ Thompson</p>
 
           <p className="text-lg leading-relaxed" >Szold Hall - East</p>
           <p className="pl-4  mb-4  text-lg leading-relaxed" >10:00am - 10:45am	The Art of Inlay: Simon Haycraft (Preston Thompson), Jayne Henderson, and friends</p>
@@ -158,7 +158,7 @@ export default function Schedule() {
 
           <p className="text-lg leading-relaxed" >Maurer Hall - West</p>
           <p className="text-lg leading-relaxed" >7:15pm		Doors Open For Concert Seating, General Admission</p>
-          <p className="mb-4  text-lg leading-relaxed" >8:00pm 		Jorma Kaukonen with Jim Broadbent opening</p>
+          <p className="mb-4  text-lg leading-relaxed" >8:00pm 		Jorma Kaukonen with Jack Broadbent opening</p>
 
           <p className="text-lg leading-relaxed" >Szold Hall - East</p>
           <p className="mb-4  text-lg leading-relaxed" >9:00pm		Summit Shorts: All-star short sets featuring Jake Eddy, Adam Levy & Ethan Sherman, and other surprise guests. </p>
@@ -195,8 +195,8 @@ export default function Schedule() {
           <p className="pl-4  mb-4  text-lg leading-relaxed" >10:00am - 10:45am	Tony Polecastro: Getting Out of Your Playing Rut </p>
           <p className="pl-4  mb-4  text-lg leading-relaxed" >11:00am - 11:45am	Offset Care & Feeding with Mike Adams (@puisheen) </p>
           <p className="pl-4  mb-4  text-lg leading-relaxed" >1:00pm - 1:45pm	Live Podcast: Luthier on Luthier: Richard Hoover (Santa Cruz Guitar Co. founder) and Michael Bashkin</p>
-          <p className="pl-4  mb-4  text-lg leading-relaxed" >2:00pm - 2:45pm	The Golden Era Meets Tech with Luthier Jason Kostal </p>
-          <p className="pl-4  mb-4  text-lg leading-relaxed" >3:00pm - 3:45pm	A Martin History Masterclass with Grieg Hutton: Untold stories from the Martin Guitar Co. vaults</p>
+          <p className="pl-4  mb-4  text-lg leading-relaxed" >2:00pm - 2:45pm	Hand-Crafted vs Technology-Driven: A conversation with luthiers Jason Kostal and Mike Baranik </p>
+          <p className="pl-4  mb-4  text-lg leading-relaxed" >3:00pm - 3:45pm	A Martin History Masterclass with Greig Hutton: Untold stories from the Martin Guitar Co. vaults</p>
           <p className="pl-4  mb-4  text-lg leading-relaxed" >4:00pm - 4:45pm	The Black Banjo Reclamation Project</p>
 
           <p className="text-lg leading-relaxed" >Mabie Gallery - West</p>
