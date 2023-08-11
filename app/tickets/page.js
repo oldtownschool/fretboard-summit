@@ -118,11 +118,11 @@ export default function Tickets() {
               </ul>
             </div>
             <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-0 sm:m-2 p-4">
-              <Link href="https://www.oldtownschool.org/events/event.php?event_id=8841" className="text-center ml-1">
+              {/* <Link href="https://www.oldtownschool.org/events/event.php?event_id=8841" className="text-center ml-1"> */}
                 <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#2B6F6D] text-[#F0E5D1]  opacity-50 cursor-not-allowed">
                 SOLD OUT - Sat, Aug. 26
                 </button>
-              </Link>
+              {/* </Link> */}
               <ul className="list-disc ml-4 mt-6">
                 <li>Saturday Highlights Include:</li>
                 <li className="ml-4">Tommy Emmanuel</li>
