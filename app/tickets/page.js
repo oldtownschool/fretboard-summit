@@ -15,6 +15,26 @@ export default function Tickets() {
           <p className="text-[#F0E5D1] text-2xl">
             All-access tickets include admission to all the evening concerts, workshops, events and fun, as well as our guitar showcase. It&apos;s three days of fun and inspiring programming, crafted just for guitar people by the Fretboard Journal and the Old Town School of Folk Music.
           </p>
+
+          <p className="text-white text-lg mt-10">
+            <span className="font-bold">Guitar Showcase only - $30</span>
+          </p>
+          <div className="w-full sm:flex-row sm:flex sm:w-3/4">
+            <Link href="https://www.oldtownschool.org/events/event.php?event_id=8881" className="text-center">
+              <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1]">
+              Luthier Showcase Only - Friday,&nbsp;August&nbsp;25
+              </button>
+            </Link>
+            <Link href="https://www.oldtownschool.org/events/event.php?event_id=8882" className="text-center ml-0 sm:ml-1">
+              <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1] mt-2 sm:mt-0">
+              Luthier Showcase Only - Saturday,&nbsp;August&nbsp;26           
+              </button>
+            </Link>
+          </div>
+          <p className="text-white text-lg">
+            Tickets will also be available at the door
+          </p>
+
         </div>
 
         <div className="mb-4 sm:my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#A4CCDA] text-[#322D25] relative">
@@ -99,8 +119,8 @@ export default function Tickets() {
             </div>
             <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-0 sm:m-2 p-4">
               <Link href="https://www.oldtownschool.org/events/event.php?event_id=8841" className="text-center ml-1">
-                <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1]">
-                  Buy Day Pass: Sat, Aug. 26
+                <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#2B6F6D] text-[#F0E5D1]  opacity-50 cursor-not-allowed">
+                SOLD OUT - Sat, Aug. 26
                 </button>
               </Link>
               <ul className="list-disc ml-4 mt-6">
@@ -162,7 +182,7 @@ export default function Tickets() {
           <h2 className="mb-4 text-[#4DB3AC] font-bold uppercase text-xl tracking-widest ">
             OTHER TICKET PACKAGES:
           </h2>
-          <p className="text-white text-lg">
+          {/* <p className="text-white text-lg">
             <span className="font-bold">Guitar Showcase only - $30</span>
           </p>
           <div className="w-full sm:flex-row sm:flex sm:w-3/4">
@@ -179,7 +199,7 @@ export default function Tickets() {
           </div>
           <p className="text-white text-lg">
             Tickets will also be available at the door
-          </p>
+          </p> */}
 
           <p className="text-white text-lg mt-6">
             <span className="font-bold">Individual Concert Tickets</span>
