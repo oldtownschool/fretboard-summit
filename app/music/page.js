@@ -48,6 +48,10 @@ export default function Music() {
               Saturday, August 26
               <br />
               <span className="font-bold">Tommy Emmanuel</span>
+              <br />{" "}
+              <span className="font-light tracking-wider">
+              plus Jack Broadbent
+              </span>
             </h2>
           </div>
         </div>
@@ -70,7 +74,7 @@ export default function Music() {
               <span className="font-bold">JEFF PARKER</span>
               <br />{" "}
               <span className="font-light tracking-wider">
-              & SPECIAL GUEST OPENER
+              & SPECIAL GUEST FINOM
               </span>
             </h2>
             <p></p>
