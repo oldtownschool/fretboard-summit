@@ -50,7 +50,7 @@ export default function Music() {
               <span className="font-bold">Tommy Emmanuel</span>
               <br />{" "}
               <span className="font-light tracking-wider">
-              plus Jack Broadbent
+               PLUS JACK BROADBENT
               </span>
             </h2>
           </div>
