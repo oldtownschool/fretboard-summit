@@ -11,24 +11,82 @@ export default function Luthiers() {
 
         <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#A4CCDA] text-[#322D25]">
           <h2 className="tracking-wider font-aurochs font-normal uppercase text-5xl text-center">
-            CONNECT WITH THE WORLD’S GREATEST GUITAR MAKERS AND TAKE HOME YOUR
-            NEXT FAVORITE INSTRUMENT
+          CONNECT WITH THE WORLD’S GREATEST GUITAR MAKERS AND TAKE HOME YOUR NEW FAVORITE GEAR
           </h2>
-          <p className="font-bold text-2xl my-6">
-          The world&apos;s greatest and best-known guitar makers 	&#40;acoustic and
-          electric&#41; will be showcasing their creations just for our Chicago
-          event. Among the exhibitors: Martin Guitar Co, Santa Cruz Guitars,
-          Collings Guitars, Yamaha, Bourgeois Guitars, RØDE, Henriksen
-          Amplifiers, Taylor Guitars, Preston Thompson, Bryan Galloup/Galloup
-          School of Lutherie, Iris Guitars. Huss & Dalton Guitars, Northfield
-          Instruments, and Pre-War Guitars. Our friends from D&apos;Addario, Acoustic
-          Coffee and Pacific Rim Tonewoods will also be on-hand.</p>
 
-          <p className="font-bold text-2xl my-6">Into handmade and luthier-built creations? We&apos;ve assembled a once-in-a-lifetime showcase featuring some of the world&apos;s finest luthiers, spread out between Old Town School&apos;s two buildings.
-          </p>
+          <p className="font-bold text-2xl mt-6">The greatest and best-known guitar makers on the planet (acoustic & electric) will be showcasing their creations just for our Chicago event. We&apos;ve assembled a once-in-a-lifetime showcase featuring some of the world&apos;s finest luthiers, electronics wizards, and world-famous brands at Fretboard Summit 2023.</p>
+
+          <p className="font-bold text-2xl my-4">Use this guide to find your favorite Fretboard Summit exhibitors, sponsors, and friends across the two Old Town School of Folk Music buildings below.</p>
 
           <h4>Exhibitors include:</h4>
-          <ul className="list-disc ml-4 mt-6">
+
+          <table class="table-auto">
+            <thead>
+              <tr>
+                <th class="text-left">Exhibitor</th>
+                <th class="text-left">Location</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td><Link href="https://www.3bender.com/">3 Bender Guitars</Link></td>
+                <td>West - 102</td>
+              </tr>
+              <tr>
+              <td><Link href="https://www.apollopicks.com/">Apollo Picks</Link></td>
+                <td>West - Lobby</td>
+              </tr>
+              <tr>
+              <td><Link href="https://www.baranikguitars.com/">Baranik Guitars</Link></td>
+                <td>West - 102</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.bashkinguitars.com/">Bashkin Guitars</Link></td>
+                <td>West - 102</td>
+              </tr>
+              <tr>
+                <td><Link href="https://bighollowguitars.com/">Big Hollow Guitars</Link></td>
+                <td>East - E326</td>
+              </tr>
+              <tr>
+                <td><Link href="https://blackbobbin.com/">Black Bobbin</Link></td>
+                <td>West - 102</td>
+              </tr>
+              <tr>
+                <td><Link href="https://bourgeoisguitars.com/">Bourgeois Guitars</Link></td>
+                <td>East - E124</td>
+              </tr>
+              <tr>
+                <td><Link href="https://bruceguitars.com">Bruce Guitars</Link></td>
+                <td>East - E324</td>
+              </tr>
+              <tr>
+                <td><Link href="https://cardinalinstruments.com/">Cardinal Instruments</Link></td>
+                <td>West - 102</td>
+              </tr>
+              <tr>
+                <td><Link href="https://cedarcreekcases.com/">Cedar Creek Custom Case Shoppe</Link></td>
+                <td>East - E330</td>
+              </tr>
+              <tr>
+                <td><Link href="https://cedarmtm.com">Cedar Mountain Mandolins</Link></td>
+                <td>East - E326</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.chicagoluthiers.com">Chicago Luthiers Workshop</Link></td>
+                <td>West - Music Store</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.collingsguitars.com/">Collings Guitars</Link></td>
+                <td>East - E221</td>
+              </tr>
+              <tr>
+                <td><Link href="https://dammanninstruments.com">Dammann Custom Instruments</Link></td>
+                <td>East - E326</td>
+              </tr>
+            </tbody>
+          </table>
+          {/* <ul className="list-disc ml-4 mt-6">
             <li>Bruce Guitars </li>
             <li>3 Bender Guitars</li>
             <li>Acoustic Remedy Cases</li>
@@ -82,22 +140,13 @@ export default function Luthiers() {
             <li>Hybrid Guitars</li>
             <li>ZVEX Effects</li>
             <li>Duneland Labs</li>
-          </ul>
+          </ul> */}
 
           <p className="text-xl my-6">Note: Most of the luthiers will have guitars available for purchase. Most of these brands are showcasing never-before-seen and new instruments, as well. Nearly all of them will have their head designers/builders present &#40;ie Bob Taylor himself will be attending for Taylor; Steve McCreary will be attending for Collings, etc&#41;. We will have quiet rooms and amp rooms available for demos.</p>
 
         </div>
 
-        <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#F0E5D1] text-[#322D25]">
-          {/* <div className="flex justify-center">
-            <Image
-              src="/JormaKaukonen.jpeg"
-              alt="Jorma Kaukonen"
-              className=""
-              width={600}
-              height={600}
-            />
-          </div> */}
+        {/* <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#F0E5D1] text-[#322D25]">
           <h2 className="tracking-wider font-aurochs font-normal uppercase text-5xl text-center my-6">
             Sponsor &amp; Partner Applications Now Available
           </h2>
@@ -117,7 +166,7 @@ export default function Luthiers() {
               Buy Tickets
             </button>
           </Link>
-        </div>
+        </div> */}
 
 
       </main>

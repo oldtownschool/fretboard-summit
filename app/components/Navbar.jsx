@@ -53,7 +53,7 @@ export const Navbar = () => {
             </Link>
             <Link href="/luthiers">
               <li className="mx-2 p-2 uppercase hover:bg-[#4DB3AC] hover:text-white">
-                Luthiers
+                Exhibitors
               </li>
             </Link>
             <Link href="/schedule">
@@ -126,7 +126,7 @@ export const Navbar = () => {
                 onClick={() => handleNav(!menuOpen)}
                 className="py-4 uppercase hover:bg-[#4DB3AC] hover:text-white"
               >
-                Luthiers
+                Exhibitors
               </li>
             </Link>
             <Link href="/schedule">

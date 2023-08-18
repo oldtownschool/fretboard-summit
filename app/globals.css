@@ -93,3 +93,15 @@ body {
   border:none; 
   min-height:539px;
 }
+
+th, td{
+  border: 2px solid black;
+  padding: 0.25em;
+}
+tr:hover {
+  background: antiquewhite;
+}
+thead>tr:hover {
+  background: #A4CCDA;
+  cursor:default;
+}

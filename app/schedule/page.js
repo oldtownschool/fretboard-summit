@@ -9,8 +9,9 @@ export default function Schedule() {
   return (
     <>
       {/* <link href="/slider.css" rel="stylesheet"></link> */}
-      <Script src="/jquery.js" as="script" strategy="beforeInteractive"></Script>
-      <Script src="/slickslider.js" ></Script>
+      {/* <Script src="/jquery.js" as="script" strategy="beforeInteractive"></Script>
+      <Script src="/slickslider.js" ></Script> */}
+      
       
       
       <Navbar />
