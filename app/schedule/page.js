@@ -144,7 +144,7 @@ export default function Schedule() {
 
 
           <p className="text-lg leading-relaxed" >Mabie Gallery - West</p>
-          <p className="pl-4 mb-4  text-lg leading-relaxed" >12:00pm - 12:45pm Broozy & Lennon - discussion and performances on OTSFM's Big Bill Broonzy and John Lennon's Martin Guitars. With Chris Walz, Rebecca Jasso, Dick Boak, and Colby Maddox</p>
+          <p className="pl-4 mb-4  text-lg leading-relaxed" >12:00pm - 12:45pm Broozy & Lennon - discussion and performances on OTSFM&apos;s Big Bill Broonzy and John Lennon&apos;s Martin Guitars. With Chris Walz, Rebecca Jasso, Dick Boak, and Colby Maddox</p>
 
           <p className="pl-4 text-lg leading-relaxed" >B6 West - Basement</p>
           <p className="pl-4 mb-4  text-lg leading-relaxed" >11:00am - 4:00pm	The Truth About Vintage Amps Room: Try Some Truly Unique and Rare Tube Amps As Mentioned on the Podcast</p>

@@ -265,7 +265,7 @@ export default function Luthiers() {
                 <td>East - E326</td>
               </tr>
               <tr>
-                <td><Link href="https://tonypolecastro.com/">Tony's Acoustic Challenge (Tony Polecastro)</Link></td>
+                <td><Link href="https://tonypolecastro.com/">Tony&apos;s Acoustic Challenge (Tony Polecastro)</Link></td>
                 <td>East - E128</td>
               </tr>
               <tr>
