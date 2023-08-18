@@ -18,8 +18,6 @@ export default function Luthiers() {
 
           <p className="font-bold text-2xl my-4">Use this guide to find your favorite Fretboard Summit exhibitors, sponsors, and friends across the two Old Town School of Folk Music buildings below.</p>
 
-          <h4>Exhibitors include:</h4>
-
           <table class="table-auto">
             <thead>
               <tr>
@@ -31,10 +29,6 @@ export default function Luthiers() {
               <tr>
                 <td><Link href="https://www.3bender.com/">3 Bender Guitars</Link></td>
                 <td>West - 102</td>
-              </tr>
-              <tr>
-              <td><Link href="https://www.apollopicks.com/">Apollo Picks</Link></td>
-                <td>West - Lobby</td>
               </tr>
               <tr>
               <td><Link href="https://www.baranikguitars.com/">Baranik Guitars</Link></td>
