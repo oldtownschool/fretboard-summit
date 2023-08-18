@@ -84,6 +84,214 @@ export default function Luthiers() {
                 <td><Link href="https://dammanninstruments.com">Dammann Custom Instruments</Link></td>
                 <td>East - E326</td>
               </tr>
+              <tr>
+                <td><Link href="https://www.dunelandlabs.com">Duneland Labs</Link></td>
+                <td>East - E328</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.drherringbone.com">Dr. Herringbone</Link></td>
+                <td>East - E328</td>
+              </tr>
+              <tr>
+                <td><Link href="https://fetellierguitars.com">FE Tellier Guitars</Link></td>
+                <td>East - E328</td>
+              </tr>
+              <tr>
+                <td><Link href="https://flammangguitars.com">Flammang Guitars</Link></td>
+                <td>East - E328</td>
+              </tr>
+              <tr>
+                <td><Link href="https://gallagherguitar.com">Gallagher Guitars</Link></td>
+                <td>East - E330</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.galloupguitars.com/galloup-school/">Galloup School Of Guitar Building & Repair</Link></td>
+                <td>East - Lobby</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.grezguitars.com">Grez Guitars</Link></td>
+                <td>West - 102</td>
+              </tr>
+              <tr>
+                <td><Link href="http://www.h-guitars.com">H Guitars</Link></td>
+                <td>East - E330</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.henriksenamplifiers.com/">Henriksen Amplifiers Listening Room</Link></td>
+                <td>East - E320</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.carbonfibercases.com/">Hoffee Cases</Link></td>
+                <td>East - E326</td>
+              </tr>
+              <tr>
+                <td><Link href="https://hybrid-guitars.com/">Hybrid Guitars</Link></td>
+                <td>East - E324</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.jrieck.com/">J. Rieck Lutherie</Link></td>
+                <td>East - E330</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.irisguitarcompany.com/">Iris Guitar Company</Link></td>
+                <td>East - E328</td>
+              </tr>
+              <tr>
+                <td><Link href="https://kostalguitars.com/">Jason Kostal Guitars</Link></td>
+                <td>West - 102</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.jhspedals.info/">JHS Pedals</Link></td>
+                <td>West - 102</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.kelleylaneguitars.com/">Lane Guitars</Link></td>
+                <td>East - E326</td>
+              </tr>
+              <tr>
+                <td><Link href="http://www.lattanzeguitars.com/">Lattanze Guitars</Link></td>
+                <td>East - E326</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.leavittlutherie.com/">Leavitt Stringed Instruments</Link></td>
+                <td>East - E328</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.lockhorninstruments.com">Lockhorn Instruments</Link></td>
+                <td>East - E328</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.lyonhealy.com">Lyon and Healy</Link></td>
+                <td>East - E324</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.m-tone.com">M-Tone Guitars</Link></td>
+                <td>East - E330</td>
+              </tr>
+              <tr>
+                <td><Link href="http://www.maegenwellsguitars.com">Maegen Wells Guitars & Mandolins</Link></td>
+                <td>East - E326</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.martinguitar.com/">Martin Guitar</Link></td>
+                <td>East - E220</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.michaelkennedyguitars.com">Michael Kennedy Guitars</Link></td>
+                <td>East - E326</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.mojotone.com">Mojotone</Link></td>
+                <td>West - 102</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.motanderguitars.com">Motander Guitars</Link></td>
+                <td>East - E330</td>
+              </tr>
+              <tr>
+                <td><Link href="https://musiccitybridge.com">Music City Bridge</Link></td>
+                <td>East - E330</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.noemiguitars.com">Noemi Guitars</Link></td>
+                <td>East - E326</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.northfieldinstruments.com">Northfield Instruments</Link></td>
+                <td>West - Music Store</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.northwoodsluthiers.com">North Woods Luthiers</Link></td>
+                <td>East - E324</td>
+              </tr>
+              <tr>
+                <td><Link href="https://musicstore.oldtownschool.org">Old Town School Music Store</Link></td>
+                <td>West - Music Store</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.oldtownschool.org/resourcecenter/">Old Town School of Folk Music Resource Center</Link></td>
+                <td>West - Basement</td>
+              </tr>
+              <tr>
+                <td><Link href="https://pacificrimtonewoods.com/">Pacific Rim Tonewoods</Link></td>
+                <td>East - E324</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.phoenixguitarco.com">Phoenix Guitars</Link></td>
+                <td>East - E330</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.pre-warguitars.com">Pre-War Guitars Co.</Link></td>
+                <td>East - E324</td>
+              </tr>
+              <tr>
+                <td><Link href="https://pktguitars.com/">Preston Thompson Guitars</Link></td>
+                <td>East - E328</td>
+              </tr>
+              <tr>
+                <td><Link href="https://robertrobinsonguitars.com">R. Robinson Guitars</Link></td>
+                <td>East - E326</td>
+              </tr>
+              <tr>
+                <td><Link href="https://reywasguitars.com">Reywas Guitars</Link></td>
+                <td>East - E328</td>
+              </tr>
+              <tr>
+                <td><Link href="https://rode.com/en-us">RØDE Microphones</Link></td>
+                <td>East - E126</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.saersguitars.com">Saers Guitars</Link></td>
+                <td>East - E328</td>
+              </tr>
+              <tr>
+                <td><Link href="https://santacruzguitar.com/">Santa Cruz Guitar Company</Link></td>
+                <td>East - E123</td>
+              </tr>
+              <tr>
+                <td><Link href="https://shockthefox.com">Shock the Fox</Link></td>
+                <td>East - E328</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.shure.com/en-US">Shure Products</Link></td>
+                <td>East - E328</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.taylorguitars.com/">Taylor Guitars</Link></td>
+                <td>West - 101</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.heinonenguitars.com">T. Drew Heinonen Guitars</Link></td>
+                <td>East - E326</td>
+              </tr>
+              <tr>
+                <td><Link href="https://tonypolecastro.com/">Tony's Acoustic Challenge (Tony Polecastro)</Link></td>
+                <td>East - E128</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.treehouseguitars.com">Treehouse Guitars</Link></td>
+                <td>East - E326</td>
+              </tr>
+              <tr>
+                <td><Link href="https://sothguitars.com">Tyson Soth Guitar Co.</Link></td>
+                <td>West - 102</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.uberfrankguitars.com">Uberfrank</Link></td>
+                <td>West - 102</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.widmancustomelectrics.com">Widman Custom Electrics</Link></td>
+                <td>East - E330</td>
+              </tr>
+              <tr>
+                <td><Link href="https://usa.yamaha.com/products/musical_instruments/guitars_basses/index.html">Yamaha</Link></td>
+                <td>East - E322</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.zvex.com">ZVEX Effects</Link></td>
+                <td>West - 102</td>
+              </tr>
             </tbody>
           </table>
           {/* <ul className="list-disc ml-4 mt-6">

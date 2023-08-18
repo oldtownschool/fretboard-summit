@@ -71,38 +71,38 @@ export default function Schedule() {
           <p className="italic mb-4  text-lg" >Exclusive For Three-Day All-Access Pass Holders Only</p>
 
           <p className="underline font-bold mt-4 leading-relaxed" >Check-In - West Lobby</p>
-          <p className=" mb-4  text-lg leading-relaxed" >12:00pm - 4:00pm</p>
+          <p className="pl-4  mb-4  text-lg leading-relaxed" >12:00pm - 4:00pm</p>
 
           <p className="underline font-bold mt-4  text-lg leading-relaxed" >Welcome Remarks</p>
           <p className="text-lg leading-relaxed" >Maurer Hall - West</p>
-          <p className=" mb-4  text-lg leading-relaxed" >12:30pm  Welcome Remarks with Jason Verlinde, Jim Newcomb, and Acoustic Life’s Tony Polecastro</p>
+          <p className="pl-4  mb-4  text-lg leading-relaxed" >12:30pm  Welcome Remarks with Jason Verlinde, Jim Newcomb, and Acoustic Life’s Tony Polecastro</p>
 
           <p className="underline font-bold mt-4  text-lg leading-relaxed" >Luthier Showcase</p>
           <p className="text-lg leading-relaxed" >East bldg (floors 1-3), West bldg (floors 1 & 2)</p>
-          <p className=" mb-4  text-lg leading-relaxed" >1:00pm - 5:00pm	Preview Showcase Exhibit Halls Open</p>
+          <p className="pl-4  mb-4  text-lg leading-relaxed" >1:00pm - 5:00pm	Preview Showcase Exhibit Halls Open</p>
 
           <p className="mt-4  text-lg leading-relaxed" >Mabie Gallery - West</p>
-          <p className=" mb-4  text-lg leading-relaxed" >5:00pm - 6:00pm	Welcome Reception - Drinks & Light Snacks
+          <p className="pl-4  mb-4  text-lg leading-relaxed" >5:00pm - 6:00pm	Welcome Reception - Drinks & Light Snacks
           </p>
           <p className="italic">Presented by Henriksen Amplifiers</p>
 
           <p className="underline font-bold mt-4  text-lg leading-relaxed" >Concert Performances</p>
           <p className="italic mb-4  text-lg" >Exclusive For Three-Day All-Access Pass Holders Only</p>
           <p className="text-lg leading-relaxed" >Maurer Hall - West </p>
-          <p className="mb-4  text-lg leading-relaxed" >4:00pm - 5:00pm	Joey Landreth</p>
+          <p className="pl-4 mb-4  text-lg leading-relaxed" >4:00pm - 5:00pm	Joey Landreth</p>
           <p className="text-lg leading-relaxed" >Maurer Hall - West </p>
-          <p className="mb-4  text-lg leading-relaxed" >7:15pm		Doors Open For Concert Seating, General Admission</p>
-          <p className="mb-4  text-lg leading-relaxed" >8:00pm		Finom </p>
-          <p className="mb-4  text-lg leading-relaxed" >9:00pm		Jeff Parker</p>
+          <p className="pl-4 mb-4  text-lg leading-relaxed" >7:15pm		Doors Open For Concert Seating, General Admission</p>
+          <p className="pl-4 mb-4  text-lg leading-relaxed" >8:00pm		Finom </p>
+          <p className="pl-4 mb-4  text-lg leading-relaxed" >9:00pm		Jeff Parker</p>
 
           <p className="underline font-bold mt-4  text-lg leading-relaxed" > Workshops, Jams, Interviews, Talks, & More</p>
-          <p className="text-lg leading-relaxed" >11:00-11:45		Luthier Lunch & Learn w/ Pacific Rim Tonewoods
+          <p className="pl-4 text-lg leading-relaxed" >11:00-11:45		Luthier Lunch & Learn w/ Pacific Rim Tonewoods
           </p>
-          <p className="italic mb-4">(exclusive content for luthiers)</p>
+          <p className="pl-4 italic mb-4">(exclusive content for luthiers)</p>
 
           <p className="text-lg leading-relaxed" >Maurer Hall - East </p>
-          <p className="mb-4  text-lg leading-relaxed" >2:00pm - 3:00PM	Ordering Your First Custom Guitar & How To Get It Right with Paul Heumiller of Dream Guitars</p>
-          <p className="mb-4  text-lg leading-relaxed" >3:00pm - 4:00PM	The Guitar Market Today with Lillian Werbin (Elderly), Mark Stutman (Folkway Music), and guests</p>
+          <p className="pl-4 mb-4  text-lg leading-relaxed" >2:00pm - 3:00PM	Ordering Your First Custom Guitar & How To Get It Right with Paul Heumiller of Dream Guitars</p>
+          <p className="pl-4 mb-4  text-lg leading-relaxed" >3:00pm - 4:00PM	The Guitar Market Today with Lillian Werbin (Elderly), Mark Stutman (Folkway Music), and guests</p>
 
 
           <p className="mt-4  text-lg leading-relaxed" >West Cafe & Bar open 1:00pm - 5:00pm & during concerts<br/>
@@ -116,13 +116,13 @@ export default function Schedule() {
           <h3 className="font-aurochs mt-10 uppercase text-3xl sm:text-4xl tracking-wider leading-relaxed" >Friday, August 25th</h3>
 
           <p className="underline font-bold mt-4  text-lg leading-relaxed" >Check-In - West Lobby</p>
-          <p className=" mb-4  text-lg leading-relaxed" >9:30am - 4:00pm	For Single Day All-Access Passholders & Luthier Showcase Day Passes </p>
+          <p className="pl-4  mb-4  text-lg leading-relaxed" >9:30am - 4:00pm	For Single Day All-Access Passholders & Luthier Showcase Day Passes </p>
 
           <p className="underline font-bold mt-4  text-lg leading-relaxed" >Luthier Showcase</p>
           <p className="text-lg leading-relaxed" >East, 3rd Floor</p>
-          <p className=" mb-4  text-lg leading-relaxed" >10:00am - 12:30pm	Luthier Showcase Exhibit Halls Open</p>
-          <p className=" mb-4  text-lg leading-relaxed" >12:30pm-1:30pm 	Exhibitor Break Time, Exhibits closed</p>
-          <p className=" mb-4  text-lg leading-relaxed" >1:30pm - 5:00pm	Luthier Showcase Exhibit Halls Open</p>
+          <p className="pl-4 mb-4  text-lg leading-relaxed" >10:00am - 12:30pm	Luthier Showcase Exhibit Halls Open</p>
+          <p className="pl-4 mb-4  text-lg leading-relaxed" >12:30pm-1:30pm 	Exhibitor Break Time, Exhibits closed</p>
+          <p className="pl-4 mb-4  text-lg leading-relaxed" >1:30pm - 5:00pm	Luthier Showcase Exhibit Halls Open</p>
 
           <p className="underline font-bold mt-4  text-lg leading-relaxed" >Workshops, Jams, Interviews, Talks, & More</p>
           <p className="italic mb-4  text-lg" >All-Access Three-Day and All-Access Single-Day Pass holders can attend any workshops & events. Seating is general admission.</p>
@@ -140,11 +140,11 @@ export default function Schedule() {
           <p className="pl-4  mb-4  text-lg leading-relaxed" >12:00pm - 12:45pm	Workshop: Joey Landreth</p>
           <p className="pl-4  mb-4  text-lg leading-relaxed" >1:00pm - 1:45pm	Workshop: Jeff Parker </p>
           <p className="pl-4  mb-4  text-lg leading-relaxed" >2:00pm - 2:45pm	Play Nice: The Art & Science of the Spontaneous Guitar Duo With Ethan Sherman & Adam Levy </p>
+          <p className="pl-4 mb-4  text-lg leading-relaxed" >3:00pm - 4:30pm	The Summit Science Fair: Forward-Thinking Gear & Composing feat. Andy Pitcher, Duncan Price and special guests</p>
 
 
           <p className="text-lg leading-relaxed" >Mabie Gallery - West</p>
-
-          <p className="pl-4 mb-4  text-lg leading-relaxed" >3:00pm - 4:30pm	The Summit Science Fair: Forward-Thinking Gear & Composing feat. Andy Pitcher, Duncan Price and special guests</p>
+          <p className="pl-4 mb-4  text-lg leading-relaxed" >12:00pm - 12:45pm Broozy & Lennon - discussion and performances on OTSFM's Big Bill Broonzy and John Lennon's Martin Guitars. With Chris Walz, Rebecca Jasso, Dick Boak, and Colby Maddox</p>
 
           <p className="pl-4 text-lg leading-relaxed" >B6 West - Basement</p>
           <p className="pl-4 mb-4  text-lg leading-relaxed" >11:00am - 4:00pm	The Truth About Vintage Amps Room: Try Some Truly Unique and Rare Tube Amps As Mentioned on the Podcast</p>
@@ -158,11 +158,11 @@ export default function Schedule() {
           <p className="italic mb-4  text-lg" >Concert performances are included with 3-Day All-Access and 1-Day All Access Pasess only. Limited tickets may be available for purchase, see box office for details. Seating is general admission. </p>
 
           <p className="text-lg leading-relaxed" >Maurer Hall - West</p>
-          <p className="text-lg leading-relaxed" >7:15pm		Doors Open For Concert Seating, General Admission</p>
-          <p className="mb-4  text-lg leading-relaxed" >8:00pm 		Jorma Kaukonen with Jack Broadbent opening</p>
+          <p className="pl-4 text-lg leading-relaxed" >7:15pm		Doors Open For Concert Seating, General Admission</p>
+          <p className="pl-4 mb-4  text-lg leading-relaxed" >8:00pm 		Jorma Kaukonen with Jack Broadbent opening</p>
 
           <p className="text-lg leading-relaxed" >Szold Hall - East</p>
-          <p className="mb-4  text-lg leading-relaxed" >9:00pm		Summit Shorts: All-star short sets featuring Jake Eddy, Adam Levy & Ethan Sherman, and other surprise guests. </p>
+          <p className="pl-4 mb-4  text-lg leading-relaxed" >9:00pm		9:00pm Summit Shorts: All-star short sets featuring Daniel Marcus Clark, Adam Levy & Ethan Sherman, Jamie Stillway, and other surprise guests. Featuring Jake Eddy.</p>
 
           <p className="mt-4 text-lg leading-relaxed" >Cafe & Bars open 1:00pm - 5:00pm & during concerts<br/>
           <a href="https://musicstore.oldtownschool.org">Old Town School Music Store</a> open 11:00am - 5:00pm<br/>
@@ -177,9 +177,9 @@ export default function Schedule() {
 
           <p className="underline font-bold mt-4  text-lg leading-relaxed" >Luthier Showcase</p>
           <p className="text-lg leading-relaxed" >East, 3rd Floor</p>
-          <p className=" mb-4  text-lg leading-relaxed" >10:00am - 12:30pm	Luthier Showcase Exhibit Halls Open</p>
-          <p className=" mb-4  text-lg leading-relaxed" >12:30pm-1:30pm 	Exhibitor Break Time, Exhibits closed</p>
-          <p className=" mb-4  text-lg leading-relaxed" >1:30pm - 5:00pm	Luthier Showcase Exhibit Halls Open</p>
+          <p className="pl-4  mb-4  text-lg leading-relaxed" >10:00am - 12:30pm	Luthier Showcase Exhibit Halls Open</p>
+          <p className="pl-4  mb-4  text-lg leading-relaxed" >12:30pm-1:30pm 	Exhibitor Break Time, Exhibits closed</p>
+          <p className="pl-4  mb-4  text-lg leading-relaxed" >1:30pm - 5:00pm	Luthier Showcase Exhibit Halls Open</p>
 
           <p className="underline font-bold mt-4  text-lg leading-relaxed" >Workshops, Jams, Interviews, Talks, & More</p>
           <p className="italic mb-4  text-lg" >All-Access Three-Day and All-Access Single-Day Pass holders can attend any workshops & events. Seating is general admission.</p>
@@ -202,15 +202,16 @@ export default function Schedule() {
 
           <p className="text-lg leading-relaxed" >Mabie Gallery - West</p>
 
-          <p className="pl-4 text-lg leading-relaxed" >11:00am - 11:45pm	Workshop: Stevie Wonder, Cole Porter, Beatles & Carole King for Fingerstyle Guitar With Michael J. Miles</p>
-          <p className="pl-4 text-lg leading-relaxed" >3:00pm - 3:45pm	Workshop: Effects Pedals For Guitarists with Charles Kim</p>
+          <p className="pl-4 mb-4 text-lg leading-relaxed" >11:00am - 11:45pm	Workshop: Stevie Wonder, Cole Porter, and The Beatles for Fingerstyle Guitar With Michael J. Miles</p>
+          <p className="pl-4 mb-4 text-lg leading-relaxed" >12:00pm - 12:45pm Introduction to Powers Electrics with Andy Powers. Interview by Josh Scott (JHS) and special guest Drew Shirley (Switchfoot) </p>
+          <p className="pl-4 mb-4 text-lg leading-relaxed" >3:00pm - 3:45pm	Workshop: Effects Pedals For Guitarists with Charles Kim</p>
           <p className="pl-4 mb-4  text-lg leading-relaxed" >4:00pm - 5:00pm	The Friends of G. Weller Happy Hour</p>
 
 
-          <p className="pl-4 text-lg leading-relaxed" >West, B6 - Basement</p>
+          <p className="text-lg leading-relaxed" >West, B6 - Basement</p>
           <p className="pl-4 mb-4  text-lg leading-relaxed" >11:00am - 4:00pm	The Truth About Vintage Amps Room: Try Some Truly Unique and Rare Tube Amps As Mentioned on the Podcast</p>
 
-          <p className="pl-4 text-lg leading-relaxed" >West, 211 & 212 - Second Floor</p>
+          <p className="text-lg leading-relaxed" >West, 211 & 212 - Second Floor</p>
           <p className="pl-4 mb-4  text-lg leading-relaxed" >11:00am - 4:00pm	The Blue Guitars Exhibition from the Archtop Foundation</p>
 
 
@@ -219,13 +220,13 @@ export default function Schedule() {
           <p className="italic mb-4  text-lg" >Concert performances are included with 3-Day All-Access and 1-Day All Access Pasess only. Limited tickets may be available for purchase, see box office for details. Seating is general admission.</p>
 
           <p className="text-lg leading-relaxed" >Maurer Hall - West</p>
-          <p className="mb-4  text-lg leading-relaxed" >7:15pm		Doors Open For Concert Seating, General Admission</p>
-          <p className="mb-4  text-lg leading-relaxed" >8:00pm 		Tommy Emmanuel with Nathan Graham opening</p>
+          <p className="pl-4 mb-4  text-lg leading-relaxed" >7:15pm		Doors Open For Concert Seating, General Admission</p>
+          <p className="pl-4 mb-4  text-lg leading-relaxed" >8:00pm 		Tommy Emmanuel with Nathan Graham opening</p>
 
 
           <p className="text-lg leading-relaxed" >Szold Hall - East</p>
-          <p className="text-lg leading-relaxed" >8:00pm		Via Mardot scores the 1934 stop-motion masterpiece, The Mascot</p>
-          <p className="mb-4 text-lg leading-relaxed" >After performances	Late Night “Summit All-Star Super Session:” Ethan Sherman, Adam Levy, Ryan Richter and special guests </p>
+          <p className="pl-4 mb-4 text-lg leading-relaxed" >8:00pm		Via Mardot scores the 1934 stop-motion masterpiece, <span class="italic">The Mascot</span></p>
+          <p className="pl-4 mb-4 text-lg leading-relaxed" >9:00pm After performances	Late Night “Summit All-Star Super Session:” Ethan Sherman, Adam Levy, Ryan Richter and special guests </p>
 
           <p className="mt-4  text-lg leading-relaxed" >Cafe & Bars open 11:00am - 5:00pm & during concerts <br/>
           <a href="https://musicstore.oldtownschool.org">Old Town School Music Store</a> open 11:00am - 5:00pm<br/>
