@@ -135,7 +135,6 @@ export default function Schedule() {
           <p className="pl-4  mb-4  text-lg leading-relaxed" >3:00pm - 4:30pm	Vintage Acoustic repair and restoration with Mark Stutman & TJ Thompson</p>
 
           <p className="text-lg leading-relaxed" >Szold Hall - East</p>
-          <p className="pl-4  mb-4  text-lg leading-relaxed" >9:00pm Summit Shorts: An eclectic array of sets featuring Jamie Stillway, Daniel Marcus Clark, Wayne Henderson, Jake Eddy & guests.</p>
           <p className="pl-4  mb-4  text-lg leading-relaxed" >10:00am - 10:45am	The Art of Inlay: Simon Haycraft (Preston Thompson), Jayne Henderson, and friends</p>
           <p className="pl-4  mb-4  text-lg leading-relaxed" >11:00am - 11:45pm	Workshop: Flatpicking with Jake Eddy</p>
           <p className="pl-4  mb-4  text-lg leading-relaxed" >12:00pm - 12:45pm	Workshop: Joey Landreth</p>
@@ -146,6 +145,8 @@ export default function Schedule() {
 
           <p className="text-lg leading-relaxed" >Mabie Gallery - West</p>
           <p className="pl-4 mb-4  text-lg leading-relaxed" >12:00pm - 12:45pm Broozy & Lennon - discussion and performances on OTSFM&apos;s Big Bill Broonzy and John Lennon&apos;s Martin Guitars. With Chris Walz, Rebecca Jasso, Dick Boak, and Colby Maddox</p>
+
+          <p className="pl-4 mb-4  text-lg leading-relaxed" >4:00pm - 4:45pm  I Am Bob Taylor of Taylor Guitars...Live AMA: Ask one of the guitar world's most successful figures anything you want about running a guitar company, inventing, sustainability, design or life. </p>
 
           <p className="pl-4 text-lg leading-relaxed" >B6 West - Basement</p>
           <p className="pl-4 mb-4  text-lg leading-relaxed" >11:00am - 4:00pm	The Truth About Vintage Amps Room: Try Some Truly Unique and Rare Tube Amps As Mentioned on the Podcast</p>
@@ -163,7 +164,7 @@ export default function Schedule() {
           <p className="pl-4 mb-4  text-lg leading-relaxed" >8:00pm 		Jorma Kaukonen with Jack Broadbent opening</p>
 
           <p className="text-lg leading-relaxed" >Szold Hall - East</p>
-          <p className="pl-4 mb-4  text-lg leading-relaxed" >9:00pm		9:00pm Summit Shorts: All-star short sets featuring Daniel Marcus Clark, Adam Levy & Ethan Sherman, Jamie Stillway, and other surprise guests. Featuring Jake Eddy.</p>
+          <p className="pl-4 mb-4  text-lg leading-relaxed" >8:30pm Summit Shorts: All-star short sets featuring Daniel Marcus Clark, Paul Asbell, Adam Miller, Jamie Stillway, Wayne Henderson & Jake Eddy.</p>
 
           <p className="mt-4 text-lg leading-relaxed" >Cafe & Bars open 1:00pm - 5:00pm & during concerts<br/>
           <a href="https://musicstore.oldtownschool.org">Old Town School Music Store</a> open 11:00am - 5:00pm<br/>
