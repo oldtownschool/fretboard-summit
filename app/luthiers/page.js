@@ -374,16 +374,16 @@ export default function Luthiers() {
           </h2>
 
           <h4 className="tracking-wider font-aurochs font-normal uppercase text-3xl my-6">
-          Pre War Guitars Co. '34-Style Bar Fret Dreadnought
+          Pre War Guitars Co. &apos;34-Style Bar Fret Dreadnought
           </h4>
           <p className="text-xl">
-          "This guitar represents the next step in the Pre-War Guitars Co.'s quest for vintage tone. It's the first guitar to feature our new '34 Style upgrade package, featuring a non-adjustable ebony reinforced neck, and bar frets- a true compression fretted instrument. 
+          "This guitar represents the next step in the Pre-War Guitars Co.&apos;s quest for vintage tone. It&apos;s the first guitar to feature our new &apos;34 Style upgrade package, featuring a non-adjustable ebony reinforced neck, and bar frets- a true compression fretted instrument. 
           </p>
           <p className="text-xl mt-2 ">
           Along with all our standard elements- torrefied red spruce top and bracing, hot hide glue construction, hand carved neck, top and back bracing, super thin nitrocellulose lacquer finish, and hand fit dovetail neck joint; the result is a 3.5lb tone monster. 
           </p>
           <p className="text-xl mt-2 ">
-          We're excited to put the things we learned building the Blake guitars to work on our full slate of 14 fret guitars, and this one is the first. We're also proud to support the Fretboard Summit, and to be a part of such a great event.
+          We&apos;re excited to put the things we learned building the Blake guitars to work on our full slate of 14 fret guitars, and this one is the first. We&apos;re also proud to support the Fretboard Summit, and to be a part of such a great event.
           </p>
 
           <h4 className="tracking-wider text-3xl font-aurochs my-6 uppercase text-[#2B6F6D]">
