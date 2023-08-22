@@ -157,7 +157,7 @@ export default function Schedule() {
 
 
           <p className="underline font-bold mt-4  text-lg leading-relaxed" >Concert Performances</p>
-          <p className="italic mb-4  text-lg" >Concert performances are included with 3-Day All-Access and 1-Day All Access Pasess only. Limited tickets may be available for purchase, see box office for details. Seating is general admission. </p>
+          <p className="italic mb-4 text-lg" >Concert performances are included with 3-Day All-Access and 1-Day All Access Pasess only. Limited tickets may be available for purchase, see box office for details. Seating is general admission. </p>
 
           <p className="text-lg leading-relaxed" >Maurer Hall - West</p>
           <p className="pl-4 text-lg leading-relaxed" >7:15pm		Doors Open For Concert Seating, General Admission</p>

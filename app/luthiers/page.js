@@ -47,6 +47,10 @@ export default function Luthiers() {
                 <td>West - 102</td>
               </tr>
               <tr>
+                <td><Link href="https://theblueguitars.com/">The Blue Guitars</Link></td>
+                <td>West - 211 & 212 </td>
+              </tr>
+              <tr>
                 <td><Link href="https://bourgeoisguitars.com/">Bourgeois Guitars</Link></td>
                 <td>East - E124</td>
               </tr>
@@ -84,7 +88,7 @@ export default function Luthiers() {
               </tr>
               <tr>
                 <td><Link href="https://www.drherringbone.com">Dr. Herringbone</Link></td>
-                <td>East - E328</td>
+                <td>East - E324</td>
               </tr>
               <tr>
                 <td><Link href="https://fetellierguitars.com">FE Tellier Guitars</Link></td>
@@ -117,6 +121,14 @@ export default function Luthiers() {
               <tr>
                 <td><Link href="https://www.carbonfibercases.com/">Hoffee Cases</Link></td>
                 <td>East - E326</td>
+              </tr>
+              <tr>
+                <td><Link href="http://www.humphreyamps.com/">Humphrey Amps</Link></td>
+                <td>East - E330</td>
+              </tr>
+              <tr>
+                <td><Link href="https://hussanddalton.com/">Huss & Dalton</Link></td>
+                <td>East - E330</td>
               </tr>
               <tr>
                 <td><Link href="https://hybrid-guitars.com/">Hybrid Guitars</Link></td>
@@ -155,8 +167,8 @@ export default function Luthiers() {
                 <td>East - E328</td>
               </tr>
               <tr>
-                <td><Link href="https://www.lyonhealy.com">Lyon and Healy</Link></td>
-                <td>East - E324</td>
+                <td><Link href="https://www.lyonhealycorporation.com/brands/">Lyon and Healy</Link></td>
+                <td>East - E328</td>
               </tr>
               <tr>
                 <td><Link href="https://www.m-tone.com">M-Tone Guitars</Link></td>
@@ -220,7 +232,7 @@ export default function Luthiers() {
               </tr>
               <tr>
                 <td><Link href="https://pktguitars.com/">Preston Thompson Guitars</Link></td>
-                <td>East - E328</td>
+                <td>East - E128</td>
               </tr>
               <tr>
                 <td><Link href="https://robertrobinsonguitars.com">R. Robinson Guitars</Link></td>
@@ -251,12 +263,20 @@ export default function Luthiers() {
                 <td>East - E328</td>
               </tr>
               <tr>
+                <td><Link href="https://www.stewmac.com/">StewMac</Link></td>
+                <td>East – E330 </td>
+              </tr>
+              <tr>
                 <td><Link href="https://www.taylorguitars.com/">Taylor Guitars</Link></td>
                 <td>West - 101</td>
               </tr>
               <tr>
                 <td><Link href="https://www.heinonenguitars.com">T. Drew Heinonen Guitars</Link></td>
                 <td>East - E326</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.fretboardjournal.com/podcasts/the-truth-about-vintage-amps-big-index-page/">The Truth About Vintage Amps Podcast Lounge</Link></td>
+                <td>West - B6</td>
               </tr>
               <tr>
                 <td><Link href="https://tonypolecastro.com/">Tony&apos;s Acoustic Challenge (Tony Polecastro)</Link></td>
@@ -345,6 +365,58 @@ export default function Luthiers() {
           </ul> */}
 
           <p className="text-xl my-6">Note: Most of the luthiers will have guitars available for purchase. Most of these brands are showcasing never-before-seen and new instruments, as well. Nearly all of them will have their head designers/builders present &#40;ie Bob Taylor himself will be attending for Taylor; Steve McCreary will be attending for Collings, etc&#41;. We will have quiet rooms and amp rooms available for demos.</p>
+
+        </div>
+
+        <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#F0E5D1] text-[#322D25]">
+          <h2 className="tracking-wider font-aurochs font-normal uppercase text-5xl text-center my-6">
+           Sealed Bid Auction Guitars
+          </h2>
+
+          <h4 className="tracking-wider font-aurochs font-normal uppercase text-3xl my-6">
+          Pre War Guitars Co. '34-Style Bar Fret Dreadnought
+          </h4>
+          <p className="text-xl">
+          "This guitar represents the next step in the Pre-War Guitars Co.'s quest for vintage tone. It's the first guitar to feature our new '34 Style upgrade package, featuring a non-adjustable ebony reinforced neck, and bar frets- a true compression fretted instrument. 
+          </p>
+          <p className="text-xl mt-2 ">
+          Along with all our standard elements- torrefied red spruce top and bracing, hot hide glue construction, hand carved neck, top and back bracing, super thin nitrocellulose lacquer finish, and hand fit dovetail neck joint; the result is a 3.5lb tone monster. 
+          </p>
+          <p className="text-xl mt-2 ">
+          We're excited to put the things we learned building the Blake guitars to work on our full slate of 14 fret guitars, and this one is the first. We're also proud to support the Fretboard Summit, and to be a part of such a great event.
+          </p>
+
+          <h4 className="tracking-wider text-3xl font-aurochs my-6 uppercase text-[#2B6F6D]">
+            Opening bid: $3,000 
+          </h4>
+
+          <Image
+              className="flex"
+              src="/34-Style-Dread_1200x800.jpg"
+              alt="border"
+              width={1200}
+              height={800}
+            />
+
+          
+
+
+          <hr class="mt-8 h-2 border-solid border-black"/>
+          
+
+
+          <h4 className="tracking-wider font-aurochs font-normal uppercase text-3xl my-6">
+          Santa Cruz Fingerstyle Cutaway
+          </h4>
+          <p className="text-xl">
+          For the Fretboard Summit we are presenting a Fingerstyle Cutaway featuring Indian Rosewood back and sides, Cedar top, 1-13/16" nut width, 2-3/16" bridge spacing, tapered bracing, Brazilian Rosewood binding on the body with black/Maple/black side purfle, black binding on the fingerboard, Brazilian Rosewood back strip, blue purfle combo rosette and top border, Brazilian Rosewood overlay, no fingerboard inlay, Brazilian Rosewood peghead overlay with SCGC mini logo inlay, gold Gotoh 510 tuners with black buttons, Sunburst top.
+          </p>
+          
+
+          <h4 className="tracking-wider text-3xl font-aurochs my-6 uppercase text-[#2B6F6D]">
+            Opening bid: $5,000
+          </h4>
+
 
         </div>
 
