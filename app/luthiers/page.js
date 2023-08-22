@@ -377,7 +377,7 @@ export default function Luthiers() {
           Pre War Guitars Co. &apos;34-Style Bar Fret Dreadnought
           </h4>
           <p className="text-xl">
-          "This guitar represents the next step in the Pre-War Guitars Co.&apos;s quest for vintage tone. It&apos;s the first guitar to feature our new &apos;34 Style upgrade package, featuring a non-adjustable ebony reinforced neck, and bar frets- a true compression fretted instrument. 
+          &quot;This guitar represents the next step in the Pre-War Guitars Co.&apos;s quest for vintage tone. It&apos;s the first guitar to feature our new &apos;34 Style upgrade package, featuring a non-adjustable ebony reinforced neck, and bar frets- a true compression fretted instrument. 
           </p>
           <p className="text-xl mt-2 ">
           Along with all our standard elements- torrefied red spruce top and bracing, hot hide glue construction, hand carved neck, top and back bracing, super thin nitrocellulose lacquer finish, and hand fit dovetail neck joint; the result is a 3.5lb tone monster. 
@@ -409,7 +409,7 @@ export default function Luthiers() {
           Santa Cruz Fingerstyle Cutaway
           </h4>
           <p className="text-xl">
-          For the Fretboard Summit we are presenting a Fingerstyle Cutaway featuring Indian Rosewood back and sides, Cedar top, 1-13/16" nut width, 2-3/16" bridge spacing, tapered bracing, Brazilian Rosewood binding on the body with black/Maple/black side purfle, black binding on the fingerboard, Brazilian Rosewood back strip, blue purfle combo rosette and top border, Brazilian Rosewood overlay, no fingerboard inlay, Brazilian Rosewood peghead overlay with SCGC mini logo inlay, gold Gotoh 510 tuners with black buttons, Sunburst top.
+          For the Fretboard Summit we are presenting a Fingerstyle Cutaway featuring Indian Rosewood back and sides, Cedar top, 1-13/16&quot; nut width, 2-3/16&quot; bridge spacing, tapered bracing, Brazilian Rosewood binding on the body with black/Maple/black side purfle, black binding on the fingerboard, Brazilian Rosewood back strip, blue purfle combo rosette and top border, Brazilian Rosewood overlay, no fingerboard inlay, Brazilian Rosewood peghead overlay with SCGC mini logo inlay, gold Gotoh 510 tuners with black buttons, Sunburst top.
           </p>
           
 
