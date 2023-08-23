@@ -8,9 +8,9 @@ import "../slider.css";
 export default function Schedule() {
   return (
     <>
-      {/* <link href="/slider.css" rel="stylesheet"></link> */}
-      {/* <Script src="/jquery.js" as="script" strategy="beforeInteractive"></Script>
-      <Script src="/slickslider.js" ></Script> */}
+      <link href="/slider.css" rel="stylesheet"></link>
+      <Script src="/jquery.js" as="script" strategy="beforeInteractive"></Script>
+      <Script src="/slickslider.js" ></Script>
       
       
       
@@ -23,13 +23,13 @@ export default function Schedule() {
 
 
         {/* uncomment when closer to the event, marketing will send */}
-        {/* <div className=" max-w-5xl w-full my-10 p-4 bg-[#A4CCDA] text-[#322D25]">
+        <div className=" max-w-5xl w-full my-10 p-4 bg-[#A4CCDA] text-[#322D25]">
           <div className="slider1">
-            <Image src="/comingsoon1.svg" width={600} height={600}/>
-            <Image src="/comingsoon2.svg" width={600} height={600}/>
-            <Image src="/comingsoon3.svg" width={600} height={600}/>
+            <Image src="/FS23_LineupSched_082323-1.png" width={600} height={600}/>
+            <Image src="/FS23_LineupSched_082323-2.png" width={600} height={600}/>
+            {/* <Image src="/comingsoon3.svg" width={600} height={600}/> */}
           </div>
-        </div> */}
+        </div>
 
         {/* <div className="w-auto mt-10">
             <h2 className="px-10 tracking-wider font-aurochs font-normal uppercase text-5xl text-center">
@@ -48,9 +48,9 @@ export default function Schedule() {
             Old Town School of Folk Music - East, 4545 N. Lincoln Ave.<br/>
             (Szold Hall, Luthier Showcase Exhibit Halls, East Lobby, Workshop Rooms, Cafe & Bar)</p>
 
-          </div>
+          </div>*/}
 
-        </div> */}
+        {/* </div> */}
 
         <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#A4CCDA] text-[#322D25]">
 
