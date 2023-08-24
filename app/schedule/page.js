@@ -25,9 +25,9 @@ export default function Schedule() {
         {/* uncomment when closer to the event, marketing will send */}
         <div className=" max-w-5xl w-full my-10 p-4 bg-[#A4CCDA] text-[#322D25]">
           <div className="slider1">
-            <Image src="/FS23_LineupSched_082323-1.png" width={600} height={600}/>
-            <Image src="/FS23_LineupSched_082323-2.png" width={600} height={600}/>
-            {/* <Image src="/comingsoon3.svg" width={600} height={600}/> */}
+            <Image src="/FS23_LineupSched_082423-1.png" width={600} height={600}/>
+            <Image src="/FS23_LineupSched_082423-2.png" width={600} height={600}/>
+            <Image src="/FS23_LineupSched_082423-3.png" width={600} height={600}/>
           </div>
         </div>
 
@@ -55,7 +55,7 @@ export default function Schedule() {
         <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#A4CCDA] text-[#322D25]">
 
 
-          <p className="italic text-sm leading-relaxed">Updated August 18, 2023<br/>Schedule subject to change.</p>
+          <p className="italic text-sm leading-relaxed">Updated August 24, 2023<br/>Schedule subject to change.</p>
 
           {/* <p className="underline font-bold mt-4  text-lg leading-relaxed">Campus Addresses & Locations:</p>
           <p className="mb-4 text-lg leading-relaxed">
@@ -90,24 +90,25 @@ export default function Schedule() {
           <p className="italic mb-4  text-lg" >Exclusive For Three-Day All-Access Pass Holders Only</p>
           <p className="text-lg leading-relaxed" >Maurer Hall - West </p>
           <p className="pl-4 mb-4  text-lg leading-relaxed" >4:00pm - 5:00pm	Joey Landreth</p>
-          <p className="text-lg leading-relaxed" >Maurer Hall - West </p>
           <p className="pl-4 mb-4  text-lg leading-relaxed" >7:15pm		Doors Open For Concert Seating, General Admission</p>
           <p className="pl-4 mb-4  text-lg leading-relaxed" >8:00pm		Finom </p>
           <p className="pl-4 mb-4  text-lg leading-relaxed" >9:00pm		Jeff Parker</p>
 
           <p className="underline font-bold mt-4  text-lg leading-relaxed" > Workshops, Jams, Interviews, Talks, & More</p>
+          <p className="text-lg leading-relaxed" >Szold Hall - East</p>
+          
           <p className="pl-4 text-lg leading-relaxed" >11:00-11:45		Luthier Lunch & Learn w/ Pacific Rim Tonewoods
           </p>
           <p className="pl-4 italic mb-4">(exclusive content for luthiers)</p>
 
-          <p className="text-lg leading-relaxed" >Maurer Hall - East </p>
+          <p className="text-lg leading-relaxed" >Maurer Hall - West </p>
           <p className="pl-4 mb-4  text-lg leading-relaxed" >2:00pm - 3:00PM	Ordering Your First Custom Guitar & How To Get It Right with Paul Heumiller of Dream Guitars</p>
           <p className="pl-4 mb-4  text-lg leading-relaxed" >3:00pm - 4:00PM	The Guitar Market Today with Lillian Werbin (Elderly), Mark Stutman (Folkway Music), and guests</p>
 
 
           <p className="mt-4  text-lg leading-relaxed" >West Cafe & Bar open 1:00pm - 5:00pm & during concerts<br/>
           <a href="https://musicstore.oldtownschool.org">Old Town School Music Store</a> open 11:00am - 5:00pm<br/>
-          Gear Check is located in room 201 in the West building, second floor wing (2W) available 10am - ??pm
+          Gear Check – room 201 in the West building, second floor wing (2W)
           </p>
           <p className="italic mb-10">Complimentary coffee provided by Acoustic Coffee in both buildings daily.</p>
 
@@ -144,7 +145,7 @@ export default function Schedule() {
 
 
           <p className="text-lg leading-relaxed" >Mabie Gallery - West</p>
-          <p className="pl-4 mb-4  text-lg leading-relaxed" >12:00pm - 12:45pm Broozy & Lennon - discussion and performances on OTSFM&apos;s Big Bill Broonzy and John Lennon&apos;s Martin Guitars. With Chris Walz, Rebecca Jasso, Dick Boak, and Colby Maddox</p>
+          <p className="pl-4 mb-4  text-lg leading-relaxed" >12:00pm - 12:45pm Broonzy & Lennon - discussion and performances on OTSFM&apos;s Big Bill Broonzy and John Lennon Martin Guitars. With Chris Walz, Rebecca Jasso, Dick Boak, and Colby Maddox</p>
 
           <p className="pl-4 mb-4  text-lg leading-relaxed" >4:00pm - 4:45pm  I Am Bob Taylor of Taylor Guitars...Live AMA: Ask one of the guitar world&apos;s most successful figures anything you want about running a guitar company, inventing, sustainability, design or life. </p>
 
@@ -204,7 +205,7 @@ export default function Schedule() {
 
           <p className="text-lg leading-relaxed" >Mabie Gallery - West</p>
 
-          <p className="pl-4 mb-4 text-lg leading-relaxed" >11:00am - 11:45pm	Workshop: Stevie Wonder, Cole Porter, and The Beatles for Fingerstyle Guitar With Michael J. Miles</p>
+          <p className="pl-4 mb-4 text-lg leading-relaxed" >11:00am - 11:45am	Workshop: Stevie Wonder, Cole Porter, and The Beatles for Fingerstyle Guitar With Michael J. Miles</p>
           <p className="pl-4 mb-4 text-lg leading-relaxed" >12:00pm - 12:45pm Introduction to Powers Electrics with Andy Powers. Interview by Josh Scott (JHS) and special guest Drew Shirley (Switchfoot) </p>
           <p className="pl-4 mb-4 text-lg leading-relaxed" >3:00pm - 3:45pm	Workshop: Effects Pedals For Guitarists with Charles Kim</p>
           <p className="pl-4 mb-4  text-lg leading-relaxed" >4:00pm - 5:00pm	The Friends of G. Weller Happy Hour</p>

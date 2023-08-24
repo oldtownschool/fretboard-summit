@@ -39,6 +39,10 @@ export default function Luthiers() {
                 <td>West - 102</td>
               </tr>
               <tr>
+                <td><Link href="https://www.lehmannstrings.com/">Bernie Lehmann</Link></td>
+                <td>East - E330 </td>
+              </tr>
+              <tr>
                 <td><Link href="https://bighollowguitars.com/">Big Hollow Guitars</Link></td>
                 <td>East - E326</td>
               </tr>
@@ -124,7 +128,7 @@ export default function Luthiers() {
               </tr>
               <tr>
                 <td><Link href="http://www.humphreyamps.com/">Humphrey Amps</Link></td>
-                <td>East - E330</td>
+                <td>East - E320</td>
               </tr>
               <tr>
                 <td><Link href="https://hussanddalton.com/">Huss & Dalton</Link></td>
@@ -232,7 +236,7 @@ export default function Luthiers() {
               </tr>
               <tr>
                 <td><Link href="https://pktguitars.com/">Preston Thompson Guitars</Link></td>
-                <td>East - E128</td>
+                <td>East - E226</td>
               </tr>
               <tr>
                 <td><Link href="https://robertrobinsonguitars.com">R. Robinson Guitars</Link></td>
@@ -280,7 +284,7 @@ export default function Luthiers() {
               </tr>
               <tr>
                 <td><Link href="https://tonypolecastro.com/">Tony&apos;s Acoustic Challenge (Tony Polecastro)</Link></td>
-                <td>East - E128</td>
+                <td>East - E226</td>
               </tr>
               <tr>
                 <td><Link href="https://www.treehouseguitars.com">Treehouse Guitars</Link></td>
