@@ -101,13 +101,12 @@ export default function Schedule() {
           </p>
           <p className="pl-4 italic mb-4">(exclusive content for luthiers)</p>
 
-          <p className="text-lg leading-relaxed" >Maurer Hall - West </p>
           <p className="pl-4 mb-4  text-lg leading-relaxed" >2:00pm - 3:00PM	Ordering Your First Custom Guitar & How To Get It Right with Paul Heumiller of Dream Guitars</p>
           <p className="pl-4 mb-4  text-lg leading-relaxed" >3:00pm - 4:00PM	The Guitar Market Today with Lillian Werbin (Elderly), Mark Stutman (Folkway Music), and guests</p>
 
 
           <p className="mt-4  text-lg leading-relaxed" >West Cafe & Bar open 1:00pm - 5:00pm & during concerts<br/>
-          <a href="https://musicstore.oldtownschool.org">Old Town School Music Store</a> open 11:00am - 5:00pm<br/>
+          <a href="https://musicstore.oldtownschool.org">Old Town School Music Store</a> open 11:00am - 7:00pm<br/>
           Gear Check – room 201 in the West building, second floor wing (2W)
           </p>
           <p className="italic mb-10">Complimentary coffee provided by Acoustic Coffee in both buildings daily.</p>
@@ -168,7 +167,7 @@ export default function Schedule() {
           <p className="pl-4 mb-4  text-lg leading-relaxed" >8:30pm Summit Shorts: All-star short sets featuring Paul Asbell, Adam Miller, Jamie Stillway, Wayne Henderson & Jake Eddy.</p>
 
           <p className="mt-4 text-lg leading-relaxed" >Cafe & Bars open 1:00pm - 5:00pm & during concerts<br/>
-          <a href="https://musicstore.oldtownschool.org">Old Town School Music Store</a> open 11:00am - 5:00pm<br/>
+          <a href="https://musicstore.oldtownschool.org">Old Town School Music Store</a> open 11:00am - 7:00pm <br/>
           Gear Check  – room 201 in the West building, second floor wing (2W)
           </p>
           <p className="italic mb-10">Complimentary coffee provided by Acoustic Coffee in both buildings daily.</p>
@@ -232,7 +231,7 @@ export default function Schedule() {
           <p className="pl-4 mb-4 text-lg leading-relaxed" >9:00pm After performances	Late Night “Summit All-Star Super Session:” Ethan Sherman, Adam Levy, Ryan Richter and special guests </p>
 
           <p className="mt-4  text-lg leading-relaxed" >Cafe & Bars open 11:00am - 5:00pm & during concerts <br/>
-          <a href="https://musicstore.oldtownschool.org">Old Town School Music Store</a> open 11:00am - 5:00pm<br/>
+          <a href="https://musicstore.oldtownschool.org">Old Town School Music Store</a> open 11:00am - 7:00pm <br/>
           Gear Check is located in room 201 in the West building, second floor wing (2W)
           </p>
           <p className="italic mb-10">Complimentary coffee provided by Acoustic Coffee in both buildings daily.</p>
