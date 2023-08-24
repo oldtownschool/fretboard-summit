@@ -25,9 +25,9 @@ export default function Schedule() {
         {/* uncomment when closer to the event, marketing will send */}
         <div className=" max-w-5xl w-full my-10 p-4 bg-[#A4CCDA] text-[#322D25]">
           <div className="slider1">
-            <Image src="/FS23_LineupSched_082423-1.png" width={600} height={600}/>
-            <Image src="/FS23_LineupSched_082423-2.png" width={600} height={600}/>
-            <Image src="/FS23_LineupSched_082423-3.png" width={600} height={600}/>
+            <Image src="/FS23_LineupSched_082423-1a.png" width={600} height={600}/>
+            <Image src="/FS23_LineupSched_082423-2a.png" width={600} height={600}/>
+            <Image src="/FS23_LineupSched_082423-3a.png" width={600} height={600}/>
           </div>
         </div>
 
