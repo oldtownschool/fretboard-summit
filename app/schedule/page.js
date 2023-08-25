@@ -8,9 +8,9 @@ import "../slider.css";
 export default function Schedule() {
   return (
     <>
-      <link href="/slider.css" rel="stylesheet"></link>
+      {/* <link href="/slider.css" rel="stylesheet"></link> */}
       <Script src="/jquery.js" as="script" strategy="beforeInteractive"></Script>
-      <Script src="/slickslider.js" ></Script>
+      <Script src="/slickslider.js" as="script"></Script>
       
       
       
@@ -24,10 +24,10 @@ export default function Schedule() {
 
         {/* uncomment when closer to the event, marketing will send */}
         <div className=" max-w-5xl w-full my-10 p-4 bg-[#A4CCDA] text-[#322D25]">
-          <div className="slider1">
-            <Image src="/FS23_LineupSched_082423-1a.png" width={600} height={600}/>
-            <Image src="/FS23_LineupSched_082423-2a.png" width={600} height={600}/>
-            <Image src="/FS23_LineupSched_082423-3a.png" width={600} height={600}/>
+          <div className="slider">
+            <Image src="/FS23_LineupSched_082423-1a.png" width={600} height={600} alt="Line Up Schedule 1" />
+            <Image src="/FS23_LineupSched_082423-2a.png" width={600} height={600} alt="Line Up Schedule 2"/>
+            <Image src="/FS23_LineupSched_082423-3a.png" width={600} height={600} alt="Line Up Schedule 3"/>
           </div>
         </div>
 

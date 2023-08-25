@@ -1,5 +1,5 @@
 jQuery(document).ready(function($) {
-    $('.slider1').slick({
+    $('.slider').slick({
       dots: false,
       infinite: true,
       speed: 500,
