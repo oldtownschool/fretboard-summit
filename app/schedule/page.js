@@ -1,17 +1,47 @@
+'use client'
+
 import Image from "next/image";
 import { Navbar } from "../components/Navbar.jsx";
 import Link from "next/link";
 import { Footer } from "../components/Footer.jsx";
 import Script from "next/script.js";
-import "../slider.css";
+// import "../slider.css";
+import React from 'react';
+import Slider from "react-slick";
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
+
 
 export default function Schedule() {
+  var settings = {
+    dots: true,
+    infinite: true,
+    speed: 500,
+    slidesToShow: 2,
+    slidesToScroll: 1,
+    arrows: false,
+    centerMode: true,
+    responsive: [{
+      breakpoint: 768,
+      settings: {
+        slidesToShow: 2,
+        slidesToScroll: 1
+      }
+    },
+    {
+      breakpoint: 640,
+      settings: {
+        slidesToShow: 1,
+        slidesToScroll: 1
+      }
+    }]
+  };
   return (
     <>
       {/* <link href="/slider.css" rel="stylesheet"></link> */}
-      <Script src="/jquery.js" as="script" strategy="beforeInteractive"></Script>
-      <Script src="/slickslider.js" as="script"></Script>
-      
+      {/* <Script src="/jquery.js" as="script" strategy="beforeInteractive"></Script>
+      <Script src="/slickslider.js"></Script>
+       */}
       
       
       <Navbar />
@@ -20,16 +50,30 @@ export default function Schedule() {
         
 
         {/* <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#A4CCDA] text-[#322D25]"> */}
+        <div className="py-10 max-w-5xl w-full my-10 p-4 bg-[#A4CCDA] text-[#322D25]">
+          <Slider {...settings}>
+            <div>
+              <Image src="/FS23_LineupSched_082423-1a.png" width={600} height={600} alt="Line Up Schedule 1" />
+            </div>
+            <div>
+              <Image src="/FS23_LineupSched_082423-2a.png" width={600} height={600} alt="Line Up Schedule 2"/>
+            </div>
+            <div>
+              <Image src="/FS23_LineupSched_082423-3a.png" width={600} height={600} alt="Line Up Schedule 3"/>
+            </div>
+          </Slider>
+        </div>
+
 
 
         {/* uncomment when closer to the event, marketing will send */}
-        <div className=" max-w-5xl w-full my-10 p-4 bg-[#A4CCDA] text-[#322D25]">
+        {/* <div className=" max-w-5xl w-full my-10 p-4 bg-[#A4CCDA] text-[#322D25]">
           <div className="slider">
             <Image src="/FS23_LineupSched_082423-1a.png" width={600} height={600} alt="Line Up Schedule 1" />
             <Image src="/FS23_LineupSched_082423-2a.png" width={600} height={600} alt="Line Up Schedule 2"/>
             <Image src="/FS23_LineupSched_082423-3a.png" width={600} height={600} alt="Line Up Schedule 3"/>
           </div>
-        </div>
+        </div> */}
 
         {/* <div className="w-auto mt-10">
             <h2 className="px-10 tracking-wider font-aurochs font-normal uppercase text-5xl text-center">
