@@ -272,7 +272,7 @@ export default function Schedule() {
 
           <p className="text-lg leading-relaxed" >Szold Hall - East</p>
           <p className="pl-4 mb-4 text-lg leading-relaxed" ><span class="line-through">8:00pm		Via Mardot scores the 1934 stop-motion masterpiece, <span class="italic">The Mascot</span></span> <span class="italic">This Performance Has Been Canceled</span></p>
-          <p className="pl-4 mb-4 text-lg leading-relaxed" >8pm  "The Show Must Go On" Live Score To A Film TBD – featuring Duncan Price, Mike Adams and Friends</p>
+          <p className="pl-4 mb-4 text-lg leading-relaxed" >8pm  &quot;The Show Must Go On&quot; Live Score To A Film TBD – featuring Duncan Price, Mike Adams and Friends</p>
           <p className="pl-4 mb-4 text-lg leading-relaxed" >9:00pm After performances	Late Night &quot;Summit All-Star Super Session:&quot; Ethan Sherman, Adam Levy, Ryan Richter and special guests </p>
 
           <p className="mt-4  text-lg leading-relaxed" >Cafe & Bars open 11:00am - 5:00pm & during concerts <br/>
