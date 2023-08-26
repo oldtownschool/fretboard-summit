@@ -19,7 +19,7 @@ export default function Schedule() {
     speed: 500,
     slidesToShow: 2,
     slidesToScroll: 1,
-    arrows: false,
+    arrows: true,
     centerMode: true,
     responsive: [{
       breakpoint: 768,
@@ -52,14 +52,14 @@ export default function Schedule() {
         {/* <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#A4CCDA] text-[#322D25]"> */}
         <div className="py-10 max-w-5xl w-full my-10 p-4 bg-[#A4CCDA] text-[#322D25]">
           <Slider {...settings}>
-            <div>
-              <Image src="/FS23_LineupSched_082423-1a.png" width={600} height={600} alt="Line Up Schedule 1" />
+          <div>
+              <Image src="/FS23_LineupSched_082623-3a.png" width={600} height={600} alt="Line Up Schedule 3"/>
             </div>
             <div>
               <Image src="/FS23_LineupSched_082423-2a.png" width={600} height={600} alt="Line Up Schedule 2"/>
             </div>
             <div>
-              <Image src="/FS23_LineupSched_082623-3.png" width={600} height={600} alt="Line Up Schedule 3"/>
+              <Image src="/FS23_LineupSched_082423-1a.png" width={600} height={600} alt="Line Up Schedule 1" />
             </div>
           </Slider>
         </div>
@@ -272,6 +272,7 @@ export default function Schedule() {
 
           <p className="text-lg leading-relaxed" >Szold Hall - East</p>
           <p className="pl-4 mb-4 text-lg leading-relaxed" ><span class="line-through">8:00pm		Via Mardot scores the 1934 stop-motion masterpiece, <span class="italic">The Mascot</span></span> <span class="italic">This Performance Has Been Canceled</span></p>
+          <p className="pl-4 mb-4 text-lg leading-relaxed" >8pm  "The Show Must Go On" Live Score To A Film TBD – featuring Duncan Price, Mike Adams and Friends</p>
           <p className="pl-4 mb-4 text-lg leading-relaxed" >9:00pm After performances	Late Night “Summit All-Star Super Session:” Ethan Sherman, Adam Levy, Ryan Richter and special guests </p>
 
           <p className="mt-4  text-lg leading-relaxed" >Cafe & Bars open 11:00am - 5:00pm & during concerts <br/>
