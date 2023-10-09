@@ -29,14 +29,14 @@ export default function Home() {
             width={1200}
             height={500}
           /> */}
-          <video
+          {/* <video
             autoPlay
             muted
             src={"https://fretboardsummit.org/FS-hp-reel-1.mp4"}
             loop
             width={1200}
             height={500}
-          />
+          /> */}
         </div>
 
         <div className="block sm:flex sm:flex-row py-10 max-w-5xl">
@@ -56,7 +56,7 @@ export default function Home() {
                 height={50}
               />
               <Image
-                src="/Group24.png"
+                src="/FS2024_Homepage-LeftStack.png"
                 alt="banner left"
                 width={500}
                 height={400}
@@ -72,7 +72,7 @@ export default function Home() {
           </div>
           <div className="w-full mt-6 sm:mt-0 sm:flex sm:w-2/4">
             <Image
-              src="/performers.png"
+              src="/FS2024_Homepage-RightStack.png"
               alt="banner left"
               width={500}
               height={400}
@@ -164,7 +164,26 @@ export default function Home() {
               from the makers themselves!
             </p>
           </div>
-          <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-0 mt-4 sm:m-2 p-4 bg-[#F0E5D1] text-center text-[#322D25]">
+          <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-0 sm:m-2 mt-0 sm:mt-2 p-4 bg-[#F0E5D1] text-center text-[#322D25]">
+            <div className="flex justify-center">
+              <Image
+                src="/Rectangle15.png"
+                alt="banner left"
+                className="self-start mb-2"
+                width={600}
+                height={400}
+              />
+            </div>
+            <h2 className="tracking-wide font-aurochs font-normal uppercase text-3xl">
+              meet the makers
+            </h2>
+            <p>
+              <span className="font-bold">Meet</span> the builders of the
+              greatest stringed instruments on eart. Play their latest.
+            </p>
+          </div>
+          
+          {/* <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-0 mt-4 sm:m-2 p-4 bg-[#F0E5D1] text-center text-[#322D25]">
             <div className="flex justify-center">
               <Image
                 src="/Rectangle13.png"
@@ -183,10 +202,10 @@ export default function Home() {
               <span className="font-bold">Robert Keeley</span> battle in a race
               to build the ultimate FUZZ PEDAL!
             </p>
-          </div>
+          </div> */}
         </div>
 
-        <div className="block sm:flex sm:flex-row max-w-5xl p-2 sm:p-0">
+        {/* <div className="block sm:flex sm:flex-row max-w-5xl p-2 sm:p-0">
           <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-0 sm:m-2 mt-0 sm:mt-2 p-4 bg-[#F0E5D1] text-center text-[#322D25]">
             <div className="flex justify-center">
               <Image
@@ -224,7 +243,7 @@ export default function Home() {
               podcast.
             </p>
           </div>
-        </div>
+        </div> */}
 
         <Link href="/tickets">
           <button className="text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1] my-10">
