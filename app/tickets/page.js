@@ -16,25 +16,6 @@ export default function Tickets() {
             All-access tickets include admission to all the evening concerts, workshops, events and fun, as well as our guitar showcase. It&apos;s three days of fun and inspiring programming, crafted just for guitar people by the Fretboard Journal and the Old Town School of Folk Music.
           </p>
 
-          <p className="text-white text-lg mt-10">
-            <span className="font-bold">Guitar Showcase only - $30</span>
-          </p>
-          <div className="w-full sm:flex-row sm:flex sm:w-3/4">
-            <Link href="https://www.oldtownschool.org/events/event.php?event_id=8881" className="text-center">
-              <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1]">
-              Luthier Showcase Only - Friday,&nbsp;August&nbsp;25
-              </button>
-            </Link>
-            <Link href="https://www.oldtownschool.org/events/event.php?event_id=8882" className="text-center ml-0 sm:ml-1">
-              <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1] mt-2 sm:mt-0">
-              Luthier Showcase Only - Saturday,&nbsp;August&nbsp;26           
-              </button>
-            </Link>
-          </div>
-          <p className="text-white text-lg">
-            Tickets will also be available at the door
-          </p>
-
         </div>
 
         <div className="mb-4 sm:my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#A4CCDA] text-[#322D25] relative">
@@ -61,22 +42,25 @@ export default function Tickets() {
             <li className="ml-4">Jams &amp; more...</li>
             <li className="ml-4">After-parties</li>
             <li>Early priority access to the Luthier Exhibition</li>
-            <li>Exclusive Thursday performance from Jeff Parker</li>
+            {/* <li>Exclusive Thursday performance from Jeff Parker</li> */}
             <li>Welcome reception</li>
             <li>Gift bags &amp; sponsor prizes &amp; giveaways</li>
-            <li>
+            {/* <li>
               Entry to win our custom 2023 Fretboard Summit guitar, built by
               Bruce Guitars
-            </li>
+            </li> */}
           </ul>
 
-          <h3 className="my-4 font-black text-xl">
-            Limited to the first 200 registered attendees.
+          <h3 className="mt-4 font-black text-xl">
+            Limited to the first 300 registered attendees.
+          </h3>
+          <h3 className="font-black text-base italic">
+              Price Increases to $400 on December 3, 2023
           </h3>
           <div className="flex flex-row justify-evenly mt-6">
             {/* <Link href="https://www.oldtownschool.org/events/event.php?event_id=8733" className="text-center"> */}
               <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#2B6F6D] text-[#F0E5D1] opacity-50 cursor-not-allowed">
-              SOLD OUT - Buy 3-day pass
+              Buy 3-day pass
               </button>
             {/* </Link> */}
           </div>
@@ -84,12 +68,12 @@ export default function Tickets() {
 
         <div className="mt-4 sm:my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#F0E5D1] text-[#322D25]">
           <h2 className="tracking-wider font-aurochs font-normal uppercase text-5xl text-center">
-            SINGLE DAY PASS $150.00
+            Single Day Pass - Available In 2024
           </h2>
           <h3 className="font-bold text-2xl my-6">
           Can only attend for one day? Day Pass holders have access to all the Fretboard Summit fun, including our concerts, workshops, events, and more.
           </h3>
-          <ul className="list-disc ml-4">
+          {/* <ul className="list-disc ml-4">
             <li>Admission to All Events</li>
             <li className="ml-4">Live performances</li>
             <li className="ml-4">Workshops &amp; panel discussions</li>
@@ -97,16 +81,16 @@ export default function Tickets() {
             <li className="ml-4">Jams &amp; more...</li>
             <li className="ml-4">After-parties</li>
             <li>Luthier Exhibition</li>
-          </ul>
+          </ul> */}
 
           <div className="block sm:flex sm:flex-row  max-w-5xl sm:p-0">
             <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-0 sm:m-2 p-4">
-              <Link href="https://www.oldtownschool.org/events/event.php?event_id=8840" className="text-center">
-                <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1]">
-                  Buy Day Pass: Fri, Aug. 25
+              {/* <Link href="https://www.oldtownschool.org/events/event.php?event_id=8840" className="text-center"> */}
+                <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1]  opacity-50 cursor-not-allowed">
+                  Buy Day Pass: Fri, Aug. 23
                 </button>
-              </Link>
-              <ul className="list-disc ml-4 mt-6">
+              {/* </Link> */}
+              {/* <ul className="list-disc ml-4 mt-6">
                 <li>Friday Highlights Include:</li>
                 <li className="ml-4">JHS Live: the Germanium Chef competition featuring Robert Keeley versus Heather Brown</li>
                 <li className="ml-4">Wayne & Jayne Henderson</li>
@@ -115,15 +99,15 @@ export default function Tickets() {
                 <li className="ml-4">The Blue Guitars</li>
                 <li className="ml-4">The Truth About Vintage Amps Lounge</li>
                 <li className="ml-4">and much more</li>
-              </ul>
+              </ul> */}
             </div>
             <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-0 sm:m-2 p-4">
               {/* <Link href="https://www.oldtownschool.org/events/event.php?event_id=8841" className="text-center ml-1"> */}
                 <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#2B6F6D] text-[#F0E5D1]  opacity-50 cursor-not-allowed">
-                SOLD OUT - Sat, Aug. 26
+                Buy Day Pass: Sat, Aug. 24
                 </button>
               {/* </Link> */}
-              <ul className="list-disc ml-4 mt-6">
+              {/* <ul className="list-disc ml-4 mt-6">
                 <li>Saturday Highlights Include:</li>
                 <li className="ml-4">Tommy Emmanuel</li>
                 <li className="ml-4">The Bill Frisell Guitar Orchestra</li>
@@ -132,7 +116,7 @@ export default function Tickets() {
                 <li className="ml-4">Via Mardot</li>
                 <li className="ml-4">The Truth About Vintage Amps Lounge</li>
                 <li className="ml-4">and much more</li>
-              </ul>
+              </ul> */}
             </div>
           </div>
 
@@ -182,7 +166,13 @@ export default function Tickets() {
           <h2 className="mb-4 text-[#4DB3AC] font-bold uppercase text-xl tracking-widest ">
             OTHER TICKET PACKAGES:
           </h2>
-          {/* <p className="text-white text-lg">
+
+          <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#2B6F6D] text-[#F0E5D1]  cursor-not-allowed">
+          Available in 2024
+          </button>
+          
+
+          {/* <p className="text-white text-lg mt-10">
             <span className="font-bold">Guitar Showcase only - $30</span>
           </p>
           <div className="w-full sm:flex-row sm:flex sm:w-3/4">
@@ -201,21 +191,23 @@ export default function Tickets() {
             Tickets will also be available at the door
           </p> */}
 
-          <p className="text-white text-lg mt-6">
+          {/* <p className="text-white text-lg mt-6">
             <span className="font-bold">Individual Concert Tickets</span>
-          </p>
-          <div className="w-full sm:flex-row sm:flex sm:w-3/4">
-            {/* <Link href="https://www.oldtownschool.org/concerts/2023/08-25-2023-fretboard-summit-jorma-kaukonen/" className="text-center"> */}
+          </p> */}
+
+          {/* <div className="w-full sm:flex-row sm:flex sm:w-3/4">
+            <Link href="https://www.oldtownschool.org/concerts/2023/08-25-2023-fretboard-summit-jorma-kaukonen/" className="text-center">
               <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#2B6F6D] text-[#F0E5D1] opacity-50 cursor-not-allowed">
-                Jorma Koukonen - Friday - SOLD OUT
+               Friday
               </button>
-            {/* </Link> */}
-            {/* <Link href="https://www.oldtownschool.org/concerts/2023/08-26-2023-fretboard-summit-tommy-emman/" className="text-center ml-0 sm:ml-1"> */}
+            </Link>
+            <Link href="https://www.oldtownschool.org/concerts/2023/08-26-2023-fretboard-summit-tommy-emman/" className="text-center ml-0 sm:ml-1">
               <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#2B6F6D] text-[#F0E5D1] mt-2 sm:mt-0 opacity-50 cursor-not-allowed sm:ml-1">
-                Tommy Emmanuel - Saturday - SOLD OUT
+                Saturday
               </button>
-            {/* </Link> */}
-          </div>
+            </Link>
+          </div> */}
+
         </div>
       </main>
       <Footer />

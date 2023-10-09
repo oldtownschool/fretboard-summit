@@ -161,14 +161,14 @@ export default function Directions() {
             public transportation, rideshare, or taxi.{" "}
           </p>
 
-          <Link
+          {/* <Link
             href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1670624370220&amp;key=GRP&amp;app=resvlink"
             className="text-center mt-6"
-          >
-            <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1]">
-              BOOK ROOMS AT HOTEL ZACHARY
+          > */}
+            <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1] opacity-50 cursor-not-allowed">
+              2024 Room Block Available Soon
             </button>
-          </Link>
+          {/* </Link> */}
         </div>
 
         <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#F0E5D1] text-[#322D25]">
