@@ -30,7 +30,7 @@ export const Navbar = () => {
             alt="Fretboard Journal and Old Town School present"
           />
         </div>
-        <Link className="flex justify-center mt-1.5" href="/">
+        <Link className="flex justify-center mt-1.5" href="/" prefetch={false}>
           <Image
             src="/FS2024_GlobalHeader_1024x215.png"
             alt="Fretboard Summit Logo"
@@ -41,27 +41,27 @@ export const Navbar = () => {
         </Link>
         <div className="font-aurochs tracking-wide text-3xl hidden sm:flex justify-center">
           <ul className="hidden sm:flex text-[#4DB3AC]">
-            <Link href="/tickets">
+            <Link href="/tickets" prefetch={false}>
               <li className="mx-2 p-2 uppercase hover:bg-[#4DB3AC] hover:text-white">
                 Tickets
               </li>
             </Link>
-            <Link href="/music">
+            <Link href="/music" prefetch={false}>
               <li className="mx-2 p-2 uppercase hover:bg-[#4DB3AC] hover:text-white">
                 Music
               </li>
             </Link>
-            <Link href="/luthiers">
+            <Link href="/luthiers" prefetch={false}>
               <li className="mx-2 p-2 uppercase hover:bg-[#4DB3AC] hover:text-white">
                 Exhibitors
               </li>
             </Link>
-            <Link href="/schedule">
+            <Link href="/schedule" prefetch={false}>
               <li className="mx-2 p-2 uppercase hover:bg-[#4DB3AC] hover:text-white">
                 Schedule
               </li>
             </Link>
-            <Link href="/chicago">
+            <Link href="/chicago" prefetch={false}>
               <li className="mx-2 p-2 uppercase hover:bg-[#4DB3AC] hover:text-white">
                 Getting Here
               </li>
@@ -105,7 +105,7 @@ export const Navbar = () => {
             />
           </Link> */}
           <ul className="text-[#4DB3AC]">
-            <Link href="/tickets">
+            <Link href="/tickets" prefetch={false}>
               <li
                 onClick={() => handleNav(!menuOpen)}
                 className="py-4 uppercase hover:bg-[#4DB3AC] hover:text-white"
@@ -113,7 +113,7 @@ export const Navbar = () => {
                 Tickets
               </li>
             </Link>
-            <Link href="/music">
+            <Link href="/music" prefetch={false}>
               <li
                 onClick={() => handleNav(!menuOpen)}
                 className="py-4 uppercase hover:bg-[#4DB3AC] hover:text-white"
@@ -121,7 +121,7 @@ export const Navbar = () => {
                 Music
               </li>
             </Link>
-            <Link href="/luthiers">
+            <Link href="/luthiers" prefetch={false}>
               <li
                 onClick={() => handleNav(!menuOpen)}
                 className="py-4 uppercase hover:bg-[#4DB3AC] hover:text-white"
@@ -129,7 +129,7 @@ export const Navbar = () => {
                 Exhibitors
               </li>
             </Link>
-            <Link href="/schedule">
+            <Link href="/schedule" prefetch={false}>
               <li
                 onClick={() => handleNav(!menuOpen)}
                 className="py-4 uppercase hover:bg-[#4DB3AC] hover:text-white"
@@ -137,7 +137,7 @@ export const Navbar = () => {
                 Schedule
               </li>
             </Link>
-            <Link href="/chicago">
+            <Link href="/chicago" prefetch={false}>
               <li
                 onClick={() => handleNav(!menuOpen)}
                 className="py-4 uppercase hover:bg-[#4DB3AC] hover:text-white"

@@ -1,5 +1,15 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+## when uploading to netlify
+
+comment out the object in next.config.js file and remove '&& next export' from package.json file
+
+## when running npm run build
+
+uncomment out the object in next.config.js file and add back in '&& next export' in the package.json file
+
+
 ## Getting Started
 
 First, run the development server:
