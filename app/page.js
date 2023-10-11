@@ -136,11 +136,11 @@ export default function Home() {
           </div>
         </div> */}
 
-        <Link href="/tickets">
+        <a href="/tickets">
           <button className="text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1]">
             Buy Tickets
           </button>
-        </Link>
+        </a>
 
         {/* 4 square grid */}
 
@@ -245,11 +245,11 @@ export default function Home() {
           </div>
         </div> */}
 
-        <Link href="/tickets">
+        <a href="/tickets">
           <button className="text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1] my-10">
             Buy Tickets
           </button>
-        </Link>
+        </a>
 
         {/* <div className="text-6xl w-full max-w-5xl items-center font-aurochs font-thin">
           Aurochs (thin)

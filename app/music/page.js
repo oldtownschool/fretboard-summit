@@ -118,11 +118,11 @@ export default function Music() {
           announced.
         </h3> */}
 
-        <Link href="/tickets" className="text-center my-10">
+        <a href="/tickets" className="text-center my-10">
           <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1]">
             Buy Tickets
           </button>
-        </Link>
+        </a>
 
         {/* <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#A4CCDA] text-[#322D25]">
           <div className="flex justify-center">
