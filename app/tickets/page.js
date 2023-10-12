@@ -58,11 +58,11 @@ export default function Tickets() {
               Price Increases to $400 on December 3, 2023
           </h3>
           <div className="flex flex-row justify-evenly mt-6">
-            {/* <Link href="https://www.oldtownschool.org/events/event.php?event_id=8733" className="text-center"> */}
-              <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#2B6F6D] text-[#F0E5D1] opacity-50 cursor-not-allowed">
+            <a href="https://www.oldtownschool.org/events/event.php?event_id=8980" className="text-center">
+              <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#2B6F6D] text-[#F0E5D1]">
               Buy 3-day pass
               </button>
-            {/* </Link> */}
+            </a>
           </div>
         </div>
 
