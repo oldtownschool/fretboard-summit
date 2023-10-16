@@ -15,6 +15,9 @@ export default function Tickets() {
           <p className="text-[#F0E5D1] text-2xl">
             All-access tickets include admission to all the evening concerts, workshops, events and fun, as well as our guitar showcase. It&apos;s three days of fun and inspiring programming, crafted just for guitar people by the Fretboard Journal and the Old Town School of Folk Music.
           </p>
+          <p className="text-[#F0E5D1] text-lg italic mt-4">
+            Please note: new schedule for 2024! Fretboard Summit will run Friday, August 23, 2024 through Sunday, August 25, 2024.
+          </p>
 
         </div>
 
