@@ -56,7 +56,7 @@ export default function Home() {
                 height={50}
               />
               <Image
-                src="/FS2024_Homepage-LeftStack.png"
+                src="/FS2024_Homepage-LeftStack-a.png"
                 alt="banner left"
                 width={500}
                 height={400}
@@ -72,7 +72,7 @@ export default function Home() {
           </div>
           <div className="w-full mt-6 sm:mt-0 sm:flex sm:w-2/4">
             <Image
-              src="/FS2024_Homepage-RightStack.png"
+              src="/FS2024_Homepage-RightStack-a.png"
               alt="banner left"
               width={500}
               height={400}
