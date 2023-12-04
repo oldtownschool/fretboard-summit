@@ -19,7 +19,7 @@ export default function Apply() {
               <p className="text-lg sm:text-xl leading-relaxed mb-4">We are pleased to invite you to participate in the Fretboard Summit at the Old Town School of Folk Music in Chicago. A partnership between the Fretboard Journal and the legendary Old Town School of Folk Music, this event offers luthiers and makers an unmatched opportunity to connect with collectors and buyers as part of a truly unique and exciting new festival — the only one of its kind in the Midwest.</p>
               <p className="text-lg sm:text-xl leading-relaxed mb-4">The festival, which will take place from Aug 23-25, 2024 will offer performances from internationally- acclaimed touring artists, showcases by sponsored artists, workshops on guitar techniques, songwriting and music as well as discussions on lutherie, opportunities to play and purchase bespoke instruments and more. Fretboard Journal will be conducting multiple onsite recordings for its popular podcast series and documenting the show for publication in the Journal.</p>
 
-              <p className="text-lg sm:text-xl leading-relaxed mb-4 font-bold">Please fill out the application form below. For full details, policies and additional information, view the  <a href="/images/2023/FretboardSummit_ExhibitorApplication_DetailsGuidelines_2023.pdf">Vendor Application Details & Guidelines PDF</a> and other info located below the form on this page. Applications are due January 15, 2024</p>
+              <p className="text-lg sm:text-xl leading-relaxed mb-4 font-bold">Please fill out the application form below. For full details, policies and additional information, view the  <a href="https://fretboardsummit.org/media/FretboardSummit_ExhibitorApplication_DetailsGuidelines_2024.pdf">Vendor Application Details & Guidelines PDF</a> and other info located below the form on this page. Applications are due January 15, 2024</p>
 
               <p className="text-lg sm:text-xl leading-relaxed mb-4 font-bold">Due to space limitations and other factors, not all applications will be accepted. Fees will be refunded in full if your application is not processed.</p>
 
@@ -32,7 +32,7 @@ export default function Apply() {
 
             <div className="w-full sm:w-1/2 p-5 pb-0 mt-10">
               <div className="block sm:flex">
-                <Link href="http://fretboardsummit.org/media/FretboardSummit_ExhibitorApplication_DetailsGuidelines_2024.pdf">
+                <Link href="https://fretboardsummit.org/media/FretboardSummit_ExhibitorApplication_DetailsGuidelines_2024.pdf">
                   <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1]">
                   Vendor Application Details & Guidelines PDF
                   </button>
