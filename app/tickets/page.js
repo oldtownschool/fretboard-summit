@@ -30,7 +30,7 @@ export default function Tickets() {
             height={100}
           />
           <h2 className="tracking-wider font-aurochs font-normal uppercase text-5xl text-center">
-            3-DAY ALL ACCESS PASS $350.00
+            3-DAY ALL ACCESS PASS $400.00
           </h2>
           <h3 className="font-bold text-2xl my-6">
             Experience everything at the Fretboard Summit, including concerts,
@@ -57,9 +57,9 @@ export default function Tickets() {
           <h3 className="mt-4 font-black text-xl">
             Limited to the first 300 registered attendees.
           </h3>
-          <h3 className="font-black text-base italic">
+          {/* <h3 className="font-black text-base italic">
               Price Increases to $400 on December 3, 2023
-          </h3>
+          </h3> */}
           <div className="flex flex-row justify-evenly mt-6">
             <a href="https://www.oldtownschool.org/events/event.php?event_id=8980" className="text-center">
               <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#2B6F6D] text-[#F0E5D1]">
@@ -88,11 +88,11 @@ export default function Tickets() {
 
           <div className="block sm:flex sm:flex-row  max-w-5xl sm:p-0">
             <div className="w-full sm:flex-col sm:flex sm:w-2/4 sm:p-4 px-4">
-              {/* <Link href="https://www.oldtownschool.org/events/event.php?event_id=8840" className="text-center"> */}
-                <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1]  opacity-50 cursor-not-allowed">
+              <Link href=" https://www.oldtownschool.org/events/event.php?event_id=9001" className="text-center">
+                <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1]">
                   Buy Day Pass: Sat, Aug. 24
                 </button>
-              {/* </Link> */}
+              </Link>
               {/* <ul className="list-disc ml-4 mt-6">
                 <li>Friday Highlights Include:</li>
                 <li className="ml-4">JHS Live: the Germanium Chef competition featuring Robert Keeley versus Heather Brown</li>
@@ -105,11 +105,11 @@ export default function Tickets() {
               </ul> */}
             </div>
             <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-0 sm:m-2 sm:p-4 px-4 mt-2 sm:mt-0">
-              {/* <Link href="https://www.oldtownschool.org/events/event.php?event_id=8841" className="text-center ml-1"> */}
-                <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#2B6F6D] hover:bg-[#4DB3AC] text-[#F0E5D1]  opacity-50 cursor-not-allowed">
+              <Link href=" https://www.oldtownschool.org/events/event.php?event_id=9002" className="text-center ml-1">
+                <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#2B6F6D] hover:bg-[#4DB3AC] text-[#F0E5D1] ">
                 Buy Day Pass: Sun, Aug. 25
                 </button>
-              {/* </Link> */}
+              </Link>
               {/* <ul className="list-disc ml-4 mt-6">
                 <li>Saturday Highlights Include:</li>
                 <li className="ml-4">Tommy Emmanuel</li>
