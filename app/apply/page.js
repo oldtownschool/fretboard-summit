@@ -49,7 +49,7 @@ export default function Apply() {
                 
                   <p className="text-lg sm:text-xl leading-relaxed mb-4">
                   Exhibitor, full table: $700<br/>
-                  Exhibitor, half table: $450</p>
+                  Exhibitor, half table: $400</p>
                   <p className="text-lg sm:text-xl leading-relaxed mb-4">Exhibitor Applications MUST be completely filled out and submitted with non-refundable payment and supporting
                   documentation by March 30, 2024. Old Town School of Folk Music (OTSFM) and the Fretboard Journal are not responsible for applications that do not include the necessary documentation. Payments will be processed at the time an application is submitted.</p>
                   <p className="text-lg sm:text-xl leading-relaxed mb-4">Submission of an Exhibitor Application does not guarantee participation in the event. All applications are reviewed by the organizers and applicants notified of their acceptance. Any exhibitor not approved for the festival will be notified and will receive a full refund of all application and equipment fees.</p>
