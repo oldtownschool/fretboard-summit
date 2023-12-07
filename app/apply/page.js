@@ -67,7 +67,7 @@ export default function Apply() {
                   <p className="text-lg sm:text-xl leading-relaxed mb-4">
                   Due to the nature of the festival, we will only refund exhibition fees in the case of force majeure events after March 30, 2024. We apologize in advance that we cannot make exceptions to this policy. All refunds will be minus credit card fees when applicable.</p>
                   <p className="text-lg sm:text-xl leading-relaxed mb-4">
-                  With regard to COVID: Should government mandated restrictions on mass gatherings put forth by the city, county, state or federal government agencies or any safety concerns related to the COVID-19 pandemic, result in the cancellation of an in-person event, all booth fees (minus credit card fees when applicable) will be refundable.</p>
+                  With regard to COVID: Should government mandated restrictions on mass gatherings put forth by the city, county, state or federal government agencies or any safety concerns related to the COVID-19 pandemic, result in the cancelation of an in-person event, all booth fees (minus credit card fees when applicable) will be refundable.</p>
                 </div>
               </div>
             </div>
