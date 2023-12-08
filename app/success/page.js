@@ -1,7 +1,7 @@
 import Image from "next/image";
-import { Navbar } from "../../components/Navbar.jsx";
+import { Navbar } from "../components/Navbar.jsx";
 import Link from "next/link";
-import { Footer } from "../../components/Footer.jsx";
+import { Footer } from "../components/Footer.jsx";
 
 export default function Success() {
   return (
