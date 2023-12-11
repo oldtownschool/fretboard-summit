@@ -8,6 +8,28 @@ export default function Luthiers() {
     <>
       <Navbar />
       <main className="flex min-h-screen flex-col items-center bg-gradient-to-r from-[#322D35] to-[#4C454F]">
+        
+        <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#F0E5D1] text-[#322D25]">
+          <h2 className="tracking-wider font-aurochs font-normal uppercase text-5xl text-center my-6">
+            Sponsor &amp; Partner Applications Now Available
+          </h2>
+          <p className="text-xl">
+            Email: fretboardsummit@oldtownschool.org or follow us on social
+            media for more details!
+          </p>
+          <p className="text-xl mt-2 ">
+            Exhibitor and vendor applications now available.{" "}
+            <Link href="/apply" className="text-center underline">
+              See details.
+            </Link>
+          </p>
+
+          <Link href="/tickets" className="text-center mt-6">
+            <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1]">
+              Buy Tickets
+            </button>
+          </Link>
+        </div>
 
         <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#A4CCDA] text-[#322D25]">
 
@@ -427,29 +449,6 @@ export default function Luthiers() {
 
 
         </div>
-
-        {/* <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#F0E5D1] text-[#322D25]">
-          <h2 className="tracking-wider font-aurochs font-normal uppercase text-5xl text-center my-6">
-            Sponsor &amp; Partner Applications Now Available
-          </h2>
-          <p className="text-xl">
-            Email: fretboardsummit@oldtownschool.org or follow us on social
-            media for more details!
-          </p>
-          <p className="text-xl mt-2 ">
-            Exhibitor and vendor applications now available.{" "}
-            <Link href="/apply" className="text-center underline">
-              See details.
-            </Link>
-          </p>
-
-          <Link href="/tickets" className="text-center mt-6">
-            <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1]">
-              Buy Tickets
-            </button>
-          </Link>
-        </div> */}
-
 
       </main>
       <Footer />
