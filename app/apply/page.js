@@ -32,11 +32,11 @@ export default function Apply() {
 
             <div className="w-full sm:w-1/2 p-5 pb-0 mt-10">
               <div className="block sm:flex">
-                <Link href="https://fretboardsummit.org/media/FretboardSummit_ExhibitorApplication_DetailsGuidelines_2024.pdf">
+                <a href="https://fretboardsummit.org/media/FretboardSummit_ExhibitorApplication_DetailsGuidelines_2024.pdf">
                   <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1]">
                   Vendor Application Details & Guidelines PDF
                   </button>
-                </Link>
+                </a>
 
                 
               </div>
