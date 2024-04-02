@@ -81,13 +81,13 @@ export default function Music() {
               <span className="font-bold">Blake Mills</span>
               {/* <br />{" "}
               <span className="font-light tracking-wider">
-              & SPECIAL GUEST FINOM
+              feat. JOE HENRY
               </span> */}
             </h2>
             <p></p>
           </div>
           <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-0 sm:m-2 mt-4 p-4 bg-[#A4CCDA] text-center text-[#322D25]">
-            <div className="mt-6 sm:mt-0 flex items-stretch justify-center">
+            {/* <div className="mt-6 sm:mt-0 flex items-stretch justify-center">
               <Image
                 className="hidden sm:flex mx-2"
                 src="/border.png"
@@ -109,7 +109,21 @@ export default function Music() {
                 width={10}
                 height={400}
               />
+            </div> */}
+            <div className="flex justify-center">
+              <Image
+                src="/JoeHenry_FBS_960x640.jpg"
+                alt="Joe Henry"
+                className="self-start mb-2"
+                width={600}
+                height={400}
+              />
             </div>
+            <h2 className="tracking-wide font-aurochs font-normal uppercase text-3xl">
+            Thursday, August 23
+              <br />
+              <span className="font-bold">Joe Henry</span>
+            </h2>
           </div>
         </div>
 
