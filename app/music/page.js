@@ -178,7 +178,7 @@ export default function Music() {
           />
 
           <p class="mt-4">
-          Colin Hay's (formerly of Men at Work) extraordinary new solo album, Now And The Evermore, faces down struggle, loss, and even his own mortality with grit and wit at every turn. Written and recorded in Hay’s adopted hometown of Los Angeles, the collection is a defiantly joyful celebration of life and love, one that insists on finding silver linings and reasons to smile. That’s not to say the record deludes itself about the realities of our modern world, but rather that it consistently chooses to respond to pain with beauty and doubt with wonder.
+          Colin Hay's (formerly of Men at Work) extraordinary new solo album, Now And The Evermore, faces down struggle, loss, and even his own mortality with grit and wit at every turn. Written and recorded in Hay&apos;s adopted hometown of Los Angeles, the collection is a defiantly joyful celebration of life and love, one that insists on finding silver linings and reasons to smile. That&apos;s not to say the record deludes itself about the realities of our modern world, but rather that it consistently chooses to respond to pain with beauty and doubt with wonder.
           </p>
 
           <div class="flex items-center divide-x-2 divide-gray-500 mt-6">
@@ -212,7 +212,7 @@ export default function Music() {
           />
 
           <p class="mt-4">
-          Valerie June Hockett is a Grammy-nominated artist from Tennessee. She’s been hailed by the New York Times as one of America’s “most intriguing, fully formed new talents.” She is a musician, singer, songwriter, poet, illustrator, actor, certified yoga and mindfulness meditation instructor, and author. She has recorded three critically-acclaimed, best-selling solo albums and has also written songs for legendary artists such as Mavis Staples and The Blind Boys of Alabama. Her albums have been praised by numerous publications such as Pitchfork, Rolling Stone, NPR Music, No Depression, Paste Magazine, Mojo, and many others. She is also the author of the children’s book Somebody to Love: The Story of Valerie June’s Sweet Little Baby Banjolele, published by Jack White’s Third Man Books.
+          Valerie June Hockett is a Grammy-nominated artist from Tennessee. She&apos;s been hailed by the New York Times as one of America&apos;s “most intriguing, fully formed new talents.” She is a musician, singer, songwriter, poet, illustrator, actor, certified yoga and mindfulness meditation instructor, and author. She has recorded three critically-acclaimed, best-selling solo albums and has also written songs for legendary artists such as Mavis Staples and The Blind Boys of Alabama. Her albums have been praised by numerous publications such as Pitchfork, Rolling Stone, NPR Music, No Depression, Paste Magazine, Mojo, and many others. She is also the author of the children&apos;s book Somebody to Love: The Story of Valerie June&apos;s Sweet Little Baby Banjolele, published by Jack White&apos;s Third Man Books.
           </p>
 
           <div class="flex items-center divide-x-2 divide-gray-500 mt-6">
@@ -246,7 +246,7 @@ export default function Music() {
           />
 
           <p class="mt-4">
-          Grammy Award winner and two-time Grammy Award Producer of the Year nominee, Blake Mills has released four acclaimed solo albums and produced, played and recorded with artists such as Fiona Apple, Alabama Shakes, Phoebe Bridgers, Perfume Genius, Moses Sumney, Bob Dylan, Laura Marling, Cass McCombs, Weyes Blood and Randy Newman, among others. Most recently, Mills worked as the Executive Music Producer and chief songwriter on Amazon Prime’s limited series Daisy Jones and the Six.
+          Grammy Award winner and two-time Grammy Award Producer of the Year nominee, Blake Mills has released four acclaimed solo albums and produced, played and recorded with artists such as Fiona Apple, Alabama Shakes, Phoebe Bridgers, Perfume Genius, Moses Sumney, Bob Dylan, Laura Marling, Cass McCombs, Weyes Blood and Randy Newman, among others. Most recently, Mills worked as the Executive Music Producer and chief songwriter on Amazon Prime&apos;s limited series Daisy Jones and the Six.
           </p>
 
           <div class="flex items-center divide-x-2 divide-gray-500 mt-6">
@@ -286,11 +286,11 @@ export default function Music() {
             WORKSHOPS, SHOWCASES, &amp; MORE
           </h2>
           <h3 className="font-bold text-2xl my-6">
-            If you’re looking for inspiration on how to play better, dive deeper
+            If you&apos;re looking for inspiration on how to play better, dive deeper
             into guitar collecting, or just meet the biggest guitar, amp, and
             pedal enthusiasts around, we have it all. All abilities and all
             guitarists (electric, acoustic, vintage, new...) are welcome at
-            Summit workshops. Bring what you’ve got!
+            Summit workshops. Bring what you&apos;ve got!
             <br />
             All-access passholders get access to all our breakout sessions and
             master classes featuring fantastic players, passionate luthiers, and
