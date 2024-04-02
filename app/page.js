@@ -22,13 +22,13 @@ export default function Home() {
       </Script>
       <Navbar />
       <main className="flex min-h-screen flex-col items-center bg-gradient-to-r from-[#322D35] to-[#4C454F]">
-        <div className="w-full max-w-5xl items-center lg:flex">
-          {/* <Image
-            src="/DSC07226.png"
-            alt="fs video placeholder"
+        <div className="w-full max-w-5xl items-center lg:flex my-8">
+          <Image
+            src="/FBS_HeadlinerAnnounce_2560x536.png"
+            alt="FBS Headliner Announce 2024"
             width={1200}
             height={500}
-          /> */}
+          />
           {/* <video
             autoPlay
             muted
@@ -202,10 +202,10 @@ export default function Home() {
               <span className="font-bold">Robert Keeley</span> battle in a race
               to build the ultimate FUZZ PEDAL!
             </p>
-          </div> */}
+          </div>
         </div>
 
-        {/* <div className="block sm:flex sm:flex-row max-w-5xl p-2 sm:p-0">
+        <div className="block sm:flex sm:flex-row max-w-5xl p-2 sm:p-0">
           <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-0 sm:m-2 mt-0 sm:mt-2 p-4 bg-[#F0E5D1] text-center text-[#322D25]">
             <div className="flex justify-center">
               <Image
@@ -242,8 +242,8 @@ export default function Home() {
               rare, and cult favorite amps and PAs mentioned in our weekly
               podcast.
             </p>
-          </div>
-        </div> */}
+          </div> */}
+        </div>
 
         <a href="/tickets">
           <button className="text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1] my-10">
