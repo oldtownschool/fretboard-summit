@@ -268,7 +268,7 @@ export default function Music() {
           />
 
           <p class="mt-4">
-          In a career spanning more than 25 years, Joe Henry has left an indelible and unique imprint on American popular music. As a songwriter and artist, Henry is celebrated for his exploration of the human experience. A hyper-literate storyteller, by turns dark, devastating, and hopeful, he draws an author's eye for the overlooked detail across a broad swath of American musical styles - rock, jazz and blues - rendering genre modifiers useless.
+          In a career spanning more than 25 years, Joe Henry has left an indelible and unique imprint on American popular music. As a songwriter and artist, Henry is celebrated for his exploration of the human experience. A hyper-literate storyteller, by turns dark, devastating, and hopeful, he draws an author&apos;s eye for the overlooked detail across a broad swath of American musical styles - rock, jazz and blues - rendering genre modifiers useless.
           </p>
 
           <div class="flex items-center divide-x-2 divide-gray-500 mt-6">
