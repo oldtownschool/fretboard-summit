@@ -104,20 +104,20 @@ export const Footer = () => {
             height={150}
           />
           <Image
-            className="flex mx-2 sm:ml-12 self-center mix-blend-multiply image"
+            className="flex mx-2 sm:ml-4 self-center mix-blend-multiply image"
             src="/image9.png"
             alt="Yamaha"
             width={150}
             height={150}
           />
-
           <Image
-            className="flex sm:mx-2 sm:ml-12 self-center mix-blend-multiply image"
-            src="/taylorlogo.png"
-            alt="Taylor"
-            width={150}
-            height={150}
+          className="flex sm:mx-2 sm:ml-4 self-center mix-blend-multiply image"
+          src="/Taylor_Web.png"
+          alt="Taylor"
+          width={100}
+          height={150}
           />
+          
 
         </div>
 
@@ -147,6 +147,13 @@ export const Footer = () => {
             className="flex sm:mx-2 sm:ml-12 self-center mix-blend-multiply image-sm"
             src="/GallagherGuitars_Web.png"
             alt="Gallagher Guitars"
+            width={75}
+            height={150}
+          />
+          <Image
+            className="flex sm:mx-2 sm:ml-8 self-center mix-blend-multiply image-sm"
+            src="/boucher_logo.png"
+            alt="Boucher Guitars"
             width={75}
             height={150}
           />
