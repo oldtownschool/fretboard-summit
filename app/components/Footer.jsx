@@ -110,6 +110,15 @@ export const Footer = () => {
             width={150}
             height={150}
           />
+
+          <Image
+            className="flex sm:mx-2 sm:ml-12 self-center mix-blend-multiply image"
+            src="/taylorlogo.png"
+            alt="Taylor"
+            width={150}
+            height={150}
+          />
+
         </div>
 
         <div className="flex justify-center pt-4 px-2 image-container">
@@ -136,35 +145,35 @@ export const Footer = () => {
           />
           <Image
             className="flex sm:mx-2 sm:ml-12 self-center mix-blend-multiply image-sm"
-            src="/taylorlogo.png"
-            alt="Taylor"
+            src="/GallagherGuitars_Web.png"
+            alt="Gallagher Guitars"
             width={75}
             height={150}
           />
-          <Image
+          {/* <Image
             className="flex sm:mx-2 sm:ml-12 self-center image-sm"
             src="/pre-war-logo_FBS-bkg.png"
             alt="Pre War"
             width={75}
             height={150}
-          />
-          <Image
+          /> */}
+          {/* <Image
             className="flex sm:mx-2 ml-2 sm:ml-12 self-center mix-blend-multiply image-sm"
             src="/lake-pine-logo-primary-dark-rgb-500px-w-72ppi1.png"
             alt="Lake and Pine"
             width={75}
             height={150}
-          />
+          /> */}
         </div>
 
         <div className="flex justify-center pt-4 px-2 image-container">
-          <Image
+          {/* <Image
             className="flex mx-2 self-center mix-blend-multiply image-sm"
             src="/Bruce-Guitars-Banner-WEB1.png"
             alt="Bruce Guitars.png"
             width={60}
             height={150}           
-          />
+          /> */}
           <Image
             className="flex mx-1 sm:mx-2 sm:ml-12 self-center mix-blend-multiply image-sm"
             src="/image14.png"
@@ -179,13 +188,13 @@ export const Footer = () => {
             width={60}
             height={150}
           />
-          <Image
+          {/* <Image
             className="flex mx-1 sm:mx-2 sm:ml-12 self-center mix-blend-multiply image-sm"
             src="/image12.png"
             alt="Thompson"
             width={60}
             height={150}
-          />
+          /> */}
           <Image
             className="flex mx-1 sm:mx-2 sm:ml-12 self-center mix-blend-difference image-sm"
             src="/image16.png"
@@ -193,13 +202,13 @@ export const Footer = () => {
             width={60}
             height={150}
           />
-          <Image
+          {/* <Image
             className="flex mr-2 sm:mx-2 sm:ml-12 self-center mix-blend-multiply image-sm"
             src="/image17.png"
             alt="Acoustic Tuesday"
             width={60}
             height={150}
-          />
+          /> */}
         </div>
 
         <div className="flex justify-center pt-4 self-center">

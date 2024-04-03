@@ -9,7 +9,7 @@ export default function Luthiers() {
       <Navbar />
       <main className="flex min-h-screen flex-col items-center bg-gradient-to-r from-[#322D35] to-[#4C454F]">
         
-        <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#F0E5D1] text-[#322D25]">
+        {/* <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#F0E5D1] text-[#322D25]">
           <h2 className="tracking-wider font-aurochs font-normal uppercase text-5xl text-center my-6">
             Sponsor &amp; Partner Applications Now Available
           </h2>
@@ -29,22 +29,29 @@ export default function Luthiers() {
               Buy Tickets
             </button>
           </Link>
-        </div>
+        </div> */}
 
         <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#A4CCDA] text-[#322D25]">
 
-          <h2 className="text-red-500 mb-10">Please Note: This is content from the 2023 Fretboard Summit for informational purposes only. 2024 info available soon.</h2>
+          {/* <h2 className="text-red-500 mb-10">Please Note: This is content from the 2023 Fretboard Summit for informational purposes only. 2024 info available soon.</h2> */}
 
 
           <h2 className="tracking-wider font-aurochs font-normal uppercase text-5xl text-center">
           CONNECT WITH THE WORLD’S GREATEST GUITAR MAKERS AND TAKE HOME YOUR NEW FAVORITE GEAR
           </h2>
 
-          <p className="font-bold text-2xl mt-6">The greatest and best-known guitar makers on the planet (acoustic & electric) will be showcasing their creations just for our Chicago event. We&apos;ve assembled a once-in-a-lifetime showcase featuring some of the world&apos;s finest luthiers, electronics wizards, and world-famous brands at Fretboard Summit 2023.</p>
+          <p className="font-bold text-2xl mt-6">Try out, demo and purchase new, forthcoming and Summit-exclusive gear from over 50 luthiers, pedal makers, amp, and gear companies.
+          </p>
 
-          <p className="font-bold text-2xl my-4">Use this guide to find your favorite Fretboard Summit exhibitors, sponsors, and friends across the two Old Town School of Folk Music buildings below.</p>
+          <p className="font-bold text-2xl mt-4">Among the 2024 confirmed exhibitors: Collings, JHS, Martin, Santa Cruz, Maegen Wells Guitars, Chase Bliss, Baranik Guitars, Taylor, Woolson Soundcraft, Cirrus, StewMac, Yamaha, Ryan Thorell, Uberfrank, Rivière Guitars, Northfield, and dozens more.
+          </p>
 
-          <table class="table-auto">
+          <p className="font-bold text-2xl my-4">We'll be updating the list leading up to the Summit, but rest assured that we've curated the Midwest's largest and finest gathering of makers, players and industry experts.
+          </p>
+
+          {/* <p className="font-bold text-2xl my-4">Use this guide to find your favorite Fretboard Summit exhibitors, sponsors, and friends across the two Old Town School of Folk Music buildings below.</p> */}
+
+          {/* <table class="table-auto">
             <thead>
               <tr>
                 <th class="text-left">Exhibitor</th>
@@ -337,7 +344,7 @@ export default function Luthiers() {
                 <td>West - 102</td>
               </tr>
             </tbody>
-          </table>
+          </table> */}
           {/* <ul className="list-disc ml-4 mt-6">
             <li>Bruce Guitars </li>
             <li>3 Bender Guitars</li>
@@ -394,11 +401,11 @@ export default function Luthiers() {
             <li>Duneland Labs</li>
           </ul> */}
 
-          <p className="text-xl my-6">Note: Most of the luthiers will have guitars available for purchase. Most of these brands are showcasing never-before-seen and new instruments, as well. Nearly all of them will have their head designers/builders present &#40;ie Bob Taylor himself will be attending for Taylor; Steve McCreary will be attending for Collings, etc&#41;. We will have quiet rooms and amp rooms available for demos.</p>
+          {/* <p className="text-xl my-6">Note: Most of the luthiers will have guitars available for purchase. Most of these brands are showcasing never-before-seen and new instruments, as well. Nearly all of them will have their head designers/builders present &#40;ie Bob Taylor himself will be attending for Taylor; Steve McCreary will be attending for Collings, etc&#41;. We will have quiet rooms and amp rooms available for demos.</p> */}
 
         </div>
 
-        <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#F0E5D1] text-[#322D25]">
+        {/* <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#F0E5D1] text-[#322D25]">
           <h2 className="tracking-wider font-aurochs font-normal uppercase text-5xl text-center my-6">
            Sealed Bid Auction Guitars
           </h2>
@@ -448,7 +455,7 @@ export default function Luthiers() {
           </h4>
 
 
-        </div>
+        </div> */}
 
       </main>
       <Footer />

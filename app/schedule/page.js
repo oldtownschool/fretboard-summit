@@ -49,7 +49,18 @@ export default function Schedule() {
 
         {/* <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#A4CCDA] text-[#322D25]"> */}
         <div className="py-10 max-w-5xl w-full my-10 p-4 bg-[#A4CCDA] text-[#322D25]">
-          <h2 className="text-red-500 mb-10">Please Note: This is content from the 2023 Fretboard Summit for informational purposes only. 2024 info available soon.</h2>
+          {/* <h2 className="text-red-500 mb-10">Please Note: This is content from the 2023 Fretboard Summit for informational purposes only. 2024 info available soon.</h2> */}
+
+          <div className="sm:px-16">
+            <p className="font-bold text-2xl">The Summit isn't just about shopping. All-access passholders get access to three days of sessions, master classes, music workshops, histories, and parties created just for the Fretboard Summit attendees.</p>
+
+            <p className="font-bold text-2xl mt-4">For 2024, we have Chris Martin IV sharing his story; we're bringing back the Summit Science Fair hosted by Josh Scott (JHS); we've got an all-star cast of luthiers sharing their expertise, including Wayne Henderson, TJ Thompson, Mark Stutman, Dan Erlewine and others; we'll have live podcast tapings; late night jams; interviews with some of our music heroes; and more.</p>
+
+            <p className="font-bold text-2xl my-4">To whet your appetite, here's what our 2023 Fretboard Summit looked like.</p>
+          </div>
+
+          
+
 
           <Slider {...settings}>
           <div>

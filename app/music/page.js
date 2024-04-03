@@ -76,13 +76,13 @@ export default function Music() {
               />
             </div>
             <h2 className="tracking-wide font-aurochs font-normal uppercase text-3xl">
-            Thursday, August 23
+            Friday, August 23
               <br />
               <span className="font-bold">Blake Mills</span>
-              {/* <br />{" "}
+              <br />{" "}
               <span className="font-light tracking-wider">
-              feat. JOE HENRY
-              </span> */}
+              Exclusive For All Access Passholders
+              </span>
             </h2>
             <p></p>
           </div>
@@ -120,9 +120,13 @@ export default function Music() {
               />
             </div>
             <h2 className="tracking-wide font-aurochs font-normal uppercase text-3xl">
-            Thursday, August 23
+            Friday, August 23
               <br />
               <span className="font-bold">Joe Henry</span>
+              <br />{" "}
+              <span className="font-light tracking-wider">
+              Exclusive For All Access Passholders
+              </span>
             </h2>
           </div>
         </div>
@@ -299,19 +303,17 @@ export default function Music() {
           <h2 className="tracking-wider font-aurochs font-normal uppercase text-5xl text-center">
             WORKSHOPS, SHOWCASES, &amp; MORE
           </h2>
-          <h3 className="font-bold text-2xl my-6">
-            If you&apos;re looking for inspiration on how to play better, dive deeper
-            into guitar collecting, or just meet the biggest guitar, amp, and
-            pedal enthusiasts around, we have it all. All abilities and all
-            guitarists (electric, acoustic, vintage, new...) are welcome at
-            Summit workshops. Bring what you&apos;ve got!
-            <br />
-            All-access passholders get access to all our breakout sessions and
-            master classes featuring fantastic players, passionate luthiers, and
-            authorities from across the industry.
-          </h3>
+          <p className="font-bold text-xl mt-6">
+            The Summit is three days of fun and inspiration for guitar fanatics. In addition to the great concerts listed above, we'll have additional concerts taking place in both theaters, hourly workshops and master classes, demo rooms, and Summit-exclusive parties.
+          </p>
+          <p className="font-bold text-xl mt-4">
+            We're happy to announce that 2023 performer Adam Levy is returning for 2024 to perform in his duo with Rich Hinman; bluegrass phenom Jake Eddy is coming back; as are numerous other Summit favorites. We'll be adding more performance updates soon - follow us on Instagram and Facebook for more information.
+          </p>
+          <p className="font-bold text-xl mt-4">
+            Remember - All-access passholders get access to all our breakout sessions and master classes featuring fantastic players, passionate luthiers, and authorities from across the industry.
+          </p>
 
-          <h2 className="tracking-wider font-aurochs font-normal uppercase text-3xl text-center">
+          <h2 className="my-4 tracking-wider font-aurochs font-normal uppercase text-3xl text-center">
             2024 Workshop Lineup Coming Soon!
           </h2>
 

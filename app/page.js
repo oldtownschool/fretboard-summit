@@ -24,7 +24,7 @@ export default function Home() {
       <main className="flex min-h-screen flex-col items-center bg-gradient-to-r from-[#322D35] to-[#4C454F]">
         <div className="w-full max-w-5xl items-center lg:flex my-8">
           <Image
-            src="/FBS_HeadlinerAnnounce_2560x536.png"
+            src="/FBS_HeadlinerAnnounce2_2560x536.png"
             alt="FBS Headliner Announce 2024"
             width={1200}
             height={500}
