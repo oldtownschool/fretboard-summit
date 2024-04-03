@@ -9,10 +9,10 @@ export const Footer = () => {
       <div className="flex flex-col">
         <div className="flex justify-center">
           <Image
-            src="/Group25.png"
+            src="/FBS_PickFooter.png"
             width={250}
             height={32}
-            alt="Fretboard Journal Guitar Pick Logo"
+            alt="Fretboard Journal Guitar Pick Logo 2024"
           />
         </div>
         <div className="flex justify-center pt-4">
