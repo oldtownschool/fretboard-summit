@@ -97,7 +97,7 @@ export const Footer = () => {
 
         <div className="flex justify-center pt-4 image-container">
           <Image
-            className="flex mx-2 self-center image"
+            className="flex mx-2 self-center image sm:px-6"
             src="/image8.png"
             alt="Collings Guitar"
             width={150}
@@ -111,7 +111,7 @@ export const Footer = () => {
             height={150}
           />
           <Image
-          className="flex sm:mx-2 sm:ml-4 self-center mix-blend-multiply image"
+          className="flex sm:mx-2 sm:px-6 self-center mix-blend-multiply image"
           src="/Taylor_Web.png"
           alt="Taylor"
           width={100}
