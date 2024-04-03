@@ -46,7 +46,7 @@ export default function Luthiers() {
           <p className="font-bold text-2xl mt-4">Among the 2024 confirmed exhibitors: Collings, JHS, Martin, Santa Cruz, Maegen Wells Guitars, Chase Bliss, Baranik Guitars, Taylor, Woolson Soundcraft, Cirrus, StewMac, Yamaha, Ryan Thorell, Uberfrank, Rivière Guitars, Northfield, and dozens more.
           </p>
 
-          <p className="font-bold text-2xl my-4">We'll be updating the list leading up to the Summit, but rest assured that we've curated the Midwest's largest and finest gathering of makers, players and industry experts.
+          <p className="font-bold text-2xl my-4">We&apos;ll be updating the list leading up to the Summit, but rest assured that we&apos;ve curated the Midwest&apos;s largest and finest gathering of makers, players and industry experts.
           </p>
 
           {/* <p className="font-bold text-2xl my-4">Use this guide to find your favorite Fretboard Summit exhibitors, sponsors, and friends across the two Old Town School of Folk Music buildings below.</p> */}

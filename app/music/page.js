@@ -304,10 +304,10 @@ export default function Music() {
             WORKSHOPS, SHOWCASES, &amp; MORE
           </h2>
           <p className="font-bold text-xl mt-6">
-            The Summit is three days of fun and inspiration for guitar fanatics. In addition to the great concerts listed above, we'll have additional concerts taking place in both theaters, hourly workshops and master classes, demo rooms, and Summit-exclusive parties.
+            The Summit is three days of fun and inspiration for guitar fanatics. In addition to the great concerts listed above, we&apos;ll have additional concerts taking place in both theaters, hourly workshops and master classes, demo rooms, and Summit-exclusive parties.
           </p>
           <p className="font-bold text-xl mt-4">
-            We're happy to announce that 2023 performer Adam Levy is returning for 2024 to perform in his duo with Rich Hinman; bluegrass phenom Jake Eddy is coming back; as are numerous other Summit favorites. We'll be adding more performance updates soon - follow us on Instagram and Facebook for more information.
+            We&apos;re happy to announce that 2023 performer Adam Levy is returning for 2024 to perform in his duo with Rich Hinman; bluegrass phenom Jake Eddy is coming back; as are numerous other Summit favorites. We&apos;ll be adding more performance updates soon - follow us on Instagram and Facebook for more information.
           </p>
           <p className="font-bold text-xl mt-4">
             Remember - All-access passholders get access to all our breakout sessions and master classes featuring fantastic players, passionate luthiers, and authorities from across the industry.
