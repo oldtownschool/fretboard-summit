@@ -7,10 +7,10 @@ import Script from 'next/script';
 export default function Home() {
   return (
     <>
-      <Script>
-      var a = document.createElement('meta');
-      a.setAttribute('name', 'google-site-verification');
-      a.setAttribute('content', 'IVHm-3kx8x4K6J6setRy0iaNzHnFZc2SW4c3poxgAcE');
+      <Script id="google-tag-meta">
+      var a = document.createElement(&apos;meta&apos;);
+      a.setAttribute(&apos;name&apos;, &apos;google-site-verification&apos;);
+      a.setAttribute(&apos;content&apos;, &apos;IVHm-3kx8x4K6J6setRy0iaNzHnFZc2SW4c3poxgAcE&apos;);
       document.head.append(a);
       </Script>
       <Script
