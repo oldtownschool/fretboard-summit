@@ -196,7 +196,7 @@ export default function Music() {
           />
 
           <p class="mt-4">
-          Colin Hay&apos;s (formerly of Men at Work) extraordinary new solo album, Now And The Evermore, faces down struggle, loss, and even his own mortality with grit and wit at every turn. Written and recorded in Hay&apos;s adopted hometown of Los Angeles, the collection is a defiantly joyful celebration of life and love, one that insists on finding silver linings and reasons to smile. That&apos;s not to say the record deludes itself about the realities of our modern world, but rather that it consistently chooses to respond to pain with beauty and doubt with wonder.
+          Colin Hay first came to international fame with seminal &apos;80s hitmakers Men At Work selling more than 30 million records worldwide on the strength of #1 songs like &lsquo;Who Can It Be Now?&rsquo; and &lsquo;Down Under&rsquo;. Over the course of his remarkable solo career, Hay developed a reputation as a gifted raconteur with serious comedy chops and has recorded over a dozen critically-acclaimed studio albums helping establish him as one of his generation&apos;s most hardworking and reliable craftsmen. Rolling Stone praised his &lsquo;witty, hooky pop&rsquo; tunes, while NPR&apos;s World Café lauded his &lsquo;distinctive voice&rsquo;.
           </p>
 
           <div class="flex items-center divide-x-2 divide-gray-500 mt-6">

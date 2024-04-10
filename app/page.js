@@ -7,8 +7,14 @@ import Script from 'next/script';
 export default function Home() {
   return (
     <>
+      <Script>
+      var a = document.createElement('meta');
+      a.setAttribute('name', 'google-site-verification');
+      a.setAttribute('content', 'IVHm-3kx8x4K6J6setRy0iaNzHnFZc2SW4c3poxgAcE');
+      document.head.append(a);
+      </Script>
       <Script
-        src="https://www.googletagmanager.com/gtag/js?id=G-X904VGK5WS"
+        src="https://www.googletagmanager.com/ns.html?id=GTM-TXTV4QHK"
         strategy="afterInteractive" 
       />
       <Script id="google-analytics" strategy="afterInteractive">
@@ -17,7 +23,7 @@ export default function Home() {
           function gtag(){window.dataLayer.push(arguments);}
           gtag('js', new Date());
 
-          gtag('config', 'G-X904VGK5WS');
+          gtag('config', 'GTM-TXTV4QHK');
         `}
       </Script>
       <Navbar />
