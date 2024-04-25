@@ -13,10 +13,6 @@ export default function Home() {
       a.setAttribute(&apos;content&apos;, &apos;IVHm-3kx8x4K6J6setRy0iaNzHnFZc2SW4c3poxgAcE&apos;);
       document.head.append(a);
       </Script>
-      {/* <Script
-        src="https://www.googletagmanager.com/ns.html?id=GTM-TXTV4QHK"
-        strategy="afterInteractive" 
-      /> */}
       <Script
         src="https://www.googletagmanager.com/gtag/js?id=GTM-TXTV4QHK"
         strategy="afterInteractive" 
