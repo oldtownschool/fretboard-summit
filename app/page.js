@@ -13,7 +13,7 @@ export default function Home() {
       a.setAttribute(&apos;content&apos;, &apos;IVHm-3kx8x4K6J6setRy0iaNzHnFZc2SW4c3poxgAcE&apos;);
       document.head.append(a);
       </Script>
-      <Script
+      {/* <Script
         src="https://www.googletagmanager.com/gtag/js?id=GTM-TXTV4QHK"
         strategy="afterInteractive" 
       />
@@ -25,7 +25,7 @@ export default function Home() {
 
           gtag('config', 'GTM-TXTV4QHK');
         `}
-      </Script>
+      </Script> */}
       <Navbar />
       <main className="flex min-h-screen flex-col items-center bg-gradient-to-r from-[#322D35] to-[#4C454F]">
         <div className="w-full max-w-5xl items-center lg:flex my-8">
