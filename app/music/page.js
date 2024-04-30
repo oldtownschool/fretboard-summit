@@ -195,11 +195,11 @@ export default function Music() {
             height={400}
           />
 
-          <p class="mt-4">
+          <p className="mt-4">
           Colin Hay first came to international fame with seminal &apos;80s hitmakers Men At Work selling more than 30 million records worldwide on the strength of #1 songs like &lsquo;Who Can It Be Now?&rsquo; and &lsquo;Down Under&rsquo;. Over the course of his remarkable solo career, Hay developed a reputation as a gifted raconteur with serious comedy chops and has recorded over a dozen critically-acclaimed studio albums helping establish him as one of his generation&apos;s most hardworking and reliable craftsmen. Rolling Stone praised his &lsquo;witty, hooky pop&rsquo; tunes, while NPR&apos;s World Café lauded his &lsquo;distinctive voice&rsquo;.
           </p>
 
-          <div class="flex items-center divide-x-2 divide-gray-500 mt-6">
+          <div className="flex items-center divide-x-2 divide-gray-500 mt-6">
             <span className="pr-3 font-medium text-gray-900"><Link
               href="https://www.colinhay.com">https://www.colinhay.com/</Link> </span>
             <span className="pl-3 text-sm text-gray-500"><Link
@@ -229,11 +229,11 @@ export default function Music() {
             height={400}
           />
 
-          <p class="mt-4">
+          <p className="mt-4">
           Valerie June Hockett is a Grammy-nominated artist from Tennessee. She&apos;s been hailed by the New York Times as one of America&apos;s &lsquo;most intriguing, fully formed new talents.&rsquo; She is a musician, singer, songwriter, poet, illustrator, actor, certified yoga and mindfulness meditation instructor, and author. She has recorded three critically-acclaimed, best-selling solo albums and has also written songs for legendary artists such as Mavis Staples and The Blind Boys of Alabama. Her albums have been praised by numerous publications such as Pitchfork, Rolling Stone, NPR Music, No Depression, Paste Magazine, Mojo, and many others. She is also the author of the children&apos;s book Somebody to Love: The Story of Valerie June&apos;s Sweet Little Baby Banjolele, published by Jack White&apos;s Third Man Books.
           </p>
 
-          <div class="flex items-center divide-x-2 divide-gray-500 mt-6">
+          <div className="flex items-center divide-x-2 divide-gray-500 mt-6">
             <span className="pr-3 font-medium text-gray-900"><Link
               href="https://www.valeriejune.com/">https://www.valeriejune.com/ </Link> </span>
             <span className="pl-3 text-sm text-gray-500"><Link
@@ -263,11 +263,11 @@ export default function Music() {
             height={400}
           />
 
-          <p class="mt-4">
+          <p className="mt-4">
           Grammy Award winner and two-time Grammy Award Producer of the Year nominee, Blake Mills has released four acclaimed solo albums and produced, played and recorded with artists such as Fiona Apple, Alabama Shakes, Phoebe Bridgers, Perfume Genius, Moses Sumney, Bob Dylan, Laura Marling, Cass McCombs, Weyes Blood and Randy Newman, among others. Most recently, Mills worked as the Executive Music Producer and chief songwriter on Amazon Prime&apos;s limited series Daisy Jones and the Six.
           </p>
 
-          <div class="flex items-center divide-x-2 divide-gray-500 mt-6">
+          <div className="flex items-center divide-x-2 divide-gray-500 mt-6">
             <span className="pr-3 font-medium text-gray-900"><Link
               href="https://www.blakemillsonline.com/">https://www.blakemillsonline.com/ </Link> </span>
             <span className="pl-3 text-sm text-gray-500"><Link
@@ -285,11 +285,11 @@ export default function Music() {
             height={400}
           />
 
-          <p class="mt-4">
+          <p className="mt-4">
           In a career spanning more than 25 years, Joe Henry has left an indelible and unique imprint on American popular music. As a songwriter and artist, Henry is celebrated for his exploration of the human experience. A hyper-literate storyteller, by turns dark, devastating, and hopeful, he draws an author&apos;s eye for the overlooked detail across a broad swath of American musical styles - rock, jazz and blues - rendering genre modifiers useless.
           </p>
 
-          <div class="flex items-center divide-x-2 divide-gray-500 mt-6">
+          <div className="flex items-center divide-x-2 divide-gray-500 mt-6">
             <span className="pr-3 font-medium text-gray-900"><Link
               href="https://www.joehenrylovesyoumadly.com/">https://www.joehenrylovesyoumadly.com/ </Link> </span>
             <span className="pl-3 text-sm text-gray-500"><Link
