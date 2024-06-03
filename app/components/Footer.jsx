@@ -157,6 +157,13 @@ export const Footer = () => {
             width={75}
             height={150}
           />
+          <Image
+            className="flex sm:mx-2 sm:ml-6 self-center image-sm"
+            src="/NorthfieldMandolins_web.png"
+            alt="Northfield Mandolins"
+            width={75}
+            height={150}
+          />
           {/* <Image
             className="flex sm:mx-2 sm:ml-12 self-center image-sm"
             src="/pre-war-logo_FBS-bkg.png"
@@ -206,6 +213,13 @@ export const Footer = () => {
             className="flex mx-1 sm:mx-2 sm:ml-12 self-center mix-blend-difference image-sm"
             src="/image16.png"
             alt="Pacific Rim Tonewood"
+            width={60}
+            height={150}
+          />
+          <Image
+            className="flex mx-1 sm:mx-2 sm:ml-8 self-center mix-blend-multiply image-sm"
+            src="/IrisGuitars-web.png"
+            alt="Iris Guitars"
             width={60}
             height={150}
           />
