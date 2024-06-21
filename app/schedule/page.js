@@ -135,6 +135,8 @@ export default function Schedule() {
           <p className="text-lg leading-relaxed" >Chris Martin IV of Martin Guitars</p>
           <p className="text-lg leading-relaxed" >Tony Polecastro</p>
           <p className="text-lg leading-relaxed" >Brick & Mortar Guitar Store Roundtable </p>
+          <p className="text-lg leading-relaxed"  >The Future of Vintage Collecting </p>
+          <p className="pl-4  text-lg leading-relaxed" >with Emerald City Guitars, Folkway Music, and Elderly Instruments</p>
 
           <p className="underline font-bold mt-4  text-lg leading-relaxed" >Performances:</p>
           <p className="text-lg leading-relaxed"  >Sofia Wolfson</p>
@@ -184,12 +186,15 @@ export default function Schedule() {
           <p className="underline font-bold mt-4  text-lg leading-relaxed" >Workshops:</p>
           <p className="text-lg leading-relaxed"  >World Premiere Screening: </p>
           <p className="italic pl-4  text-lg leading-relaxed" >The Fretboard Journal&apos;s Dumble: A Life Well-Built</p>
-          <p className="text-lg leading-relaxed"  >Your Guitar and Your Brain with John Thomas
-          Valerie June</p>
-          <p className="text-lg leading-relaxed"  >Adam Levy & Rich Hinman
-          Jonathan Stout</p>
-          <p className="text-lg leading-relaxed"  >The Future of Vintage Collecting </p>
-          <p className="pl-4  text-lg leading-relaxed" >with Emerald City Guitars, Folkway Music, and Elderly Instruments</p>
+          <p className="text-lg leading-relaxed"  >Your Guitar and Your Brain with John Thomas</p>
+          <p className="text-lg leading-relaxed"  >Jake Eddy</p>
+          <p className="text-lg leading-relaxed"  >Molly Miller</p>
+          <p className="text-lg leading-relaxed"  >Live Podcast with Valerie June</p>
+          <p className="text-lg leading-relaxed"  >Adam Levy & Rich Hinman</p>
+          <p className="text-lg leading-relaxed"  >Jonathan Stout</p>
+          <p className="text-lg leading-relaxed"  >DIY Guitar Recording & More</p>
+          <p className="text-lg leading-relaxed"  >Rhett Shull</p>
+          
 
           
 
