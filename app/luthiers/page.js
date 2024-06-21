@@ -49,9 +49,9 @@ export default function Luthiers() {
           <p className="font-bold text-2xl my-4">We&apos;ll be updating the list leading up to the Summit, but rest assured that we&apos;ve curated the Midwest&apos;s largest and finest gathering of makers, players and industry experts.
           </p>
 
-          {/* <p className="font-bold text-2xl my-4">Use this guide to find your favorite Fretboard Summit exhibitors, sponsors, and friends across the two Old Town School of Folk Music buildings below.</p> */}
+          <p className="font-bold text-2xl my-4">Use this guide to find your favorite Fretboard Summit exhibitors, sponsors, and friends across the two Old Town School of Folk Music buildings below.</p>
 
-          {/* <table class="table-auto">
+          <table class="table-auto">
             <thead>
               <tr>
                 <th class="text-left">Exhibitor</th>
@@ -344,62 +344,8 @@ export default function Luthiers() {
                 <td>West - 102</td>
               </tr>
             </tbody>
-          </table> */}
-          {/* <ul className="list-disc ml-4 mt-6">
-            <li>Bruce Guitars </li>
-            <li>3 Bender Guitars</li>
-            <li>Acoustic Remedy Cases</li>
-            <li>Bashkin Guitars </li>
-            <li>Dammann Custom Instruments</li>
-            <li>FE Tellier Guitars</li>
-            <li>Grez Guitars</li>
-            <li>H Guitars</li>
-            <li>Halland Guitars</li>
-            <li>Hoffee Cases</li>
-            <li>Lamehorse Guitars</li>
-            <li>Lane Guitars</li>
-            <li>Maegen Wells Guitars & Mandolins</li>
-            <li>Michael Kennedy Guitars</li>
-            <li>RS Muth Guitars</li>
-            <li>R. Robinson Guitars</li>
-            <li>Saers Guitars</li>
-            <li>T. Drew Heinonen Guitars</li>
-            <li>Tyson Soth Guitar Co.</li>
-            <li>Woolson Soundcraft</li>
-            <li>Phoenix Guitars</li>
-            <li>Bruce Guitars</li>
-            <li>Motander Guitars</li>
-            <li>Noemi Guitars</li>
-            <li>Gallagher Guitars</li>
-            <li>De Wit Guitars</li>
-            <li>M-Tone Guitars</li>
-            <li>Cedar Mountain Mandolins</li>
-            <li>Laroche Lutherie</li>
-            <li>Cardinal Instruments</li>
-            <li>Lockhorn Instrument</li>
-            <li>Treehouse Guitars</li>
-            <li>Black Bobbin</li>
-            <li>Leavitt Stringed Instruments</li>
-            <li>Jason Kostal Guitars</li>
-            <li>Uberfrank</li>
-            <li>Big Hollow Guitars</li>
-            <li>Cedar Creek Custom Case</li>
-            <li>Shoppe</li>
-            <li>Flammang Guitars</li>
-            <li>Mojotone</li>
-            <li>Reywas Guitars</li>
-            <li>J. Rieck Lutherie</li>
-            <li>Shock the Fox</li>
-            <li>Baranik Guitars</li>
-            <li>Widman Custom Electrics</li>
-            <li>Chicago Luthiers Workshop</li>
-            <li>Lattanze Guitars</li>
-            <li>Lyon and Healy</li>
-            <li>Bashkin Guitars</li>
-            <li>Hybrid Guitars</li>
-            <li>ZVEX Effects</li>
-            <li>Duneland Labs</li>
-          </ul> */}
+          </table>
+          
 
           {/* <p className="text-xl my-6">Note: Most of the luthiers will have guitars available for purchase. Most of these brands are showcasing never-before-seen and new instruments, as well. Nearly all of them will have their head designers/builders present &#40;ie Bob Taylor himself will be attending for Taylor; Steve McCreary will be attending for Collings, etc&#41;. We will have quiet rooms and amp rooms available for demos.</p> */}
 

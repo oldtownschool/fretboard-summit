@@ -52,17 +52,22 @@ export default function Schedule() {
           {/* <h2 className="text-red-500 mb-10">Please Note: This is content from the 2023 Fretboard Summit for informational purposes only. 2024 info available soon.</h2> */}
 
           <div className="sm:px-16">
-            <p className="font-bold text-2xl">The Summit isn&apos;t just about shopping. All-access passholders get access to three days of sessions, master classes, music workshops, histories, and parties created just for the Fretboard Summit attendees.</p>
+            <p className="font-bold text-2xl">The Summit isn&apos;t just about shopping. You&apos;ll be able to meet some of the most inspiring performers and makers in the guitar universe. All-access passholders get access to three days of world-class concerts, master classes, music workshops, oral histories, podcast tapings, demo rooms, and parties created just for the Fretboard Summit attendees. </p>
 
-            <p className="font-bold text-2xl mt-4">For 2024, we have Chris Martin IV sharing his story; we&apos;re bringing back the Summit Science Fair hosted by Josh Scott (JHS); we&apos;ve got an all-star cast of luthiers sharing their expertise, including Wayne Henderson, TJ Thompson, Mark Stutman, Dan Erlewine and others; we&apos;ll have live podcast tapings; late night jams; interviews with some of our music heroes; and more.</p>
+            <p className="font-bold text-2xl mt-4">Our 2024 lineup is a who&apos;s who of players and builders. We&apos;ll hear music from Blake Mills, Joe Henry, Valerie June, Colin Hay, Nathan Graham, Jake Eddy, Adam Levy & Rich Hinman, Ryan Richter, Matt Munisteri, Joel Paterson, and Jonathan Stout. Sofia Wolfson, Molly Miller, Rhett Shull and John Leventhal are leading workshops (among many others).</p>
 
-            <p className="font-bold text-2xl my-4">To whet your appetite, here&apos;s what our 2023 Fretboard Summit looked like.</p>
+            <p className="font-bold text-2xl mt-4">Acclaimed vintage gear authorities from Emerald City Guitars, TJ Thompson Guitars, and others will be on-hand, as will Josh Scott of JHS Pedals, Chris Martin IV (Martin), Bob Taylor (Taylor Guitars), Michael Millard (Froggy Bottom), and nearly 100 acclaimed independent guitarmakers.</p>
+
+            <p className="font-bold text-2xl mt-4">We'll also have live podcast tapings; late-night jams; interviews with some of our heroes; hands-on exhibits and more. It's a guitar festival like no other and we can’t wait for you to see what we’ve cooked up this year!</p>
+            <p className="font-bold text-2xl mt-4 mb-8">– Jason Verlinde, Editor Fretboard Journal</p>
+            
           </div>
 
           
 
 
-          <Slider {...settings}>
+        {/* commented out  6/21/2024 */}
+          {/* <Slider {...settings}>
           <div>
               <Image src="/FS23_LineupSched_082623-3a.png" width={600} height={600} alt="Line Up Schedule 3"/>
             </div>
@@ -72,11 +77,11 @@ export default function Schedule() {
             <div>
               <Image src="/FS23_LineupSched_082423-1a.png" width={600} height={600} alt="Line Up Schedule 1" />
             </div>
-          </Slider>
+          </Slider> */}
         </div>
 
 
-
+        {/* this was commented out 2023 ignore */}
         {/* uncomment when closer to the event, marketing will send */}
         {/* <div className=" max-w-5xl w-full my-10 p-4 bg-[#A4CCDA] text-[#322D25]">
           <div className="slider">
@@ -107,19 +112,112 @@ export default function Schedule() {
 
         {/* </div> */}
 
+
+
         <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#A4CCDA] text-[#322D25]">
+
+        <p className="font-bold text-sm leading-relaxed">2024 Schedule Highlights</p>
+          <p className="italic text-sm leading-relaxed">Updated: June 21, 2024</p>
+
+          
+
+          <h3 className="font-aurochs mt-2 uppercase text-3xl sm:text-4xl tracking-wider leading-relaxed" >Friday, August 23, 2024 </h3>
+
+          <p className="italic mb-4  text-lg" >Exclusive Content for 3-Day Passholders Only</p>
+
+
+          <p className="font-bold mt-4 leading-relaxed" >VIP Lutherie Showcase Preview</p>
+          <p className="font-bold mt-4 leading-relaxed" >Opening Remarks w/ Jason Verlinde (Fretboard Journal) and Jim Newcomb (Old Town School)</p>
+
+
+          <p className="underline font-bold mt-4  text-lg leading-relaxed" > Workshops:</p>
+          <p className="text-lg leading-relaxed" >John Leventhal</p>
+          <p className="text-lg leading-relaxed" >Chris Martin IV of Martin Guitars</p>
+          <p className="text-lg leading-relaxed" >Tony Polecastro</p>
+          <p className="text-lg leading-relaxed" >Brick & Mortar Guitar Store Roundtable </p>
+
+          <p className="underline font-bold mt-4  text-lg leading-relaxed" >Performances:</p>
+          <p className="text-lg leading-relaxed"  >Sofia Wolfson</p>
+          <p className="text-lg leading-relaxed"  >Joe Henry</p>
+          <p className="text-lg leading-relaxed"  >Blake Mills</p>
+          <p className="text-lg leading-relaxed mb-8"  >and special guests</p>
+          
+
+
+          <div className="bg-gray-200 h-2 w-full"></div>
+
+          <h3 className="font-aurochs mt-10 uppercase text-3xl sm:text-4xl tracking-wider leading-relaxed" >Saturday, August 24, 2024 </h3>
+
+          <p className="font-bold mt-4 leading-relaxed" >Lutherie Showcase (all-day)</p>
+
+          <p className="underline font-bold mt-4  text-lg leading-relaxed" >Workshops:</p>
+          <p className="text-lg leading-relaxed"  >Blake Mills</p>
+          <p className="text-lg leading-relaxed"  >Guitar Repair Roundtable</p>
+          <p className="text-lg leading-relaxed"  >Sofia Wolfson on Songwriting</p>
+          <p className="text-lg leading-relaxed"  >JHS Pedals Presents: </p>
+          <p className="pl-4  text-lg leading-relaxed" >The Fretboard Summit Science Fair</p>
+          <p className="text-lg leading-relaxed"  >Women in Lutherie</p>
+          <p className="pl-4  text-lg leading-relaxed" >featuring: EJ Henderson and Sarah Weinberg</p>
+          <p className="text-lg leading-relaxed"  >Live Luthier on Luthier Podcast: 
+          Michael Millard (Froggy Bottom)</p>
+          <p className="text-lg leading-relaxed"  >Pedal Makers Round Table</p> 
+          <p className="pl-4  text-lg leading-relaxed" >featuring: JHS, Chase Bliss, Union Tube & Transistor, R2R & Madsen Amplification</p>
+
+
+          <p className="underline font-bold mt-4  text-lg leading-relaxed" >Performances:</p>
+          <p className="text-lg leading-relaxed"  >Ron Artis</p>
+          <p className="text-lg leading-relaxed"  >Ryan Ricther</p>
+          <p className="text-lg leading-relaxed"  >Nathan Graham</p>
+          <p className="text-lg leading-relaxed"  >Colin Hay</p>
+          <p className="text-lg leading-relaxed"  >Adam Levy & Rich Hinman</p>
+          <p className="text-lg leading-relaxed mb-8"  >and special guests</p>
+
+
+
+
+          <div className="bg-gray-200 h-2 w-full"></div>
+
+          <h3 className="font-aurochs mt-10 uppercase text-3xl sm:text-4xl tracking-wider leading-relaxed" >Sunday, August 25, 2024 </h3>
+
+          <p className="font-bold mt-4 leading-relaxed" >Lutherie Showcase (all-day)</p>
+
+          <p className="underline font-bold mt-4  text-lg leading-relaxed" >Workshops:</p>
+          <p className="text-lg leading-relaxed"  >World Premiere Screening: </p>
+          <p className="pl-4  text-lg leading-relaxed" >The Fretboard Journal's Dumble: A Life Well-Built</p>
+          <p className="text-lg leading-relaxed"  >Your Guitar and Your Brain with John Thomas
+          Valerie June</p>
+          <p className="text-lg leading-relaxed"  >Adam Levy & Rich Hinman
+          Jonathan Stout</p>
+          <p className="text-lg leading-relaxed"  >The Future of Vintage Collecting </p>
+          <p className="pl-4  text-lg leading-relaxed" >with Emerald City Guitars, Folkway Music, and Elderly Instruments</p>
+
+          
+
+          <p className="underline font-bold mt-4  text-lg leading-relaxed" >Performances:</p>
+          <p className="text-lg leading-relaxed"  >Joel Paterson & Friends</p>
+          <p className="text-lg leading-relaxed"  >Valerie June</p>
+          <p className="text-lg leading-relaxed"  >and special guests</p>
+
+
+          <p className="font-bold mt-4 leading-relaxed" >And much more to be added, full schedule available in August!</p>
+
+
+          </div>
+
+        {/* commented out 6/21/2024 */}
+        {/* <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#A4CCDA] text-[#322D25]">
 
 
           <p className="italic text-sm leading-relaxed">Updated August 24, 2023 1:19PM<br/>Schedule subject to change. </p>
 
-          {/* <p className="underline font-bold mt-4  text-lg leading-relaxed">Campus Addresses & Locations:</p>
+          <p className="underline font-bold mt-4  text-lg leading-relaxed">Campus Addresses & Locations:</p>
           <p className="mb-4 text-lg leading-relaxed">
           Old Town School of Folk Music - West, 4544 N. Lincoln Ave.<br/>
           (Maurer Hall, Mabie Gallery, Workshop Rooms, Art Gallery, Music Store, Cafe & Bar)</p>
 
           <p className="mb-10 text-lg leading-relaxed">
           Old Town School of Folk Music - East, 4545 N. Lincoln Ave.<br/>
-          (Szold Hall, Luthier Showcase Exhibit Halls, East Lobby, Workshop Rooms, Cafe & Bar)</p> */}
+          (Szold Hall, Luthier Showcase Exhibit Halls, East Lobby, Workshop Rooms, Cafe & Bar)</p> 
 
           <h3 className="font-aurochs mt-2 uppercase text-3xl sm:text-4xl tracking-wider leading-relaxed" >Thursday, August 24th</h3>
 
@@ -292,7 +390,7 @@ export default function Schedule() {
           </p>
           <p className="italic mb-10">Complimentary coffee provided by Acoustic Coffee in both buildings daily.</p>
 
-        </div>
+        </div> */}
 
 
       </main>
