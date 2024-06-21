@@ -277,7 +277,7 @@ export default function Luthiers() {
                 <td>Room TBD</td>
               </tr>
               <tr>
-                <td><Link href="http://www.lattanzeguitars.com/">Lattanze Guitars</Link></td>
+                <td><Link href="https://www.anthonylattanze.com/">Lattanze Guitars</Link></td>
                 <td>acoustics</td>
                 <td>Room TBD</td>
               </tr>
@@ -292,7 +292,7 @@ export default function Luthiers() {
                 <td>Room TBD</td>
               </tr>
               <tr>
-                <td><Link href="https://www.lockhorninstruments.com">Lockhorn Instruments</Link></td>
+                <td><Link href="https://lockhorninstruments.org/">Lockhorn Instruments</Link></td>
                 <td>electrics </td>
                 <td>Room TBD</td>
               </tr>
@@ -302,7 +302,7 @@ export default function Luthiers() {
                 <td>Room TBD</td>
               </tr>
               <tr>
-                <td><Link href="hhttps://www.maegenwellsguitars.com/">Maegan Wells Guitars and Mandolins</Link></td>
+                <td><Link href="https://www.maegenwellsguitars.com/">Maegan Wells Guitars and Mandolins</Link></td>
                 <td>archtops</td>
                 <td>Room TBD</td>
               </tr>
