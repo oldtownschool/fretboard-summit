@@ -40,308 +40,406 @@ export default function Luthiers() {
           CONNECT WITH THE WORLD’S GREATEST GUITAR MAKERS AND TAKE HOME YOUR NEW FAVORITE GEAR
           </h2>
 
-          <p className="font-bold text-2xl mt-6">Try out, demo and purchase new, forthcoming and Summit-exclusive gear from over 50 luthiers, pedal makers, amp, and gear companies.
+          <p className="font-bold text-2xl mt-6">The midwest’s largest and finest gathering of makers, players, and industry experts are here at Fretboard Summit 2024!</p>
+
+          <p className="font-bold text-2xl mt-4">Try out, demo and purchase new, forthcoming and Summit-exclusive gear from over 50 luthiers, pedal makers, amp, and gear companies. It’s a one-of-a-kind showcase you have to see to believe.
           </p>
 
-          <p className="font-bold text-2xl mt-4">Among the 2024 confirmed exhibitors: Collings, JHS, Martin, Santa Cruz, Maegen Wells Guitars, Chase Bliss, Baranik Guitars, Taylor, Woolson Soundcraft, Cirrus, StewMac, Yamaha, Ryan Thorell, Uberfrank, Rivière Guitars, Northfield, and dozens more.
-          </p>
 
-          <p className="font-bold text-2xl my-4">We&apos;ll be updating the list leading up to the Summit, but rest assured that we&apos;ve curated the Midwest&apos;s largest and finest gathering of makers, players and industry experts.
-          </p>
+          <p className="font-bold text-sm leading-relaxed mt-8">Confirmed 2024 Exhibitors</p>
+          <p className="italic text-sm leading-relaxed">Updated: June 21, 2024</p>
 
-          <p className="font-bold text-2xl my-4">Use this guide to find your favorite Fretboard Summit exhibitors, sponsors, and friends across the two Old Town School of Folk Music buildings below.</p>
 
           <table class="table-auto">
             <thead>
               <tr>
                 <th class="text-left">Exhibitor</th>
+                <th class="text-left">Type</th>
                 <th class="text-left">Location</th>
               </tr>
             </thead>
             <tbody>
               <tr>
-                <td><Link href="https://www.3bender.com/">3 Bender Guitars</Link></td>
-                <td>West - 102</td>
-              </tr>
-              <tr>
               <td><Link href="https://www.baranikguitars.com/">Baranik Guitars</Link></td>
-                <td>West - 102</td>
+                <td>electrics</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
-                <td><Link href="https://www.bashkinguitars.com/">Bashkin Guitars</Link></td>
-                <td>West - 102</td>
-              </tr>
-              <tr>
-                <td><Link href="https://www.lehmannstrings.com/">Bernie Lehmann</Link></td>
-                <td>East - E330 </td>
-              </tr>
-              <tr>
-                <td><Link href="https://bighollowguitars.com/">Big Hollow Guitars</Link></td>
-                <td>East - E326</td>
+                <td><Link href="https://www.3bender.com/">3 Bender Guitars</Link></td>
+                <td>electrics</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
                 <td><Link href="https://blackbobbin.com/">Black Bobbin</Link></td>
-                <td>West - 102</td>
+                <td>electrics</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
-                <td><Link href="https://theblueguitars.com/">The Blue Guitars</Link></td>
-                <td>West - 211 & 212 </td>
+                <td><Link href="http://www.blindguitars.com">Blind Guitars</Link></td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
-                <td><Link href="https://bourgeoisguitars.com/">Bourgeois Guitars</Link></td>
-                <td>East - E124</td>
+                <td><Link href="https://bornguitars.com">Born Custom Guitars</Link></td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
-                <td><Link href="https://bruceguitars.com">Bruce Guitars</Link></td>
-                <td>East - E324</td>
+                <td><Link href="https://www.brianwatsonguitars.com/">Brian Watson Guitars</Link></td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
               </tr>
+              <tr>
+                <td><Link href="https://browneamps.com/">Browne Amplification</Link></td>
+                <td>pedals</td>
+                <td>Room TBD</td>
+              </tr>
+              <tr>
+                <td><Link href="https://bruceguitars.com/about">Bruce Guitars</Link></td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
+              </tr>
+
               <tr>
                 <td><Link href="https://cardinalinstruments.com/">Cardinal Instruments</Link></td>
-                <td>West - 102</td>
+                <td>electrics</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
                 <td><Link href="https://cedarcreekcases.com/">Cedar Creek Custom Case Shoppe</Link></td>
-                <td>East - E330</td>
+                <td>cases</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
                 <td><Link href="https://cedarmtm.com">Cedar Mountain Mandolins</Link></td>
-                <td>East - E326</td>
+                <td>mandolins</td>
+                <td>Room TBD</td>
+              </tr>
+              <tr>
+                <td><Link href="http://chasebliss.com">Chase Bliss</Link></td>
+                <td>pedals</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
                 <td><Link href="https://www.chicagoluthiers.com">Chicago Luthiers Workshop</Link></td>
-                <td>West - Music Store</td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
-                <td><Link href="https://www.collingsguitars.com/">Collings Guitars</Link></td>
-                <td>East - E221</td>
+                <td><Link href="https://www.cirrusguitars.com/">Cirrus Guitars</Link></td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
+              </tr>
+              <tr>
+                <td><Link href="http://www.cominsguitars.com/">Comins Guitars</Link></td>
+                <td> archtops, hollow body</td>
+                <td>Room TBD</td>
+              </tr>
+              <tr>
+                <td><Link href="http://www.curtisrockwellguitars.com">Curtis Rockwell, Luthier</Link></td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
                 <td><Link href="https://dammanninstruments.com">Dammann Custom Instruments</Link></td>
-                <td>East - E326</td>
+                <td>acoustics, mandolins </td>
+                <td>Room TBD</td>
               </tr>
               <tr>
-                <td><Link href="https://www.dunelandlabs.com">Duneland Labs</Link></td>
-                <td>East - E328</td>
+                <td><Link href="https://www.aaronlucasguitars.com/">Dark Forest Cypress</Link></td>
+                <td>tonewoods</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
-                <td><Link href="https://www.drherringbone.com">Dr. Herringbone</Link></td>
-                <td>East - E324</td>
+                <td><Link href="https://www.deslongchampsguitars.com/">Deslongchamps Guitars</Link></td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
-                <td><Link href="https://fetellierguitars.com">FE Tellier Guitars</Link></td>
-                <td>East - E328</td>
+                <td><Link href="https://www.dewitguitars.com/">De Wit Guitars</Link></td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
+              </tr>
+              <tr>
+                <td><Link href="http://www.elitetonewoods.com">Elite Tonewoods</Link></td>
+                <td>tonewoods</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
                 <td><Link href="https://flammangguitars.com">Flammang Guitars</Link></td>
-                <td>East - E328</td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
-                <td><Link href="https://gallagherguitar.com">Gallagher Guitars</Link></td>
-                <td>East - E330</td>
+                <td><Link href="https://www.frankbrothersguitars.com/">Frank Brothers</Link></td>
+                <td>electrics</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
-                <td><Link href="https://www.galloupguitars.com/galloup-school/">Galloup School Of Guitar Building & Repair</Link></td>
-                <td>East - Lobby</td>
+                <td><Link href="http://www.gillanderguitars.com">Gillander Guitars</Link></td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.greenfieldguitars.com/">Greenfield Guitars</Link></td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
                 <td><Link href="https://www.grezguitars.com">Grez Guitars</Link></td>
-                <td>West - 102</td>
+                <td>electrics</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
-                <td><Link href="http://www.h-guitars.com">H Guitars</Link></td>
-                <td>East - E330</td>
+                <td><Link href="https://en.guitaresjuliensublet.com/">Guitares Julian Sublet</Link></td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
-                <td><Link href="https://www.henriksenamplifiers.com/">Henriksen Amplifiers Listening Room</Link></td>
-                <td>East - E320</td>
+                <td><Link href="https://www.mlive.com/news/grand-rapids/2011/08/guitar_maker_crafts_special_in.html">Guitar Work Shops</Link></td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
-                <td><Link href="https://www.carbonfibercases.com/">Hoffee Cases</Link></td>
-                <td>East - E326</td>
+                <td><Link href="https://www.hallandguitars.com/">Halland Guitars</Link></td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
               </tr>
+              <tr>
+                <td><Link href="https://www.hardinglutherie.com/">Harding Lutherie / SRT Strings</Link></td>
+                <td>acoustics, violins</td>
+                <td>Room TBD</td>
+              </tr>
+              <tr>
+                <td><Link href="https://hayesguitar.com/">Hayes Guitars</Link></td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
+              </tr>
+              <tr>
+                <td><Link href="https://healyguitars.com/">Healy Guitars</Link></td>
+                <td>electrics</td>
+                <td>Room TBD</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.hozenguitars.com/">Hozen Guitars</Link></td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
+              </tr>
+              
               <tr>
                 <td><Link href="http://www.humphreyamps.com/">Humphrey Amps</Link></td>
-                <td>East - E320</td>
+                <td>amplifiers</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
                 <td><Link href="https://hussanddalton.com/">Huss & Dalton</Link></td>
-                <td>East - E330</td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
-                <td><Link href="https://hybrid-guitars.com/">Hybrid Guitars</Link></td>
-                <td>East - E324</td>
+                <td><Link href="http://hoffeecases.com">HXC cases</Link></td>
+                <td>cases</td>
+                <td>Room TBD</td>
+              </tr>
+              <tr>
+                <td><Link href="http://www.iuliusguitars.com/">Iulius Guitars</Link></td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
+              </tr>
+              <tr>
+                <td><Link href="http://jewittguitars.com/">Jewitt Guitars</Link></td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
+              </tr>
+              <tr>
+                <td><Link href="https://jhspedals.info/">JHS Pedals</Link></td>
+                <td>pedals</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
                 <td><Link href="https://www.jrieck.com/">J. Rieck Lutherie</Link></td>
-                <td>East - E330</td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
-                <td><Link href="https://www.irisguitarcompany.com/">Iris Guitar Company</Link></td>
-                <td>East - E328</td>
+                <td><Link href="https://www.instagram.com/lomamansa/">Kortenhoven Guitars</Link></td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
-                <td><Link href="https://kostalguitars.com/">Jason Kostal Guitars</Link></td>
-                <td>West - 102</td>
+                <td><Link href="https://kostalguitars.com/">Kostal Guitars</Link></td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
-                <td><Link href="https://www.jhspedals.info/">JHS Pedals</Link></td>
-                <td>West - 102</td>
-              </tr>
-              <tr>
-                <td><Link href="https://www.kelleylaneguitars.com/">Lane Guitars</Link></td>
-                <td>East - E326</td>
+                <td><Link href="https://lamehorse.net/">Lame Horse Guitars</Link></td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
                 <td><Link href="http://www.lattanzeguitars.com/">Lattanze Guitars</Link></td>
-                <td>East - E326</td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
                 <td><Link href="https://www.leavittlutherie.com/">Leavitt Stringed Instruments</Link></td>
-                <td>East - E328</td>
+                <td>electrics</td>
+                <td>Room TBD</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.lhtguitars.com/guitars">LHT Guitars</Link></td>
+                <td>archtops, hollow body electrics </td>
+                <td>Room TBD</td>
               </tr>
               <tr>
                 <td><Link href="https://www.lockhorninstruments.com">Lockhorn Instruments</Link></td>
-                <td>East - E328</td>
+                <td>electrics </td>
+                <td>Room TBD</td>
               </tr>
               <tr>
-                <td><Link href="https://www.lyonhealycorporation.com/brands/">Lyon and Healy</Link></td>
-                <td>East - E328</td>
+                <td><Link href="http://www.madsenamps.com/">Madsen Amplification</Link></td>
+                <td>amps and pedals</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
-                <td><Link href="https://www.m-tone.com">M-Tone Guitars</Link></td>
-                <td>East - E330</td>
+                <td><Link href="hhttps://www.maegenwellsguitars.com/">Maegan Wells Guitars and Mandolins</Link></td>
+                <td>archtops</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
-                <td><Link href="http://www.maegenwellsguitars.com">Maegen Wells Guitars & Mandolins</Link></td>
-                <td>East - E326</td>
+                <td><Link href="https://mcnallyguitars.com/">McNally Guitars</Link></td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
-                <td><Link href="https://www.martinguitar.com/">Martin Guitar</Link></td>
-                <td>East - E220</td>
+                <td><Link href="https://www.michaelkennedyguitars.com/">Michael Kennedy Guitars</Link></td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
-                <td><Link href="https://www.michaelkennedyguitars.com">Michael Kennedy Guitars</Link></td>
-                <td>East - E326</td>
-              </tr>
-              <tr>
-                <td><Link href="https://www.mojotone.com">Mojotone</Link></td>
-                <td>West - 102</td>
+                <td><Link href="https://aboudibguitars.com/">Michel Aboudib Guitars</Link></td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
                 <td><Link href="https://www.motanderguitars.com">Motander Guitars</Link></td>
-                <td>East - E330</td>
+                <td>electrics</td>
+                <td>Room TBD</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.muleresophonic.com/products/20968-mulecaster">Mule Resophonic</Link></td>
+                <td>resonators</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
                 <td><Link href="https://musiccitybridge.com">Music City Bridge</Link></td>
-                <td>East - E330</td>
+                <td>electronics</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
                 <td><Link href="https://www.noemiguitars.com">Noemi Guitars</Link></td>
-                <td>East - E326</td>
-              </tr>
-              <tr>
-                <td><Link href="https://www.northfieldinstruments.com">Northfield Instruments</Link></td>
-                <td>West - Music Store</td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
                 <td><Link href="https://www.northwoodsluthiers.com">North Woods Luthiers</Link></td>
-                <td>East - E324</td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
                 <td><Link href="https://musicstore.oldtownschool.org">Old Town School Music Store</Link></td>
+                <td>gear, strings & accessories</td>
                 <td>West - Music Store</td>
               </tr>
               <tr>
                 <td><Link href="https://www.oldtownschool.org/resourcecenter/">Old Town School of Folk Music Resource Center</Link></td>
+                <td>archives</td>
                 <td>West - Basement</td>
               </tr>
               <tr>
-                <td><Link href="https://pacificrimtonewoods.com/">Pacific Rim Tonewoods</Link></td>
-                <td>East - E324</td>
+                <td><Link href="https://www.instagram.com/paulmcevoyguitars/">Paul McEvoy Guitars</Link></td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
-                <td><Link href="https://www.phoenixguitarco.com">Phoenix Guitars</Link></td>
-                <td>East - E330</td>
-              </tr>
-              <tr>
-                <td><Link href="https://www.pre-warguitars.com">Pre-War Guitars Co.</Link></td>
-                <td>East - E324</td>
-              </tr>
-              <tr>
-                <td><Link href="https://pktguitars.com/">Preston Thompson Guitars</Link></td>
-                <td>East - E226</td>
+                <td><Link href="https://reywasguitars.com/">Reywas Guitars</Link></td>
+                <td>Electrics,  guitars and bass</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
                 <td><Link href="https://robertrobinsonguitars.com">R. Robinson Guitars</Link></td>
-                <td>East - E326</td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
-                <td><Link href="https://reywasguitars.com">Reywas Guitars</Link></td>
-                <td>East - E328</td>
+                <td><Link href="https://www.riviereguitars.com/about">Rivière Guitars</Link></td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
-                <td><Link href="https://rode.com/en-us">RØDE Microphones</Link></td>
-                <td>East - E126</td>
+                <td><Link href="https://ryansukes.com/">Ryan's Ukes</Link></td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
                 <td><Link href="https://www.saersguitars.com">Saers Guitars</Link></td>
-                <td>East - E328</td>
-              </tr>
-              <tr>
-                <td><Link href="https://santacruzguitar.com/">Santa Cruz Guitar Company</Link></td>
-                <td>East - E123</td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
                 <td><Link href="https://shockthefox.com">Shock the Fox</Link></td>
-                <td>East - E328</td>
-              </tr>
-              <tr>
-                <td><Link href="https://www.shure.com/en-US">Shure Products</Link></td>
-                <td>East - E328</td>
+                <td>electrics</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
                 <td><Link href="https://www.stewmac.com/">StewMac</Link></td>
-                <td>East – E330 </td>
+                <td>supplies, tonewoods</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
-                <td><Link href="https://www.taylorguitars.com/">Taylor Guitars</Link></td>
-                <td>West - 101</td>
+                <td><Link href="https://www.summerschoolelectronics.com/">Summer School Electronics</Link></td>
+                <td>pedals</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
                 <td><Link href="https://www.heinonenguitars.com">T. Drew Heinonen Guitars</Link></td>
-                <td>East - E326</td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
-                <td><Link href="https://www.fretboardjournal.com/podcasts/the-truth-about-vintage-amps-big-index-page/">The Truth About Vintage Amps Podcast Lounge</Link></td>
-                <td>West - B6</td>
+                <td><Link href="https://fetellierguitars.com/">Tellier Guitars</Link></td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
-                <td><Link href="https://tonypolecastro.com/">Tony&apos;s Acoustic Challenge (Tony Polecastro)</Link></td>
-                <td>East - E226</td>
+                <td><Link href="https://www.thorellguitars.com/">Thorell Fine Guitars</Link></td>
+                <td>archtops</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
-                <td><Link href="https://www.treehouseguitars.com">Treehouse Guitars</Link></td>
-                <td>East - E326</td>
-              </tr>
-              <tr>
-                <td><Link href="https://sothguitars.com">Tyson Soth Guitar Co.</Link></td>
-                <td>West - 102</td>
+                <td><Link href="https://wadeguitar.com/">Travis D. Wade Guitars</Link></td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
                 <td><Link href="https://www.uberfrankguitars.com">Uberfrank</Link></td>
-                <td>West - 102</td>
+                <td>electrics</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
-                <td><Link href="https://www.widmancustomelectrics.com">Widman Custom Electrics</Link></td>
-                <td>East - E330</td>
+                <td><Link href="https://www.volticelectronicdevices.com/">Voltic Electronic Devices</Link></td>
+                <td>pedals</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
-                <td><Link href="https://usa.yamaha.com/products/musical_instruments/guitars_basses/index.html">Yamaha</Link></td>
-                <td>East - E322</td>
+                <td><Link href="http://www.warmaudio.com/">Warm Audio</Link></td>
+                <td>electronics, mics</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
-                <td><Link href="https://www.zvex.com">ZVEX Effects</Link></td>
-                <td>West - 102</td>
+                <td><Link href="https://www.woolsonsoundcraft.com/">Woolson Soundcraft</Link></td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
               </tr>
             </tbody>
           </table>
