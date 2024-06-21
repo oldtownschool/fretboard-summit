@@ -165,10 +165,13 @@ export default function Home() {
               a 3 day guitar extravaganza
             </h2>
             <p>
-              <span className="font-bold">Experience</span> rooms full of
-              custom-built guitars for you to hear, play, or purchase-directly
-              from the makers themselves!
+              <span className="font-bold">Experience</span> the midwest’s largest and finest gathering of makers, players, and industry experts. Demo and purchase new, forthcoming and Summit-exclusive gear from over 50 luthiers, pedal makers, amp, and gear companies. 
             </p>
+            <a href="/luthiers">
+              <button className="text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1] my-2">
+              Full List Now Available!
+              </button>
+            </a>
           </div>
           <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-0 sm:m-2 mt-0 sm:mt-2 p-4 bg-[#F0E5D1] text-center text-[#322D25]">
             <div className="flex justify-center">
@@ -184,9 +187,13 @@ export default function Home() {
               meet the makers
             </h2>
             <p>
-              <span className="font-bold">Meet</span> the builders of the
-              greatest stringed instruments on eart. Play their latest.
+              <span className="font-bold">Meet</span> The Makers & Learn From Masters Performances & Workshops from Blake Mills, Joe Henry, Valerie June, Colin Hay, Nathan Graham, Jake Eddy, Adam Levy & Rich Hinman, Ryan Richter, Matt Munisteri, Joel Paterson, and Jonathan Stout. Sofia Wolfson, Molly Miller, Rhett Shull and John Leventhal.
             </p>
+            <a href="/schedule">
+              <button className="text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1] my-2">
+              Daily Schedule Highlights Now Available! 
+              </button>
+            </a>
           </div>
           
           {/* <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-0 mt-4 sm:m-2 p-4 bg-[#F0E5D1] text-center text-[#322D25]">

@@ -183,7 +183,7 @@ export default function Schedule() {
 
           <p className="underline font-bold mt-4  text-lg leading-relaxed" >Workshops:</p>
           <p className="text-lg leading-relaxed"  >World Premiere Screening: </p>
-          <p className="pl-4  text-lg leading-relaxed" >The Fretboard Journal's Dumble: A Life Well-Built</p>
+          <p className="italic pl-4  text-lg leading-relaxed" >The Fretboard Journal's Dumble: A Life Well-Built</p>
           <p className="text-lg leading-relaxed"  >Your Guitar and Your Brain with John Thomas
           Valerie June</p>
           <p className="text-lg leading-relaxed"  >Adam Levy & Rich Hinman
