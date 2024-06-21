@@ -377,7 +377,7 @@ export default function Luthiers() {
                 <td>Room TBD</td>
               </tr>
               <tr>
-                <td><Link href="https://ryansukes.com/">Ryan's Ukes</Link></td>
+                <td><Link href="https://ryansukes.com/">Ryan&apos;s Ukes</Link></td>
                 <td>acoustics</td>
                 <td>Room TBD</td>
               </tr>

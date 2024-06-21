@@ -58,7 +58,7 @@ export default function Schedule() {
 
             <p className="font-bold text-2xl mt-4">Acclaimed vintage gear authorities from Emerald City Guitars, TJ Thompson Guitars, and others will be on-hand, as will Josh Scott of JHS Pedals, Chris Martin IV (Martin), Bob Taylor (Taylor Guitars), Michael Millard (Froggy Bottom), and nearly 100 acclaimed independent guitarmakers.</p>
 
-            <p className="font-bold text-2xl mt-4">We'll also have live podcast tapings; late-night jams; interviews with some of our heroes; hands-on exhibits and more. It's a guitar festival like no other and we can’t wait for you to see what we’ve cooked up this year!</p>
+            <p className="font-bold text-2xl mt-4">We&apos;ll also have live podcast tapings; late-night jams; interviews with some of our heroes; hands-on exhibits and more. It&apos;s a guitar festival like no other and we can&apos;t wait for you to see what we’ve cooked up this year!</p>
             <p className="font-bold text-2xl mt-4 mb-8">– Jason Verlinde, Editor Fretboard Journal</p>
             
           </div>
@@ -183,7 +183,7 @@ export default function Schedule() {
 
           <p className="underline font-bold mt-4  text-lg leading-relaxed" >Workshops:</p>
           <p className="text-lg leading-relaxed"  >World Premiere Screening: </p>
-          <p className="italic pl-4  text-lg leading-relaxed" >The Fretboard Journal's Dumble: A Life Well-Built</p>
+          <p className="italic pl-4  text-lg leading-relaxed" >The Fretboard Journal&apos;s Dumble: A Life Well-Built</p>
           <p className="text-lg leading-relaxed"  >Your Guitar and Your Brain with John Thomas
           Valerie June</p>
           <p className="text-lg leading-relaxed"  >Adam Levy & Rich Hinman
