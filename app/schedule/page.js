@@ -123,7 +123,9 @@ export default function Schedule() {
 
           <h3 className="font-aurochs mt-2 uppercase text-3xl sm:text-4xl tracking-wider leading-relaxed" >Friday, August 23, 2024 </h3>
 
-          <p className="italic mb-4  text-lg" >Exclusive Content for 3-Day Passholders Only</p>
+          <p className="italic mb-4  text-lg" >Exclusive Content for 3-Day Passholders Only<br/> Check-in begins at noon. Exhibitor Showcase Preview begins at 1pm. (Times subject to change)</p>
+
+         
 
 
           <p className="font-bold mt-4 leading-relaxed" >VIP Lutherie Showcase Preview</p>
@@ -150,6 +152,7 @@ export default function Schedule() {
           <div className="bg-gray-200 h-2 w-full"></div>
 
           <h3 className="font-aurochs mt-10 uppercase text-3xl sm:text-4xl tracking-wider leading-relaxed" >Saturday, August 24, 2024 </h3>
+          <p className="italic mb-4  text-lg" >Workshops & Exhibitor Showcase begins at 10am. (Times subject to change)</p>
 
           <p className="font-bold mt-4 leading-relaxed" >Lutherie Showcase (all-day)</p>
 
@@ -181,6 +184,7 @@ export default function Schedule() {
           <div className="bg-gray-200 h-2 w-full"></div>
 
           <h3 className="font-aurochs mt-10 uppercase text-3xl sm:text-4xl tracking-wider leading-relaxed" >Sunday, August 25, 2024 </h3>
+          <p className="italic mb-4  text-lg" >Workshops & Exhibitor Showcase begins at 10am. (Times subject to change)</p>
 
           <p className="font-bold mt-4 leading-relaxed" >Lutherie Showcase (all-day)</p>
 
