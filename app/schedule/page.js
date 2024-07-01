@@ -56,7 +56,7 @@ export default function Schedule() {
 
             <p className="font-bold text-2xl mt-4">Our 2024 lineup is a who&apos;s who of players and builders. We&apos;ll hear music from Blake Mills, Joe Henry, Valerie June, Colin Hay, Nathan Graham, Jake Eddy, Adam Levy & Rich Hinman, Ryan Richter, Matt Munisteri, Joel Paterson, and Jonathan Stout. Sofia Wolfson, Molly Miller, Rhett Shull and John Leventhal are leading workshops (among many others).</p>
 
-            <p className="font-bold text-2xl mt-4">Acclaimed vintage gear authorities from Emerald City Guitars, TJ Thompson Guitars, and others will be on-hand, as will Josh Scott of JHS Pedals, Chris Martin IV (Martin), Bob Taylor (Taylor Guitars), Michael Millard (Froggy Bottom), and nearly 100 acclaimed independent guitarmakers.</p>
+            <p className="font-bold text-2xl mt-4">Acclaimed vintage gear authorities from Emerald City Guitars, TJ Thompson Guitars, and others will be on-hand, as will Josh Scott of JHS Pedals, Matt Munisteri, Bob Taylor (Taylor Guitars), Michael Millard (Froggy Bottom), and nearly 100 acclaimed independent guitarmakers.</p>
 
             <p className="font-bold text-2xl mt-4">We&apos;ll also have live podcast tapings; late-night jams; interviews with some of our heroes; hands-on exhibits and more. It&apos;s a guitar festival like no other and we can&apos;t wait for you to see what we’ve cooked up this year!</p>
             <p className="font-bold text-2xl mt-4 mb-8">– Jason Verlinde, Editor Fretboard Journal</p>
@@ -132,7 +132,8 @@ export default function Schedule() {
 
           <p className="underline font-bold mt-4  text-lg leading-relaxed" > Workshops:</p>
           <p className="text-lg leading-relaxed" >John Leventhal</p>
-          <p className="text-lg leading-relaxed" >Chris Martin IV of Martin Guitars</p>
+          <p className="text-lg leading-relaxed" >Jazz Guitar with Matt Munisteri</p>
+          <p className="text-lg leading-relaxed" >Vintage Martin Master Class with TJ Thompson</p>
           <p className="text-lg leading-relaxed" >Tony Polecastro</p>
           <p className="text-lg leading-relaxed" >Brick & Mortar Guitar Store Roundtable </p>
           <p className="text-lg leading-relaxed"  >The Future of Vintage Collecting </p>
