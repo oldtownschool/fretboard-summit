@@ -60,6 +60,11 @@ export default function Luthiers() {
             </thead>
             <tbody>
               <tr>
+                <td><Link href="https://aviateaudio.com/">Aviate Audio</Link></td>
+                <td>pedals</td>
+                <td>Room TBD</td>
+              </tr>
+              <tr>
               <td><Link href="https://www.baranikguitars.com/">Baranik Guitars</Link></td>
                 <td>electrics</td>
                 <td>Room TBD</td>
@@ -247,6 +252,11 @@ export default function Luthiers() {
                 <td>Room TBD</td>
               </tr>
               <tr>
+                <td><Link href="https://www.irvinguitars.com/">Irvin Guitars</Link></td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
+              </tr>
+              <tr>
                 <td><Link href="http://jewittguitars.com/">Jewitt Guitars</Link></td>
                 <td>acoustics</td>
                 <td>Room TBD</td>
@@ -389,6 +399,11 @@ export default function Luthiers() {
               <tr>
                 <td><Link href="https://shockthefox.com">Shock the Fox</Link></td>
                 <td>electrics</td>
+                <td>Room TBD</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.shure.com/en-US">Shure </Link></td>
+                <td>microphones</td>
                 <td>Room TBD</td>
               </tr>
               <tr>
