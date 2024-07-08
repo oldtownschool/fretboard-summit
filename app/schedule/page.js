@@ -172,7 +172,7 @@ export default function Schedule() {
 
           <p className="underline font-bold mt-4  text-lg leading-relaxed" >Performances:</p>
           <p className="text-lg leading-relaxed"  >Ron Artis</p>
-          <p className="text-lg leading-relaxed"  >Ryan Ricther</p>
+          <p className="text-lg leading-relaxed"  >Ryan Richter</p>
           <p className="text-lg leading-relaxed"  >Nathan Graham</p>
           <p className="text-lg leading-relaxed"  >Colin Hay</p>
           <p className="text-lg leading-relaxed"  >Adam Levy & Rich Hinman</p>
