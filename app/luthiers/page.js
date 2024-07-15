@@ -90,6 +90,16 @@ export default function Luthiers() {
                 <td>Room TBD</td>
               </tr>
               <tr>
+                <td><Link href="https://boucherguitars.com/">Guitares Boucher / Boucher Guitars</Link></td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
+              </tr>
+              <tr>
+                <td><Link href="https://bourgeoisguitars.com/">Bourgeois Guitars</Link></td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
+              </tr>
+              <tr>
                 <td><Link href="https://www.brianwatsonguitars.com/">Brian Watson Guitars</Link></td>
                 <td>acoustics</td>
                 <td>Room TBD</td>
@@ -136,6 +146,11 @@ export default function Luthiers() {
                 <td>Room TBD</td>
               </tr>
               <tr>
+                <td><Link href="https://www.collingsguitars.com/">Collings Guitars</Link></td>
+                <td>acoustic, electric, archtops, mandolins</td>
+                <td>Room TBD</td>
+              </tr>
+              <tr>
                 <td><Link href="http://www.cominsguitars.com/">Comins Guitars</Link></td>
                 <td> archtops, hollow body</td>
                 <td>Room TBD</td>
@@ -143,6 +158,11 @@ export default function Luthiers() {
               <tr>
                 <td><Link href="http://www.curtisrockwellguitars.com">Curtis Rockwell, Luthier</Link></td>
                 <td>acoustics</td>
+                <td>Room TBD</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.daddario.com/">D'Addario</Link></td>
+                <td>strings</td>
                 <td>Room TBD</td>
               </tr>
               <tr>
@@ -178,6 +198,16 @@ export default function Luthiers() {
               <tr>
                 <td><Link href="https://www.frankbrothersguitars.com/">Frank Brothers</Link></td>
                 <td>electrics</td>
+                <td>Room TBD</td>
+              </tr>
+              <tr>
+                <td><Link href="https://gallagherguitar.com/">Gallagher Guitar</Link></td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.galloupguitars.com/">Galloup School of Lutherie</Link></td>
+                <td>acoustics</td>
                 <td>Room TBD</td>
               </tr>
               <tr>
@@ -226,6 +256,12 @@ export default function Luthiers() {
                 <td>Room TBD</td>
               </tr>
               <tr>
+                <td><Link href="https://www.henriksenamplifiers.com/">Henriksen Amplifiers</Link></td>
+                <td>amplifiers</td>
+                <td>Room TBD</td>
+              </tr>
+              
+              <tr>
                 <td><Link href="https://www.hozenguitars.com/">Hozen Guitars</Link></td>
                 <td>acoustics</td>
                 <td>Room TBD</td>
@@ -244,6 +280,11 @@ export default function Luthiers() {
               <tr>
                 <td><Link href="http://hoffeecases.com">HXC cases</Link></td>
                 <td>cases</td>
+                <td>Room TBD</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.irisguitarcompany.com/">Iris/Circle/Languedoc</Link></td>
+                <td>acoustics</td>
                 <td>Room TBD</td>
               </tr>
               <tr>
@@ -317,6 +358,11 @@ export default function Luthiers() {
                 <td>Room TBD</td>
               </tr>
               <tr>
+                <td><Link href="https://www.martinguitar.com/">Martin Guitar Co</Link></td>
+                <td>acoustic</td>
+                <td>Room TBD</td>
+              </tr>
+              <tr>
                 <td><Link href="https://mcnallyguitars.com/">McNally Guitars</Link></td>
                 <td>acoustics</td>
                 <td>Room TBD</td>
@@ -352,6 +398,11 @@ export default function Luthiers() {
                 <td>Room TBD</td>
               </tr>
               <tr>
+                <td><Link href="https://www.northfieldinstruments.com/">Nortfhield Stringed Instruments</Link></td>
+                <td>mandolins</td>
+                <td>Room TBD</td>
+              </tr>
+              <tr>
                 <td><Link href="https://www.northwoodsluthiers.com">North Woods Luthiers</Link></td>
                 <td>acoustics</td>
                 <td>Room TBD</td>
@@ -365,6 +416,11 @@ export default function Luthiers() {
                 <td><Link href="https://www.oldtownschool.org/resourcecenter/">Old Town School of Folk Music Resource Center</Link></td>
                 <td>archives</td>
                 <td>West - Basement</td>
+              </tr>
+              <tr>
+                <td><Link href="https://pacificrimtonewoods.com/">Pacific Tonewoods</Link></td>
+                <td>tonewoods</td>
+                <td>Room TBD</td>
               </tr>
               <tr>
                 <td><Link href="https://www.instagram.com/paulmcevoyguitars/">Paul McEvoy Guitars</Link></td>
@@ -397,6 +453,11 @@ export default function Luthiers() {
                 <td>Room TBD</td>
               </tr>
               <tr>
+                <td><Link href="https://santacruzguitar.com/">Santa Cruz Guitars</Link></td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
+              </tr>
+              <tr>
                 <td><Link href="https://shockthefox.com">Shock the Fox</Link></td>
                 <td>electrics</td>
                 <td>Room TBD</td>
@@ -418,6 +479,11 @@ export default function Luthiers() {
               </tr>
               <tr>
                 <td><Link href="https://www.heinonenguitars.com">T. Drew Heinonen Guitars</Link></td>
+                <td>acoustics</td>
+                <td>Room TBD</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.taylorguitars.com/">Taylor Guitars</Link></td>
                 <td>acoustics</td>
                 <td>Room TBD</td>
               </tr>
@@ -454,6 +520,11 @@ export default function Luthiers() {
               <tr>
                 <td><Link href="https://www.woolsonsoundcraft.com/">Woolson Soundcraft</Link></td>
                 <td>acoustics</td>
+                <td>Room TBD</td>
+              </tr>
+              <tr>
+                <td><Link href="https://usa.yamaha.com/products/musical_instruments/guitars_basses/index.html">Yamaha</Link></td>
+                <td>electric guitars</td>
                 <td>Room TBD</td>
               </tr>
             </tbody>
