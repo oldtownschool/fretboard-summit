@@ -47,7 +47,7 @@ export default function Luthiers() {
 
 
           <p className="font-bold text-sm leading-relaxed mt-8">Confirmed 2024 Exhibitors</p>
-          <p className="italic text-sm leading-relaxed">Updated: June 21, 2024</p>
+          <p className="italic text-sm leading-relaxed">Updated: July 5, 2024</p>
 
 
           <table class="table-auto">
