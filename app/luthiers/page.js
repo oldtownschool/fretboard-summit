@@ -161,7 +161,7 @@ export default function Luthiers() {
                 <td>Room TBD</td>
               </tr>
               <tr>
-                <td><Link href="https://www.daddario.com/">D'Addario</Link></td>
+                <td><Link href="https://www.daddario.com/">D&apos;Addario</Link></td>
                 <td>strings</td>
                 <td>Room TBD</td>
               </tr>
