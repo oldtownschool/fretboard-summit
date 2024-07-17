@@ -87,7 +87,7 @@ export default function Tickets() {
           </ul> */}
 
           <div className="block sm:flex sm:flex-row  max-w-5xl sm:p-0">
-            <div className="w-full sm:flex-col sm:flex sm:w-2/4 sm:p-4 px-4">
+            <div className="flex justify-evenly w-full sm:flex-col sm:flex sm:w-2/4 sm:p-4 px-4">
               <Link href=" https://www.oldtownschool.org/events/event.php?event_id=9001" className="text-center">
                 <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1]">
                   Buy Day Pass: Sat, Aug. 24
@@ -104,8 +104,8 @@ export default function Tickets() {
                 <li className="ml-4">and much more</li>
               </ul> */}
             </div>
-            <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-0 sm:m-2 sm:p-4 px-4 mt-2 sm:mt-0">
-              <Link href=" https://www.oldtownschool.org/events/event.php?event_id=9002" className="text-center ml-1">
+            <div className="flex justify-evenly w-full sm:flex-col sm:flex sm:w-2/4 m-0 sm:m-2 sm:p-4 px-4 mt-2 sm:mt-0">
+              <Link href=" https://www.oldtownschool.org/events/event.php?event_id=9002" className="text-center">
                 <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#2B6F6D] hover:bg-[#4DB3AC] text-[#F0E5D1] ">
                 Buy Day Pass: Sun, Aug. 25
                 </button>
