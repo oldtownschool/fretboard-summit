@@ -121,6 +121,11 @@ export default function Luthiers() {
                 <td>Room TBD</td>
               </tr>
               <tr>
+                <td><Link href="https://carolineguitar.com/">Caroline Guitar Company</Link></td>
+                <td>pedals</td>
+                <td>Room TBD</td>
+              </tr>
+              <tr>
                 <td><Link href="https://cedarcreekcases.com/">Cedar Creek Custom Case Shoppe</Link></td>
                 <td>cases</td>
                 <td>Room TBD</td>
@@ -363,6 +368,11 @@ export default function Luthiers() {
                 <td>Room TBD</td>
               </tr>
               <tr>
+                <td><Link href="https://maton.com.au/">Maton Guitars</Link></td>
+                <td>acoustics, electrics</td>
+                <td>Room TBD</td>
+              </tr>
+              <tr>
                 <td><Link href="https://mcnallyguitars.com/">McNally Guitars</Link></td>
                 <td>acoustics</td>
                 <td>Room TBD</td>
@@ -465,6 +475,11 @@ export default function Luthiers() {
               <tr>
                 <td><Link href="https://www.shure.com/en-US">Shure </Link></td>
                 <td>microphones</td>
+                <td>Room TBD</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.silktone.org/">Silktone</Link></td>
+                <td>pedals, amps, electronics</td>
                 <td>Room TBD</td>
               </tr>
               <tr>
