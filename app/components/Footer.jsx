@@ -193,6 +193,15 @@ export const Footer = () => {
         </div>
 
         <div className="flex justify-center pt-4 px-2 image-container">
+          <a className="flex mx-1 sm:mx-2 sm:ml-12 self-center image-sm" href="https://www.two-rock.com/" >
+            <Image
+              className="mix-blend-multiply image-sm"
+              src="/two-rock-logo-tm.jpg"
+              alt="Two-Rock Amplifiers"
+              width={60}
+              height={150}	
+            />
+          </a>
           <a className="flex mx-1 sm:mx-2 sm:ml-12 self-center image-sm" href="https://www.acoustic.coffee/" >
             <Image
               className="mix-blend-multiply image-sm"

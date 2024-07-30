@@ -468,6 +468,11 @@ export default function Luthiers() {
                 <td>Room TBD</td>
               </tr>
               <tr>
+                <td><Link href="https://www.seufguitars.com/">Seuf Guitars</Link></td>
+                <td>electrics</td>
+                <td>Room TBD</td>
+              </tr>
+              <tr>
                 <td><Link href="https://shockthefox.com">Shock the Fox</Link></td>
                 <td>electrics</td>
                 <td>Room TBD</td>
@@ -515,6 +520,11 @@ export default function Luthiers() {
               <tr>
                 <td><Link href="https://wadeguitar.com/">Travis D. Wade Guitars</Link></td>
                 <td>acoustics</td>
+                <td>Room TBD</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.two-rock.com/">Two-Rock Amplifiers</Link></td>
+                <td>amplifiers</td>
                 <td>Room TBD</td>
               </tr>
               <tr>
