@@ -176,21 +176,21 @@ export default function Tickets() {
           
 
           <p className="text-white text-lg mt-2 mb-2">
-            <span className="font-bold">Guitar Showcase only</span>
+            <span className="font-bold">Luthier & Gear Showcase Passes Only</span>
           </p>
           <div className="w-full sm:flex-row sm:flex sm:w-3/4">
-            {/* <Link href="https://www.oldtownschool.org/events/event.php?event_id=8881" className="text-center"> */}
-              <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1] opacity-50 cursor-not-allowed">
-              Luthier Showcase Only - Sat,&nbsp;August&nbsp;24
+            <Link href="https://www.oldtownschool.org/events/event.php?event_id=9163" className="text-center">
+              <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1]">
+              Showcase Only - Sat&nbsp;August&nbsp;24
               </button>
-            {/* </Link> */}
-            {/* <Link href="https://www.oldtownschool.org/events/event.php?event_id=8882" className="text-center ml-0 sm:ml-1"> */}
-              <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1] mt-2 sm:mt-0 opacity-50 cursor-not-allowed ml-0 sm:ml-1">
-              Luthier Showcase Only - Sun,&nbsp;August&nbsp;25          
+            </Link>
+            <Link href="https://www.oldtownschool.org/events/event.php?event_id=9164" className="text-center ml-0 sm:ml-1">
+              <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1] mt-2 sm:mt-0 ml-0 sm:ml-1">
+              Showcase Only - Sun&nbsp;August&nbsp;25          
               </button>
-            {/* </Link> */}
+            </Link>
           </div>
-          <p className="text-white text-lg">
+          <p className="text-white text-lg italic">
             Tickets will also be available at the door
           </p>
 
