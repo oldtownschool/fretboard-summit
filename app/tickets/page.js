@@ -176,7 +176,9 @@ export default function Tickets() {
           
 
           <p className="text-white text-lg mt-2 mb-2">
-            <span className="font-bold">Luthier & Gear Showcase Passes Only</span>
+            <span className="font-bold">Luthier & Gear Showcase Passes Only</span><br/>
+            Demo and shop for gear from over 80 luthiers and exhibitors.<br/>
+            <span className="italic">(This pass does not include admission to Summit workshops, clinics, or concerts.)</span>
           </p>
           <div className="w-full sm:flex-row sm:flex sm:w-3/4">
             <Link href="https://www.oldtownschool.org/events/event.php?event_id=9163" className="text-center">
