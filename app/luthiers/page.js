@@ -231,7 +231,7 @@ export default function Luthiers() {
                 <td>Room TBD</td>
               </tr>
               <tr>
-                <td><Link href="https://en.guitaresjuliensublet.com/">Guitares Julian Sublet</Link></td>
+                <td><Link href="https://en.guitaresjuliensublet.com/">Guitares Julien Sublet</Link></td>
                 <td>acoustics</td>
                 <td>Room TBD</td>
               </tr>
@@ -288,7 +288,7 @@ export default function Luthiers() {
                 <td>Room TBD</td>
               </tr>
               <tr>
-                <td><Link href="https://www.irisguitarcompany.com/">Iris/Circle/Languedoc</Link></td>
+                <td><Link href="https://www.irisguitarcompany.com/">Iris Guitars / Circle Strings / Languedoc Guitars</Link></td>
                 <td>acoustics</td>
                 <td>Room TBD</td>
               </tr>
@@ -435,6 +435,11 @@ export default function Luthiers() {
               <tr>
                 <td><Link href="https://www.instagram.com/paulmcevoyguitars/">Paul McEvoy Guitars</Link></td>
                 <td>acoustics</td>
+                <td>Room TBD</td>
+              </tr>
+              <tr>
+                <td><Link href="https://powerselectricguitars.com/">Powers Electric Guitars</Link></td>
+                <td>electrics</td>
                 <td>Room TBD</td>
               </tr>
               <tr>
