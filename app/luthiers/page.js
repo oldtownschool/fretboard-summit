@@ -47,7 +47,7 @@ export default function Luthiers() {
 
 
           <p className="font-bold text-sm leading-relaxed mt-8">Confirmed 2024 Exhibitors</p>
-          <p className="italic text-sm leading-relaxed">Updated: July 5, 2024</p>
+          <p className="italic text-sm leading-relaxed">Updated: August 7, 2024</p>
 
 
           <table class="table-auto">
@@ -86,7 +86,7 @@ export default function Luthiers() {
               </tr>
               <tr>
                 <td><Link href="https://bornguitars.com">Born Custom Guitars</Link></td>
-                <td>acoustics</td>
+                <td>electrics</td>
                 <td>Room TBD</td>
               </tr>
               <tr>
