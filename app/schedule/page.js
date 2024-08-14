@@ -67,17 +67,26 @@ export default function Schedule() {
 
 
         {/* commented out  6/21/2024 */}
-          {/* <Slider {...settings}>
+          <Slider {...settings}>
           <div>
-              <Image src="/FS23_LineupSched_082623-3a.png" width={600} height={600} alt="Line Up Schedule 3"/>
+              <Image src="/sliderFriday1-A.png" width={600} height={600} alt="Line Up Schedule fri 1"/>
             </div>
             <div>
-              <Image src="/FS23_LineupSched_082423-2a.png" width={600} height={600} alt="Line Up Schedule 2"/>
+              <Image src="/sliderFriday2-B.png" width={600} height={600} alt="Line Up Schedule fri 2"/>
             </div>
             <div>
-              <Image src="/FS23_LineupSched_082423-1a.png" width={600} height={600} alt="Line Up Schedule 1" />
+              <Image src="/sliderSaturday1-C.png" width={600} height={600} alt="Line Up Schedule sat 1" />
             </div>
-          </Slider> */}
+            <div>
+              <Image src="/sliderSaturday2-D.png" width={600} height={600} alt="Line Up Schedule sat 2" />
+            </div>
+            <div>
+              <Image src="/sliderSunday3-E.png" width={600} height={600} alt="Line Up Schedule sun 1" />
+            </div>
+            <div>
+              <Image src="/sliderSunday4-F.png" width={600} height={600} alt="Line Up Schedule sat 2" />
+            </div>
+          </Slider>
         </div>
 
 
