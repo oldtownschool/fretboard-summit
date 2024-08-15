@@ -66,7 +66,7 @@ export default function Schedule() {
 
             <p className="font-bold text-2xl mt-4">Join us for a once-in-a-lifetime weekend.</p>
 
-            <p className="font-bold text-2xl mt-4 mb-8">– Jason Verlinde, Editor Fretboard Journal</p>
+            <p className="font-bold text-2xl mt-4 mb-8">– Jason Verlinde, Fretboard Journal</p>
             
           </div>
 
