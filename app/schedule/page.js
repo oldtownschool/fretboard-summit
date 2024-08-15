@@ -52,13 +52,20 @@ export default function Schedule() {
           {/* <h2 className="text-red-500 mb-10">Please Note: This is content from the 2023 Fretboard Summit for informational purposes only. 2024 info available soon.</h2> */}
 
           <div className="sm:px-16">
-            <p className="font-bold text-2xl">The Summit isn&apos;t just about shopping. You&apos;ll be able to meet some of the most inspiring performers and makers in the guitar universe. All-access passholders get access to three days of world-class concerts, master classes, music workshops, oral histories, podcast tapings, demo rooms, and parties created just for the Fretboard Summit attendees. </p>
+            {/* <p className="font-bold text-2xl">The Summit isn&apos;t just about shopping. You&apos;ll be able to meet some of the most inspiring performers and makers in the guitar universe. All-access passholders get access to three days of world-class concerts, master classes, music workshops, oral histories, podcast tapings, demo rooms, and parties created just for the Fretboard Summit attendees. </p>
 
             <p className="font-bold text-2xl mt-4">Our 2024 lineup is a who&apos;s who of players and builders. We&apos;ll hear music from Blake Mills, Joe Henry, Valerie June, Colin Hay, Nathan Graham, Jake Eddy, Adam Levy & Rich Hinman, Ryan Richter, Matt Munisteri, Joel Paterson, and Jonathan Stout. Sofia Wolfson, Molly Miller, Rhett Shull and John Leventhal are leading workshops (among many others).</p>
 
             <p className="font-bold text-2xl mt-4">Acclaimed vintage gear authorities from Emerald City Guitars, TJ Thompson Guitars, and others will be on-hand, as will Josh Scott of JHS Pedals, Matt Munisteri, Bob Taylor (Taylor Guitars), Michael Millard (Froggy Bottom), and nearly 100 acclaimed independent guitarmakers.</p>
 
-            <p className="font-bold text-2xl mt-4">We&apos;ll also have live podcast tapings; late-night jams; interviews with some of our heroes; hands-on exhibits and more. It&apos;s a guitar festival like no other and we can&apos;t wait for you to see what we’ve cooked up this year!</p>
+            <p className="font-bold text-2xl mt-4">We&apos;ll also have live podcast tapings; late-night jams; interviews with some of our heroes; hands-on exhibits and more. It&apos;s a guitar festival like no other and we can&apos;t wait for you to see what we’ve cooked up this year!</p> */}
+
+            <p className="font-bold text-2xl mt-4">The Summit is the guitar festival of our dreams, where you can meet some of the most inspiring performers and makers in the gear universe.</p>
+
+            <p className="font-bold text-2xl mt-4">All-access passholders get access to three days of world-class concerts, master classes, music workshops, oral histories, podcast tapings, demo rooms, and parties, in addition to admission to the 80-exhibitor lutherie showcase.</p>
+
+            <p className="font-bold text-2xl mt-4">Join us for a once-in-a-lifetime weekend.</p>
+
             <p className="font-bold text-2xl mt-4 mb-8">– Jason Verlinde, Editor Fretboard Journal</p>
             
           </div>
@@ -69,22 +76,16 @@ export default function Schedule() {
         {/* commented out  6/21/2024 */}
           <Slider {...settings}>
           <div>
-              <Image src="/sliderFriday1-A.png" width={600} height={600} alt="Line Up Schedule fri 1"/>
+              <Image src="/FBS24-Friday-A.png" width={600} height={600} alt="Line Up Schedule fri 1"/>
             </div>
             <div>
-              <Image src="/sliderFriday2-B.png" width={600} height={600} alt="Line Up Schedule fri 2"/>
+              <Image src="/FBS24-Saturday-B.png" width={600} height={600} alt="Line Up Schedule sat 1" />
             </div>
             <div>
-              <Image src="/sliderSaturday1-C.png" width={600} height={600} alt="Line Up Schedule sat 1" />
+              <Image src="/FBS24-Sunday-C.png" width={600} height={600} alt="Line Up Schedule sun 1" />
             </div>
             <div>
-              <Image src="/sliderSaturday2-D.png" width={600} height={600} alt="Line Up Schedule sat 2" />
-            </div>
-            <div>
-              <Image src="/sliderSunday3-E.png" width={600} height={600} alt="Line Up Schedule sun 1" />
-            </div>
-            <div>
-              <Image src="/sliderSunday4-F.png" width={600} height={600} alt="Line Up Schedule sat 2" />
+              <Image src="/FBS24-Info-D.png" width={600} height={600} alt="Line Up Schedule Info" />
             </div>
           </Slider>
         </div>
