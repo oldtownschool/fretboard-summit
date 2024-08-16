@@ -249,40 +249,26 @@ export const Footer = () => {
           </a>
         </div>
 
-        <div className="flex justify-center pt-4 self-center">
-          <Image
-            className="hidden md:flex"
-            src="/borderRedbtm.png"
-            alt="border"
-            width={850}
-            height={5}
-          />
-        </div>
-
-        <div className="flex justify-center pt-4">
-          <h4 className="text-3xl tracking-widest	uppercase text-[#BE4338] font-handbill font-normal md:mx-4">
-            Follow us
-          </h4>
-        </div>
-        <div className="flex justify-center pt-4">
-          <Link href="https://www.facebook.com/fretboardsummit">
+        <div className="flex justify-center pt-4 px-2 image-container">
+          <a className="flex mx-1 sm:mx-2 self-center image-sm" href="https://www.gibson.com/en-US/" >
             <Image
-              className="flex self-center"
-              src="/socialFb.png"
-              alt="border"
-              width={50}
-              height={50}
+              className="mix-blend-multiply image-sm"
+              src="/Gibson_FretboardSponsor.png"
+              alt="Gibson"
+              width={60}
+              height={150}	
             />
-          </Link>
-          <Link href="https://www.instagram.com/fretboardsummit">
+          </a>
+          <a className="flex mx-1 sm:mx-2 sm:ml-12 self-center image-sm" href="https://www.yanuziello.com/" >
             <Image
-              className="flex ml-6 self-center"
-              src="/socialInsta.png"
-              alt="border"
-              width={50}
-              height={50}
+              className="mix-blend-multiply image-sm"
+              src="/Yanuziello_FretboardSponsor.png"
+              alt="Yanuziello"
+              width={60}
+              height={150}	
             />
-          </Link>
+          </a>
+          
         </div>
       </div>
 
