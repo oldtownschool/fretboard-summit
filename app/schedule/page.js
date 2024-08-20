@@ -145,12 +145,12 @@ export default function Schedule() {
           <p className="font-bold mt-4 leading-relaxed" >11:00am Workshop: John Leventhal on the Art of Accompaniment </p>
           <p className="text-lg leading-relaxed" >Six-time Grammy winner John Leventhal joins us for a can&apos;t-miss workshop on the Art of Accompaniment. John&apos;s resume is peerless: In addition to being a prolific songwriter and producer, he&apos;s backed the likes of Bob Dylan, Jackson Browne, Rodney Crowell and Willie Nelson on guitar. In 2024, he released his long-overdue solo album, Rumble Strip. (Maurer Hall - West)</p>
           
-          <p className="font-bold mt-4 leading-relaxed" >12:00pm Lunch</p>
+          <p className="font-bold mt-4 leading-relaxed" >12:00pm Light Lunch - (For all attendees, sponsors, exhibitors)</p>
           
           <p className="font-bold mt-4 leading-relaxed" >12:00pm Break Through the Noise: Pedals for Guitarists with Charles Kim</p>
           <p className="text-lg leading-relaxed" >There are a dizzying array of pedal and sound options for new guitarists. Break through the noise in this workshop. We&apos;ll go over different pedal and sound styles including Distortion, Overdrive, Fuzz, Delay, Reverb, Chorus, Loopers, and more. You&apos;ll walk away with an understanding of which pedals to start with, the gear that suits your playing style, and how to arrange your effects for optimal performance. We&apos;ll also go over common mistakes to avoid when assembling your pedal board. (Mabie Gallery - West)</p>
           
-          <p className="font-bold mt-4 leading-relaxed" >1:00pm Lutherie Showcase Opens</p> 
+          <p className="font-bold mt-4 leading-relaxed" >1:00pm Luthier & Exhibitor Showcase Preview Opens</p> 
           <p className="text-lg leading-relaxed" >Exclusive preview of the Summit lutherie showcase just for three-day attendees. Scattered between the Old Town School of Folk Music&apos;s two buildings, Summit goers can find nearly 80 brands and solo builders showcasing their latest wares. Meet some of the legends of the gear industry and be on the lookout for numerous instrument models launching at this year&apos;s Summit. Demo/listening rooms are available if you need a quiet space to try things out. (Both OTSFM buildings) </p>
           
           <p className="font-bold mt-4 leading-relaxed" >1:00pm The Truth About Vintage Amps Demo Room </p>
@@ -200,7 +200,7 @@ export default function Schedule() {
           <h3 className="font-aurochs mt-10 uppercase text-3xl sm:text-4xl tracking-wider leading-relaxed" >Saturday, August 24, 2024 </h3>
           <p className="italic mb-4  text-lg" >Check-in begins at 9:30am. <br/> Workshops & Exhibitor Showcase begins at 10am. (Times subject to change)</p>
 
-          <p className="font-bold mt-4 leading-relaxed" >10:00am Lutherie Showcase Opens </p>
+          <p className="font-bold mt-4 leading-relaxed" >10:00am Exhibitor Showcase Opens </p>
           <p className="text-lg leading-relaxed" >Our 80-exhibitor lutherie showcase features a wide array of electric and acoustic guitarmakers, pedal brands, amp companies and more. Spread throughout Old Town School of Folk Music&apos;s two buildings, there&apos;s something for every guitar collector. (Both buildings)</p>
           
           <p className="font-bold mt-4 leading-relaxed" >10:00am Truth About Vintage Amps Room</p>
@@ -210,7 +210,7 @@ export default function Schedule() {
           <p className="text-lg leading-relaxed" >Joe Henry is not only one of our favorite artists, he&apos;s one of our favorite thinkers. Watch him and Blake Mills discuss music, art, production and more in this live taping of a Fretboard Journal Podcast. At our very first Summit in 2015, Joe had an unforgettable podcast chat with David Crosby; we&apos;re excited to have him put his interview hat on again. (Maurer Hall - West) </p>
           
           <p className="font-bold mt-4 leading-relaxed" >10:00am The True Story of the Martin Dreadnought Guitar with Greig Hutton</p>
-          <p className="text-lg leading-relaxed" >Famed guitar historian and author (Hutton&apos;s Guide to Martin Guitars) Greig Hutton sheds light on the fascinating events that led to one of the most iconic guitar shapes of all-time, Martin&apos;s dreadnought. Martin fans should also note that Hutton will also be in the front lobby throughout the Summit weekend sharing his Martin shipping records database. Just bring your vintage instrument&apos;s serial number and hear all about it. He also has Gibson shipping records from 1935-1953. (Szold Hall - East Hall)</p>
+          <p className="text-lg leading-relaxed" >Famed guitar historian and author (Hutton&apos;s Guide to Martin Guitars) Greig Hutton sheds light on the fascinating events that led to one of the most iconic guitar shapes of all-time, Martin&apos;s dreadnought. Martin fans should also note that Hutton will also be in the front lobby throughout the Summit weekend sharing his Martin shipping records database. Just bring your vintage instrument&apos;s serial number and hear all about it. He also has Gibson shipping records from 1935-1953. (Szold Hall - East)</p>
           
           <p className="font-bold mt-4 leading-relaxed" >11:00am Guitar Repair Roundtable</p>
           <p className="text-lg leading-relaxed" >Five of the world&apos;s best guitar repairpeople - Evan Gluck, Mark Stutman, Tyler Geske, TJ Thompson, and Trevor Healy– field your questions on all things guitar repair and restoration. (Maurer Hall - West)</p>
@@ -275,7 +275,7 @@ export default function Schedule() {
           <h3 className="font-aurochs mt-10 uppercase text-3xl sm:text-4xl tracking-wider leading-relaxed" >Sunday, August 25, 2024 </h3>
           <p className="italic mb-4  text-lg" >Check-in begins at 9:30am. <br/> Workshops & Exhibitor Showcase begins at 10am. (Times subject to change)</p>
 
-          <p className="font-bold mt-4 leading-relaxed" >10:00am Lutherie Showcase Opens </p>
+          <p className="font-bold mt-4 leading-relaxed" >10:00am Exhibitor Showcase Opens </p>
           <p className="text-lg leading-relaxed" >Our 80-exhibitor lutherie showcase features a wide array of electric and acoustic guitarmakers, pedal brands, amp companies and more. Spread throughout Old Town School of Folk Music&apos;s two buildings, there&apos;s something for every guitar collector. (Both buildings)</p>
           
           <p className="font-bold mt-4 leading-relaxed" >10:00am Truth About Vintage Amps Room</p>
