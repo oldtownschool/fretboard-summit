@@ -148,7 +148,7 @@ export default function Schedule() {
           <p className="font-bold mt-4 leading-relaxed" >12:00pm Lunch</p>
           
           <p className="font-bold mt-4 leading-relaxed" >12:00pm Break Through the Noise: Pedals for Guitarists with Charles Kim</p>
-          <p className="text-lg leading-relaxed" >There are a dizzying array of pedal and sound options for new guitarists. Break through the noise in this workshop. We'll go over different pedal and sound styles including Distortion, Overdrive, Fuzz, Delay, Reverb, Chorus, Loopers, and more. You&apos;ll walk away with an understanding of which pedals to start with, the gear that suits your playing style, and how to arrange your effects for optimal performance. We'll also go over common mistakes to avoid when assembling your pedal board. (Mabie Gallery - West)</p>
+          <p className="text-lg leading-relaxed" >There are a dizzying array of pedal and sound options for new guitarists. Break through the noise in this workshop. We&apos;ll go over different pedal and sound styles including Distortion, Overdrive, Fuzz, Delay, Reverb, Chorus, Loopers, and more. You&apos;ll walk away with an understanding of which pedals to start with, the gear that suits your playing style, and how to arrange your effects for optimal performance. We&apos;ll also go over common mistakes to avoid when assembling your pedal board. (Mabie Gallery - West)</p>
           
           <p className="font-bold mt-4 leading-relaxed" >1:00pm Lutherie Showcase Opens</p> 
           <p className="text-lg leading-relaxed" >Exclusive preview of the Summit lutherie showcase just for three-day attendees. Scattered between the Old Town School of Folk Music&apos;s two buildings, Summit goers can find nearly 80 brands and solo builders showcasing their latest wares. Meet some of the legends of the gear industry and be on the lookout for numerous instrument models launching at this year&apos;s Summit. Demo/listening rooms are available if you need a quiet space to try things out. (Both OTSFM buildings) </p>
@@ -181,7 +181,7 @@ export default function Schedule() {
           <p className="text-lg leading-relaxed" >NY-based singer-songwriter performs music from her highly-recommended 2024 album, Imposing on a Hometown. Wolfson is a rising talent to watch, was a recent guest on the Fretboard Journal Podcast, and is one of our magazine&apos;s newest contributors. Come see what all the fuss is about. (Maurer Hall - West)</p>
           
           <p className="font-bold mt-4 leading-relaxed" >4:00pm Break Out of Your Rut With Guitar Habit Science by Tony Polecastro</p>
-          <p className="text-lg leading-relaxed" >Learn how to leverage the foundational (and simple) concepts of habit science to break out of your guitar rut and be sure that it never happens again. In this workshop we'll apply concepts and frameworks from leading habit science figures (James Clear, Charles Duhigg, BJ Fogg, and others) directly to your guitar routine and the goals you have. After looking at your guitar routine and goals through this new "habit lens," you'll find that with some subtle tweaks and new perspectives your new guitar habit will result in continual progress and be sustainable for you and your unique life situation. (Szold Hall - East)</p>
+          <p className="text-lg leading-relaxed" >Learn how to leverage the foundational (and simple) concepts of habit science to break out of your guitar rut and be sure that it never happens again. In this workshop we&apos;ll apply concepts and frameworks from leading habit science figures (James Clear, Charles Duhigg, BJ Fogg, and others) directly to your guitar routine and the goals you have. After looking at your guitar routine and goals through this new "habit lens," you&apos;ll find that with some subtle tweaks and new perspectives your new guitar habit will result in continual progress and be sustainable for you and your unique life situation. (Szold Hall - East)</p>
           
           <p className="font-bold mt-4 leading-relaxed" >5:00pm Happy Hour </p>
           <p className="text-lg leading-relaxed" >Have a drink, relax and connect with fellow Summit attendees, exhibitors, luthiers, and speakers. (Mabie Gallery - West/Courtyard)</p>
@@ -312,8 +312,8 @@ export default function Schedule() {
           <p className="font-bold mt-4 leading-relaxed" >3:00pm Introducing: The Archtop Project with Tom Nania</p>
           <p className="text-lg leading-relaxed" >D&apos;Addario&apos;s Tom Nania walks us through the Archtop Project, an open-source, digital museum displaying historic and contemporary archtop guitars as they&apos;ve never been viewed before – from the inside-out. Each instrument page is a comprehensive analysis complete with CT scans to view the internal structure, acoustics testing including 360-degree acoustic radiation and modal analysis, and high-resolution photographs with audio samples. Inspired by the VSA Oberlin Acoustics Workshop&apos;s Strad 3D project (strad3d.org) and supported by D&apos;Addario & Company and the Archtop Foundation - for the good of guitars. (Szold Hall - East)</p>
           
-          <p className="font-bold mt-4 leading-relaxed" >4:00pm Tube Amps in 2024; Plus a special preview of 'Dumble: A Well-Built Life' </p>
-          <p className="text-lg leading-relaxed" >We keep hearing about the advances made with modeling and even solid-state amps, so do tube amps still matter? In this panel discussion, Chris Benson (Benson Amps) and Eli Lester (Two-Rock) talk about the enduring love for valve amplification…and where they see its future. We&apos;ll also get a sneak peek at the Fretboard Journal&apos;s short film, 'Dumble: A Well-Built Life,&apos; starring Ben Harper. (Szold Hall - East)</p>
+          <p className="font-bold mt-4 leading-relaxed" >4:00pm Tube Amps in 2024; Plus a special preview of &apos;Dumble: A Well-Built Life&apos; </p>
+          <p className="text-lg leading-relaxed" >We keep hearing about the advances made with modeling and even solid-state amps, so do tube amps still matter? In this panel discussion, Chris Benson (Benson Amps) and Eli Lester (Two-Rock) talk about the enduring love for valve amplification…and where they see its future. We&apos;ll also get a sneak peek at the Fretboard Journal&apos;s short film, &apos;Dumble: A Well-Built Life,&apos; starring Ben Harper. (Szold Hall - East)</p>
           
           <h3 className="font-aurochs mt-10 uppercase text-xl sm:text-2xl tracking-wider leading-relaxed" >Sunday Evening Concerts </h3>
           <p className="font-bold mt-4 leading-relaxed" >7:00pm Valerie June (opening: Eli West) </p>
@@ -336,7 +336,7 @@ export default function Schedule() {
           <p className="text-lg leading-relaxed" >Bryan will conduct a hands-on demonstration of the Acousonix app, demonstrating its operations and how it assists in managing, selecting, and purchasing tone woods. He will also showcase its features that aid luthiers in better controlling the sound of their instruments and more stable instruments.</p>
 
           <p className="font-bold mt-4 leading-relaxed" >3:30pm Jaime Aulson Myers on Inlay Development and Sustainability</p>
-          <p className="text-lg leading-relaxed" >Jaime, a trained Graphic Design artist, has leveraged her skills to craft and cut some of the industry's most acclaimed inlays for prominent makers and manufacturers. Jaime will discuss the evolution from concept to product, focusing on the detailed process and considerations that are paramount, encompassing both artistic vision and functional aspects. </p>
+          <p className="text-lg leading-relaxed" >Jaime, a trained Graphic Design artist, has leveraged her skills to craft and cut some of the industry&apos;s most acclaimed inlays for prominent makers and manufacturers. Jaime will discuss the evolution from concept to product, focusing on the detailed process and considerations that are paramount, encompassing both artistic vision and functional aspects. </p>
           <p className="text-lg leading-relaxed" >Furthermore, Jaime will address current concerns around the sustainability of inlay materials, such as abalone, including their sourcing and processing considerations, to ensure environmental responsibility.</p>
 
           <h3 className="font-aurochs mt-10 uppercase text-xl sm:text-2xl tracking-wider leading-relaxed" >Saturday</h3>
@@ -353,12 +353,12 @@ export default function Schedule() {
           <p className="text-lg leading-relaxed" >Provenance is made up of these truth moments. All of it is critical to value - not just what is known, but when it actually was, where, how and by whom.</p>
 
           <p className="font-bold mt-4 leading-relaxed" >2:30pm Tom Nania & Dustin Miller: Announcing Project Dreadnought</p>
-          <p className="text-lg leading-relaxed" >Dustin Miller and Tom Nania will be introducing "Project Dreadnought," a deep analysis of prewar Martin dreadnought guitars. The project has produced the largest sample size of extensively studied Martin guitars to date. This project combines data on over 150 prewar Martin Dreadnought including, photos, audio recordings, modal analysis, CT and MRI scans, and hundreds of hours of interviews with collectors, players, historians, and dealers.   </p>
+          <p className="text-lg leading-relaxed" >Dustin Miller and Tom Nania will be introducing &quot;Project Dreadnought,&quot; a deep analysis of prewar Martin dreadnought guitars. The project has produced the largest sample size of extensively studied Martin guitars to date. This project combines data on over 150 prewar Martin Dreadnought including, photos, audio recordings, modal analysis, CT and MRI scans, and hundreds of hours of interviews with collectors, players, historians, and dealers.   </p>
 
           <p className="text-lg leading-relaxed" >The team, consisting of Bryan Galloup, Joe Glaser, Tom Nania, and Dustin Miller, aims to explore various aspects of what makes these guitars heralded as the best in the world. The research will be supported by historical studies and scientific analysis, culminating in a book scheduled for release in the summer of 2025.</p>
           
           <p className="font-bold mt-4 leading-relaxed" >4:30pm Jamie Gale: The Un-Written Future of Guitar…or Why Nobody Plays Their Daddy&apos;s Guitar </p>
-          <p className="text-lg leading-relaxed" >Join Jamie Gale, Curator of the NAMM Show's Boutique Guitar Showcase, for a discussion about the un-written future of guitar.</p>
+          <p className="text-lg leading-relaxed" >Join Jamie Gale, Curator of the NAMM Show&apos;s Boutique Guitar Showcase, for a discussion about the un-written future of guitar.</p>
 
           <p className="text-lg leading-relaxed" >The most prolific instrument of the last 100 years, the guitar adapts and evolves like no other. Despite the multitudes of irrefutable evidence, notice of its death has been proclaimed many, many times with the passing of each new movement.</p>
 
@@ -366,12 +366,12 @@ export default function Schedule() {
           
           <h3 className="font-aurochs mt-10 uppercase text-xl sm:text-2xl tracking-wider leading-relaxed" >Sunday</h3>
           <p className="font-bold mt-4 leading-relaxed" >11:00am Cooper Wentz: AI and Product Development</p>
-          <p className="text-lg leading-relaxed" >Cooper Wentz is an instructor at the Galloup Luthier School with a keen interest in integrating artificial intelligence into product development. While his background includes a foundational understanding of computers, coding, and software development, his discussion, "AI and Product Development," highlights how individuals with modest expertise can achieve ambitious goals through AI and self-education. </p>
+          <p className="text-lg leading-relaxed" >Cooper Wentz is an instructor at the Galloup Luthier School with a keen interest in integrating artificial intelligence into product development. While his background includes a foundational understanding of computers, coding, and software development, his discussion, &quot;AI and Product Development,&quot; highlights how individuals with modest expertise can achieve ambitious goals through AI and self-education. </p>
           <p className="text-lg leading-relaxed" >Cooper will present a sophisticated tool designed to assist with guitar instrument voicing, showcasing how AI and human ambition could revolutionize the process of crafting and refining musical instruments.</p>
 
           <p className="font-bold mt-4 leading-relaxed" >1:00pm: William Bezard: CNC for Modern Lutherie</p>
           <p className="text-lg leading-relaxed" >As an accomplished guitar player, William leveraged his unique combination of musicianship and technical skills to design some of the most innovative and advanced electric guitars. Today, William is furthering his proficiency in techniques that promise to advance the fields of CNC, CAD, and CAM. </p>
-          <p className="text-lg leading-relaxed" >William will demonstrate some of the techniques he's developed and will be available throughout the summit for hands-on tutoring for individuals seeking additional information about this technology.</p>
+          <p className="text-lg leading-relaxed" >William will demonstrate some of the techniques he&apos;s developed and will be available throughout the summit for hands-on tutoring for individuals seeking additional information about this technology.</p>
           
 
 
