@@ -92,12 +92,12 @@ export default function Luthiers() {
               <tr>
                 <td><Link href="https://boucherguitars.com/">Guitares Boucher / Boucher Guitars</Link></td>
                 <td>acoustics</td>
-                <td>Room TBD</td>
+                <td>210</td>
               </tr>
               <tr>
                 <td><Link href="https://bourgeoisguitars.com/">Bourgeois Guitars</Link></td>
                 <td>acoustics</td>
-                <td>Room TBD</td>
+                <td>E124</td>
               </tr>
               <tr>
                 <td><Link href="https://www.brianwatsonguitars.com/">Brian Watson Guitars</Link></td>
@@ -153,7 +153,7 @@ export default function Luthiers() {
               <tr>
                 <td><Link href="https://www.collingsguitars.com/">Collings Guitars</Link></td>
                 <td>acoustic, electric, archtops, mandolins</td>
-                <td>Room TBD</td>
+                <td>E221</td>
               </tr>
               <tr>
                 <td><Link href="http://www.cominsguitars.com/">Comins Guitars</Link></td>
@@ -168,7 +168,7 @@ export default function Luthiers() {
               <tr>
                 <td><Link href="https://www.daddario.com/">D&apos;Addario</Link></td>
                 <td>strings</td>
-                <td>Room TBD</td>
+                <td></td>
               </tr>
               <tr>
                 <td><Link href="https://dammanninstruments.com">Dammann Custom Instruments</Link></td>
@@ -208,12 +208,12 @@ export default function Luthiers() {
               <tr>
                 <td><Link href="https://gallagherguitar.com/">Gallagher Guitar</Link></td>
                 <td>acoustics</td>
-                <td>Room TBD</td>
+                <td>211</td>
               </tr>
               <tr>
                 <td><Link href="https://www.galloupguitars.com/">Galloup School of Lutherie</Link></td>
                 <td>acoustics</td>
-                <td>Room TBD</td>
+                <td>East Lobby</td>
               </tr>
               <tr>
                 <td><Link href="http://www.gillanderguitars.com">Gillander Guitars</Link></td>
@@ -263,7 +263,7 @@ export default function Luthiers() {
               <tr>
                 <td><Link href="https://www.henriksenamplifiers.com/">Henriksen Amplifiers</Link></td>
                 <td>amplifiers</td>
-                <td>Room TBD</td>
+                <td>E320</td>
               </tr>
               
               <tr>
@@ -290,7 +290,7 @@ export default function Luthiers() {
               <tr>
                 <td><Link href="https://www.irisguitarcompany.com/">Iris Guitars / Circle Strings / Languedoc Guitars</Link></td>
                 <td>acoustics</td>
-                <td>Room TBD</td>
+                <td>E126</td>
               </tr>
               <tr>
                 <td><Link href="http://www.iuliusguitars.com/">Iulius Guitars</Link></td>
@@ -365,7 +365,7 @@ export default function Luthiers() {
               <tr>
                 <td><Link href="https://www.martinguitar.com/">Martin Guitar Co</Link></td>
                 <td>acoustic</td>
-                <td>Room TBD</td>
+                <td>E220</td>
               </tr>
               <tr>
                 <td><Link href="https://maton.com.au/">Maton Guitars</Link></td>
@@ -410,7 +410,7 @@ export default function Luthiers() {
               <tr>
                 <td><Link href="https://www.northfieldinstruments.com/">Nortfhield Stringed Instruments</Link></td>
                 <td>mandolins</td>
-                <td>Room TBD</td>
+                <td>212</td>
               </tr>
               <tr>
                 <td><Link href="https://www.northwoodsluthiers.com">North Woods Luthiers</Link></td>
@@ -440,7 +440,7 @@ export default function Luthiers() {
               <tr>
                 <td><Link href="https://powerselectricguitars.com/">Powers Electric Guitars</Link></td>
                 <td>electrics</td>
-                <td>Room TBD</td>
+                <td></td>
               </tr>
               <tr>
                 <td><Link href="https://reywasguitars.com/">Reywas Guitars</Link></td>
@@ -470,7 +470,7 @@ export default function Luthiers() {
               <tr>
                 <td><Link href="https://santacruzguitar.com/">Santa Cruz Guitars</Link></td>
                 <td>acoustics</td>
-                <td>Room TBD</td>
+                <td>E123</td>
               </tr>
               <tr>
                 <td><Link href="https://www.seufguitars.com/">Seuf Guitars</Link></td>
@@ -510,18 +510,13 @@ export default function Luthiers() {
               <tr>
                 <td><Link href="https://www.taylorguitars.com/">Taylor Guitars</Link></td>
                 <td>acoustics</td>
-                <td>Room TBD</td>
+                <td>101</td>
               </tr>
               <tr>
                 <td><Link href="https://fetellierguitars.com/">Tellier Guitars</Link></td>
                 <td>acoustics</td>
                 <td>E328</td>
               </tr>
-              {/* <tr>
-                <td><Link href="https://www.thorellguitars.com/">Thorell Fine Guitars</Link></td>
-                <td>archtops</td>
-                <td>Room TBD</td>
-              </tr> */}
               <tr>
                 <td><Link href="https://wadeguitar.com/">Travis D. Wade Guitars</Link></td>
                 <td>acoustics</td>
@@ -530,7 +525,7 @@ export default function Luthiers() {
               <tr>
                 <td><Link href="https://www.two-rock.com/">Two-Rock Amplifiers</Link></td>
                 <td>amplifiers</td>
-                <td>Room TBD</td>
+                <td></td>
               </tr>
               <tr>
                 <td><Link href="https://www.uberfrankguitars.com">Uberfrank</Link></td>
@@ -555,7 +550,7 @@ export default function Luthiers() {
               <tr>
                 <td><Link href="https://usa.yamaha.com/products/musical_instruments/guitars_basses/index.html">Yamaha</Link></td>
                 <td>electric guitars</td>
-                <td>Room TBD</td>
+                <td>E322</td>
               </tr>
             </tbody>
           </table>
