@@ -82,7 +82,7 @@ export default function Schedule() {
               <Image src="/FBS24-Saturday-B3.png" width={600} height={600} alt="Line Up Schedule sat 1" />
             </div>
             <div>
-              <Image src="/FBS24-Sunday-C3.png" width={600} height={600} alt="Line Up Schedule sun 1" />
+              <Image src="/FBS24-Sunday-C4.png" width={600} height={600} alt="Line Up Schedule sun 1" />
             </div>
             <div>
               <Image src="/FBS24-Info-D3.png" width={600} height={600} alt="Line Up Schedule Info" />
@@ -316,8 +316,8 @@ export default function Schedule() {
           <p className="text-lg leading-relaxed" >We keep hearing about the advances made with modeling and even solid-state amps, so do tube amps still matter? In this panel discussion, Chris Benson (Benson Amps) and Eli Lester (Two-Rock) talk about the enduring love for valve amplification…and where they see its future. We&apos;ll also get a sneak peek at the Fretboard Journal&apos;s short film, &apos;Dumble: A Well-Built Life,&apos; starring Ben Harper. (Szold Hall - East)</p>
           
           <h3 className="font-aurochs mt-10 uppercase text-xl sm:text-2xl tracking-wider leading-relaxed" >Sunday Evening Concerts </h3>
-          <p className="font-bold mt-4 leading-relaxed" >7:00pm Valerie June (opening: Eli West) </p>
-          <p className="text-lg leading-relaxed" >Chicago&apos;s Nathan Graham was so great at last year&apos;s Fretboard Summit, we had to have him back. Then we&apos;ll get an intimate set from Colin Hay (Men at Work), a consummate guitarhead and one of the finest songwriters and storytellers alive today. (Maurer Hall - West)</p>
+          <p className="font-bold mt-4 leading-relaxed" >7:00pm Valerie June (opening: Eli Winter) </p>
+          <p className="text-lg leading-relaxed" >Join multi-hyphenate artist from Tennessee, Valerie June for a night of her unique, roots music mixture of folk, blues, gospel, soul, country, Appalachian, and bluegrass. Eli Winter opens the evening with his genre-defying synthesis of folk, rock, jazz, and devotional music. (Maurer Hall - West)</p>
           
           <p className="font-bold mt-4 leading-relaxed" >7:00pm Joel Paterson (opening: Jonathan Stout)</p>
           <p className="text-lg leading-relaxed" >A retro, swing-filled night with two of our favorite jazz guitarists: Los Angeles-based guitarist and bandleader Jonathan Stout followed by Chicago treasure Joel Paterson.  (Szold Hall - East)</p>

@@ -560,57 +560,81 @@ export default function Luthiers() {
 
         </div>
 
-        {/* <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#F0E5D1] text-[#322D25]">
+        <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#F0E5D1] text-[#322D25]">
           <h2 className="tracking-wider font-aurochs font-normal uppercase text-5xl text-center my-6">
-           Sealed Bid Auction Guitars
+          Sealed Bid Auction - 2024
           </h2>
 
-          <h4 className="tracking-wider font-aurochs font-normal uppercase text-3xl my-6">
-          Pre War Guitars Co. &apos;34-Style Bar Fret Dreadnought
+          <h4 className="tracking-wider font-aurochs font-normal uppercase text-3xl mt-4">
+          Santa Cruz FS Model
           </h4>
           <p className="text-xl">
-          &quot;This guitar represents the next step in the Pre-War Guitars Co.&apos;s quest for vintage tone. It&apos;s the first guitar to feature our new &apos;34 Style upgrade package, featuring a non-adjustable ebony reinforced neck, and bar frets- a true compression fretted instrument. 
-          </p>
-          <p className="text-xl mt-2 ">
-          Along with all our standard elements- torrefied red spruce top and bracing, hot hide glue construction, hand carved neck, top and back bracing, super thin nitrocellulose lacquer finish, and hand fit dovetail neck joint; the result is a 3.5lb tone monster. 
-          </p>
-          <p className="text-xl mt-2 ">
-          We&apos;re excited to put the things we learned building the Blake guitars to work on our full slate of 14 fret guitars, and this one is the first. We&apos;re also proud to support the Fretboard Summit, and to be a part of such a great event.
+          Customized with Koa Binding, Koa backstrip, and Koa Overlay. All other specs are standard to the model and can be found here <Link href="https://santacruzguitar.com/fingerstyle/ ">https://santacruzguitar.com/fingerstyle/</Link> – The FS is a truly sophisticated instrument that will allow the best possible presentation of your fingerstyle technique. 
           </p>
 
-          <h4 className="tracking-wider text-3xl font-aurochs my-6 uppercase text-[#2B6F6D]">
-            Opening bid: $3,000 
+          <h4 className="tracking-wider text-3xl font-aurochs mt-4 uppercase text-[#2B6F6D]">
+            Opening bid: $7,500.00 
           </h4>
+          <p className="text-lg mb-4">Bid card available at check-in, auction closes Sunday at noon.</p>
 
           <Image
               className="flex"
-              src="/34-Style-Dread_1200x800.jpg"
+              src="/SantaCruz_FBSRaffle_1600.png"
               alt="border"
               width={1200}
               height={800}
             />
 
-          
-
-
           <hr class="mt-8 h-2 border-solid border-black"/>
           
+          <h2 className="tracking-wider font-aurochs font-normal uppercase text-5xl text-center my-4">
+          Premium Raffle Items
+          </h2>
 
-
-          <h4 className="tracking-wider font-aurochs font-normal uppercase text-3xl my-6">
-          Santa Cruz Fingerstyle Cutaway
+          <h4 className="tracking-wider font-aurochs font-normal uppercase text-3xl mt-4">
+          Yanuziello Electric Mandolin
           </h4>
-          <p className="text-xl">
-          For the Fretboard Summit we are presenting a Fingerstyle Cutaway featuring Indian Rosewood back and sides, Cedar top, 1-13/16&quot; nut width, 2-3/16&quot; bridge spacing, tapered bracing, Brazilian Rosewood binding on the body with black/Maple/black side purfle, black binding on the fingerboard, Brazilian Rosewood back strip, blue purfle combo rosette and top border, Brazilian Rosewood overlay, no fingerboard inlay, Brazilian Rosewood peghead overlay with SCGC mini logo inlay, gold Gotoh 510 tuners with black buttons, Sunburst top.
+          <p className="text-xl mb-4">
+          One lucky registrant is going to win this eight-string electric mandolin from famed maker Yanuziello Stringed Instruments, just for attending! It's a $5,500 USD value and we're floored by Joe's generosity...and creativity. (Exclusive raffle item for 3-day All-Access pass holders, raffle drawing on Friday.)
           </p>
-          
 
-          <h4 className="tracking-wider text-3xl font-aurochs my-6 uppercase text-[#2B6F6D]">
-            Opening bid: $5,000
-          </h4>
+          <Image
+              className="flex"
+              src="/Yanuizello_Mando_FBSRaffle_1600.png"
+              alt="border"
+              width={1200}
+              height={800}
+            />
+
+          <hr class="mt-8 h-2 border-solid border-black"/>
+
+          <h2 className="tracking-wider font-aurochs font-normal uppercase text-5xl text-center mt-6">Raffle Prizes</h2>
+          <p className="text-xl  text-center">Available to All Access pass holders, raffle drawing Sunday at noon</p>
+
+          <h4 className="tracking-wider font-aurochs font-normal uppercase text-3xl mt-6">RØDE Equipment</h4>
+          <p className="text-xl">Premium microphones and audio equipment from our friends at Røde, including:<br/>
+          PSA1+ - Studio Boom<br/>
+          PodMic - Podcast-ready Dynamic Microphone<br/>
+          PodMic USB - Podcast-ready Dynamic Microphone<br/>
+          NT1 Gen 5 Microphone <br/>
+          NT1 Signature Series Blue Microphone<br/>
+          NT1 Signature Series Red Microphone</p>
 
 
-        </div> */}
+          <h4 className="tracking-wider font-aurochs font-normal uppercase text-3xl my-6">Lifetime Subscription to Fretboard Journal</h4>
+
+
+          <h4 className="tracking-wider font-aurochs font-normal uppercase text-3xl mt-6">Old Town School of Folk Music Merch Prize Pack</h4>
+          <p className="text-xl">A collection of baseball caps, drinking glasses, coffee tumbler, and other fun accessories celebrating the legendary Old Town School of Folk Music.</p>
+
+
+          <h4 className="tracking-wider font-aurochs font-normal uppercase text-3xl mt-6">Fretboard Summit Merch</h4>
+          <p className="text-xl">All the merch available at the 2024 Fretboard Summit!</p>
+
+
+
+
+        </div>
 
       </main>
       <Footer />
