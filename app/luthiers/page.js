@@ -569,7 +569,7 @@ export default function Luthiers() {
           Santa Cruz FS Model
           </h4>
           <p className="text-xl">
-          Customized with Koa Binding, Koa backstrip, and Koa Overlay. All other specs are standard to the model and can be found here <Link href="https://santacruzguitar.com/fingerstyle/ ">https://santacruzguitar.com/fingerstyle/</Link> – The FS is a truly sophisticated instrument that will allow the best possible presentation of your fingerstyle technique. 
+          Customized with Koa Binding, Koa backstrip, and Koa Overlay. All other specs are standard to the model and can be found <Link class="text-[#2B6F6D] underline font-bold" href="https://santacruzguitar.com/fingerstyle/ ">here</Link> – The FS is a truly sophisticated instrument that will allow the best possible presentation of your fingerstyle technique. 
           </p>
 
           <h4 className="tracking-wider text-3xl font-aurochs mt-4 uppercase text-[#2B6F6D]">
