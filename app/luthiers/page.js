@@ -595,7 +595,7 @@ export default function Luthiers() {
           Yanuziello Electric Mandolin
           </h4>
           <p className="text-xl mb-4">
-          One lucky registrant is going to win this eight-string electric mandolin from famed maker Yanuziello Stringed Instruments, just for attending! It's a $5,500 USD value and we're floored by Joe's generosity...and creativity. (Exclusive raffle item for 3-day All-Access pass holders, raffle drawing on Friday.)
+          One lucky registrant is going to win this eight-string electric mandolin from famed maker Yanuziello Stringed Instruments, just for attending! It&apos;s a $5,500 USD value and we&apos;re floored by Joe&apos;s generosity...and creativity. (Exclusive raffle item for 3-day All-Access pass holders, raffle drawing on Friday.)
           </p>
 
           <Image
