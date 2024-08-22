@@ -335,7 +335,7 @@ export default function Luthiers() {
               <tr>
                 <td><Link href="https://www.anthonylattanze.com/">Lattanze Guitars</Link></td>
                 <td>acoustics</td>
-                <td>Harris Gallery</td>
+                <td>E328</td>
               </tr>
               <tr>
                 <td><Link href="https://www.leavittlutherie.com/">Leavitt Stringed Instruments</Link></td>
@@ -430,7 +430,7 @@ export default function Luthiers() {
               <tr>
                 <td><Link href="https://pacificrimtonewoods.com/">Pacific Rim Tonewoods</Link></td>
                 <td>tonewoods</td>
-                <td>E328</td>
+                <td>E326</td>
               </tr>
               <tr>
                 <td><Link href="https://www.instagram.com/paulmcevoyguitars/">Paul McEvoy Guitars</Link></td>
@@ -440,7 +440,7 @@ export default function Luthiers() {
               <tr>
                 <td><Link href="https://powerselectricguitars.com/">Powers Electric Guitars</Link></td>
                 <td>electrics</td>
-                <td></td>
+                <td>101</td>
               </tr>
               <tr>
                 <td><Link href="https://reywasguitars.com/">Reywas Guitars</Link></td>
@@ -525,7 +525,7 @@ export default function Luthiers() {
               <tr>
                 <td><Link href="https://www.two-rock.com/">Two-Rock Amplifiers</Link></td>
                 <td>amplifiers</td>
-                <td></td>
+                <td>E221</td>
               </tr>
               <tr>
                 <td><Link href="https://www.uberfrankguitars.com">Uberfrank</Link></td>
