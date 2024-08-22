@@ -236,11 +236,6 @@ export default function Luthiers() {
                 <td>102</td>
               </tr>
               <tr>
-                <td><Link href="https://www.mlive.com/news/grand-rapids/2011/08/guitar_maker_crafts_special_in.html">Guitar Work Shops</Link></td>
-                <td>acoustics</td>
-                <td>E328</td>
-              </tr>
-              <tr>
                 <td><Link href="https://www.hallandguitars.com/">Halland Guitars</Link></td>
                 <td>acoustics</td>
                 <td>102</td>
@@ -465,7 +460,7 @@ export default function Luthiers() {
               <tr>
                 <td><Link href="https://www.saersguitars.com">Saers Guitars</Link></td>
                 <td>acoustics</td>
-                <td>213</td>
+                <td>Harris Gallery</td>
               </tr>
               <tr>
                 <td><Link href="https://santacruzguitar.com/">Santa Cruz Guitars</Link></td>
@@ -541,6 +536,11 @@ export default function Luthiers() {
                 <td><Link href="http://www.warmaudio.com/">Warm Audio</Link></td>
                 <td>electronics, mics</td>
                 <td>E128</td>
+              </tr>
+              <tr>
+                <td><Link href="https://www.mlive.com/news/grand-rapids/2011/08/guitar_maker_crafts_special_in.html">West Michigan Guitar Workshop</Link></td>
+                <td>acoustics</td>
+                <td>E328</td>
               </tr>
               <tr>
                 <td><Link href="https://www.woolsonsoundcraft.com/">Woolson Soundcraft</Link></td>
