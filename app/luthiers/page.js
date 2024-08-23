@@ -248,7 +248,7 @@ export default function Luthiers() {
               <tr>
                 <td><Link href="https://hayesguitar.com/">Hayes Guitars</Link></td>
                 <td>acoustics</td>
-                <td>213</td>
+                <td>E326</td>
               </tr>
               <tr>
                 <td><Link href="https://healyguitars.com/">Healy Guitars</Link></td>
