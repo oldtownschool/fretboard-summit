@@ -19,6 +19,9 @@ export default function Music() {
           <h2 className="mt-10 font-aurochs text-[#F0E5D1] uppercase text-6xl tracking-wider ">
             Live Performances
           </h2>
+          <h4 className="mt-10 font-aurochs text-[#F0E5D1] uppercase text-3xl tracking-wider">
+          This was our 2024 lineup of concerts, stay tuned for an announcement on who will be joining us in 2025!
+          </h4>
         </div>
         <div className="block sm:flex sm:flex-row mt-10 max-w-5xl p-2 sm:p-0">
           <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-0 sm:m-2 p-4 bg-[#A4CCDA] text-center text-[#322D25]">
@@ -306,16 +309,16 @@ export default function Music() {
           <p className="font-bold text-xl mt-6">
             The Summit is three days of fun and inspiration for guitar fanatics. In addition to the great concerts listed above, we&apos;ll have additional concerts taking place in both theaters, hourly workshops and master classes, demo rooms, and Summit-exclusive parties.
           </p>
-          <p className="font-bold text-xl mt-4">
+          {/* <p className="font-bold text-xl mt-4">
             We&apos;re happy to announce that 2023 performer Adam Levy is returning for 2024 to perform in his duo with Rich Hinman; bluegrass phenom Jake Eddy is coming back; as are numerous other Summit favorites. We&apos;ll be adding more performance updates soon - follow us on <Link className="underline" href="https://www.instagram.com/fretboardsummit">Instagram</Link> and <Link className="underline" href="https://www.facebook.com/fretboardsummit">Facebook</Link> for more information.
-          </p>
+          </p> */}
           <p className="font-bold text-xl mt-4">
             Remember - All-access passholders get access to all our breakout sessions and master classes featuring fantastic players, passionate luthiers, and authorities from across the industry.
           </p>
 
-          <h2 className="my-4 tracking-wider font-aurochs font-normal uppercase text-3xl text-center">
-            2024 Workshop Lineup Coming Soon!
-          </h2>
+          {/* <h2 className="my-4 tracking-wider font-aurochs font-normal uppercase text-3xl text-center">
+            2025 Workshop Lineup Coming Soon!
+          </h2> */}
 
           {/* <h3 className="font-bold text-2xl mt-6 mb-2">WORKSHOPS</h3>
           <p>

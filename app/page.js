@@ -28,13 +28,13 @@ export default function Home() {
       </Script> */}
       <Navbar />
       <main className="flex min-h-screen flex-col items-center bg-gradient-to-r from-[#322D35] to-[#4C454F]">
-        <div className="w-full max-w-5xl items-center lg:flex my-8">
-          <Image
+        {/* <div className="w-full max-w-5xl items-center lg:flex my-8"> */}
+          {/* <Image
             src="/FBS_HeadlinerAnnounce2_2560x536.png"
             alt="FBS Headliner Announce 2024"
             width={1200}
             height={500}
-          />
+          /> */}
           {/* <video
             autoPlay
             muted
@@ -43,7 +43,7 @@ export default function Home() {
             width={1200}
             height={500}
           /> */}
-        </div>
+        {/* </div> */}
 
         <div className="block sm:flex sm:flex-row py-10 max-w-5xl">
           <div className="w-full sm:flex sm:w-2/4">
@@ -62,7 +62,7 @@ export default function Home() {
                 height={50}
               />
               <Image
-                src="/FS2024_Homepage-LeftStack-a.png"
+                src="/FS2025_Homepage_LeftStack_090324.png"
                 alt="banner left"
                 width={500}
                 height={400}
@@ -169,7 +169,7 @@ export default function Home() {
             </p>
             <a href="/luthiers">
               <button className="text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1] my-2">
-              Full List Now Available!
+              View 2024 Exhibitors
               </button>
             </a>
           </div>
@@ -187,11 +187,12 @@ export default function Home() {
               meet the makers
             </h2>
             <p>
-              <span className="font-bold">Meet</span> The Makers & Learn From Masters Performances & Workshops from Blake Mills, Joe Henry, Valerie June, Colin Hay, Nathan Graham, Jake Eddy, Adam Levy & Rich Hinman, Ryan Richter, Matt Munisteri, Joel Paterson, and Jonathan Stout. Sofia Wolfson, Molly Miller, Rhett Shull and John Leventhal.
+              <span className="font-bold">Meet</span> Meet the makers and learn from the masters. 2024 attendees included workshops & performances from: Blake Mills, Valerie June, Colin Hay, Nathan Graham, Jake Eddy, Adam Levy & Rich Hinman, Ryan Richter, Joel Paterson, Sofia Wolfson, Molly Miller, Rhett Shull and John Leventhal
+
             </p>
             <a href="/schedule">
               <button className="text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1] my-2">
-              Daily Schedule Highlights Now Available! 
+              See 2024 Schedule
               </button>
             </a>
           </div>

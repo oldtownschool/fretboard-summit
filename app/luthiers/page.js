@@ -35,6 +35,7 @@ export default function Luthiers() {
 
           {/* <h2 className="text-red-500 mb-10">Please Note: This is content from the 2023 Fretboard Summit for informational purposes only. 2024 info available soon.</h2> */}
 
+          <h3 className="font-aurochs mt-2 uppercase text-3xl sm:text-4xl tracking-wider leading-relaxed mb-8" >Please note: this is the 2024 Fretboard Summit exhibitor list, more details about 2025 will be available in Spring 2025 or earlier</h3>
 
           <h2 className="tracking-wider font-aurochs font-normal uppercase text-5xl text-center">
           CONNECT WITH THE WORLD’S GREATEST GUITAR MAKERS AND TAKE HOME YOUR NEW FAVORITE GEAR
@@ -560,7 +561,7 @@ export default function Luthiers() {
 
         </div>
 
-        <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#F0E5D1] text-[#322D25]">
+        {/* <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#F0E5D1] text-[#322D25]">
           <h2 className="tracking-wider font-aurochs font-normal uppercase text-5xl text-center my-6">
           Sealed Bid Auction - 2024
           </h2>
@@ -634,7 +635,7 @@ export default function Luthiers() {
 
 
 
-        </div>
+        </div> */}
 
       </main>
       <Footer />
