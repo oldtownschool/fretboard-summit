@@ -30,7 +30,7 @@ export default function Tickets() {
             height={100}
           />
           <h2 className="tracking-wider font-aurochs font-normal uppercase text-5xl text-center">
-            3-DAY ALL ACCESS PASS $350
+            3-DAY ALL ACCESS PASS $400
           </h2>
           <h3 className="font-bold text-2xl my-6">
             Experience everything at the Fretboard Summit, including concerts,
@@ -58,7 +58,7 @@ export default function Tickets() {
             Limited to the first 300 registered attendees.
           </h3> */}
           <h3 className="mt-4 font-black text-base italic">
-              Early bird pricing now available until October 30, 2024 when price increases to regular price of $400. Limited to first 300 registered attendees.
+              Limited to first 300 registered attendees.
           </h3>
           <div className="flex flex-row justify-evenly mt-6">
             <a href="https://www.oldtownschool.org/concerts/2025/08-21-2025-fretboard-summit-2025/" className="text-center">
