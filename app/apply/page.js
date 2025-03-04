@@ -26,7 +26,7 @@ export default function Apply() {
               
             </div>
 
-            <iframe id="JotFormIFrame-232886121003144" title="Heading"  allowtransparency="true" allowFullScreen={true} allow="geolocation; microphone; camera" src="https://form.jotform.com/232886121003144" className="jotForm" scrolling="no" > </iframe>
+            {/* <iframe id="JotFormIFrame-232886121003144" title="Heading"  allowtransparency="true" allowFullScreen={true} allow="geolocation; microphone; camera" src="https://form.jotform.com/232886121003144" className="jotForm" scrolling="no" > </iframe> */}
 
             {/* <script type="text/javascript" src="https://form.jotform.com/jsform/230125772586055"></script> */}
 
