@@ -52,7 +52,7 @@ const handbill = localFont({
 });
 
 export const metadata = {
-  title: "Fretboard Summit 2024",
+  title: "Fretboard Summit 2025",
   description:
     "A THREE-DAY GUITAR FESTIVAL FROM THE FRETBOARD JOURNAL AND OLD TOWN SCHOOL",
 };
