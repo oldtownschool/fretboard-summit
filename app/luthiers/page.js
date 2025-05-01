@@ -35,523 +35,297 @@ export default function Luthiers() {
 
           {/* <h2 className="text-red-500 mb-10">Please Note: This is content from the 2023 Fretboard Summit for informational purposes only. 2024 info available soon.</h2> */}
 
-          <h3 className="font-aurochs mt-2 uppercase text-3xl sm:text-4xl tracking-wider leading-relaxed mb-8" >Please note: this is the 2024 Fretboard Summit exhibitor list, more details about 2025 will be available in Spring 2025 or earlier</h3>
+          {/* <h3 className="font-aurochs mt-2 uppercase text-3xl sm:text-4xl tracking-wider leading-relaxed mb-8" >Please note: this is the 2024 Fretboard Summit exhibitor list, more details about 2025 will be available in Spring 2025 or earlier</h3> */}
 
           <h2 className="tracking-wider font-aurochs font-normal uppercase text-5xl text-center">
           CONNECT WITH THE WORLD’S GREATEST GUITAR MAKERS AND TAKE HOME YOUR NEW FAVORITE GEAR
           </h2>
 
-          <p className="font-bold text-2xl mt-6">The midwest’s largest and finest gathering of makers, players, and industry experts are here at Fretboard Summit 2024!</p>
+          <p className="font-bold text-2xl mt-6">The midwest’s largest and finest gathering of makers, players, and industry experts are here at Fretboard Summit 2025!</p>
 
           <p className="font-bold text-2xl mt-4">Try out, demo and purchase new, forthcoming and Summit-exclusive gear from over 50 luthiers, pedal makers, amp, and gear companies. It’s a one-of-a-kind showcase you have to see to believe.
           </p>
 
 
-          <h3 className="font-bold text-lg leading-relaxed mt-8">Confirmed 2024 Exhibitors</h3>
-          <p className="italic text-sm leading-relaxed">Updated: August 20, 2024</p>
+          <h3 className="font-bold text-lg leading-relaxed mt-8">Confirmed 2025 Exhibitors</h3>
+          <p className="italic text-sm leading-relaxed">Updated: May 1, 2025</p>
 
 
           <table class="table-auto">
             <thead>
               <tr>
                 <th class="text-left">Exhibitor</th>
-                <th class="text-left">Type</th>
-                <th class="text-left">Location</th>
+                {/* <th class="text-left">Type</th> */}
+                {/* <th class="text-left">Location</th> */}
               </tr>
             </thead>
             <tbody>
-              <tr>
-                <td><Link href="https://aviateaudio.com/">Aviate Audio</Link></td>
-                <td>pedals</td>
-                <td>E324</td>
-              </tr>
-              <tr>
-              <td><Link href="https://www.baranikguitars.com/">Baranik Guitars</Link></td>
-                <td>electrics</td>
-                <td>E330</td>
-              </tr>
+              
               <tr>
                 <td><Link href="https://www.3bender.com/">3 Bender Guitars</Link></td>
-                <td>electrics</td>
-                <td>E330</td>
+                {/* <td>electrics</td>
+                <td>E330</td> */}
               </tr>
               <tr>
                 <td><Link href="https://blackbobbin.com/">Black Bobbin</Link></td>
-                <td>electrics</td>
-                <td>E330</td>
-              </tr>
-              <tr>
-                <td><Link href="http://www.blindguitars.com">Blind Guitars</Link></td>
-                <td>acoustics</td>
-                <td>E326</td>
-              </tr>
-              <tr>
-                <td><Link href="https://bornguitars.com">Born Custom Guitars</Link></td>
-                <td>electrics</td>
-                <td>E330</td>
-              </tr>
-              <tr>
-                <td><Link href="https://boucherguitars.com/">Guitares Boucher / Boucher Guitars</Link></td>
-                <td>acoustics</td>
-                <td>210</td>
+                {/* <td>electrics</td>
+                <td>E330</td> */}
               </tr>
               <tr>
                 <td><Link href="https://bourgeoisguitars.com/">Bourgeois Guitars</Link></td>
-                <td>acoustics</td>
-                <td>E124</td>
+                {/* <td>acoustics</td>
+                <td>E124</td> */}
+              </tr>
+              <tr>
+                <td><Link href="https://bovedainc.com/">Boveda</Link></td>
+                {/* <td>acoustics</td>
+                <td>E124</td> */}
               </tr>
               <tr>
                 <td><Link href="https://www.brianwatsonguitars.com/">Brian Watson Guitars</Link></td>
-                <td>acoustics</td>
-                <td>102</td>
+                {/* <td>acoustics</td>
+                <td>102</td> */}
               </tr>
               <tr>
                 <td><Link href="https://browneamps.com/">Browne Amplification</Link></td>
-                <td>pedals</td>
-                <td>E324</td>
+                {/* <td>pedals</td>
+                <td>E324</td> */}
               </tr>
-              <tr>
-                <td><Link href="https://bruceguitars.com/about">Bruce Guitars</Link></td>
-                <td>acoustics</td>
-                <td>E326</td>
-              </tr>
-
-              <tr>
-                <td><Link href="https://cardinalinstruments.com/">Cardinal Instruments</Link></td>
-                <td>electrics</td>
-                <td>E330</td>
-              </tr>
+              
               <tr>
                 <td><Link href="https://carolineguitar.com/">Caroline Guitar Company</Link></td>
-                <td>pedals</td>
-                <td>E330</td>
-              </tr>
-              <tr>
-                <td><Link href="https://cedarcreekcases.com/">Cedar Creek Custom Case Shoppe</Link></td>
-                <td>cases</td>
-                <td>102</td>
+                {/* <td>pedals</td>
+                <td>E330</td> */}
               </tr>
               <tr>
                 <td><Link href="https://cedarmtm.com">Cedar Mountain Mandolins</Link></td>
-                <td>mandolins</td>
-                <td>102</td>
+                {/* <td>mandolins</td>
+                <td>102</td> */}
               </tr>
               <tr>
                 <td><Link href="http://chasebliss.com">Chase Bliss</Link></td>
-                <td>pedals</td>
-                <td>E324</td>
-              </tr>
-              <tr>
-                <td><Link href="https://www.chicagoluthiers.com">Chicago Luthiers Workshop</Link></td>
-                <td>acoustics</td>
-                <td>OTS Music Store</td>
-              </tr>
-              <tr>
-                <td><Link href="https://www.cirrusguitars.com/">Cirrus Guitars</Link></td>
-                <td>acoustics</td>
-                <td>Harris Gallery</td>
+                {/* <td>pedals</td>
+                <td>E324</td> */}
               </tr>
               <tr>
                 <td><Link href="https://www.collingsguitars.com/">Collings Guitars</Link></td>
-                <td>acoustic, electric, archtops, mandolins</td>
-                <td>E221</td>
+                {/* <td>acoustic, electric, archtops, mandolins</td>
+                <td>E221</td> */}
               </tr>
               <tr>
-                <td><Link href="http://www.cominsguitars.com/">Comins Guitars</Link></td>
-                <td> archtops, hollow body</td>
-                <td>E328</td>
-              </tr>
-              <tr>
-                <td><Link href="http://www.curtisrockwellguitars.com">Curtis Rockwell, Luthier</Link></td>
-                <td>acoustics</td>
-                <td>Harris Gallery</td>
+                <td><Link href="https://cusackmusic.com/">Cusack Music</Link></td>
+                {/* <td> archtops, hollow body</td>
+                <td>E328</td> */}
               </tr>
               <tr>
                 <td><Link href="https://www.daddario.com/">D&apos;Addario</Link></td>
-                <td>strings</td>
-                <td></td>
+                {/* <td>strings</td>
+                <td></td> */}
               </tr>
               <tr>
-                <td><Link href="https://dammanninstruments.com">Dammann Custom Instruments</Link></td>
-                <td>acoustics, mandolins </td>
-                <td>102</td>
+                <td><Link href="https://www.dambrosioguitars.com/">D&apos;Ambrosio Guitars</Link></td>
+                {/* <td>strings</td>
+                <td></td> */}
               </tr>
-              <tr>
-                <td><Link href="https://www.aaronlucasguitars.com/">Dark Forest Cypress</Link></td>
-                <td>tonewoods</td>
-                <td>E326</td>
-              </tr>
-              <tr>
-                <td><Link href="https://www.deslongchampsguitars.com/">Deslongchamps Guitars</Link></td>
-                <td>acoustics</td>
-                <td>E326</td>
-              </tr>
-              <tr>
-                <td><Link href="https://www.dewitguitars.com/">De Wit Guitars</Link></td>
-                <td>acoustics</td>
-                <td>E328</td>
-              </tr>
-              <tr>
-                <td><Link href="http://www.elitetonewoods.com">Elite Tonewoods</Link></td>
-                <td>tonewoods</td>
-                <td>102</td>
-              </tr>
+              
               <tr>
                 <td><Link href="https://flammangguitars.com">Flammang Guitars</Link></td>
-                <td>acoustics</td>
-                <td>213</td>
+                {/* <td>acoustics</td>
+                <td>213</td> */}
               </tr>
-              <tr>
-                <td><Link href="https://www.frankbrothersguitars.com/">Frank Brothers</Link></td>
-                <td>electrics</td>
-                <td>E330</td>
-              </tr>
-              <tr>
-                <td><Link href="https://gallagherguitar.com/">Gallagher Guitar</Link></td>
-                <td>acoustics</td>
-                <td>211</td>
-              </tr>
-              <tr>
-                <td><Link href="https://www.galloupguitars.com/">Galloup School of Lutherie</Link></td>
-                <td>acoustics</td>
-                <td>East Lobby</td>
-              </tr>
-              <tr>
-                <td><Link href="http://www.gillanderguitars.com">Gillander Guitars</Link></td>
-                <td>acoustics</td>
-                <td>102</td>
-              </tr>
-              <tr>
-                <td><Link href="https://www.greenfieldguitars.com/">Greenfield Guitars</Link></td>
-                <td>acoustics</td>
-                <td>102</td>
-              </tr>
+              
               <tr>
                 <td><Link href="https://www.grezguitars.com">Grez Guitars</Link></td>
-                <td>electrics</td>
-                <td>E330</td>
+                {/* <td>electrics</td>
+                <td>E330</td> */}
+              </tr>
+              <tr>
+                <td><Link href="https://boucherguitars.com/">Guitares Boucher / Boucher Guitars</Link></td>
+                {/* <td>acoustics</td>
+                <td>210</td> */}
               </tr>
               <tr>
                 <td><Link href="https://en.guitaresjuliensublet.com/">Guitares Julien Sublet</Link></td>
-                <td>acoustics</td>
-                <td>102</td>
-              </tr>
-              <tr>
-                <td><Link href="https://www.hallandguitars.com/">Halland Guitars</Link></td>
-                <td>acoustics</td>
-                <td>102</td>
-              </tr>
-              <tr>
-                <td><Link href="https://www.hardinglutherie.com/">Harding Lutherie / SRT Strings</Link></td>
-                <td>acoustics, violins</td>
-                <td>Harris Gallery</td>
-              </tr>
-              <tr>
-                <td><Link href="https://hayesguitar.com/">Hayes Guitars</Link></td>
-                <td>acoustics</td>
-                <td>E326</td>
-              </tr>
-              <tr>
-                <td><Link href="https://healyguitars.com/">Healy Guitars</Link></td>
-                <td>electrics</td>
-                <td>E330</td>
+                {/* <td>acoustics</td>
+                <td>102</td> */}
               </tr>
               <tr>
                 <td><Link href="https://www.henriksenamplifiers.com/">Henriksen Amplifiers</Link></td>
-                <td>amplifiers</td>
-                <td>E320</td>
-              </tr>
-              
-              <tr>
-                <td><Link href="https://www.hozenguitars.com/">Hozen Guitars</Link></td>
-                <td>acoustics</td>
-                <td>102</td>
-              </tr>
-              
-              <tr>
-                <td><Link href="http://www.humphreyamps.com/">Humphrey Amps</Link></td>
-                <td>amplifiers</td>
-                <td>E320</td>
+                {/* <td>amplifiers</td>
+                <td>E320</td> */}
               </tr>
               <tr>
                 <td><Link href="https://hussanddalton.com/">Huss & Dalton</Link></td>
-                <td>acoustics</td>
-                <td>Harris Gallery</td>
+                {/* <td>acoustics</td>
+                <td>Harris Gallery</td> */}
               </tr>
               <tr>
                 <td><Link href="http://hoffeecases.com">HXC cases</Link></td>
-                <td>cases</td>
-                <td>102</td>
+                {/* <td>cases</td>
+                <td>102</td> */}
               </tr>
               <tr>
-                <td><Link href="https://www.irisguitarcompany.com/">Iris Guitars / Circle Strings / Languedoc Guitars</Link></td>
-                <td>acoustics</td>
-                <td>E126</td>
-              </tr>
-              <tr>
-                <td><Link href="http://www.iuliusguitars.com/">Iulius Guitars</Link></td>
-                <td>acoustics</td>
-                <td>E326</td>
-              </tr>
-              <tr>
-                <td><Link href="https://www.irvinguitars.com/">Irvin Guitars</Link></td>
-                <td>acoustics</td>
-                <td>213</td>
-              </tr>
-              <tr>
-                <td><Link href="http://jewittguitars.com/">Jewitt Guitars</Link></td>
-                <td>acoustics</td>
-                <td>E326</td>
-              </tr>
-              <tr>
-                <td><Link href="https://jhspedals.info/">JHS Pedals</Link></td>
-                <td>pedals</td>
-                <td>E128</td>
+                <td><Link href="https://www.irisguitarcompany.com/">Iris Guitars / Circle Strings / Languedoc Guitars / Allied Lutherie</Link></td>
+                {/* <td>acoustics</td>
+                <td>E126</td> */}
               </tr>
               <tr>
                 <td><Link href="https://www.jrieck.com/">J. Rieck Lutherie</Link></td>
-                <td>acoustics</td>
-                <td>Harris Gallery</td>
+                {/* <td>acoustics</td>
+                <td>Harris Gallery</td> */}
               </tr>
+              
               <tr>
-                <td><Link href="https://www.instagram.com/lomamansa/">Kortenhoven Guitars</Link></td>
-                <td>acoustics</td>
-                <td>213</td>
-              </tr>
-              <tr>
-                <td><Link href="https://kostalguitars.com/">Kostal Guitars</Link></td>
-                <td>acoustics</td>
-                <td>E328</td>
-              </tr>
-              <tr>
-                <td><Link href="https://lamehorse.net/">Lame Horse Guitars</Link></td>
-                <td>acoustics</td>
-                <td>E326</td>
-              </tr>
-              <tr>
-                <td><Link href="https://www.anthonylattanze.com/">Lattanze Guitars</Link></td>
-                <td>acoustics</td>
-                <td>E328</td>
-              </tr>
-              <tr>
-                <td><Link href="https://www.leavittlutherie.com/">Leavitt Stringed Instruments</Link></td>
-                <td>electrics</td>
-                <td>E330</td>
+                <td><Link href="https://www.larochelutherie.com/">Laroche Lutherie</Link></td>
+                {/* <td>electrics</td>
+                <td>E330</td> */}
               </tr>
               <tr>
                 <td><Link href="https://www.lhtguitars.com/guitars">LHT Guitars</Link></td>
-                <td>archtops, hollow body electrics </td>
-                <td>E328</td>
+                {/* <td>archtops, hollow body electrics </td>
+                <td>E328</td> */}
               </tr>
               <tr>
-                <td><Link href="https://lockhorninstruments.org/">Lockhorn Instruments</Link></td>
-                <td>electrics </td>
-                <td>E330</td>
-              </tr>
-              <tr>
-                <td><Link href="http://www.madsenamps.com/">Madsen Amplification</Link></td>
-                <td>amps and pedals</td>
-                <td>E324</td>
-              </tr>
-              <tr>
-                <td><Link href="https://www.maegenwellsguitars.com/">Maegan Wells Guitars and Mandolins</Link></td>
-                <td>archtops</td>
-                <td>E328</td>
+                <td><Link href="https://lowdenguitars.com/">Lowden Guitars</Link></td>
+                {/* <td>electrics </td>
+                <td>E330</td> */}
               </tr>
               <tr>
                 <td><Link href="https://www.martinguitar.com/">Martin Guitar Co</Link></td>
-                <td>acoustic</td>
-                <td>E220</td>
-              </tr>
-              <tr>
-                <td><Link href="https://maton.com.au/">Maton Guitars</Link></td>
-                <td>acoustics, electrics</td>
-                <td>213</td>
-              </tr>
-              <tr>
-                <td><Link href="https://mcnallyguitars.com/">McNally Guitars</Link></td>
-                <td>acoustics</td>
-                <td>E328</td>
-              </tr>
-              <tr>
-                <td><Link href="https://www.michaelkennedyguitars.com/">Michael Kennedy Guitars</Link></td>
-                <td>acoustics</td>
-                <td>E326</td>
-              </tr>
-              <tr>
-                <td><Link href="https://aboudibguitars.com/">Michel Aboudib Guitars</Link></td>
-                <td>acoustics</td>
-                <td>E326</td>
+                {/* <td>acoustic</td>
+                <td>E220</td> */}
               </tr>
               <tr>
                 <td><Link href="https://www.motanderguitars.com">Motander Guitars</Link></td>
-                <td>electrics</td>
-                <td>E330</td>
+                {/* <td>electrics</td>
+                <td>E330</td> */}
               </tr>
               <tr>
-                <td><Link href="https://www.muleresophonic.com/products/20968-mulecaster">Mule Resophonic</Link></td>
-                <td>resonators</td>
-                <td>E330</td>
-              </tr>
-              <tr>
-                <td><Link href="https://musiccitybridge.com">Music City Bridge</Link></td>
-                <td>electronics</td>
-                <td>E326</td>
-              </tr>
-              <tr>
-                <td><Link href="https://www.noemiguitars.com">Noemi Guitars</Link></td>
-                <td>acoustics</td>
-                <td>E326</td>
-              </tr>
-              <tr>
-                <td><Link href="https://www.northfieldinstruments.com/">Nortfhield Stringed Instruments</Link></td>
-                <td>mandolins</td>
-                <td>212</td>
+                <td><Link href="http://www.nationalguitars.com/">National Reso-Phonic Guitars Inc.</Link></td>
+                {/* <td>acoustics</td>
+                <td>E326</td> */}
               </tr>
               <tr>
                 <td><Link href="https://www.northwoodsluthiers.com">North Woods Luthiers</Link></td>
-                <td>acoustics</td>
-                <td>Harris Gallery</td>
+                {/* <td>acoustics</td>
+                <td>Harris Gallery</td> */}
               </tr>
               <tr>
+                <td><Link href="https://www.northfieldinstruments.com/">Northfield Stringed Instruments/ADK Designs</Link></td>
+                {/* <td>mandolins</td>
+                <td>212</td> */}
+              </tr>
+              
+              <tr>
                 <td><Link href="https://musicstore.oldtownschool.org">Old Town School Music Store</Link></td>
-                <td>gear, strings & accessories</td>
-                <td>West - Music Store</td>
+                {/* <td>gear, strings & accessories</td>
+                <td>West - Music Store</td> */}
               </tr>
               <tr>
                 <td><Link href="https://www.oldtownschool.org/resourcecenter/">Old Town School of Folk Music Resource Center</Link></td>
-                <td>archives</td>
-                <td>West - Basement</td>
+                {/* <td>archives</td>
+                <td>West - Basement</td> */}
               </tr>
               <tr>
                 <td><Link href="https://pacificrimtonewoods.com/">Pacific Rim Tonewoods</Link></td>
-                <td>tonewoods</td>
-                <td>E326</td>
+                {/* <td>tonewoods</td>
+                <td>E326</td> */}
               </tr>
               <tr>
-                <td><Link href="https://www.instagram.com/paulmcevoyguitars/">Paul McEvoy Guitars</Link></td>
-                <td>acoustics</td>
-                <td>E326</td>
+                <td><Link href="https://www.phoenixguitarco.com/">Phoenix Guitar Co. </Link></td>
+                {/* <td>acoustics</td>
+                <td>E326</td> */}
               </tr>
               <tr>
-                <td><Link href="https://powerselectricguitars.com/">Powers Electric Guitars</Link></td>
-                <td>electrics</td>
-                <td>101</td>
-              </tr>
-              <tr>
-                <td><Link href="https://reywasguitars.com/">Reywas Guitars</Link></td>
-                <td>Electrics,  guitars and bass</td>
-                <td>E330</td>
+                <td><Link href="https://www.instagram.com/po_sans_guitars/reels/">Po Sans Guitars</Link></td>
+                {/* <td>electrics</td>
+                <td>101</td> */}
               </tr>
               <tr>
                 <td><Link href="https://robertrobinsonguitars.com">R. Robinson Guitars</Link></td>
-                <td>acoustics</td>
-                <td>E328</td>
+                {/* <td>acoustics</td>
+                <td>E328</td> */}
               </tr>
               <tr>
-                <td><Link href="https://www.riviereguitars.com/about">Rivière Guitars</Link></td>
-                <td>acoustics</td>
-                <td>E328</td>
-              </tr>
-              <tr>
-                <td><Link href="https://ryansukes.com/">Ryan&apos;s Ukes</Link></td>
-                <td>acoustics</td>
-                <td>Harris Gallery</td>
-              </tr>
-              <tr>
-                <td><Link href="https://www.saersguitars.com">Saers Guitars</Link></td>
-                <td>acoustics</td>
-                <td>Harris Gallery</td>
+                <td><Link href="http://www.krautguitars.com/">Raymond Kraut Guitars</Link></td>
+                {/* <td>acoustics</td>
+                <td>E328</td> */}
               </tr>
               <tr>
                 <td><Link href="https://santacruzguitar.com/">Santa Cruz Guitars</Link></td>
-                <td>acoustics</td>
-                <td>E123</td>
+                {/* <td>acoustics</td>
+                <td>E123</td> */}
               </tr>
               <tr>
                 <td><Link href="https://www.seufguitars.com/">Seuf Guitars</Link></td>
-                <td>electrics</td>
-                <td>E324</td>
+                {/* <td>electrics</td>
+                <td>E324</td> */}
               </tr>
               <tr>
                 <td><Link href="https://shockthefox.com">Shock the Fox</Link></td>
-                <td>electrics</td>
-                <td>E330</td>
-              </tr>
-              <tr>
-                <td><Link href="https://www.shure.com/en-US">Shure </Link></td>
-                <td>microphones</td>
-                <td>E326</td>
+                {/* <td>electrics</td>
+                <td>E330</td> */}
               </tr>
               <tr>
                 <td><Link href="https://www.silktone.org/">Silktone</Link></td>
-                <td>pedals, amps, electronics</td>
-                <td>E324</td>
+                {/* <td>pedals, amps, electronics</td>
+                <td>E324</td> */}
               </tr>
               <tr>
-                <td><Link href="https://www.stewmac.com/">StewMac</Link></td>
-                <td>supplies, tonewoods</td>
-                <td>E128</td>
+                <td><Link href="http://skytopguitars.com/">Skytop Guitars</Link></td>
+                {/* <td>supplies, tonewoods</td>
+                <td>E128</td> */}
               </tr>
               <tr>
                 <td><Link href="https://www.summerschoolelectronics.com/">Summer School Electronics</Link></td>
-                <td>pedals</td>
-                <td>E324</td>
-              </tr>
-              <tr>
-                <td><Link href="https://www.heinonenguitars.com">T. Drew Heinonen Guitars</Link></td>
-                <td>acoustics</td>
-                <td>E328</td>
+                {/* <td>pedals</td>
+                <td>E324</td> */}
               </tr>
               <tr>
                 <td><Link href="https://www.taylorguitars.com/">Taylor Guitars</Link></td>
-                <td>acoustics</td>
-                <td>101</td>
+                {/* <td>acoustics</td>
+                <td>101</td> */}
               </tr>
               <tr>
                 <td><Link href="https://fetellierguitars.com/">Tellier Guitars</Link></td>
-                <td>acoustics</td>
-                <td>E328</td>
+                {/* <td>acoustics</td>
+                <td>E328</td> */}
               </tr>
               <tr>
-                <td><Link href="https://wadeguitar.com/">Travis D. Wade Guitars</Link></td>
-                <td>acoustics</td>
-                <td>Harris Gallery</td>
+                <td><Link href="http://tonerangerguitars.com/">Tone Ranger</Link></td>
+                {/* <td>acoustics</td>
+                <td>Harris Gallery</td> */}
+              </tr>
+              <tr>
+                <td><Link href="http://www.toneslabs.com/">ToneSlabs Music LLC</Link></td>
+                {/* <td>acoustics</td>
+                <td>Harris Gallery</td> */}
               </tr>
               <tr>
                 <td><Link href="https://www.two-rock.com/">Two-Rock Amplifiers</Link></td>
-                <td>amplifiers</td>
-                <td>E221</td>
+                {/* <td>amplifiers</td>
+                <td>E221</td> */}
               </tr>
-              <tr>
-                <td><Link href="https://www.uberfrankguitars.com">Uberfrank</Link></td>
-                <td>electrics</td>
-                <td>E330</td>
-              </tr>
+              
               <tr>
                 <td><Link href="https://www.volticelectronicdevices.com/">Voltic Electronic Devices</Link></td>
-                <td>pedals</td>
-                <td>E324</td>
-              </tr>
-              <tr>
-                <td><Link href="http://www.warmaudio.com/">Warm Audio</Link></td>
-                <td>electronics, mics</td>
-                <td>E128</td>
-              </tr>
-              <tr>
-                <td><Link href="https://www.mlive.com/news/grand-rapids/2011/08/guitar_maker_crafts_special_in.html">West Michigan Guitar Workshop</Link></td>
-                <td>acoustics</td>
-                <td>E328</td>
+                {/* <td>pedals</td>
+                <td>E324</td> */}
               </tr>
               <tr>
                 <td><Link href="https://www.woolsonsoundcraft.com/">Woolson Soundcraft</Link></td>
-                <td>acoustics</td>
-                <td>E328</td>
+                {/* <td>acoustics</td>
+                <td>E328</td> */}
               </tr>
               <tr>
                 <td><Link href="https://usa.yamaha.com/products/musical_instruments/guitars_basses/index.html">Yamaha</Link></td>
-                <td>electric guitars</td>
-                <td>E322</td>
+                {/* <td>electric guitars</td>
+                <td>E322</td> */}
+              </tr>
+              <tr>
+                <td><Link href="http://zimnicki.com/">Zimnicki Guitars</Link></td>
+                {/* <td>electric guitars</td>
+                <td>E322</td> */}
               </tr>
             </tbody>
           </table>
@@ -630,7 +404,7 @@ export default function Luthiers() {
 
 
           <h4 className="tracking-wider font-aurochs font-normal uppercase text-3xl mt-6">Fretboard Summit Merch</h4>
-          <p className="text-xl">All the merch available at the 2024 Fretboard Summit!</p>
+          <p className="text-xl">All the merch available at the 2025 Fretboard Summit!</p>
 
 
 
