@@ -48,7 +48,7 @@ export default function Luthiers() {
 
 
           <h3 className="font-bold text-lg leading-relaxed mt-8">Confirmed 2025 Exhibitors</h3>
-          <p className="italic text-sm leading-relaxed">Updated: May 1, 2025</p>
+          <p className="italic text-sm leading-relaxed">Updated: May 29, 2025</p>
           <p className="italic text-sm leading-relaxed">* asterisk indicates sponsor</p>
 
 
@@ -68,6 +68,26 @@ export default function Luthiers() {
                 <td>E330</td> */}
               </tr>
               <tr>
+                <td><Link href="http://www.aberdeenguitars.com/">Aberdeen Guitars</Link></td>
+                {/* <td>electrics</td>
+                <td>E330</td> */}
+              </tr>
+              <tr>
+                <td><Link href="https://www.applegateguitars.com/">Applegate Guitars</Link></td>
+                {/* <td>electrics</td>
+                <td>E330</td> */}
+              </tr>
+              <tr>
+                <td><Link href="http://baranikguitars.com/">Baranik Guitars</Link></td>
+                {/* <td>electrics</td>
+                <td>E330</td> */}
+              </tr>
+              <tr>
+                <td class="font-bold"><Link href="https://beardguitars.com/">Beard Guitars*</Link></td>
+                {/* <td>acoustics</td>
+                <td>E124</td> */}
+              </tr>
+              <tr>
                 <td><Link href="https://blackbobbin.com/">Black Bobbin</Link></td>
                 {/* <td>electrics</td>
                 <td>E330</td> */}
@@ -83,12 +103,22 @@ export default function Luthiers() {
                 <td>E124</td> */}
               </tr>
               <tr>
+                <td><Link href="https://www.bradcorneyguitars.com/">Brad Corney Guitars</Link></td>
+                {/* <td>acoustics</td>
+                <td>102</td> */}
+              </tr>
+              <tr>
                 <td><Link href="https://www.brianwatsonguitars.com/">Brian Watson Guitars</Link></td>
                 {/* <td>acoustics</td>
                 <td>102</td> */}
               </tr>
               <tr>
                 <td><Link href="https://browneamps.com/">Browne Amplification</Link></td>
+                {/* <td>pedals</td>
+                <td>E324</td> */}
+              </tr>
+              <tr>
+                <td><Link href="http://www.cardinalinstruments.com/">Cardinal Instruments</Link></td>
                 {/* <td>pedals</td>
                 <td>E324</td> */}
               </tr>
@@ -99,12 +129,22 @@ export default function Luthiers() {
                 <td>E330</td> */}
               </tr>
               <tr>
+                <td><Link href="https://cedarcreekcases.com/">Cedar Creek Custom Case Shoppe</Link></td>
+                {/* <td>mandolins</td>
+                <td>102</td> */}
+              </tr>
+              <tr>
                 <td><Link href="https://cedarmtm.com">Cedar Mountain Mandolins</Link></td>
                 {/* <td>mandolins</td>
                 <td>102</td> */}
               </tr>
               <tr>
                 <td><Link href="http://chasebliss.com">Chase Bliss</Link></td>
+                {/* <td>pedals</td>
+                <td>E324</td> */}
+              </tr>
+              <tr>
+                <td><Link href="https://www.cirrusguitars.com/">Cirrus Guitars</Link></td>
                 {/* <td>pedals</td>
                 <td>E324</td> */}
               </tr>
@@ -128,9 +168,19 @@ export default function Luthiers() {
                 {/* <td>strings</td>
                 <td></td> */}
               </tr>
+              <tr>
+                <td><Link href="http://www.epcustompickups.com">EP Custom Pickups</Link></td>
+                {/* <td>strings</td>
+                <td></td> */}
+              </tr>
               
               <tr>
                 <td><Link href="https://flammangguitars.com">Flammang Guitars</Link></td>
+                {/* <td>acoustics</td>
+                <td>213</td> */}
+              </tr>
+              <tr>
+                <td class="font-bold"><Link href="https://gallagherguitar.com/">Gallagher Guitars*</Link></td>
                 {/* <td>acoustics</td>
                 <td>213</td> */}
               </tr>
@@ -147,6 +197,11 @@ export default function Luthiers() {
               </tr>
               <tr>
                 <td><Link href="https://en.guitaresjuliensublet.com/">Guitares Julien Sublet</Link></td>
+                {/* <td>acoustics</td>
+                <td>102</td> */}
+              </tr>
+              <tr>
+                <td><Link href="http://www.heinonenguitars.com/">Heinonen Guitars</Link></td>
                 {/* <td>acoustics</td>
                 <td>102</td> */}
               </tr>
@@ -171,13 +226,33 @@ export default function Luthiers() {
                 <td>E126</td> */}
               </tr>
               <tr>
+                <td><Link href="http://www.iuliusguitars.com/">Iulius Guitars</Link></td>
+                {/* <td>acoustics</td>
+                <td>Harris Gallery</td> */}
+              </tr>
+              <tr>
                 <td><Link href="https://www.jrieck.com/">J. Rieck Lutherie</Link></td>
+                {/* <td>acoustics</td>
+                <td>Harris Gallery</td> */}
+              </tr>
+              <tr>
+                <td><Link href="https://www.kollguitars.com/">Koll Guitar Co.</Link></td>
                 {/* <td>acoustics</td>
                 <td>Harris Gallery</td> */}
               </tr>
               
               <tr>
                 <td><Link href="https://www.larochelutherie.com/">Laroche Lutherie</Link></td>
+                {/* <td>electrics</td>
+                <td>E330</td> */}
+              </tr>
+              <tr>
+                <td><Link href="http://www.anthonylattanze.com/">Lattanze Guitars</Link></td>
+                {/* <td>electrics</td>
+                <td>E330</td> */}
+              </tr>
+              <tr>
+                <td><Link href="http://www.leavittlutherie.com/">Leavitt Stringed Instruments</Link></td>
                 {/* <td>electrics</td>
                 <td>E330</td> */}
               </tr>
@@ -192,12 +267,27 @@ export default function Luthiers() {
                 <td>E330</td> */}
               </tr>
               <tr>
+                <td><Link href="http://www.madsenamps.com/">Madsen Amplification</Link></td>
+                {/* <td>acoustic</td>
+                <td>E220</td> */}
+              </tr>
+              <tr>
                 <td class="font-bold"><Link href="https://www.martinguitar.com/">Martin Guitar Co*</Link></td>
                 {/* <td>acoustic</td>
                 <td>E220</td> */}
               </tr>
               <tr>
+                <td><Link href="http://mathispointguitars.com/">Mathis Point Guitars</Link></td>
+                {/* <td>electrics</td>
+                <td>E330</td> */}
+              </tr>
+              <tr>
                 <td><Link href="https://www.motanderguitars.com">Motander Guitars</Link></td>
+                {/* <td>electrics</td>
+                <td>E330</td> */}
+              </tr>
+              <tr>
+                <td><Link href="http://mtstrings.com/">MT Strings</Link></td>
                 {/* <td>electrics</td>
                 <td>E330</td> */}
               </tr>
@@ -253,6 +343,11 @@ export default function Luthiers() {
                 <td>E328</td> */}
               </tr>
               <tr>
+                <td><Link href="https://robbinsguitar.com/">Robbins Guitar Company</Link></td>
+                {/* <td>acoustics</td>
+                <td>E328</td> */}
+              </tr>
+              <tr>
                 <td class="font-bold"><Link href="https://santacruzguitar.com/">Santa Cruz Guitars*</Link></td>
                 {/* <td>acoustics</td>
                 <td>E123</td> */}
@@ -293,12 +388,22 @@ export default function Luthiers() {
                 <td>E328</td> */}
               </tr>
               <tr>
+                <td><Link href="http://www.tlguitars.com/">TL Guitars</Link></td>
+                {/* <td>acoustics</td>
+                <td>E328</td> */}
+              </tr>
+              <tr>
                 <td><Link href="http://tonerangerguitars.com/">Tone Ranger</Link></td>
                 {/* <td>acoustics</td>
                 <td>Harris Gallery</td> */}
               </tr>
               <tr>
                 <td><Link href="http://www.toneslabs.com/">ToneSlabs Music LLC</Link></td>
+                {/* <td>acoustics</td>
+                <td>Harris Gallery</td> */}
+              </tr>
+              <tr>
+                <td><Link href="http://www.wadeguitar.com/">Travis D. Wade Guitars</Link></td>
                 {/* <td>acoustics</td>
                 <td>Harris Gallery</td> */}
               </tr>

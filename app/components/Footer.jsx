@@ -199,6 +199,25 @@ export const Footer = () => {
               height={150}
             />
           </a>
+          <a className="flex mx-1 sm:mx-2 sm:ml-8 self-center image-sm" href="https://beardguitars.com/" >
+            <Image
+              className="mix-blend-multiply image-sm"
+              src="/beard-guitar-logo.png"
+              alt="Beard Guitars"
+              width={60}
+              height={150}
+            />
+          </a>
+          <a className="flex mx-1 sm:mx-2 sm:ml-8 self-center image-sm" href="https://gallagherguitar.com/" >
+            <Image
+              className="mix-blend-multiply image-sm"
+              src="/GallagherGuitars_Web.png"
+              alt="Gallagher Guitars"
+              width={60}
+              height={150}
+            />
+          </a>
+          
         </div>
 
         <div className="flex justify-center pt-4 px-2 image-container">
