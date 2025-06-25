@@ -92,7 +92,7 @@ export default function Tickets() {
             <div className="flex justify-evenly w-full sm:flex-col sm:flex sm:w-2/4 sm:p-4 px-4">
               
               <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#757f7e] text-[#F0E5D1] cursor-not-allowed">
-              Available Spring 2025<br/>Fri, Aug 22
+              Available Summer 2025<br/>Fri, Aug 22
               </button>
               {/* <Link href=" https://www.oldtownschool.org/events/event.php?event_id=9001" className="text-center">
                 <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1] ">
@@ -112,7 +112,7 @@ export default function Tickets() {
             </div>
             <div className="flex justify-evenly w-full sm:flex-col sm:flex sm:w-2/4 m-0 sm:p-4 px-4 mt-2 sm:mt-0">
                 <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#757f7e] text-[#F0E5D1] cursor-not-allowed">
-                Available Spring 2025<br/>Sat, Aug 23
+                Available Summer 2025<br/>Sat, Aug 23
                 </button>
               {/* <Link href=" https://www.oldtownschool.org/events/event.php?event_id=9002" className="text-center">
                 <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#2B6F6D] hover:bg-[#4DB3AC] text-[#F0E5D1] cursor-not-allowed">
@@ -180,7 +180,7 @@ export default function Tickets() {
           </h2>
 
           <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#757f7e] text-[#F0E5D1]  cursor-not-allowed">
-          Available Spring 2025
+          Available Summer 2025
           </button>
           
 
