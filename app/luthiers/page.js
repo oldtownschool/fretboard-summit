@@ -160,6 +160,11 @@ export default function Luthiers() {
                 <td>E324</td> */}
               </tr>
               <tr>
+                <td><Link href="https://www.chicagoluthiers.com/">Chicago Luthiers Workshop</Link></td>
+                {/* <td>Acoustic guitars</td>
+                <td>E324</td> */}
+              </tr>
+              <tr>
                 <td><Link href="https://www.cirrusguitars.com/">Cirrus Guitars</Link></td>
                 {/* <td>pedals</td>
                 <td>E324</td> */}
@@ -406,6 +411,11 @@ export default function Luthiers() {
                 <td>E328</td> */}
               </tr>
               <tr>
+                <td><Link href="https://robbinsguitar.com/">Ryan’s Ukes</Link></td>
+                {/* <td>ukuleles</td>
+                <td>E328</td> */}
+              </tr>
+              <tr>
                 <td><Link href="https://www.samguidryguitars.com/">Sam Guidry Guitars</Link></td>
                 {/* <td>acoustics</td>
                 <td>E328</td> */}
@@ -423,6 +433,11 @@ export default function Luthiers() {
               <tr>
                 <td><Link href="https://shockthefox.com">Shock the Fox</Link></td>
                 {/* <td>electrics</td>
+                <td>E330</td> */}
+              </tr>
+              <tr>
+                <td><Link href="https://www.shure.com/en-US">Shure</Link></td>
+                {/* <td>microphones</td>
                 <td>E330</td> */}
               </tr>
               <tr>
@@ -466,7 +481,7 @@ export default function Luthiers() {
                 <td>Harris Gallery</td> */}
               </tr>
               <tr>
-                <td><Link href="http://tonerangerguitars.com/">Tone Ranger</Link></td>
+                <td><Link href="http://tonerangerguitars.com/">Tone Ranger Guitars</Link></td>
                 {/* <td>acoustics</td>
                 <td>Harris Gallery</td> */}
               </tr>
