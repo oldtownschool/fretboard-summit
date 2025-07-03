@@ -16,14 +16,15 @@ export default function Music() {
 
         
         <div className="my-10 w-full max-w-5xl items-center sm:flex sm:flex-col px-4 lg:px-14 text-center">
-          <h2 className="mt-10 font-aurochs text-[#F0E5D1] uppercase text-6xl tracking-wider ">
+          {/* <h2 className="mt-10 font-aurochs text-[#F0E5D1] uppercase text-6xl tracking-wider ">
             Live Performances
-          </h2>
+          </h2> */}
           <h4 className="mt-10 font-aurochs text-[#F0E5D1] uppercase text-3xl tracking-wider">
-          This was our 2024 lineup of concerts, stay tuned for an announcement on who will be joining us in 2025!
-          </h4>
+          A great lineup awaits! Stay tuned for an announcement on who will be joining us on stage for this year's festival on July 21, 2025.          </h4>
         </div>
-        <div className="block sm:flex sm:flex-row mt-10 max-w-5xl p-2 sm:p-0">
+
+
+        {/* <div className="block sm:flex sm:flex-row mt-10 max-w-5xl p-2 sm:p-0">
           <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-0 sm:m-2 p-4 bg-[#A4CCDA] text-center text-[#322D25]">
             <div className="flex justify-center">
               <Image
@@ -38,10 +39,6 @@ export default function Music() {
             Saturday, August 24
               <br />
               <span className="font-bold">Colin Hay</span>
-              {/* <br />{" "}
-              <span className="font-light tracking-wider">
-                feat. Jack Broadbent
-              </span> */}
             </h2>
           </div>
           <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-0 mt-4 sm:m-2 p-4 bg-[#F0E5D1] text-center text-[#322D25]">
@@ -58,15 +55,11 @@ export default function Music() {
             Sunday, August 25
               <br />
               <span className="font-bold">Valerie June</span>
-              {/* <br />{" "}
-              <span className="font-light tracking-wider">
-               PLUS JACK BROADBENT
-              </span> */}
             </h2>
           </div>
-        </div>
+        </div> */}
 
-        <div className="block sm:flex sm:flex-row max-w-5xl p-2 sm:p-0">
+        {/* <div className="block sm:flex sm:flex-row max-w-5xl p-2 sm:p-0">
           
           <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-0 sm:m-2 p-4 bg-[#F0E5D1] text-center text-[#322D25]">
             <div className="flex justify-center">
@@ -88,9 +81,10 @@ export default function Music() {
               </span>
             </h2>
             <p></p>
-          </div>
+          </div> 
+
           <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-0 sm:m-2 mt-4 p-4 bg-[#A4CCDA] text-center text-[#322D25]">
-            {/* <div className="mt-6 sm:mt-0 flex items-stretch justify-center">
+            <div className="mt-6 sm:mt-0 flex items-stretch justify-center">
               <Image
                 className="hidden sm:flex mx-2"
                 src="/border.png"
@@ -112,7 +106,7 @@ export default function Music() {
                 width={10}
                 height={400}
               />
-            </div> */}
+            </div> 
             <div className="flex justify-center">
               <Image
                 src="/JoeHenry_FBS_960x640.jpg"
@@ -134,18 +128,13 @@ export default function Music() {
           </div>
         </div>
 
-        {/* <h3 className="my-4 px-4 text-3xl tracking-wider font-aurochs text-[#F0E5D1]">
-          Also...Jeff Parker / Via Mardot / Jake Eddy &amp; more to be
-          announced.
-        </h3> */}
-
         <a href="/tickets" className="text-center my-10">
           <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1]">
             Buy Tickets
           </button>
         </a>
 
-        {/* <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#A4CCDA] text-[#322D25]">
+        <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#A4CCDA] text-[#322D25]">
           <div className="flex justify-center">
             <Image
               src="/JormaKaukonen.jpeg"
@@ -181,7 +170,7 @@ export default function Music() {
           </Link>
         </div> */}
 
-        <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#F0E5D1] text-[#322D25]">
+        {/* <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#F0E5D1] text-[#322D25]">
           <h2 className="tracking-wider font-aurochs font-normal uppercase text-5xl text-center">
             Performances
           </h2>
@@ -300,27 +289,20 @@ export default function Music() {
           </div>
 
 
-        </div>
+        </div> */}
 
-        <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#A4CCDA] text-[#322D25]">
+        {/* <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#A4CCDA] text-[#322D25]">
           <h2 className="tracking-wider font-aurochs font-normal uppercase text-5xl text-center">
             WORKSHOPS, SHOWCASES, &amp; MORE
           </h2>
           <p className="font-bold text-xl mt-6">
             The Summit is three days of fun and inspiration for guitar fanatics. In addition to the great concerts listed above, we&apos;ll have additional concerts taking place in both theaters, hourly workshops and master classes, demo rooms, and Summit-exclusive parties.
           </p>
-          {/* <p className="font-bold text-xl mt-4">
-            We&apos;re happy to announce that 2023 performer Adam Levy is returning for 2024 to perform in his duo with Rich Hinman; bluegrass phenom Jake Eddy is coming back; as are numerous other Summit favorites. We&apos;ll be adding more performance updates soon - follow us on <Link className="underline" href="https://www.instagram.com/fretboardsummit">Instagram</Link> and <Link className="underline" href="https://www.facebook.com/fretboardsummit">Facebook</Link> for more information.
-          </p> */}
           <p className="font-bold text-xl mt-4">
             Remember - All-access passholders get access to all our breakout sessions and master classes featuring fantastic players, passionate luthiers, and authorities from across the industry.
           </p>
 
-          {/* <h2 className="my-4 tracking-wider font-aurochs font-normal uppercase text-3xl text-center">
-            2025 Workshop Lineup Coming Soon!
-          </h2> */}
-
-          {/* <h3 className="font-bold text-2xl mt-6 mb-2">WORKSHOPS</h3>
+          <h3 className="font-bold text-2xl mt-6 mb-2">WORKSHOPS</h3>
           <p>
             2023 workshops include sessions by Bill Frisell, Via Mardot, Bob
             Minner, Wayne &amp; EJ Henderson, TJ Thompson, Mark Stutman, Paul
@@ -360,9 +342,9 @@ export default function Music() {
           </p>
 
           <h3 className="font-bold text-2xl mt-6 mb-2">EVENING JAM ROOMS!</h3>
-          <p>For both acoustic and electric guitar lovers!</p>*/}
+          <p>For both acoustic and electric guitar lovers!</p>
 
-        </div> 
+        </div>  */}
 
         {/* <div className="mt-10 mb-20 w-full max-w-5xl items-center sm:flex sm:flex-col px-4 lg:px-14 text-center">
           <h2 className="mb-4 text-[#4DB3AC] font-bold uppercase text-xl tracking-widest ">
