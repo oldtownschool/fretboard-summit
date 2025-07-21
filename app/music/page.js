@@ -20,7 +20,7 @@ export default function Music() {
             Live Performances
           </h2> */}
           <h4 className="mt-10 font-aurochs text-[#F0E5D1] uppercase text-3xl tracking-wider">
-          A great lineup awaits! Stay tuned for an announcement on who will be joining us on stage for this year&apos;s festival on July 21, 2025.          </h4>
+          A great lineup awaits! Stay tuned for an announcement on who will be joining us on stage for this year&apos;s festival on July 23, 2025.</h4>
         </div>
 
 
