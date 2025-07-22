@@ -147,7 +147,7 @@ export default function Schedule() {
           <p className="text-lg leading-relaxed" >Just for three-day passholders: Kick off the Summit and learn about late-breaking schedule additions with the Old Town School and the Fretboard Journal teams. We&apos;ll also get an exclusive Chicago premiere of Kalamazoo Gals, the short documentary helmed by longstanding FJ contributor John Thomas on the women who built Gibson &quot;Banner&quot; guitars during WWII. (Maurer Hall - West)</p>
           
           <p className="font-bold mt-4 leading-relaxed" >1:00pm Luthier & Exhibitor Showcase Preview Opens</p>
-          <p className="text-lg leading-relaxed" >Exclusive preview of the Summit lutherie showcase just for three-day attendees. Scattered between the Old Town School of Folk Music's two buildings, Summit goers can find nearly 80 brands and solo builders showcasing their latest wares, including several prototypes and product launches. Meet some of the legends of the gear industry. Demo/listening rooms are available if you need a quiet space to try things out…or an amp to plug things in. (Both OTSFM buildings) </p>
+          <p className="text-lg leading-relaxed" >Exclusive preview of the Summit lutherie showcase just for three-day attendees. Scattered between the Old Town School of Folk Music&apo;s two buildings, Summit goers can find nearly 80 brands and solo builders showcasing their latest wares, including several prototypes and product launches. Meet some of the legends of the gear industry. Demo/listening rooms are available if you need a quiet space to try things out…or an amp to plug things in. (Both OTSFM buildings) </p>
           
           <h3 className="font-aurochs mt-10 uppercase text-xl sm:text-2xl tracking-wider leading-relaxed" >Workshops  </h3>
           
@@ -193,7 +193,7 @@ export default function Schedule() {
           <p className="text-lg leading-relaxed" >As one of the best bluegrass musicians around and a co-founder of Tone Slabs, mandolin player Frank Solivan knows a thing or two about picks. In this interactive session, Frank will be pairing space-age materials with some delicious, exotic woods and wire. Come see what all the fuss is about with high-end picks.
           (Szold Hall - East)</p>
           
-          <p className="font-bold mt-4 leading-relaxed" >11am Panel Discussion: The Luthier's Tool Box: A Conversation with Jamie Etherington & Friends</p>
+          <p className="font-bold mt-4 leading-relaxed" >11am Panel Discussion: The Luthier&apos;s Tool Box: A Conversation with Jamie Etherington & Friends</p>
           <p className="text-lg leading-relaxed" >Last year, the Fretboard Journal published Jamie Etherington&apos;s The Luthier&apos;s Tool Box book. It was a collection of stories featuring luthiers and their one favorite tool. In this session, we&apos;ll hear from Jamie - all the way from Australia - and some of the builders featured in the book. Copies will be available for purchase.  
           (Maurer Hall - West)</p>
           
@@ -204,7 +204,7 @@ export default function Schedule() {
           <p className="text-lg leading-relaxed" >Stop by the Old Town School Resource Center for $1 records, $3 CDs, $3 DVDs, plus rare and collectables priced as marked. All of the proceeds from the sale support programming and collection development at the Resource Center. All items for sale are donations that are either duplicates or are better accessed through other outlets. Cards & cash welcome  (Basement Lobby - West)
           </p>
           
-          <p className="font-bold mt-4 leading-relaxed" >1pm Workshop: Sean McGowan's The Holistic Guitarist: Improve Your Practice Routine (and Health)  </p>
+          <p className="font-bold mt-4 leading-relaxed" >1pm Workshop: Sean McGowan&apos;s The Holistic Guitarist: Improve Your Practice Routine (and Health)  </p>
           <p className="text-lg leading-relaxed" >The Holistic Guitarist workshop is for every guitar player - regardless of style, age, ability - looking to improve their practice with creative approaches, inspiration, and organization while learning to avoid common repetitive motion injuries. We will explore ergonomics, posture, hearing health, as well as mental health strategies to create more sustainable and fulfilling practice sessions and performances. No guitar is required for this workshop. (Maurer Hall - West)</p>
           
           <p className="font-bold mt-4 leading-relaxed" >1pm DIY Recording Hacks 102: a Room, a Guitar, and a Dream with Engineer Taylor Goss</p>
@@ -214,13 +214,13 @@ export default function Schedule() {
           <p className="font-bold mt-4 leading-relaxed" >1pm - 3pm Rugby Comes to Chicago: Wayne Henderson&apos;s Picking Room</p>
           <p className="text-lg leading-relaxed" >Rugby, Virginia&apos;s Wayne Henderson is, quite simply, a national treasure. He&apos;s one of the best bluegrass pickers around and one of the greatest storytellers. He also happens to craft some of the most coveted acoustic guitars and mandolins on Earth. On Friday and Saturday, you can sit in with Wayne and play a tune or just pick his brain on what makes a great guitar. (Mabie Gallery)</p>
 
-          <p className="font-bold mt-4 leading-relaxed" >2pm Masterclass: "The 3%:" Folkway Music's Mark Stutman Leads an All-Star Panel on What Makes A Great Acoustic </p>
+          <p className="font-bold mt-4 leading-relaxed" >2pm Masterclass: "The 3%:" Folkway Music&apos;s Mark Stutman Leads an All-Star Panel on What Makes A Great Acoustic </p>
           <p className="text-lg leading-relaxed" >As the owner of Folkway Music and one of the most exacting repair people around, Mark Stutman thinks about guitars like few others. In this session, he rounds up some of his peers to talk about the infinitesimal details that make a good acoustic instrument a great instrument. (Maurer Hall - West)</p>
 
           <p className="font-bold mt-4 leading-relaxed" >2pm Workshop: Using Song Prompts with Anna Vogelzang</p>
           <p className="text-lg leading-relaxed" >Some of today&apos;s best songwriters use song prompts to craft their material. In this workshop, Chicago-based singer-songwriter Anna Vogelzang creates the Fretboard Summit&apos;s first-ever song club and walks us through the process. Our 2025 prompt is “Refraction.” Write a song based on that or just hear what others do.  (Szold Hall - East)</p>
 
-          <p className="font-bold mt-4 leading-relaxed" >3pm Workshop: Charlie Hunter & Ella Feingold: The Making of 'Different Strokes for Different Folks' </p>
+          <p className="font-bold mt-4 leading-relaxed" >3pm Workshop: Charlie Hunter & Ella Feingold: The Making of &apos;Different Strokes for Different Folks&apos; </p>
           <p className="text-lg leading-relaxed" >Different Strokes for Different Folks, the 2025 collaboration between Charlie Hunter and Ella Feingold, is one of our favorite records of the year. Hear these two guitar icons perform from the record and discuss its making. (Maurer Hall - West)</p>
 
           <p className="font-bold mt-4 leading-relaxed" >4pm Oral History: Twenty Years of the Fretboard Journal: A Tell-All with Jason Verlinde</p>
@@ -271,12 +271,12 @@ export default function Schedule() {
           (Maurer Hall - West)</p>
 
           <p className="font-bold mt-4 leading-relaxed" >11am Workshop: Roots Guitar from the African Continent with Nathaniel Braddock</p>
-          <p className="text-lg leading-relaxed" >Fretboard Journal contributor Nathaniel Braddock has spent twenty years traveling in Africa and collaborating with musicians from across the continent. In this workshop, he will share music from the continent's many fingerstyle acoustic guitar traditions. We'll look at music from Ghana, Mali, Congo, and beyond, touching on the styles of palmwine, guitare seche, desert blues, makossa, and more. Tablature provided. Bring a capo. (Szold Hall - East)</p>
+          <p className="text-lg leading-relaxed" >Fretboard Journal contributor Nathaniel Braddock has spent twenty years traveling in Africa and collaborating with musicians from across the continent. In this workshop, he will share music from the continent&apos;s many fingerstyle acoustic guitar traditions. We&apos;ll look at music from Ghana, Mali, Congo, and beyond, touching on the styles of palmwine, guitare seche, desert blues, makossa, and more. Tablature provided. Bring a capo. (Szold Hall - East)</p>
 
           <p className="font-bold mt-4 leading-relaxed" >12pm-4pm Record Sale Pop-Up</p>
           <p className="text-lg leading-relaxed" >Stop by the Old Town School Resource Center for $1 records, $3 CDs, $3 DVDs, plus rare and collectables priced as marked. All of the proceeds from the sale support programming and collection development at the Resource Center. All items for sale are donations that are either duplicates or are better accessed through other outlets. Cards & cash welcome  (Basement Lobby - West)</p>
 
-          <p className="font-bold mt-4 leading-relaxed" >1pm Fretboard Journal Live Podcast: LA's Session Music Heroes </p>
+          <p className="font-bold mt-4 leading-relaxed" >1pm Fretboard Journal Live Podcast: LA&apos;s Session Music Heroes </p>
           <p className="text-lg leading-relaxed" >The guitar playing of Dylan Day, Harrison Whitford and Ryan Richter have been heard on some of the most innovative recordings coming out of Los Angeles, including albums by Dijon, Phoebe Bridgers and others. In this live podcast, Fretboard Journal publisher Jason Verlinde interviews this trio about their backgrounds, the tones they&apos;re achieving, the unique gear they&apos;re using, what&apos;s inspiring them today and more. (Maurer Hall - West)</p>
 
           <p className="font-bold mt-4 leading-relaxed" >1pm Masterclass: DADGAD with John Smith </p>

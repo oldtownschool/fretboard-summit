@@ -242,7 +242,7 @@ export default function Music() {
           />
 
           <p className="mt-4">
-          Dave Hill is a comedian, writer, actor, and guitar player originally from Cleveland but now living in New York City. "Cult New York comedian Hill is a hugely talented funnyman.” - Time Out London. : Dave Hill presents a guitar-centric comedy show filled with jokes, stories and so many guitar solos your face is gonna melt off, probably. Feeling brave? He’ll also be rating audience pedal boards (bring a pic!)
+          Dave Hill is a comedian, writer, actor, and guitar player originally from Cleveland but now living in New York City. &quot;Cult New York comedian Hill is a hugely talented funnyman.&quot; - Time Out London. : Dave Hill presents a guitar-centric comedy show filled with jokes, stories and so many guitar solos your face is gonna melt off, probably. Feeling brave? He&apos;ll also be rating audience pedal boards (bring a pic!)
           </p>
 
 
