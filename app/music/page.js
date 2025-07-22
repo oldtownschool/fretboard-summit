@@ -16,11 +16,11 @@ export default function Music() {
 
         
         <div className="my-10 w-full max-w-5xl items-center sm:flex sm:flex-col px-4 lg:px-14 text-center">
-          {/* <h2 className="mt-10 font-aurochs text-[#F0E5D1] uppercase text-6xl tracking-wider ">
+          <h2 className="mt-10 font-aurochs text-[#F0E5D1] uppercase text-6xl tracking-wider ">
             Live Performances
-          </h2> */}
+          </h2>
           <h4 className="mt-10 font-aurochs text-[#F0E5D1] uppercase text-3xl tracking-wider">
-          A great lineup awaits! Stay tuned for an announcement on who will be joining us on stage for this year&apos;s festival on July 23, 2025.</h4>
+          The 2025 Lineup is here! Check out the amazing artists joining us on stage throughout the weekend.</h4>
         </div>
 
 
@@ -57,9 +57,9 @@ export default function Music() {
               <span className="font-bold">Valerie June</span>
             </h2>
           </div>
-        </div> */}
+        </div> 
 
-        {/* <div className="block sm:flex sm:flex-row max-w-5xl p-2 sm:p-0">
+        <div className="block sm:flex sm:flex-row max-w-5xl p-2 sm:p-0">
           
           <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-0 sm:m-2 p-4 bg-[#F0E5D1] text-center text-[#322D25]">
             <div className="flex justify-center">
@@ -84,7 +84,7 @@ export default function Music() {
           </div> 
 
           <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-0 sm:m-2 mt-4 p-4 bg-[#A4CCDA] text-center text-[#322D25]">
-            <div className="mt-6 sm:mt-0 flex items-stretch justify-center">
+             <div className="mt-6 sm:mt-0 flex items-stretch justify-center">
               <Image
                 className="hidden sm:flex mx-2"
                 src="/border.png"
@@ -106,7 +106,7 @@ export default function Music() {
                 width={10}
                 height={400}
               />
-            </div> 
+            </div>
             <div className="flex justify-center">
               <Image
                 src="/JoeHenry_FBS_960x640.jpg"
@@ -168,9 +168,9 @@ export default function Music() {
               Buy Tickets
             </button>
           </Link>
-        </div> */}
+        </div> 
 
-        {/* <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#F0E5D1] text-[#322D25]">
+        <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#F0E5D1] text-[#322D25]">
           <h2 className="tracking-wider font-aurochs font-normal uppercase text-5xl text-center">
             Performances
           </h2>
@@ -289,9 +289,9 @@ export default function Music() {
           </div>
 
 
-        </div> */}
+        </div>
 
-        {/* <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#A4CCDA] text-[#322D25]">
+        <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#A4CCDA] text-[#322D25]">
           <h2 className="tracking-wider font-aurochs font-normal uppercase text-5xl text-center">
             WORKSHOPS, SHOWCASES, &amp; MORE
           </h2>
@@ -344,9 +344,9 @@ export default function Music() {
           <h3 className="font-bold text-2xl mt-6 mb-2">EVENING JAM ROOMS!</h3>
           <p>For both acoustic and electric guitar lovers!</p>
 
-        </div>  */}
+        </div>
 
-        {/* <div className="mt-10 mb-20 w-full max-w-5xl items-center sm:flex sm:flex-col px-4 lg:px-14 text-center">
+        <div className="mt-10 mb-20 w-full max-w-5xl items-center sm:flex sm:flex-col px-4 lg:px-14 text-center">
           <h2 className="mb-4 text-[#4DB3AC] font-bold uppercase text-xl tracking-widest ">
             More ticket packages available soon
           </h2>

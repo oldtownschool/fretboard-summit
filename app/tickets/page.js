@@ -62,7 +62,7 @@ export default function Tickets() {
           </h3>
           <div className="flex flex-row justify-evenly mt-6">
             <a href="https://www.oldtownschool.org/concerts/2025/08-21-2025-fretboard-summit-2025/" className="text-center">
-              <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#2B6F6D] text-[#F0E5D1]">
+              <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#2B6F6D] hover:bg-[#4DB3AC] text-[#F0E5D1]">
               Buy 3-day pass
               </button>
             </a>
@@ -91,14 +91,14 @@ export default function Tickets() {
           <div className="block sm:flex sm:flex-row  max-w-5xl sm:p-0">
             <div className="flex justify-evenly w-full sm:flex-col sm:flex sm:w-2/4 sm:p-4 px-4">
               
-              <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#757f7e] text-[#F0E5D1] cursor-not-allowed">
+              {/* <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#757f7e] text-[#F0E5D1] cursor-not-allowed">
               Available Summer 2025<br/>Fri, Aug 22
-              </button>
-              {/* <Link href=" https://www.oldtownschool.org/events/event.php?event_id=9001" className="text-center">
+              </button> */}
+              <Link href="https://www.oldtownschool.org/concerts/2025/08-21-2025-fretboard-summit-2025/" className="text-center">
                 <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1] ">
                   Buy Day Pass: Fri, Aug 22
                 </button>
-              </Link> */}
+              </Link>
               {/* <ul className="list-disc ml-4 mt-6">
                 <li>Friday Highlights Include:</li>
                 <li className="ml-4">JHS Live: the Germanium Chef competition featuring Robert Keeley versus Heather Brown</li>
@@ -111,14 +111,14 @@ export default function Tickets() {
               </ul> */}
             </div>
             <div className="flex justify-evenly w-full sm:flex-col sm:flex sm:w-2/4 m-0 sm:p-4 px-4 mt-2 sm:mt-0">
-                <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#757f7e] text-[#F0E5D1] cursor-not-allowed">
+                {/* <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#757f7e] text-[#F0E5D1] cursor-not-allowed">
                 Available Summer 2025<br/>Sat, Aug 23
-                </button>
-              {/* <Link href=" https://www.oldtownschool.org/events/event.php?event_id=9002" className="text-center">
-                <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#2B6F6D] hover:bg-[#4DB3AC] text-[#F0E5D1] cursor-not-allowed">
+                </button> */}
+              <Link href="https://www.oldtownschool.org/concerts/2025/08-21-2025-fretboard-summit-2025/" className="text-center">
+                <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#2B6F6D] hover:bg-[#4DB3AC] text-[#F0E5D1]">
                 Buy Day Pass: Sat, Aug 23
                 </button>
-              </Link> */}
+              </Link>
               {/* <ul className="list-disc ml-4 mt-6">
                 <li>Saturday Highlights Include:</li>
                 <li className="ml-4">Tommy Emmanuel</li>
@@ -179,10 +179,16 @@ export default function Tickets() {
             OTHER TICKET PACKAGES:
           </h2>
 
-          <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#757f7e] text-[#F0E5D1]  cursor-not-allowed">
+          {/* <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#757f7e] text-[#F0E5D1]  cursor-not-allowed">
           Available Summer 2025
-          </button>
+          </button> */}
           
+
+          <p className="text-white text-lg mt-2 mb-2">
+            <span className="font-bold">Exhibitor Showcase Only Coming Soon</span><br/>
+            Demo and shop for gear from over 80 luthiers and exhibitors.<br/>
+            <span className="italic">(This pass does not include admission to Summit workshops, clinics, or concerts.)</span>
+          </p>
 
           {/* <p className="text-white text-lg mt-2 mb-2">
             <span className="font-bold">Luthier & Gear Showcase Passes Only</span><br/>
@@ -204,28 +210,29 @@ export default function Tickets() {
           <p className="text-white text-lg italic">
             Tickets will also be available at the door
           </p>
+          */}
 
           <p className="text-white text-lg mt-6">
             <span className="font-bold">Individual Concert Tickets</span>
           </p>
 
           <div className="w-full sm:w-3/4">
-            <Link href="https://www.oldtownschool.org/concerts/2024/08-23-2024-blake-mills/" className="text-center">
-              <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#2B6F6D] hover:bg-[#4DB3AC] text-[#F0E5D1]">
-               Friday
+            <Link href="https://www.oldtownschool.org/concerts/" className="text-center">
+              <button className="my-2 tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#2B6F6D] hover:bg-[#4DB3AC] text-[#F0E5D1]">
+              Lyle Lovett Concert Only
               </button>
             </Link>
-            <Link href="https://www.oldtownschool.org/concerts/2024/08-24-2024-colin-hay/" className="text-center sm:ml-1">
-              <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#2B6F6D] hover:bg-[#4DB3AC] text-[#F0E5D1]  ml-1">
-               Saturday
+            <Link href="https://www.oldtownschool.org/concerts/" className="text-center sm:ml-1">
+              <button className="my-2 tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#2B6F6D] hover:bg-[#4DB3AC] text-[#F0E5D1]">
+              Cesar Rosas & Chi-Town Playboys Concert Only
               </button>
             </Link>
-            <Link href="https://www.oldtownschool.org/concerts/2024/08-25-2024-valerie-june/" className="text-center ml-0 sm:ml-1">
-              <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#2B6F6D] hover:bg-[#4DB3AC] text-[#F0E5D1] mt-2 sm:mt-0 ml-1">
-                Sunday
+            <Link href="https://www.oldtownschool.org/concerts/" className="text-center ml-0 sm:ml-1">
+              <button className="my-2 tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#2B6F6D] hover:bg-[#4DB3AC] text-[#F0E5D1]">
+              Dave Hill Concert Only
               </button>
             </Link>
-          </div> */}
+          </div>
 
         </div>
       </main>
