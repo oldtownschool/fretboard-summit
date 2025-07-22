@@ -214,7 +214,7 @@ export default function Schedule() {
           <p className="font-bold mt-4 leading-relaxed" >1pm - 3pm Rugby Comes to Chicago: Wayne Henderson&apos;s Picking Room</p>
           <p className="text-lg leading-relaxed" >Rugby, Virginia&apos;s Wayne Henderson is, quite simply, a national treasure. He&apos;s one of the best bluegrass pickers around and one of the greatest storytellers. He also happens to craft some of the most coveted acoustic guitars and mandolins on Earth. On Friday and Saturday, you can sit in with Wayne and play a tune or just pick his brain on what makes a great guitar. (Mabie Gallery)</p>
 
-          <p className="font-bold mt-4 leading-relaxed" >2pm Masterclass: "The 3%:" Folkway Music&apos;s Mark Stutman Leads an All-Star Panel on What Makes A Great Acoustic </p>
+          <p className="font-bold mt-4 leading-relaxed" >2pm Masterclass: &quot;The 3%:&quot; Folkway Music&apos;s Mark Stutman Leads an All-Star Panel on What Makes A Great Acoustic </p>
           <p className="text-lg leading-relaxed" >As the owner of Folkway Music and one of the most exacting repair people around, Mark Stutman thinks about guitars like few others. In this session, he rounds up some of his peers to talk about the infinitesimal details that make a good acoustic instrument a great instrument. (Maurer Hall - West)</p>
 
           <p className="font-bold mt-4 leading-relaxed" >2pm Workshop: Using Song Prompts with Anna Vogelzang</p>
