@@ -49,7 +49,7 @@ export default function Schedule() {
 
         {/* <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#A4CCDA] text-[#322D25]"> */}
         <div className="py-10 max-w-5xl w-full my-10 p-4 bg-[#A4CCDA] text-[#322D25]">
-          <h3 className="sm:px-16 font-aurochs mt-2 uppercase text-3xl sm:text-4xl tracking-wider leading-relaxed mb-8" >Please note: this is the 2024 Fretboard Summit schedule for reference, more details about 2025 will be available in Spring 2025 or earlier</h3>
+          {/* <h3 className="sm:px-16 font-aurochs mt-2 uppercase text-3xl sm:text-4xl tracking-wider leading-relaxed mb-8" >Please note: this is the 2024 Fretboard Summit schedule for reference, more details about 2025 will be available in Spring 2025 or earlier</h3> */}
 
           <div className="sm:px-16">
             {/* <p className="font-bold text-2xl">The Summit isn&apos;t just about shopping. You&apos;ll be able to meet some of the most inspiring performers and makers in the guitar universe. All-access passholders get access to three days of world-class concerts, master classes, music workshops, oral histories, podcast tapings, demo rooms, and parties created just for the Fretboard Summit attendees. </p>
@@ -66,15 +66,15 @@ export default function Schedule() {
 
             <p className="font-bold text-2xl mt-4">Join us for a once-in-a-lifetime weekend.</p>
 
-            <p className="font-bold text-2xl mt-4 mb-8">– Jason Verlinde, Fretboard Journal</p>
+            <p className="font-bold text-2xl mt-4 mb-8">- Jason Verlinde, Fretboard Journal</p>
             
           </div>
 
           
 
 
-        {/* commented out  6/21/2024 */}
-          <Slider {...settings}>
+          {/* commented out  7/22/2025 */}
+          {/* <Slider {...settings}>
           <div>
               <Image src="/FBS24-Friday-A3.png" width={600} height={600} alt="Line Up Schedule fri 1"/>
             </div>
@@ -87,7 +87,7 @@ export default function Schedule() {
             <div>
               <Image src="/FBS24-Info-D3.png" width={600} height={600} alt="Line Up Schedule Info" />
             </div>
-          </Slider>
+          </Slider> */}
         </div>
 
 
@@ -127,203 +127,200 @@ export default function Schedule() {
         <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#A4CCDA] text-[#322D25]">
 
 
-          <p className="italic text-sm leading-relaxed">Updated: August 20, 2024</p>
-          <p className="font-bold text-sm leading-relaxed">Fretboard Summit 2024: Full Course Descriptions </p>
+          <p className="italic text-sm leading-relaxed">Updated: July 22, 2025</p>
+          <p className="font-bold text-sm leading-relaxed">Fretboard Summit 2025: Full Schedule & Descriptions</p>
           
 
           
 
-          <h3 className="font-aurochs mt-2 uppercase text-3xl sm:text-4xl tracking-wider leading-relaxed" >Friday, August 23, 2024 </h3>
+          <h3 className="font-aurochs mt-2 uppercase text-3xl sm:text-4xl tracking-wider leading-relaxed" >Thursday, August 21, 2025</h3>
 
-          <p className="italic mb-4  text-lg" >Exclusive Content for 3-Day Passholders Only<br/> Check-in begins at 9am. (Times subject to change)</p>
+          <p className="italic mb-4  text-lg" >Exclusive Content for 3-Day Passholders Only<br/> Check-in begins at 10am. (Times subject to change)</p>
 
-         
+          <p className="font-bold mt-4 leading-relaxed" >Workshops, Master Classes, Hands-On & More!
+          </p>
+          <p className="italic text-lg leading-relaxed" >Note: Summit workshops, clinics, interviews and concerts are available to All-Access Passholders only. </p>
 
-          <p className="font-bold mt-4 leading-relaxed" >10:00am Opening Remarks </p>
-          <p className="text-lg leading-relaxed" >Old Town School of Folk Music&apos;s Jim Newcomb and the Fretboard Journal&apos;s Jason Verlinde kick off the Summit with this welcome session exclusively for three-day attendees and exhibitors. We&apos;ll quickly go over Summit announcements, late-breaking developments, and possibly a surprise or two. (Maurer Hall - West) </p>
+          <p className="font-bold mt-4 leading-relaxed" >10am-12pm Registration / Check In</p>
+
+          <p className="font-bold mt-4 leading-relaxed" >12:00pm Opening Remarks </p>
+          <p className="text-lg leading-relaxed" >Just for three-day passholders: Kick off the Summit and learn about late-breaking schedule additions with the Old Town School and the Fretboard Journal teams. We&apos;ll also get an exclusive Chicago premiere of Kalamazoo Gals, the short documentary helmed by longstanding FJ contributor John Thomas on the women who built Gibson &quot;Banner&quot; guitars during WWII. (Maurer Hall - West)</p>
           
-          <p className="font-bold mt-4 leading-relaxed" >11:00am Workshop: John Leventhal on the Art of Accompaniment </p>
-          <p className="text-lg leading-relaxed" >Six-time Grammy winner John Leventhal joins us for a can&apos;t-miss workshop on the Art of Accompaniment. John&apos;s resume is peerless: In addition to being a prolific songwriter and producer, he&apos;s backed the likes of Bob Dylan, Jackson Browne, Rodney Crowell and Willie Nelson on guitar. In 2024, he released his long-overdue solo album, Rumble Strip. (Maurer Hall - West)</p>
+          <p className="font-bold mt-4 leading-relaxed" >1:00pm Luthier & Exhibitor Showcase Preview Opens</p>
+          <p className="text-lg leading-relaxed" >Exclusive preview of the Summit lutherie showcase just for three-day attendees. Scattered between the Old Town School of Folk Music's two buildings, Summit goers can find nearly 80 brands and solo builders showcasing their latest wares, including several prototypes and product launches. Meet some of the legends of the gear industry. Demo/listening rooms are available if you need a quiet space to try things out…or an amp to plug things in. (Both OTSFM buildings) </p>
           
-          <p className="font-bold mt-4 leading-relaxed" >12:00pm Light Lunch - (For all attendees, sponsors, exhibitors)</p>
+          <h3 className="font-aurochs mt-10 uppercase text-xl sm:text-2xl tracking-wider leading-relaxed" >Workshops  </h3>
           
-          <p className="font-bold mt-4 leading-relaxed" >12:00pm Break Through the Noise: Pedals for Guitarists with Charles Kim</p>
-          <p className="text-lg leading-relaxed" >There are a dizzying array of pedal and sound options for new guitarists. Break through the noise in this workshop. We&apos;ll go over different pedal and sound styles including Distortion, Overdrive, Fuzz, Delay, Reverb, Chorus, Loopers, and more. You&apos;ll walk away with an understanding of which pedals to start with, the gear that suits your playing style, and how to arrange your effects for optimal performance. We&apos;ll also go over common mistakes to avoid when assembling your pedal board. (Mabie Gallery - West)</p>
+          <p className="font-bold mt-4 leading-relaxed" >2pm Leo Fender: The Pre-Tweed Years 1909-1947</p> 
+          <p className="text-lg leading-relaxed" >Fender historian Terry Foster (Fender: The Golden Age 1946-1970) makes his debut appearance at the Summit! Foster will walk us through Leo Fender&apos;s early history and influences leading up to his work as a radio repairman, inventor, founder of K&F and the Fender Electric Instrument Company. Including many unseen photos and pieces of Fender history. Presentation followed by Q&A. (Maurer Hall - West)</p>
           
-          <p className="font-bold mt-4 leading-relaxed" >1:00pm Luthier & Exhibitor Showcase Preview Opens</p> 
-          <p className="text-lg leading-relaxed" >Exclusive preview of the Summit lutherie showcase just for three-day attendees. Scattered between the Old Town School of Folk Music&apos;s two buildings, Summit goers can find nearly 80 brands and solo builders showcasing their latest wares. Meet some of the legends of the gear industry and be on the lookout for numerous instrument models launching at this year&apos;s Summit. Demo/listening rooms are available if you need a quiet space to try things out. (Both OTSFM buildings) </p>
+          <p className="font-bold mt-4 leading-relaxed" >2pm Clinic: Mamie Minch: Introduction to Hill Country Grooves</p>
+          <p className="text-lg leading-relaxed" >Luthier and musician Mamie Minch is a staple of the New York City blues scene. In this workshop, she&apos;ll walk us through the hypnotic beauty of Hill Country blues technique, as made popular by Mississippi Fred McDowell and others.
+          (Szold Hall - East)</p>
           
-          <p className="font-bold mt-4 leading-relaxed" >1:00pm The Truth About Vintage Amps Demo Room </p>
-          <p className="text-lg leading-relaxed" >The community behind the Truth About Vintage Amps podcast share some of their favorite tube amps for anyone to try out. Come see what all the vacuum tube fuss is about…and try out some guitars by Grez and others. (B-1, West building). Runs through 5pm.</p>
+          <p className="font-bold mt-4 leading-relaxed" >4pm Funk Guitar Through the Ages with Ella Feingold</p>
+          <p className="text-lg leading-relaxed" >The legendary Ella Feingold plays guitar for Erykah Badu, Bruno Mars and Silk Sonic, Bootsy Collins and others. She&apos;s also one of the internet&apos;s best teachers. In this Summit exclusive, she&apos;ll offer a funk and rhythm guitar master class covering the playing on James Brown, Motown records and more. We&apos;ll dissect the different types of guitar arranging through the eras. Attendees do not need to bring a guitar. (Maurer Hall - West)</p>
           
-          <p className="font-bold mt-4 leading-relaxed" >1:00pm Vintage Acoustics Tell-All with TJ Thompson and Mark Stutman </p>
-          <p className="text-lg leading-relaxed" >TJ Thompson and Mark Stutman (Folkway Music) are two of the world&apos;s most acclaimed acoustic guitar repair people. They also think about things differently than your average luthier. In this annual double-session, TJ and Mark field your questions on the magic (and quirks) found inside vintage Martin and Gibson flattops. (Maurer Hall - West)</p>
+
+
+
+          <h3 className="font-aurochs mt-10 uppercase text-xl sm:text-2xl tracking-wider leading-relaxed" >Featured Concerts </h3>
+          <h4 className="font-aurochs uppercase text-xl underline tracking-wider">Maurer Hall </h4>
           
-          <p className="font-bold mt-4 leading-relaxed" >1:00pm Catfish Keith Performance </p>
-          <p className="text-lg leading-relaxed" >SCGC presents a very special performance featuring blues singer-songwriter and guitarist Catfish Keith. Keith combines deep string bending and harp, skank, and sweep harmonics to create a percolating palette of guitar sounds. (Szold Hall - East)</p>
+          <p className="font-bold mt-4 leading-relaxed" >8pm Cesar Rosas & the Chi-Town Playboys</p>
+          <p className="font-bold leading-relaxed" >Charlie Hunter Plays Blind Blake</p>
+          <p className="text-lg leading-relaxed mb-8" >We kick off night one of the Summit with a double-bill we know you&apos;ll love. Acclaimed guitarist Charlie Hunter offers up a first-of-its-kind solo set featuring the music of blues great Blind Blake. After Hunter, Los Lobos&apos; Cesar Rosas performs with his Chicago-based Chi-Town Playboys band. You won&apos;t want to miss it. 
+          </p>
           
-          <p className="font-bold mt-4 leading-relaxed" >2:00pm Q&A with Thomas Ripsam, Martin CEO</p>
-          <p className="text-lg leading-relaxed" >Catch a live Fretboard Journal Podcast taping featuring Martin CEO Thomas Ripsam. Ripsam, who succeeded Chris Martin IV in 2021, will field questions on sustainability, Martin&apos;s future, its lineup of products, the challenges (and joys) of running a legacy brand, and much more. (Szold Hall - East)</p>
-          
-          <p className="font-bold mt-4 leading-relaxed" >2:00pm Workshop: Vishnu R, Carnatic / Indian Jazz Demonstration</p>
-          <p className="text-lg leading-relaxed" >Catch Carnatic/Indian jazz composer and musician Vishnu R perform on his custom-made Navtar, a one-of-a-kind, 9-string instrument he designed combining distinct fretted, fretless, and 12-string harp elements together, enabling a unique Indian meets Jazz Fusion sound. (Mabie Gallery - West) </p>
-          
-          <p className="font-bold mt-4 leading-relaxed" >3:00pm The Future of Vintage: Buying and Selling Trends in 2024 and Beyond</p>
-          <p className="text-lg leading-relaxed" >Three of the most successful and respected vintage brick & mortar stores are attending this year&apos;s Summit: Emerald City Guitars, Elderly Instruments, and Mass Street Music. During this panel discussion, we&apos;ll hear about their strategies for landing (and selling) instruments, the buying trends they&apos;ve noticed on the frontlines, and how they&apos;re utilizing social media to thrive. (Maurer Hall - West)</p>
-          
-          <p className="font-bold mt-4 leading-relaxed" >3:00pm The Relaunch of Gallagher Guitars </p>
-          <p className="text-lg leading-relaxed" >Gallagher Guitars&apos; owner David Mathis talks about the monumental task of restarting one of the most storied acoustic guitar brands of all time, Gallagher Guitars. In addition to sharing insights into where the guitar company is headed, there will be plenty of music played, too. (Szold Hall - East)</p>
-          
-          <p className="font-bold mt-4 leading-relaxed" >3:00pm Hands-On: Aviate Audio Tone Designer Demo</p>
-          <p className="text-lg leading-relaxed" >Aviate Audio hosts a workshop about designing audio signal chains…with a prize at the end! During this workshop, guitarists can use Aviate&apos;s Multiverse to create their own preset tones, which will be featured at the Aviate Audio Summit demo station all weekend long. Summit goers will pick their favorites and, on Sunday, the competitor with the most votes takes home a Multiverse pedal! (Mabie Gallery - West) </p>
-          
-          <p className="font-bold mt-4 leading-relaxed" >4:00pm Concert: Sofia Wolfson</p>
-          <p className="text-lg leading-relaxed" >NY-based singer-songwriter performs music from her highly-recommended 2024 album, Imposing on a Hometown. Wolfson is a rising talent to watch, was a recent guest on the Fretboard Journal Podcast, and is one of our magazine&apos;s newest contributors. Come see what all the fuss is about. (Maurer Hall - West)</p>
-          
-          <p className="font-bold mt-4 leading-relaxed" >4:00pm Break Out of Your Rut With Guitar Habit Science by Tony Polecastro</p>
-          <p className="text-lg leading-relaxed" >Learn how to leverage the foundational (and simple) concepts of habit science to break out of your guitar rut and be sure that it never happens again. In this workshop we&apos;ll apply concepts and frameworks from leading habit science figures (James Clear, Charles Duhigg, BJ Fogg, and others) directly to your guitar routine and the goals you have. After looking at your guitar routine and goals through this new &quot;habit lens,&quot; you&apos;ll find that with some subtle tweaks and new perspectives your new guitar habit will result in continual progress and be sustainable for you and your unique life situation. (Szold Hall - East)</p>
-          
-          <p className="font-bold mt-4 leading-relaxed" >5:00pm Happy Hour </p>
-          <p className="text-lg leading-relaxed" >Have a drink, relax and connect with fellow Summit attendees, exhibitors, luthiers, and speakers. (Mabie Gallery - West/Courtyard)</p>
-          
-          <p className="font-bold mt-4 leading-relaxed" >Friday Evening Concerts 
-          8:00pm Joe Henry & Blake Mills </p>
-          <p className="text-lg leading-relaxed" >A Summit exclusive double-bill featuring two of the world&apos;s most acclaimed singer-songwriters/producers/guitar fanatics, Joe Henry and Blake Mills. (Maurer Hall - West)</p>
-          
-          <p className="font-bold mt-4 leading-relaxed" >8:00pm Jake Eddy&apos;s Fretboard Opry </p>
-          <p className="text-lg leading-relaxed" >Bluegrass maverick Jake Eddy makes his third appearance at the Fretboard Summit with some help from guitarists Jordan Tice and Cameron Knowler. Brought to you by Yamaha Guitars. (Szold Hall - East)</p>
-          
+
+
 
 
           <div className="bg-gray-200 h-2 w-full mt-6"></div>
 
-          <h3 className="font-aurochs mt-10 uppercase text-3xl sm:text-4xl tracking-wider leading-relaxed" >Saturday, August 24, 2024 </h3>
+          <h3 className="font-aurochs mt-10 uppercase text-3xl sm:text-4xl tracking-wider leading-relaxed" >Friday, August 22, 2025</h3>
           <p className="italic mb-4  text-lg" >Check-in begins at 9:30am. <br/> Workshops & Exhibitor Showcase begins at 10am. (Times subject to change)</p>
 
-          <p className="font-bold mt-4 leading-relaxed" >10:00am Exhibitor Showcase Opens </p>
-          <p className="text-lg leading-relaxed" >Our 80-exhibitor lutherie showcase features a wide array of electric and acoustic guitarmakers, pedal brands, amp companies and more. Spread throughout Old Town School of Folk Music&apos;s two buildings, there&apos;s something for every guitar collector. (Both buildings)</p>
+          <p className="font-bold mt-4 leading-relaxed" >10am - 5pm Lutherie Showcase </p>
+          <p className="text-lg leading-relaxed" >The Fretboard Summit features one of the finest collections of handmade, high-end and boutique gear under one roof. Peruse both Old Town School buildings to demo and shop for gear from nearly 100 luthiers, brands, and gear makers. Can&apos;t make the rest of the Summit activities? We&apos;ll have Lutherie Showcase-only tickets available at the door on Friday and Saturday for those who just want to shop guitars. 
+          (Both OTSFM buildings) </p>
           
-          <p className="font-bold mt-4 leading-relaxed" >10:00am Truth About Vintage Amps Room</p>
-          <p className="text-lg leading-relaxed" >The community behind the Truth About Vintage Amps podcast share some of their favorite tube amps for anyone to try out. Come see what all the vacuum tube fuss is about…and try out some guitars by Grez and others. (B-1, West building). Runs through 5pm.</p>
+          <p className="font-bold mt-4 leading-relaxed" >10am Evan Gluck&apos;s Guitar Roundtable 
+          </p>
+          <p className="text-lg leading-relaxed" >As a NYC-based guitar repair legend, Evan Gluck has seen it all. In what has become an annual (and often hilarious) session, Gluck and a select group of friends talk about the craft of guitar and field questions from left-field about all things guitar and guitar repair. (Maurer Hall - West)</p>
           
-          <p className="font-bold mt-4 leading-relaxed" >10:00am Live Podcast: Joe Henry and Blake Mills</p> 
-          <p className="text-lg leading-relaxed" >Joe Henry is not only one of our favorite artists, he&apos;s one of our favorite thinkers. Watch him and Blake Mills discuss music, art, production and more in this live taping of a Fretboard Journal Podcast. At our very first Summit in 2015, Joe had an unforgettable podcast chat with David Crosby; we&apos;re excited to have him put his interview hat on again. (Maurer Hall - West) </p>
+          <p className="font-bold mt-4 leading-relaxed" >10am Pick Tasting with Frank Solivan and Tone Slabs </p> 
+          <p className="text-lg leading-relaxed" >As one of the best bluegrass musicians around and a co-founder of Tone Slabs, mandolin player Frank Solivan knows a thing or two about picks. In this interactive session, Frank will be pairing space-age materials with some delicious, exotic woods and wire. Come see what all the fuss is about with high-end picks.
+          (Szold Hall - East)</p>
           
-          <p className="font-bold mt-4 leading-relaxed" >10:00am The True Story of the Martin Dreadnought Guitar with Greig Hutton</p>
-          <p className="text-lg leading-relaxed" >Famed guitar historian and author (Hutton&apos;s Guide to Martin Guitars) Greig Hutton sheds light on the fascinating events that led to one of the most iconic guitar shapes of all-time, Martin&apos;s dreadnought. Martin fans should also note that Hutton will also be in the front lobby throughout the Summit weekend sharing his Martin shipping records database. Just bring your vintage instrument&apos;s serial number and hear all about it. He also has Gibson shipping records from 1935-1953. (Szold Hall - East)</p>
+          <p className="font-bold mt-4 leading-relaxed" >11am Panel Discussion: The Luthier's Tool Box: A Conversation with Jamie Etherington & Friends</p>
+          <p className="text-lg leading-relaxed" >Last year, the Fretboard Journal published Jamie Etherington&apos;s The Luthier&apos;s Tool Box book. It was a collection of stories featuring luthiers and their one favorite tool. In this session, we&apos;ll hear from Jamie - all the way from Australia - and some of the builders featured in the book. Copies will be available for purchase.  
+          (Maurer Hall - West)</p>
           
-          <p className="font-bold mt-4 leading-relaxed" >11:00am Guitar Repair Roundtable</p>
-          <p className="text-lg leading-relaxed" >Five of the world&apos;s best guitar repairpeople - Evan Gluck, Mark Stutman, Tyler Geske, TJ Thompson, and Trevor Healy– field your questions on all things guitar repair and restoration. (Maurer Hall - West)</p>
+          <p className="font-bold mt-4 leading-relaxed" >11am Workshop: Songwriting with Sofia Wolfson</p>
+          <p className="text-lg leading-relaxed" >Last year&apos;s Fretboard Summit songwriting workshop with singer-songwriter Sofia Wolfson was such a hit that we&apos;re bringing it back. Come crack the code on your first song, no guitar needed. (Szold Hall - East)</p>
           
-          <p className="font-bold mt-4 leading-relaxed" >11:00am Songwriting Workshop with Sofia Wolfson</p>
-          <p className="text-lg leading-relaxed" >Sofia Wolfson is a writer, singer-songwriter, and educator currently based in New York. During this class, she&apos;ll give even the most apprehensive songwriter some tools to get you going. Freewriting, song structure, and more will be discussed. (Szold Hall - East)</p>
+          <p className="font-bold mt-4 leading-relaxed" >12pm-4pm Record Sale Pop-Up </p>
+          <p className="text-lg leading-relaxed" >Stop by the Old Town School Resource Center for $1 records, $3 CDs, $3 DVDs, plus rare and collectables priced as marked. All of the proceeds from the sale support programming and collection development at the Resource Center. All items for sale are donations that are either duplicates or are better accessed through other outlets. Cards & cash welcome  (Basement Lobby - West)
+          </p>
           
-          <p className="font-bold mt-4 leading-relaxed" >11:00am Andy Powers Jam </p>
-          <p className="text-lg leading-relaxed" >Celebrate the release of the 500th Powers Electric by hearing some music from polymath and Taylor Guitars CEO Andy Powers. (Mabie Gallery - West)</p>
+          <p className="font-bold mt-4 leading-relaxed" >1pm Workshop: Sean McGowan's The Holistic Guitarist: Improve Your Practice Routine (and Health)  </p>
+          <p className="text-lg leading-relaxed" >The Holistic Guitarist workshop is for every guitar player - regardless of style, age, ability - looking to improve their practice with creative approaches, inspiration, and organization while learning to avoid common repetitive motion injuries. We will explore ergonomics, posture, hearing health, as well as mental health strategies to create more sustainable and fulfilling practice sessions and performances. No guitar is required for this workshop. (Maurer Hall - West)</p>
           
-          <p className="font-bold mt-4 leading-relaxed" >12pm Brown Bag Pop-Up </p>
-          <p className="text-lg leading-relaxed" >Broonzy, Lennon, and Their Fine Guitars (West Building, Resource Center) </p>
+          <p className="font-bold mt-4 leading-relaxed" >1pm DIY Recording Hacks 102: a Room, a Guitar, and a Dream with Engineer Taylor Goss</p>
+          <p className="text-lg leading-relaxed" >So you have some mics, you can hit “record,” and you&apos;re itching to make music history. Now what? The workshop - featuring Fretboard Summit artists - will dive into the philosophies and practicalities of capturing performances, experimenting wildly, and having fun. </p>
+          <p className="text-lg leading-relaxed" >Led by Taylor Goss, an engineer from Shangri-La and Jackson Browne&apos;s Groove Masters studio. (Szold Hall - East)</p>
           
-          <p className="font-bold mt-4 leading-relaxed" >1:00pm Chicago&apos;s Influence on Gibson with Mat Koehler </p>
-          <p className="text-lg leading-relaxed" >Chicago Musical Instruments bought Gibson in 1944, but even before, there were strong ties between Kalamazoo and the Windy City which resulted in some game-changing innovations. The CMI sales team influenced where Gibson chose to innovate, but behind the scenes, two legendary Chicago design firms pushed Gibson well outside their comfort zone to create some of the most famous models and features ever. Join Mat Koehler, Gibson&apos;s VP of Product, for an enlightening history lesson. (Maurer Hall - West)</p>
-          
-          <p className="font-bold mt-4 leading-relaxed" >1:00pm Women in Lutherie: EJ Henderson and Sarah Weinberg</p>
-          <p className="text-lg leading-relaxed" >North Carolina-based luthier EJ Henderson is currently mentoring Tel Aviv&apos;s Sarah Weinberg as part of the global Women in Lutherie program (@womeninlutherie). During this session, we&apos;ll hear about the program, their thoughts on how to inspire young women into the craft of building, and more. (Szold Hall - East)</p>
-          
-          <p className="font-bold mt-4 leading-relaxed" >2:00pm Luthier on Luthier: Michael Millard (Froggy Bottom)</p>
-          <p className="text-lg leading-relaxed" >Watch a live taping of Michael Bashkin&apos;s popular Luthier on Luthier Podcast with special guest, Michael Millard of Froggy Bottom Guitars. A true legend in the world of custom acoustic guitars, Millard recently announced that – after 55 years of building – he may be retiring soon. Hear about Froggy Bottom&apos;s past, present and future in what will surely be a memorable conversation. (Maurer Hall - West)</p>
-          
-          <p className="font-bold mt-4 leading-relaxed" >2:00pm Pedal Makers Roundtable, hosted by Phillip Carter (40 Watt Podcast)</p>
-          <p className="text-lg leading-relaxed" >A mini-Summit featuring a handful of the coolest pedal builders around: JHS, Chase Bliss, Madsen Amplification, R2R Electric, Union Tube & Transistor, and Benson Amplifiers. How&apos;s the pedal business today? What inspires them? Are there too many pedals? We&apos;ll find out. (Szold Hall - East)</p>
-          
-          <p className="font-bold mt-4 leading-relaxed" >2:00pm Fingerstyle Guitar Workshop with Michael J. Miles </p>
-          <p className="text-lg leading-relaxed" >Elevate your fingerstyle game with Old Town School of Folk Music&apos;s very own Michael J. Miles. (Mabie Gallery - West)</p>
-          
-          <p className="font-bold mt-4 leading-relaxed" >3:00pm AMA with Bob Taylor, Founder of Taylor Guitars </p>
-          <p className="text-lg leading-relaxed" >A Summit perennial: Bob Taylor (Taylor Guitars) once again fields your questions about, well, anything. (Maurer Hall - West)</p>
-          
-          <p className="font-bold mt-4 leading-relaxed" >3:00pm The JHS Pedals&apos; Fretboard Summit Science Fair</p>
-          <p className="text-lg leading-relaxed" >Josh Scott of JHS Pedals hosts the always entertaining Fretboard Summit Science Fair, where the Summit&apos;s most forward-thinking minds show off their latest inventions. Patterned after your old elementary school science fair, this laid-back double-session is filled with discoveries and laughs. (Szold Hall - East) </p>
-          
-          <p className="font-bold mt-4 leading-relaxed" >3:00pm Elements of Style: John Fahey and American Primitivism</p>
-          <p className="text-lg leading-relaxed" >Detroit-based educator and performer Nick Schillace leds a workshop on John Fahey and American Primitivism. John Fahey sorted through and applied the influences that brought him to music and the guitar, and in doing so created a unique and often imitated voice. Taking a closer look at Fahey&apos;s music helps to better understand this process and in doing so will hopefully help us understand our own playing. Students should have an intermediate understanding of fingerpicking with an alternating bass technique. (Mabie Gallery - West)</p>
-          
-          <p className="font-bold mt-4 leading-relaxed" >4:00pm Happy Hour Concert: Ron Artis II</p>
-          <p className="text-lg leading-relaxed" >Hawaiian-born Ron Artis II (Ron Artis Family Band) does it all – rock, folk, jazz, blues, and soul. Watch this Santa Cruz Guitar Co. recording artist who Jack Johnson declared “an amazing voice.” (Maurer Hall - West)</p>
-          
-          <p className="font-bold mt-4 leading-relaxed" >4:00pm DIY and Home Recording Hacks with Taylor Goss </p>
-          <p className="text-lg leading-relaxed" >Taylor Goss is an up-and-coming engineer who has worked at both Jackson Browne&apos;s famed Groovemasters studio, as well as Rick Rubin&apos;s Shangri-La. In this exclusive session, he&apos;ll share some DIY recording tips and hacks that you can use at home. We&apos;ll also get hands-on with the products showcased at the Summit by Warm Audio and RODE. (Mabie Gallery - West)</p>
-          
-          <p className="font-bold mt-4 leading-relaxed" >5:00pm Listening Party: Cameron Knowler&apos;s &apos;CRK&apos; </p>
-          <p className="text-lg leading-relaxed" >Frequent Fretboard Journal contributor Cameron Knowler is about to release a wildly inventive acoustic album called &apos;CRK.&apos; In this session, he&apos;ll preview some tracks from the album, along with some of the rare vintage acoustics that he used to make it. (Mabie Gallery - West)</p>
-          
-          <h3 className="font-aurochs mt-10 uppercase text-xl sm:text-2xl tracking-wider leading-relaxed" >Saturday Evening Concerts </h3>
-          <p className="font-bold mt-4 leading-relaxed" >8:00pm Colin Hay (opening: Nathan Graham) </p>
-          <p className="text-lg leading-relaxed" >Chicago&apos;s Nathan Graham was so great at last year&apos;s Fretboard Summit, we had to have him back. Then we&apos;ll get an intimate set from Colin Hay (Men at Work), a consummate guitarhead and one of the finest songwriters and storytellers alive today. (Maurer Hall - West)</p>
-          
-          <p className="font-bold mt-4 leading-relaxed" >8:00pm Ryan Richter/G. Weller/Adam Levy & Rich Hinman </p>
-          <p className="text-lg leading-relaxed" >Head on over to Szold Hall - East to hear some of the most adventurous music you&apos;ll find at this year&apos;s Summit. Having played steel and guitar for the likes of Ryan Beatty, Lizzy McAlpine, Dijon and others, LA&apos;s Ryan Richter will perform his recent 15-minute long debut album in its entirety. We&apos;ll then be treated to a short set from G. Weller, the elusive subject of the Fretboard Journal&apos;s most confusing podcast to date. Last, but not least, we close the party out with Adam Levy & Rich Hinman. (Szold Hall - East)</p>
-          
-          <p className="font-bold mt-4 leading-relaxed" >10:30pm Molly Miller Jam</p>
-          <p className="text-lg leading-relaxed" >Dr. Molly Miller, Andy Powers and friends close out the night back at the Mabie Gallery, for those of you who just can&apos;t sleep. (Mabie Gallery - West)</p>
+          <p className="font-bold mt-4 leading-relaxed" >1pm - 3pm Rugby Comes to Chicago: Wayne Henderson&apos;s Picking Room</p>
+          <p className="text-lg leading-relaxed" >Rugby, Virginia&apos;s Wayne Henderson is, quite simply, a national treasure. He&apos;s one of the best bluegrass pickers around and one of the greatest storytellers. He also happens to craft some of the most coveted acoustic guitars and mandolins on Earth. On Friday and Saturday, you can sit in with Wayne and play a tune or just pick his brain on what makes a great guitar. (Mabie Gallery)</p>
+
+          <p className="font-bold mt-4 leading-relaxed" >2pm Masterclass: "The 3%:" Folkway Music's Mark Stutman Leads an All-Star Panel on What Makes A Great Acoustic </p>
+          <p className="text-lg leading-relaxed" >As the owner of Folkway Music and one of the most exacting repair people around, Mark Stutman thinks about guitars like few others. In this session, he rounds up some of his peers to talk about the infinitesimal details that make a good acoustic instrument a great instrument. (Maurer Hall - West)</p>
+
+          <p className="font-bold mt-4 leading-relaxed" >2pm Workshop: Using Song Prompts with Anna Vogelzang</p>
+          <p className="text-lg leading-relaxed" >Some of today&apos;s best songwriters use song prompts to craft their material. In this workshop, Chicago-based singer-songwriter Anna Vogelzang creates the Fretboard Summit&apos;s first-ever song club and walks us through the process. Our 2025 prompt is “Refraction.” Write a song based on that or just hear what others do.  (Szold Hall - East)</p>
+
+          <p className="font-bold mt-4 leading-relaxed" >3pm Workshop: Charlie Hunter & Ella Feingold: The Making of 'Different Strokes for Different Folks' </p>
+          <p className="text-lg leading-relaxed" >Different Strokes for Different Folks, the 2025 collaboration between Charlie Hunter and Ella Feingold, is one of our favorite records of the year. Hear these two guitar icons perform from the record and discuss its making. (Maurer Hall - West)</p>
+
+          <p className="font-bold mt-4 leading-relaxed" >4pm Oral History: Twenty Years of the Fretboard Journal: A Tell-All with Jason Verlinde</p>
+          <p className="text-lg leading-relaxed" >Against all the odds, the Fretboard Journal turns 20 this year. What&apos;s it take to keep a print magazine afloat for two decades? Fretboard Journal publisher Jason Verlinde will spill the beans with some hilarious, unfiltered and hopefully not too depressing tales from the front lines of niche media. Mostly, we&apos;ll share some of the FJ&apos;s most memorable stories. (Maurer Hall - West)</p>
+
+          <p className="font-bold mt-4 leading-relaxed" >4pm OM Guitar History with TJ Thompson and Greig Hutton</p>
+          <p className="text-lg leading-relaxed" >Two of the world&apos;s foremost experts on all-things-Martin - repair guru TJ Thompson and archivist/author/historian Greig Hutton - discuss the history of the Martin OM. A can&apos;t-miss session for lovers of old (or new) Martins. (Szold Hall - East)</p>
+
+          <p className="font-bold mt-4 leading-relaxed" >4pm-6pm Amplified Voices Meetup Hosted by Chase Bliss</p>
+          <p className="text-lg leading-relaxed" >An informal hangout for musicians, builders, artists, and guests who care deeply about making the music world more welcoming and inclusive for all kinds of people. (Mabie Gallery)</p>
 
 
+
+
+          <h3 className="font-aurochs mt-10 uppercase text-xl sm:text-2xl tracking-wider leading-relaxed" >Featured Concerts </h3>
+          <h4 className="font-aurochs uppercase text-xl underline tracking-wider">Maurer Hall </h4>
+
+          <p className="font-bold mt-4 leading-relaxed" >8pm Dave Hill </p>
+          <p className="text-lg leading-relaxed" >Another Fretboard Summit first: Comedian/musician/actor/author Dave Hill presents a guitar-centric comedy show filled with jokes, stories and so many guitar solos your face is gonna melt off, probably. Feeling brave? He&apos;ll also be rating audience pedal boards (bring a pic). </p>
+          
+
+          <h4 className="font-aurochs uppercase text-xl underline tracking-wider mt-6">Szold Hall</h4>
+
+          <p className="font-bold mt-4 leading-relaxed" >8pm Jonathan Stout </p>
+          <p className="text-lg leading-relaxed mb-8" >Jazz guitarist Jonathan Stout makes his return to the Fretboard Summit for an unforgettable set of music with collaborator Erik McIntyre. 
+          </p>
+          
 
 
           <div className="bg-gray-200 h-2 w-full mt-6"></div>
 
-          <h3 className="font-aurochs mt-10 uppercase text-3xl sm:text-4xl tracking-wider leading-relaxed" >Sunday, August 25, 2024 </h3>
+          <h3 className="font-aurochs mt-10 uppercase text-3xl sm:text-4xl tracking-wider leading-relaxed" >Saturday, August 23, 2025</h3>
           <p className="italic mb-4  text-lg" >Check-in begins at 9:30am. <br/> Workshops & Exhibitor Showcase begins at 10am. (Times subject to change)</p>
 
-          <p className="font-bold mt-4 leading-relaxed" >10:00am Exhibitor Showcase Opens </p>
-          <p className="text-lg leading-relaxed" >Our 80-exhibitor lutherie showcase features a wide array of electric and acoustic guitarmakers, pedal brands, amp companies and more. Spread throughout Old Town School of Folk Music&apos;s two buildings, there&apos;s something for every guitar collector. (Both buildings)</p>
+          <p className="font-bold mt-4 leading-relaxed" >10am - 5pm Lutherie Showcase</p>
+          <p className="text-lg leading-relaxed" >The Fretboard Summit features one of the finest collections of handmade, high-end and boutique gear under one roof. Peruse both Old Town School buildings to demo and shop for gear from nearly 100 luthiers, brands, and gear makers. Can&apos;t make the rest of the Summit activities? We&apos;ll have Lutherie Showcase-only tickets available at the door on Friday and Saturday for those who just want to shop guitars. 
+          (Both OTSFM buildings) </p>
           
-          <p className="font-bold mt-4 leading-relaxed" >10:00am Truth About Vintage Amps Room</p>
-          <p className="text-lg leading-relaxed" >The community behind the Truth About Vintage Amps podcast share some of their favorite tube amps for anyone to try out. Come see what all the vacuum tube fuss is about…and try out some guitars by Grez and others. (B-1, West building). Runs through 3pm.</p>
+          <p className="font-bold mt-4 leading-relaxed" >10am The Asheville Guitar Project </p>
+          <p className="text-lg leading-relaxed" >Asheville-based acoustic luthiers Jayne Henderson, Kyle Landers, and Judson Riviere debut a very special group guitar build made to raise money for their struggling region. They chat about the impact of Hurricane Helene on their respective businesses and build processes, and discuss how the effects of climate change are impacting the world of custom lutherie. (Maurer Hall - West)</p>
           
-          <p className="font-bold mt-4 leading-relaxed" >10:00am New Acoustics With Old Souls</p>
-          <p className="text-lg leading-relaxed" >TJ Thompson, Steve Nall (Nully) from Collings and John Slobod (Circa Guitars) are known for making new guitars that sound like the old ones we all covet. How do they do it? What&apos;s important and what isn&apos;t? Hopefully they&apos;ll spill some beans and field your questions. (Maurer Hall - West)</p>
-          
-          <p className="font-bold mt-4 leading-relaxed" >10:00 Dr. Molly Miller: The Fundamentals of Chord Melody</p>
-          <p className="text-lg leading-relaxed" >Famed USC professor Dr. Molly Miller walks you through the fundamentals of chord melody in this intermediate level class. Using a simple melody like “You Are My Sunshine,” she&apos;ll show you how different chord melody voicings can transform a song entirely. (Szold Hall - East)</p>
-          
-          <p className="font-bold mt-4 leading-relaxed" >11:00am Gateways Between the Octave Mandolin and Guitar </p>
-          <p className="text-lg leading-relaxed" >While the mandolin and guitar have their differences the fertile ground between them is a very interesting place to explore. Specifically, the octave mandolin enters a design space familiar to the guitarist while offering new possibilities in tone, playability, tunings, voicings, and more. Join Jake Howard of the Henhouse Prowlers for a musical conversation where the mandolin and guitar meet. (Maurer Hall - West)</p>
-          
-          <p className="font-bold mt-4 leading-relaxed" >11:00am Is the Internet Ruining Guitar? with Rhett Shull</p>
-          <p className="text-lg leading-relaxed" >As one of the most popular guitar YouTubers around, Rhett Shull has a unique perspective on the world of social media, gear, and guitar playing. Join Rhett for an unfiltered talk about making a living (or not) as a guitarist in 2024. (Szold Hall - East)</p>
-          
-          <p className="font-bold mt-4 leading-relaxed" >1:00pm Live Podcast: Valerie June </p>
-          <p className="text-lg leading-relaxed" >Jason Verlinde of the Fretboard Journal interviews Valerie June about songwriting, tradition, Sister Rosetta Tharpe and more in this live Fretboard Journal Podcast taping. (Maurer Hall - West)</p>
-          
-          <p className="font-bold mt-4 leading-relaxed" >1:00pm Your Guitar and Your Brain: Of Neurology and Psychology with John Thomas</p>
-          <p className="text-lg leading-relaxed" >In a preview of portions of his upcoming book, The Acoustic Guitar: Inside the World&apos;s Most Popular Musical Instrument (Oxford University Press, 2025), John Thomas will lead an inquiry into how our brains enable us to experience the vibrations emanating from our guitars as musical tones. First, the workshop will consider neurology to assist us in figuring out how our brains convert quavering molecules of air into something we recognize as sound.(Szold Hall - East)</p>
-          
-          <p className="font-bold mt-4 leading-relaxed" >1:00 Swing-Era Chord Melody Workshop with Jonathan Stout</p>
-          <p className="text-lg leading-relaxed" >Los Angeles-based Jonathan Stout is a bandleader, swing guitarist and drummer who has thoroughly immersed himself in the music of Allan Reuss and George Van Eps. During this Summit session, he&apos;ll walk students through a couple of historical examples of chord melody, with transcriptions provided, and give you some basic chord shapes. 
-          (Mabie Gallery - West)</p>
-          
-          <p className="font-bold mt-4 leading-relaxed" >2:00pm Adam Levy & Rich Hinman on Playing with Singers </p>
-          <p className="text-lg leading-relaxed" >Adam Levy famously played guitar alongside Norah Jones, Tracy Chapman, and Amos Lee. Rich Hinman has performed with Sara Bareilles, Rosanne Cash, k.d. lang, and even Cyndi Lauper. What are the secrets to playing with singers? Hear these two masters share their insights. (Maurer Hall - West)</p>
-          
-          <p className="font-bold mt-4 leading-relaxed" >2:00pm Craig Korth on Psychedelic Therapy, Focal Dystonia and the Art of Taking Care of Yourself </p>
-          <p className="text-lg leading-relaxed" >Bluegrass musician Craig Korth was one of the most-downloaded Fretboard Journal Podcast subjects of all time when he candidly shared how psychedelic therapy helped him overcome focal dystonia and play music again. In this follow-up Summit session, Folkway Music&apos;s Mark Stutman interviews Craig about how he&apos;s doing today and about the mental health journey he&apos;s been on. (Szold Hall - East)</p>
-          
-          <p className="font-bold mt-4 leading-relaxed" >3:00pm Introducing: The Archtop Project with Tom Nania</p>
-          <p className="text-lg leading-relaxed" >D&apos;Addario&apos;s Tom Nania walks us through the Archtop Project, an open-source, digital museum displaying historic and contemporary archtop guitars as they&apos;ve never been viewed before – from the inside-out. Each instrument page is a comprehensive analysis complete with CT scans to view the internal structure, acoustics testing including 360-degree acoustic radiation and modal analysis, and high-resolution photographs with audio samples. Inspired by the VSA Oberlin Acoustics Workshop&apos;s Strad 3D project (strad3d.org) and supported by D&apos;Addario & Company and the Archtop Foundation - for the good of guitars. (Szold Hall - East)</p>
-          
-          <p className="font-bold mt-4 leading-relaxed" >4:00pm Tube Amps in 2024; Plus a special preview of &apos;Dumble: A Well-Built Life&apos; </p>
-          <p className="text-lg leading-relaxed" >We keep hearing about the advances made with modeling and even solid-state amps, so do tube amps still matter? In this panel discussion, Chris Benson (Benson Amps) and Eli Lester (Two-Rock) talk about the enduring love for valve amplification…and where they see its future. We&apos;ll also get a sneak peek at the Fretboard Journal&apos;s short film, &apos;Dumble: A Well-Built Life,&apos; starring Ben Harper. (Szold Hall - East)</p>
-          
-          <h3 className="font-aurochs mt-10 uppercase text-xl sm:text-2xl tracking-wider leading-relaxed" >Sunday Evening Concerts </h3>
-          <p className="font-bold mt-4 leading-relaxed" >7:00pm Valerie June (opening: Eli Winter) </p>
-          <p className="text-lg leading-relaxed" >Join multi-hyphenate artist from Tennessee, Valerie June for a night of her unique, roots music mixture of folk, blues, gospel, soul, country, Appalachian, and bluegrass. Eli Winter opens the evening with his genre-defying synthesis of folk, rock, jazz, and devotional music. (Maurer Hall - West)</p>
-          
-          <p className="font-bold mt-4 leading-relaxed" >7:00pm Joel Paterson (opening: Jonathan Stout)</p>
-          <p className="text-lg leading-relaxed" >A retro, swing-filled night with two of our favorite jazz guitarists: Los Angeles-based guitarist and bandleader Jonathan Stout followed by Chicago treasure Joel Paterson.  (Szold Hall - East)</p>
+          <p className="font-bold mt-4 leading-relaxed" >10am Workshop: Jonathan Stout: Turning Single Note Jazz Solos into Chord Solos
+          </p>
+          <p className="text-lg leading-relaxed" >By popular demand, jazz guitarist and Fretboard Journal favorite Jonathan Stout returns to the Summit. This time, he&apos;ll be teaching us how to incorporate chord solos into our playing. (Szold Hall - East)</p>
+
+          <p className="font-bold mt-4 leading-relaxed" >11am Buying & Selling Guitars in 2025: A panel discussion with The Music Emporium, Folkway Music, The Old Town School store and friends</p>
+          <p className="text-lg leading-relaxed" >Our annual look at the state of affairs when it comes to buying, collecting and selling your favorite instruments. Join Folkway Music, the Music Emporium, the Old Town School and others for a tell-all on retail trends and more. 
+          (Maurer Hall - West)</p>
+
+          <p className="font-bold mt-4 leading-relaxed" >11am Workshop: Roots Guitar from the African Continent with Nathaniel Braddock</p>
+          <p className="text-lg leading-relaxed" >Fretboard Journal contributor Nathaniel Braddock has spent twenty years traveling in Africa and collaborating with musicians from across the continent. In this workshop, he will share music from the continent's many fingerstyle acoustic guitar traditions. We'll look at music from Ghana, Mali, Congo, and beyond, touching on the styles of palmwine, guitare seche, desert blues, makossa, and more. Tablature provided. Bring a capo. (Szold Hall - East)</p>
+
+          <p className="font-bold mt-4 leading-relaxed" >12pm-4pm Record Sale Pop-Up</p>
+          <p className="text-lg leading-relaxed" >Stop by the Old Town School Resource Center for $1 records, $3 CDs, $3 DVDs, plus rare and collectables priced as marked. All of the proceeds from the sale support programming and collection development at the Resource Center. All items for sale are donations that are either duplicates or are better accessed through other outlets. Cards & cash welcome  (Basement Lobby - West)</p>
+
+          <p className="font-bold mt-4 leading-relaxed" >1pm Fretboard Journal Live Podcast: LA's Session Music Heroes </p>
+          <p className="text-lg leading-relaxed" >The guitar playing of Dylan Day, Harrison Whitford and Ryan Richter have been heard on some of the most innovative recordings coming out of Los Angeles, including albums by Dijon, Phoebe Bridgers and others. In this live podcast, Fretboard Journal publisher Jason Verlinde interviews this trio about their backgrounds, the tones they&apos;re achieving, the unique gear they&apos;re using, what&apos;s inspiring them today and more. (Maurer Hall - West)</p>
+
+          <p className="font-bold mt-4 leading-relaxed" >1pm Masterclass: DADGAD with John Smith </p>
+          <p className="text-lg leading-relaxed" >Fretboard Journal favorite John Smith makes his debut appearance at the Summit. This stellar guitarist (and singer) will lead a master class on the art of DADGAD and you can use it in your playing. (Szold Hall - East)</p>
+
+          <p className="font-bold mt-4 leading-relaxed" >1pm - 3pm Rugby Comes to Chicago: Wayne Henderson&apos;s Picking Room</p>
+          <p className="text-lg leading-relaxed" >Rugby, Virginia&apos;s Wayne Henderson is, quite simply, a national treasure. He&apos;s one of the best bluegrass pickers around and one of the greatest storytellers. He also happens to craft some of the most coveted acoustic guitars and mandolins on Earth. On Friday and Saturday, you can sit in with Wayne and play a tune or just pick his brain on what makes a great guitar. (Mabie Gallery)</p>
+
+          <p className="font-bold mt-4 leading-relaxed" >2pm Panel Discussion: Gems from Old Town School: A Glimpse at the Guitars of John Lennon & Big Bill Broonzy </p>
+          <p className="text-lg leading-relaxed" >Chris Walz (OTSFM faculty), TJ Thompson (TJ Thompson guitars), Dylan Day (musician) and Fretboard Journal publisher Jason Verlinde discuss the provenance and ongoing care of two famous Martin guitars that are in the care of the Old Town School: Big Bill Broonzy&apos;s 1946 000-28 and John Lennon&apos;s 1962 D-28. (Maurer Hall - West)</p>
+
+          <p className="font-bold mt-4 leading-relaxed" >2pm Masterclass: Congolese Guitar: A Peek at the Instruments of the African Congo</p>
+          <p className="text-lg leading-relaxed" >Nathaniel Braddock documented the story of luthiers in the African Congo for the Fretboard Journal. In this session, attendees will be able to view and play these instruments up-close. Andy Powers of Taylor Guitars will be on-hand to talk about the guitars&apos; unique construction techniques…and put them through their paces. (Szold Hall - East)</p>
+
+          <p className="font-bold mt-4 leading-relaxed" >3pm The 4th Annual Fretboard Summit Science Fair</p>
+          <p className="text-lg leading-relaxed" >Picture the Science Fairs of your youth, but with guitars. Our Our Summit Science is now an annual tradition.  The wildest creations and prototypes of the 2025 Summit. (Szold Hall - East)</p>
 
 
-          <div className="bg-gray-200 h-2 w-full mt-6"></div>
+
+
+          <h3 className="font-aurochs mt-10 uppercase text-xl sm:text-2xl tracking-wider leading-relaxed" >Featured Concerts </h3>
+          <h4 className="font-aurochs uppercase text-xl underline tracking-wider">Maurer Hall </h4>
+
+          <p className="font-bold mt-4 leading-relaxed" >4pm Happy Hour Performance: Anna Vogelzang</p>
+          <p className="text-lg leading-relaxed" >Chicago-based Anna Vogelzang performs songs from her full-length album, Afterglow, and more.  
+          </p>
+
+          <p className="font-bold mt-4 leading-relaxed" >8pm Lyle Lovett<br/>with John Smith opening</p>
+          <p className="text-lg leading-relaxed mb-8" >Brought to you by Collings Guitars: The one-and-only Lyle Lovett performs a solo set of music and shares stories about his old friend, Bill Collings. Opening is British folk musician John Smith. </p>
+          
+
+          <h4 className="font-aurochs uppercase text-xl underline tracking-wider mt-6">Szold Hall</h4>
+
+          <p className="font-bold mt-4 leading-relaxed" >8pm Dylan Day, Harrison Whitford, Ryan Richter</p>
+          <p className="text-lg leading-relaxed" >Collectively, Dylan Day, Harrison Whitford and Ryan Richter have performed with the likes of Jackson Browne, Beck, Phoebe Bridgers, Dijon, Lizzy McAlpine and others. During this Szold concert session, these stellar musicians trade songs and collaborate for an unforgettable evening of music.</p>
+
+          <p className="font-bold mt-4 leading-relaxed" >Truth About Vintage Amps Room</p>
+          <p className="text-lg leading-relaxed mb-8" >The community behind our Truth About Vintage Amps podcast shares some of their favorite tube amp finds for anyone to try out. Come see what the tube fuss is about…and try out some stellar new guitars by Grez and others. (B-1, West Building, all weekend long)</p>
+
+        
+
+        </div> 
+
+          {/* <div className="bg-gray-200 h-2 w-full mt-6"></div>
 
           <h3 className="font-aurochs mt-10 uppercase text-3xl sm:text-4xl tracking-wider leading-relaxed" >Plus: Acoustic Cafe at Galloup Guitars Booth (included with all admission tiers) </h3>
           <p className="text-lg leading-relaxed" >At this year&apos;s Fretboard Summit, Galloup Guitars will host a pop-up Acoustic Café. Their aim is to foster interactive conversations through demonstrations, slide shows, and discussions where summit attendees are invited to participate in the experience. The Acoustic Café will be held in the atrium of the Old Town School&apos;s East building at 4545 N Lincoln Avenue.</p>
@@ -372,12 +369,7 @@ export default function Schedule() {
           <p className="font-bold mt-4 leading-relaxed" >1:00pm: William Bezard: CNC for Modern Lutherie</p>
           <p className="text-lg leading-relaxed" >As an accomplished guitar player, William leveraged his unique combination of musicianship and technical skills to design some of the most innovative and advanced electric guitars. Today, William is furthering his proficiency in techniques that promise to advance the fields of CNC, CAD, and CAM. </p>
           <p className="text-lg leading-relaxed" >William will demonstrate some of the techniques he&apos;s developed and will be available throughout the summit for hands-on tutoring for individuals seeking additional information about this technology.</p>
-          
-
-
-
-
-          </div>
+          */}
 
         {/* commented out 6/21/2024 */}
         {/* <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#A4CCDA] text-[#322D25]">
@@ -435,7 +427,7 @@ export default function Schedule() {
 
           <p className="mt-4  text-lg leading-relaxed" >West Cafe & Bar open 1:00pm - 5:00pm & during concerts<br/>
           <a href="https://musicstore.oldtownschool.org">Old Town School Music Store</a> open 11:00am - 7:00pm<br/>
-          Gear Check – room 201 in the West building, second floor wing (2W)
+          Gear Check - room 201 in the West building, second floor wing (2W)
           </p>
           <p className="italic mb-10">Complimentary coffee provided by Acoustic Coffee in both buildings daily.</p>
 
@@ -496,7 +488,7 @@ export default function Schedule() {
 
           <p className="mt-4 text-lg leading-relaxed" >Cafe & Bars open 1:00pm - 5:00pm & during concerts<br/>
           <a href="https://musicstore.oldtownschool.org">Old Town School Music Store</a> open 11:00am - 7:00pm <br/>
-          Gear Check  – room 201 in the West building, second floor wing (2W)
+          Gear Check  - room 201 in the West building, second floor wing (2W)
           </p>
           <p className="italic mb-10">Complimentary coffee provided by Acoustic Coffee in both buildings daily.</p>
 
@@ -556,7 +548,7 @@ export default function Schedule() {
 
           <p className="text-lg leading-relaxed" >Szold Hall - East</p>
           <p className="pl-4 mb-4 text-lg leading-relaxed" ><span class="line-through">8:00pm		Via Mardot scores the 1934 stop-motion masterpiece, <span class="italic">The Mascot</span></span> <span class="italic">This Performance Has Been Canceled</span></p>
-          <p className="pl-4 mb-4 text-lg leading-relaxed" >8pm  &quot;The Show Must Go On&quot; Live Score To A Film TBD – featuring Duncan Price, Mike Adams and Friends</p>
+          <p className="pl-4 mb-4 text-lg leading-relaxed" >8pm  &quot;The Show Must Go On&quot; Live Score To A Film TBD - featuring Duncan Price, Mike Adams and Friends</p>
           <p className="pl-4 mb-4 text-lg leading-relaxed" >9:00pm After performances	Late Night &quot;Summit All-Star Super Session:&quot; Ethan Sherman, Adam Levy, Ryan Richter and special guests </p>
 
           <p className="mt-4  text-lg leading-relaxed" >Cafe & Bars open 11:00am - 5:00pm & during concerts <br/>

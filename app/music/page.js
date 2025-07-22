@@ -24,37 +24,37 @@ export default function Music() {
         </div>
 
 
-        {/* <div className="block sm:flex sm:flex-row mt-10 max-w-5xl p-2 sm:p-0">
+        <div className="block sm:flex sm:flex-row mt-10 max-w-5xl p-2 sm:p-0">
           <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-0 sm:m-2 p-4 bg-[#A4CCDA] text-center text-[#322D25]">
             <div className="flex justify-center">
               <Image
-                src="/ColinHay_FBS_960x640.jpg"
-                alt="Colin Hay"
+                src="/HORIZ-LyleLovett.jpeg"
+                alt="Lyle Lovett"
                 className="self-start mb-2"
                 width={600}
                 height={400}
               />
             </div>
             <h2 className="tracking-wide font-aurochs font-normal uppercase text-3xl">
-            Saturday, August 24
+            Saturday, August 23
               <br />
-              <span className="font-bold">Colin Hay</span>
+              <span className="font-bold">Lyle Lovett</span>
             </h2>
           </div>
           <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-0 mt-4 sm:m-2 p-4 bg-[#F0E5D1] text-center text-[#322D25]">
-            <div className="flex justify-center">
+            <div className="flex justify-center mx-auto" style={{ maxHeight: '350px', maxWidth: '250px'}}>
               <Image
-                src="/ValerieJune_FBS_960x640.jpg"
-                alt="Valerie June"
+                src="/COMPwHUNTER-CesarRosas.jpg"
+                alt="Cesar Rosas"
                 className="self-start mb-2"
                 width={600}
                 height={400}
               />
             </div>
             <h2 className="tracking-wide font-aurochs font-normal uppercase text-3xl">
-            Sunday, August 25
+            Thursday, August 21
               <br />
-              <span className="font-bold">Valerie June</span>
+              <span className="font-bold">Cesar Rosas & The Chi-Town Playboys</span>
             </h2>
           </div>
         </div> 
@@ -64,27 +64,27 @@ export default function Music() {
           <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-0 sm:m-2 p-4 bg-[#F0E5D1] text-center text-[#322D25]">
             <div className="flex justify-center">
               <Image
-                src="/BlakeMills_FBS_960x640.jpg"
-                alt="Blake Mills"
+                src="/DAVE_PromoPhotoA.jpg"
+                alt="Dave Hill"
                 className="self-start mb-2"
                 width={600}
                 height={400}
               />
             </div>
             <h2 className="tracking-wide font-aurochs font-normal uppercase text-3xl">
-            Friday, August 23
+            Friday, August 22
               <br />
-              <span className="font-bold">Blake Mills</span>
+              <span className="font-bold">Dave Hill</span>
               <br />{" "}
-              <span className="font-light tracking-wider">
+              {/* <span className="font-light tracking-wider">
               Exclusive For All Access Passholders
-              </span>
+              </span> */}
             </h2>
             <p></p>
           </div> 
 
           <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-0 sm:m-2 mt-4 p-4 bg-[#A4CCDA] text-center text-[#322D25]">
-             <div className="mt-6 sm:mt-0 flex items-stretch justify-center">
+             {/* <div className="mt-6 sm:mt-0 flex items-stretch justify-center">
               <Image
                 className="hidden sm:flex mx-2"
                 src="/border.png"
@@ -106,24 +106,24 @@ export default function Music() {
                 width={10}
                 height={400}
               />
-            </div>
-            <div className="flex justify-center">
+            </div>*/}
+            <div className="flex justify-center  mx-auto" style={{maxWidth: '430px'}}>
               <Image
-                src="/JoeHenry_FBS_960x640.jpg"
-                alt="Joe Henry"
+                src="/COMPwCESAR-CharlieHunter.jpg"
+                alt="Charlie Hunter"
                 className="self-start mb-2"
                 width={600}
                 height={400}
               />
-            </div>
+            </div> 
             <h2 className="tracking-wide font-aurochs font-normal uppercase text-3xl">
-            Friday, August 23
+            Saturday, August 23
               <br />
-              <span className="font-bold">Joe Henry</span>
+              <span className="font-bold">Charlie Hunter</span>
               <br />{" "}
-              <span className="font-light tracking-wider">
+              {/* <span className="font-light tracking-wider">
               Exclusive For All Access Passholders
-              </span>
+              </span> */}
             </h2>
           </div>
         </div>
@@ -134,7 +134,7 @@ export default function Music() {
           </button>
         </a>
 
-        <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#A4CCDA] text-[#322D25]">
+        {/* <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#A4CCDA] text-[#322D25]">
           <div className="flex justify-center">
             <Image
               src="/JormaKaukonen.jpeg"
@@ -168,35 +168,52 @@ export default function Music() {
               Buy Tickets
             </button>
           </Link>
-        </div> 
+        </div>  */}
 
         <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#F0E5D1] text-[#322D25]">
           <h2 className="tracking-wider font-aurochs font-normal uppercase text-5xl text-center">
             Performances
           </h2>
 
+          
+          <h4 className="tracking-wide font-aurochs text-3xl mt-6">Thursday, August 21 </h4>
 
-          <h3 className="tracking-wide font-aurochs font-bold text-3xl mt-6">Colin Hay</h3>
-          <h4 className="tracking-wide font-aurochs text-3xl mb-2">Saturday, August 24</h4>
+          <h3 className="tracking-wide font-aurochs font-bold text-3xl mt-4 mb-2">Cesar Rosas & The Chi-Town Playboys
+          </h3>
 
           <Image
-            src="/ColinHay_FBS_960x640.jpg"
-            alt="Colin Hay"
+            src="/COMPwHUNTER-CesarRosas.jpg"
+            alt="Cesar Rosas"
+            className="self-start mb-2"
+            width={600}
+            height={400}
+            style={{ maxHeight: '450px', maxWidth: '350px'}}
+          />
+
+          <p className="mt-4">
+          Cesar Rosas, founding member of the iconic band Los Lobos, plays a wide spectrum of music from traditional flavors to mind altering sounds. Charlie Hunter blends genres from jazz and funk to blues and rock, all on his custom 6- and 7-string guitars by Hybrid Guitars Co. 
+          </p>
+
+          {/* <div className="flex items-center divide-x-2 divide-gray-500 mt-6">
+            <span className="pr-3 font-medium text-gray-900"><Link
+              href="https://www.colinhay.com">https://www.colinhay.com/</Link> </span>
+            <span className="pl-3 text-sm text-gray-500"><Link
+            href="https://www.youtube.com/watch?v=quzZaJI4b1A">YouTube</Link> </span>
+          </div> */}
+
+
+
+          <h3 className="tracking-wide font-aurochs font-bold text-3xl mt-10 mb-2">Charlie Hunter plays Blind Blake </h3>
+
+          <Image
+            src="/COMPwCESAR-CharlieHunter.jpg"
+            alt="CharlieHunter"
             className="self-start mb-2"
             width={600}
             height={400}
           />
 
-          <p className="mt-4">
-          Colin Hay first came to international fame with seminal &apos;80s hitmakers Men At Work selling more than 30 million records worldwide on the strength of #1 songs like &lsquo;Who Can It Be Now?&rsquo; and &lsquo;Down Under&rsquo;. Over the course of his remarkable solo career, Hay developed a reputation as a gifted raconteur with serious comedy chops and has recorded over a dozen critically-acclaimed studio albums helping establish him as one of his generation&apos;s most hardworking and reliable craftsmen. Rolling Stone praised his &lsquo;witty, hooky pop&rsquo; tunes, while NPR&apos;s World Café lauded his &lsquo;distinctive voice&rsquo;.
-          </p>
-
-          <div className="flex items-center divide-x-2 divide-gray-500 mt-6">
-            <span className="pr-3 font-medium text-gray-900"><Link
-              href="https://www.colinhay.com">https://www.colinhay.com/</Link> </span>
-            <span className="pl-3 text-sm text-gray-500"><Link
-            href="https://www.youtube.com/watch?v=quzZaJI4b1A">YouTube</Link> </span>
-          </div>
+          <p className="mt-4">Acclaimed guitarist Charlie Hunter offers up a first-of-its-kind solo set featuring the music of blues great Blind Blake.</p>
 
 
           <div className="flex justify-center  my-12">
@@ -209,8 +226,40 @@ export default function Music() {
             />
           </div>
 
+
+          <h4 className="tracking-wide font-aurochs text-3xl mt-6">Friday, August 22</h4>
+
+          <h3 className="tracking-wide font-aurochs font-bold text-3xl mt-4 mb-2">Dave Hill
+
+          </h3>
+
+          <Image
+            src="/DAVE_PromoPhotoA.jpg"
+            alt="Dave Hill"
+            className="self-start mb-2"
+            width={600}
+            height={400}
+          />
+
+          <p className="mt-4">
+          Dave Hill is a comedian, writer, actor, and guitar player originally from Cleveland but now living in New York City. "Cult New York comedian Hill is a hugely talented funnyman.” - Time Out London. : Dave Hill presents a guitar-centric comedy show filled with jokes, stories and so many guitar solos your face is gonna melt off, probably. Feeling brave? He’ll also be rating audience pedal boards (bring a pic!)
+          </p>
+
+
+          <h3 className="tracking-wide font-aurochs font-bold text-3xl mt-10 mb-2">Johnathan Stout & Erik McIntyre Jazz Duo</h3>
+
+          {/* <Image
+            src="/COMPwCESAR-CharlieHunter.jpg"
+            alt="CharlieHunter"
+            className="self-start mb-2"
+            width={600}
+            height={400}
+          /> */}
+
+          <p className="mt-4">Jazz guitarist Jonathan Stout makes his return to the Fretboard Summit for an unforgettable set of music with collaborator Erik McIntyre.</p>
+
           
-          <h3 className="tracking-wide font-aurochs text-3xl font-bold mt-6">Valerie June</h3>
+          {/* <h3 className="tracking-wide font-aurochs text-3xl font-bold mt-6">Valerie June</h3>
           <h4 className="tracking-wide font-aurochs text-3xl mb-2">Sunday, August 25</h4>
 
           <Image
@@ -230,7 +279,7 @@ export default function Music() {
               href="https://www.valeriejune.com/">https://www.valeriejune.com/ </Link> </span>
             <span className="pl-3 text-sm text-gray-500"><Link
             href="https://www.youtube.com/watch?v=j-R7hN6bZZ8">YouTube</Link> </span>
-          </div>
+          </div> */}
 
 
           <div className="flex justify-center  my-12">
@@ -243,7 +292,49 @@ export default function Music() {
             />
           </div>
 
+          <h4 className="tracking-wide font-aurochs text-3xl mt-6">Saturday, August 23</h4>
 
+          <h3 className="tracking-wide font-aurochs font-bold text-3xl mt-4 mb-2">Lyle Lovett with special guest John Smith</h3>
+
+          <Image
+            src="/JohnSmith.webp"
+            alt="JohnSmith"
+            className="self-start mb-2"
+            width={600}
+            height={400}
+          />
+
+          <p className="mt-4">
+          Coupled with his gift for storytelling, Lyle Lovett fuses elements of country, swing, jazz, folk, gospel, and blues in a convention-defying manner that breaks down barriers and broadens the definition of American music. John Smith was dubbed “the future of folk music” by Pentangle’s John Renbourn, but the singer-songwriter’s unique synthesis of styles puts him halfway across the Atlantic as purveyor of American atmospherics. Performing a solo set of music and sharing stories about his old friend, Bill Collings.  Brought to you by Collings Guitars
+          </p>
+
+
+          <h3 className="tracking-wide font-aurochs font-bold text-3xl mt-10 mb-2">LA Session Greats: Dylan Day, Harrison Whitford, Ryan Richter</h3>
+
+          {/* <Image
+            src="/COMPwCESAR-CharlieHunter.jpg"
+            alt="CharlieHunter"
+            className="self-start mb-2"
+            width={600}
+            height={400}
+          /> */}
+
+          <p className="mt-4">Collectively, Dylan Day, Harrison Whitford and Ryan Richter have performed with the likes of Jackson Browne, Beck, Phoebe Bridgers, Dijon, Lizzy McAlpine and others. During this Szold concert session, these stellar musicians trade songs and collaborate for an unforgettable evening of music.</p>
+
+
+          <h3 className="tracking-wide font-aurochs font-bold text-3xl mt-10 mb-2">Anna Vogelzang </h3>
+
+          <Image
+            src="/AV-Headshot-creditAudreRaePhotography.jpg"
+            alt="Anna Vogelzang"
+            className="self-start mb-2"
+            width={600}
+            height={400}
+          />
+
+          <p className="mt-4">Anna Vogelzang believes in the power of songs. Since 2004, the Chicago-based multi-instrumentalist has independently released 7 award-winning albums and toured extensively throughout the US, opening for a wide range of acts from Gillian Welch to Sara Bareilles. Atwood Magazine says her songwriting is &quot;beautifully visceral&quot;, exuding  &quot;the kind of storytelling ability passed down through decades of folk tradition - it walks the line between the modern and the nostalgic&quot;. Her voice has been described as &quot;an ethereal, lucid thing&quot; that &quot;nets melodies like it&apos;s catching monarchs&quot;.</p>
+
+{/* 
           <h3 className="tracking-wide font-aurochs text-3xl font-bold mt-6 ">Blake Mills</h3>
           <h4 className="tracking-wide font-aurochs text-3xl  mb-2">Friday, August 23</h4>
 
@@ -264,9 +355,9 @@ export default function Music() {
               href="https://www.blakemillsonline.com/">https://www.blakemillsonline.com/ </Link> </span>
             <span className="pl-3 text-sm text-gray-500"><Link
             href="https://www.youtube.com/watch?v=jGIt3EL1He8">YouTube</Link> </span>
-          </div>
+          </div> */}
 
-          <h3 className="tracking-wide font-aurochs text-3xl font-bold mt-6 ">Joe Henry</h3>
+          {/* <h3 className="tracking-wide font-aurochs text-3xl font-bold mt-6 ">Joe Henry</h3>
           <h4 className="tracking-wide font-aurochs text-3xl mb-2">Friday, August 23</h4>
 
           <Image
@@ -286,12 +377,12 @@ export default function Music() {
               href="https://www.joehenrylovesyoumadly.com/">https://www.joehenrylovesyoumadly.com/ </Link> </span>
             <span className="pl-3 text-sm text-gray-500"><Link
             href="https://www.joehenrylovesyoumadly.com/watch">Video</Link> </span>
-          </div>
+          </div> */}
 
 
         </div>
 
-        <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#A4CCDA] text-[#322D25]">
+        {/* <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#A4CCDA] text-[#322D25]">
           <h2 className="tracking-wider font-aurochs font-normal uppercase text-5xl text-center">
             WORKSHOPS, SHOWCASES, &amp; MORE
           </h2>
@@ -344,9 +435,9 @@ export default function Music() {
           <h3 className="font-bold text-2xl mt-6 mb-2">EVENING JAM ROOMS!</h3>
           <p>For both acoustic and electric guitar lovers!</p>
 
-        </div>
+        </div> */}
 
-        <div className="mt-10 mb-20 w-full max-w-5xl items-center sm:flex sm:flex-col px-4 lg:px-14 text-center">
+        {/* <div className="mt-10 mb-20 w-full max-w-5xl items-center sm:flex sm:flex-col px-4 lg:px-14 text-center">
           <h2 className="mb-4 text-[#4DB3AC] font-bold uppercase text-xl tracking-widest ">
             More ticket packages available soon
           </h2>

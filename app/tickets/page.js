@@ -94,7 +94,7 @@ export default function Tickets() {
               {/* <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#757f7e] text-[#F0E5D1] cursor-not-allowed">
               Available Summer 2025<br/>Fri, Aug 22
               </button> */}
-              <Link href="https://www.oldtownschool.org/concerts/2025/08-21-2025-fretboard-summit-2025/" className="text-center">
+              <Link href="http://ots.fm/FBS25Fri" className="text-center">
                 <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1] ">
                   Buy Day Pass: Fri, Aug 22
                 </button>
@@ -114,7 +114,7 @@ export default function Tickets() {
                 {/* <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#757f7e] text-[#F0E5D1] cursor-not-allowed">
                 Available Summer 2025<br/>Sat, Aug 23
                 </button> */}
-              <Link href="https://www.oldtownschool.org/concerts/2025/08-21-2025-fretboard-summit-2025/" className="text-center">
+              <Link href="https://ots.fm/FBS25Sat" className="text-center">
                 <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#2B6F6D] hover:bg-[#4DB3AC] text-[#F0E5D1]">
                 Buy Day Pass: Sat, Aug 23
                 </button>
