@@ -217,17 +217,17 @@ export default function Tickets() {
           </p>
 
           <div className="w-full sm:w-3/4">
-            <Link href="https://www.oldtownschool.org/concerts/" className="text-center">
+            <Link href="https://www.oldtownschool.org/concerts/2025/08-23-2025-lyle-lovett/" className="text-center">
               <button className="my-2 tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#2B6F6D] hover:bg-[#4DB3AC] text-[#F0E5D1]">
               Lyle Lovett Concert Only
               </button>
             </Link>
-            <Link href="https://www.oldtownschool.org/concerts/" className="text-center sm:ml-1">
+            <Link href="https://www.oldtownschool.org/concerts/2025/08-21-2025-cesar-rosas-and-the-chi-town-playboys-charlie-hunter/" className="text-center sm:ml-1">
               <button className="my-2 tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#2B6F6D] hover:bg-[#4DB3AC] text-[#F0E5D1]">
               Cesar Rosas & Chi-Town Playboys Concert Only
               </button>
             </Link>
-            <Link href="https://www.oldtownschool.org/concerts/" className="text-center ml-0 sm:ml-1">
+            <Link href="https://www.oldtownschool.org/concerts/2025/08-22-2025-dave-hill/" className="text-center ml-0 sm:ml-1">
               <button className="my-2 tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#2B6F6D] hover:bg-[#4DB3AC] text-[#F0E5D1]">
               Dave Hill Concert Only
               </button>

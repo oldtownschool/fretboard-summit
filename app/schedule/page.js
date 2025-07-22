@@ -244,7 +244,7 @@ export default function Schedule() {
 
           <h4 className="font-aurochs uppercase text-xl underline tracking-wider mt-6">Szold Hall</h4>
 
-          <p className="font-bold mt-4 leading-relaxed" >8pm Jonathan Stout </p>
+          <p className="font-bold mt-4 leading-relaxed" >8pm Jonathan Stout & Erik McIntyre Jazz Duo</p>
           <p className="text-lg leading-relaxed mb-8" >Jazz guitarist Jonathan Stout makes his return to the Fretboard Summit for an unforgettable set of music with collaborator Erik McIntyre. 
           </p>
           
@@ -311,7 +311,10 @@ export default function Schedule() {
           <h4 className="font-aurochs uppercase text-xl underline tracking-wider mt-6">Szold Hall</h4>
 
           <p className="font-bold mt-4 leading-relaxed" >8pm Dylan Day, Harrison Whitford, Ryan Richter</p>
-          <p className="text-lg leading-relaxed" >Collectively, Dylan Day, Harrison Whitford and Ryan Richter have performed with the likes of Jackson Browne, Beck, Phoebe Bridgers, Dijon, Lizzy McAlpine and others. During this Szold concert session, these stellar musicians trade songs and collaborate for an unforgettable evening of music.</p>
+          <p className="text-lg leading-relaxed mb-8" >Collectively, Dylan Day, Harrison Whitford and Ryan Richter have performed with the likes of Jackson Browne, Beck, Phoebe Bridgers, Dijon, Lizzy McAlpine and others. During this Szold concert session, these stellar musicians trade songs and collaborate for an unforgettable evening of music.</p>
+
+          <div className="bg-gray-200 h-2 w-full my-8"></div>
+
 
           <p className="font-bold mt-4 leading-relaxed" >Truth About Vintage Amps Room</p>
           <p className="text-lg leading-relaxed mb-8" >The community behind our Truth About Vintage Amps podcast shares some of their favorite tube amp finds for anyone to try out. Come see what the tube fuss is about…and try out some stellar new guitars by Grez and others. (B-1, West Building, all weekend long)</p>

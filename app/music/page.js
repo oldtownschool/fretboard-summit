@@ -246,7 +246,7 @@ export default function Music() {
           </p>
 
 
-          <h3 className="tracking-wide font-aurochs font-bold text-3xl mt-10 mb-2">Johnathan Stout & Erik McIntyre Jazz Duo</h3>
+          <h3 className="tracking-wide font-aurochs font-bold text-3xl mt-10 mb-2">Jonathan Stout & Erik McIntyre Jazz Duo</h3>
 
           {/* <Image
             src="/COMPwCESAR-CharlieHunter.jpg"
@@ -295,6 +295,14 @@ export default function Music() {
           <h4 className="tracking-wide font-aurochs text-3xl mt-6">Saturday, August 23</h4>
 
           <h3 className="tracking-wide font-aurochs font-bold text-3xl mt-4 mb-2">Lyle Lovett with special guest John Smith</h3>
+
+          <Image
+            src="/HORIZ-LyleLovett.jpeg"
+            alt="Lyle Lovett"
+            className="self-start mb-2"
+            width={600}
+            height={400}
+          />
 
           <Image
             src="/JohnSmith.webp"
