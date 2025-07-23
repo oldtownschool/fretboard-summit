@@ -244,7 +244,7 @@ export default function Schedule() {
 
           <h4 className="font-aurochs uppercase text-xl underline tracking-wider mt-6">Szold Hall</h4>
 
-          <p className="font-bold mt-4 leading-relaxed" >8pm Jonathan Stout & Erik McIntyre Jazz Duo</p>
+          <p className="font-bold mt-4 leading-relaxed" >8pm Jonathan Stout & Erik McIntyre</p>
           <p className="text-lg leading-relaxed mb-8" >Jazz guitarist Jonathan Stout makes his return to the Fretboard Summit for an unforgettable set of music with collaborator Erik McIntyre. 
           </p>
           
