@@ -314,9 +314,9 @@ export default function Schedule() {
           <p className="font-bold mt-4 leading-relaxed" >8pm Dylan Day, Harrison Whitford, Ryan Richter</p>
           <p className="text-lg leading-relaxed" >Collectively, Dylan Day, Harrison Whitford and Ryan Richter have performed with the likes of Jackson Browne, Beck, Phoebe Bridgers, Dijon, Lizzy McAlpine and others. During this Szold concert session, these stellar musicians trade songs and collaborate for an unforgettable evening of music.</p>
 
-          <p className="font-bold mt-4 leading-relaxed" >8pm LeRoy Bach & Dan Bittney
+          <p className="font-bold mt-4 leading-relaxed" >LeRoy Bach & Dan Bitney
           </p>
-          <p className="text-lg leading-relaxed mb-8" >Dan Bitney is an experimental musician and composer based in Chicago. He works within avant-garde electronic, rock and improvisational groups, most notably Tortoise, Isotope 217 and Spectralina. LeRoy Bach is a Grammy-winning artist, having worked with Wilco, Theaster Gates, 5ive Style and many others.  Bach currently collaborates with Official Claire and Marvin Tate. Bittney & Bach have a long-standing duo collaboration. With drums, electronics, electric guitar they perform hypnotic, swingin, rockin’ sprawling landscapes, backed up with rich, rooted improvisations.</p>
+          <p className="text-lg leading-relaxed mb-8" >Dan Bitney is an experimental musician and composer based in Chicago. He works within avant-garde electronic, rock and improvisational groups, most notably Tortoise, Isotope 217 and Spectralina. LeRoy Bach is a Grammy-winning artist, having worked with Wilco, Theaster Gates, 5ive Style and many others.  Bach currently collaborates with Official Claire and Marvin Tate. Bitney & Bach have a long-standing duo collaboration. With drums, electronics, electric guitar they perform hypnotic, swingin, rockin’ sprawling landscapes, backed up with rich, rooted improvisations.</p>
 
           <div className="bg-gray-200 h-2 w-full my-8"></div>
 

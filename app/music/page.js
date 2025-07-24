@@ -331,17 +331,17 @@ export default function Music() {
 
 
 
-          <h3 className="tracking-wide font-aurochs font-bold text-3xl mt-10 mb-2">LeRoy Bach & Dan Bittney          </h3>
+          <h3 className="tracking-wide font-aurochs font-bold text-3xl mt-10 mb-2">LeRoy Bach & Dan Bitney          </h3>
 
           <Image
             src="/leroydan.jpg"
-            alt="LeRoy Bach & Dan Bittney"
+            alt="LeRoy Bach & Dan Bitney"
             className="self-start mb-2"
             width={600}
             height={400}
           />
 
-          <p className="mt-4">Dan Bitney is an experimental musician and composer based in Chicago. He works within avant-garde electronic, rock and improvisational groups, most notably Tortoise,  Isotope 217 and Spectralina. LeRoy Bach is a Grammy-winning artist, having worked with Wilco, Theaster Gates, 5ive Style and many others.  Bach currently collaborates with Official Claire and Marvin Tate. Bittney & Bach have a long-standing duo collaboration. With drums, electronics, electric guitar they perform hypnotic, swingin, rockin&apos; sprawling landscapes, backed up with rich, rooted improvisations.   </p>
+          <p className="mt-4">Dan Bitney is an experimental musician and composer based in Chicago. He works within avant-garde electronic, rock and improvisational groups, most notably Tortoise,  Isotope 217 and Spectralina. LeRoy Bach is a Grammy-winning artist, having worked with Wilco, Theaster Gates, 5ive Style and many others.  Bach currently collaborates with Official Claire and Marvin Tate. Bitney & Bach have a long-standing duo collaboration. With drums, electronics, electric guitar they perform hypnotic, swingin, rockin&apos; sprawling landscapes, backed up with rich, rooted improvisations.   </p>
 
 
 
