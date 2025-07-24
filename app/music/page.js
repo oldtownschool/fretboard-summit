@@ -109,8 +109,8 @@ export default function Music() {
             </div>*/}
             <div className="flex justify-center  mx-auto" style={{maxWidth: '430px'}}>
               <Image
-                src="/COMPwCESAR-CharlieHunter.jpg"
-                alt="Charlie Hunter"
+                src="/Ella_CH.png"
+                alt="Charlie Hunter & Ella Feingold"
                 className="self-start mb-2"
                 width={600}
                 height={400}
@@ -119,7 +119,7 @@ export default function Music() {
             <h2 className="tracking-wide font-aurochs font-normal uppercase text-3xl">
             Saturday, August 23
               <br />
-              <span className="font-bold">Charlie Hunter</span>
+              <span className="font-bold">Charlie Hunter & Ella Feingold</span>
               <br />{" "}
               {/* <span className="font-light tracking-wider">
               Exclusive For All Access Passholders
@@ -191,7 +191,7 @@ export default function Music() {
           />
 
           <p className="mt-4">
-          Cesar Rosas, founding member of the iconic band Los Lobos, plays a wide spectrum of music from traditional flavors to mind altering sounds. Charlie Hunter blends genres from jazz and funk to blues and rock, all on his custom 6- and 7-string guitars by Hybrid Guitars Co. 
+          Cesar Rosas, founding member of the iconic band Los Lobos, plays a wide spectrum of music from traditional flavors to mind altering sounds.
           </p>
 
           {/* <div className="flex items-center divide-x-2 divide-gray-500 mt-6">
@@ -203,17 +203,17 @@ export default function Music() {
 
 
 
-          <h3 className="tracking-wide font-aurochs font-bold text-3xl mt-10 mb-2">Charlie Hunter plays Blind Blake </h3>
+          <h3 className="tracking-wide font-aurochs font-bold text-3xl mt-10 mb-2">Charlie Hunter & Ella Feingold</h3>
 
           <Image
-            src="/COMPwCESAR-CharlieHunter.jpg"
-            alt="CharlieHunter"
+            src="/Ella_CH.png"
+            alt="Charlie Hunter & Ella Feingold"
             className="self-start mb-2"
             width={600}
             height={400}
           />
 
-          <p className="mt-4">Acclaimed guitarist Charlie Hunter offers up a first-of-its-kind solo set featuring the music of blues great Blind Blake.</p>
+          <p className="mt-4">Acclaimed guitarists Charlie Hunter and Ella Feingold perform from their new duo album, &apos;Different Strokes for Different Folks.&apos; This exploratory duo project is a deep dive into the art of musical conversation. Built on a foundation of rhythm, space, and groove, Hunter and Feingold engage in a fluid, improvisational exchange, pushing beyond conventional structures to create something raw, immediate, and deeply immersive. Their interplay unfolds like a dialogue—organic, unpredictable, and rich with nuance—where silence holds as much weight as sound.</p>
 
 
           <div className="flex justify-center  my-12">
@@ -248,13 +248,13 @@ export default function Music() {
 
           <h3 className="tracking-wide font-aurochs font-bold text-3xl mt-10 mb-2">Jonathan Stout & Erik McIntyre Jazz Duo</h3>
 
-          {/* <Image
-            src="/COMPwCESAR-CharlieHunter.jpg"
-            alt="CharlieHunter"
+          <Image
+            src="/Stout_McIntyre_FBS25.png"
+            alt="Jonathan Stout & Erik Mcintyre"
             className="self-start mb-2"
             width={600}
             height={400}
-          /> */}
+          />
 
           <p className="mt-4">Jazz guitarist Jonathan Stout makes his return to the Fretboard Summit for an unforgettable set of music with collaborator Erik McIntyre.</p>
 
@@ -319,15 +319,30 @@ export default function Music() {
 
           <h3 className="tracking-wide font-aurochs font-bold text-3xl mt-10 mb-2">LA Session Greats: Dylan Day, Harrison Whitford, Ryan Richter</h3>
 
-          {/* <Image
-            src="/COMPwCESAR-CharlieHunter.jpg"
+          <Image
+            src="/LASessionGreats.png"
             alt="CharlieHunter"
             className="self-start mb-2"
             width={600}
             height={400}
-          /> */}
+          />
 
           <p className="mt-4">Collectively, Dylan Day, Harrison Whitford and Ryan Richter have performed with the likes of Jackson Browne, Beck, Phoebe Bridgers, Dijon, Lizzy McAlpine and others. During this Szold concert session, these stellar musicians trade songs and collaborate for an unforgettable evening of music.</p>
+
+
+
+          <h3 className="tracking-wide font-aurochs font-bold text-3xl mt-10 mb-2">LeRoy Bach & Dan Bittney          </h3>
+
+          <Image
+            src="/leroydan.jpg"
+            alt="LeRoy Bach & Dan Bittney"
+            className="self-start mb-2"
+            width={600}
+            height={400}
+          />
+
+          <p className="mt-4">Dan Bitney is an experimental musician and composer based in Chicago. He works within avant-garde electronic, rock and improvisational groups, most notably Tortoise,  Isotope 217 and Spectralina. LeRoy Bach is a Grammy-winning artist, having worked with Wilco, Theaster Gates, 5ive Style and many others.  Bach currently collaborates with Official Claire and Marvin Tate. Bittney & Bach have a long-standing duo collaboration. With drums, electronics, electric guitar they perform hypnotic, swingin, rockin&apos; sprawling landscapes, backed up with rich, rooted improvisations.   </p>
+
 
 
           <h3 className="tracking-wide font-aurochs font-bold text-3xl mt-10 mb-2">Anna Vogelzang </h3>

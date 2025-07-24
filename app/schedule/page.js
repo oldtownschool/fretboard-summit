@@ -168,8 +168,9 @@ export default function Schedule() {
           <h4 className="font-aurochs uppercase text-xl underline tracking-wider">Maurer Hall </h4>
           
           <p className="font-bold mt-4 leading-relaxed" >8pm Cesar Rosas & the Chi-Town Playboys</p>
-          <p className="font-bold leading-relaxed" >Charlie Hunter Plays Blind Blake</p>
-          <p className="text-lg leading-relaxed mb-8" >We kick off night one of the Summit with a double-bill we know you&apos;ll love. Acclaimed guitarist Charlie Hunter offers up a first-of-its-kind solo set featuring the music of blues great Blind Blake. After Hunter, Los Lobos&apos; Cesar Rosas performs with his Chicago-based Chi-Town Playboys band. You won&apos;t want to miss it. 
+          <p className="font-bold leading-relaxed" >Charlie Hunter & Ella Feingold</p>
+          <p className="text-lg leading-relaxed mb-8" >We kick off night one of the Summit with a double-bill we know you&apos;ll love. Acclaimed guitarists Charlie Hunter and Ella Feingold perform from their new duo album, &apos;Different Strokes for Different Folks.&apos;<br/>
+          After their set, Los Lobos&apos; Cesar Rosas performs with his Chicago-based Chi-Town Playboys band. You won&apos;t want to miss it.
           </p>
           
 
@@ -220,8 +221,8 @@ export default function Schedule() {
           <p className="font-bold mt-4 leading-relaxed" >2pm Workshop: Using Song Prompts with Anna Vogelzang</p>
           <p className="text-lg leading-relaxed" >Some of today&apos;s best songwriters use song prompts to craft their material. In this workshop, Chicago-based singer-songwriter Anna Vogelzang creates the Fretboard Summit&apos;s first-ever song club and walks us through the process. Our 2025 prompt is “Refraction.” Write a song based on that or just hear what others do.  (Szold Hall - East)</p>
 
-          <p className="font-bold mt-4 leading-relaxed" >3pm Workshop: Charlie Hunter & Ella Feingold: The Making of &apos;Different Strokes for Different Folks&apos; </p>
-          <p className="text-lg leading-relaxed" >Different Strokes for Different Folks, the 2025 collaboration between Charlie Hunter and Ella Feingold, is one of our favorite records of the year. Hear these two guitar icons perform from the record and discuss its making. (Maurer Hall - West)</p>
+          <p className="font-bold mt-4 leading-relaxed" >3pm Workshop: Charlie Hunter on Blind Blake </p>
+          <p className="text-lg leading-relaxed" >One of Charlie Hunter&apos;s passion projects has been studying the music of ragtime and blues guitarist Blind Blake. In this workshop, we&apos;ll hear Hunter&apos;s take on Blake&apos;s music... and what makes it so special. (Maurer Hall - West)</p>
 
           <p className="font-bold mt-4 leading-relaxed" >4pm Oral History: Twenty Years of the Fretboard Journal: A Tell-All with Jason Verlinde</p>
           <p className="text-lg leading-relaxed" >Against all the odds, the Fretboard Journal turns 20 this year. What&apos;s it take to keep a print magazine afloat for two decades? Fretboard Journal publisher Jason Verlinde will spill the beans with some hilarious, unfiltered and hopefully not too depressing tales from the front lines of niche media. Mostly, we&apos;ll share some of the FJ&apos;s most memorable stories. (Maurer Hall - West)</p>
@@ -312,6 +313,10 @@ export default function Schedule() {
 
           <p className="font-bold mt-4 leading-relaxed" >8pm Dylan Day, Harrison Whitford, Ryan Richter</p>
           <p className="text-lg leading-relaxed mb-8" >Collectively, Dylan Day, Harrison Whitford and Ryan Richter have performed with the likes of Jackson Browne, Beck, Phoebe Bridgers, Dijon, Lizzy McAlpine and others. During this Szold concert session, these stellar musicians trade songs and collaborate for an unforgettable evening of music.</p>
+
+          <p className="font-bold mt-4 leading-relaxed" >9pm LeRoy Bach & Dan Bittney
+          </p>
+          <p className="text-lg leading-relaxed mb-8" >Dan Bitney is an experimental musician and composer based in Chicago. He works within avant-garde electronic, rock and improvisational groups, most notably Tortoise, Isotope 217 and Spectralina. LeRoy Bach is a Grammy-winning artist, having worked with Wilco, Theaster Gates, 5ive Style and many others.  Bach currently collaborates with Official Claire and Marvin Tate. Bittney & Bach have a long-standing duo collaboration. With drums, electronics, electric guitar they perform hypnotic, swingin, rockin’ sprawling landscapes, backed up with rich, rooted improvisations.</p>
 
           <div className="bg-gray-200 h-2 w-full my-8"></div>
 
