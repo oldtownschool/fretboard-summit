@@ -48,7 +48,7 @@ export default function Luthiers() {
 
 
           <h3 className="font-bold text-lg leading-relaxed mt-8">Confirmed 2025 Exhibitors</h3>
-          <p className="italic text-sm leading-relaxed">Updated: July 3, 2025</p>
+          <p className="italic text-sm leading-relaxed">Updated: July 24, 2025</p>
           <p className="italic text-sm leading-relaxed">* asterisk indicates sponsor</p>
 
 

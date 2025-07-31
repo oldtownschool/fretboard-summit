@@ -117,7 +117,7 @@ export default function Music() {
               />
             </div> 
             <h2 className="tracking-wide font-aurochs font-normal uppercase text-3xl">
-            Saturday, August 23
+            Thursday, August 21
               <br />
               <span className="font-bold">Charlie Hunter & Ella Feingold</span>
               <br />{" "}
