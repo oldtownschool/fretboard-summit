@@ -147,7 +147,10 @@ export default function Schedule() {
           <p className="text-lg leading-relaxed" >Just for three-day passholders: Kick off the Summit and learn about late-breaking schedule additions with the Old Town School and the Fretboard Journal teams. We&apos;ll also get an exclusive Chicago premiere of Kalamazoo Gals, the short documentary helmed by longstanding FJ contributor John Thomas on the women who built Gibson &quot;Banner&quot; guitars during WWII. (Maurer Hall - West)</p>
           
           <p className="font-bold mt-4 leading-relaxed" >1:00pm Luthier & Exhibitor Showcase Preview Opens</p>
-          <p className="text-lg leading-relaxed" >Exclusive preview of the Summit lutherie showcase just for three-day attendees. Scattered between the Old Town School of Folk Music&apo;s two buildings, Summit goers can find nearly 80 brands and solo builders showcasing their latest wares, including several prototypes and product launches. Meet some of the legends of the gear industry. Demo/listening rooms are available if you need a quiet space to try things out…or an amp to plug things in. (Both OTSFM buildings) </p>
+          <p className="text-lg leading-relaxed" >Exclusive preview of the Summit lutherie showcase just for three-day attendees. Scattered between the Old Town School of Folk Music&apos;s two buildings, Summit goers can find nearly 80 brands and solo builders showcasing their latest wares, including several prototypes and product launches. Meet some of the legends of the gear industry. Demo/listening rooms are available if you need a quiet space to try things out…or an amp to plug things in. (Both OTSFM buildings) </p>
+
+          <p className="font-bold mt-4 leading-relaxed" >5:00pm - 6:00pm Happy Hour Hangout</p>
+          <p className="text-lg leading-relaxed" >Gather with your fellow 3-day pass holders for happy hour with complimentary drinks and light snacks. <span class="italic">Sponsored by Henricksen Amplifiers</span> (Gallery - West)</p>
           
           <h3 className="font-aurochs mt-10 uppercase text-xl sm:text-2xl tracking-wider leading-relaxed" >Workshops  </h3>
           

@@ -97,6 +97,11 @@ export default function Luthiers() {
                 <td>Acoustics</td>
                 {/* <td>E124</td> */}
               </tr>
+              <tr>
+                <td><Link href="https://www.bensonamps.com/">Benson Amps</Link></td>
+                <td>Amplifiers</td>
+                {/* <td>E124</td> */}
+              </tr>
               
               <tr>
                 <td><Link href="https://blackbobbin.com/">Black Bobbin</Link></td>
@@ -171,11 +176,6 @@ export default function Luthiers() {
               </tr>
               <tr>
                 <td><Link href="https://www.cirrusguitars.com/">Cirrus Guitars</Link></td>
-                <td>Acoustics</td>
-                {/* <td>E324</td> */}
-              </tr>
-              <tr>
-                <td><Link href="http://www.curtisrockwellguitars.com/">Curtis Rockwell, Luthier</Link></td>
                 <td>Acoustics</td>
                 {/* <td>E324</td> */}
               </tr>
@@ -331,7 +331,7 @@ export default function Luthiers() {
               </tr>
               <tr>
                 <td><Link href="http://www.madsenamps.com/">Madsen Amplification</Link></td>
-                <td>Amps</td>
+                <td>Amplifiers</td>
                 {/* <td>E220</td> */}
               </tr>
               <tr>
@@ -416,7 +416,7 @@ export default function Luthiers() {
                 {/* <td>E328</td> */}
               </tr>              
               <tr>
-                <td><Link href="https://robbinsguitar.com/">Ryan’s Ukes</Link></td>
+                <td><Link href="https://www.ryansukes.com/">Ryan’s Ukes</Link></td>
                 <td>Ukuleles</td>
                 {/* <td>E328</td> */}
               </tr>
