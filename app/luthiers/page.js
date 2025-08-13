@@ -510,7 +510,7 @@ export default function Luthiers() {
                 <td>W-102</td>
               </tr>
               <tr>
-                <td><Link href="http://www.wadeguitar.com/">Truth About Vintage Amps</Link></td>
+                <td class="font-bold"><Link href="https://www.fretboardjournal.com/podcasts/the-truth-about-vintage-amps-big-index-page/">Truth About Vintage Amps*</Link></td>
                 <td>Amplifiers</td>
                 <td>W-B1</td>
               </tr>
