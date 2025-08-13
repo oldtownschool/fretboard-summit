@@ -184,33 +184,33 @@ export default function Tickets() {
           </button> */}
           
 
-          <p className="text-white text-lg mt-2 mb-2">
+          {/* <p className="text-white text-lg mt-2 mb-2">
             <span className="font-bold">Exhibitor Showcase Only Coming Soon</span><br/>
             Demo and shop for gear from over 80 luthiers and exhibitors.<br/>
             <span className="italic">(This pass does not include admission to Summit workshops, clinics, or concerts.)</span>
-          </p>
+          </p> */}
 
-          {/* <p className="text-white text-lg mt-2 mb-2">
+          <p className="text-white text-lg mt-2 mb-2">
             <span className="font-bold">Luthier & Gear Showcase Passes Only</span><br/>
             Demo and shop for gear from over 80 luthiers and exhibitors.<br/>
             <span className="italic">(This pass does not include admission to Summit workshops, clinics, or concerts.)</span>
           </p>
           <div className="w-full sm:flex-row sm:flex sm:w-3/4">
-            <Link href="https://www.oldtownschool.org/events/event.php?event_id=9163" className="text-center">
+            <Link href="https://www.oldtownschool.org/events/event.php?event_id=9483" className="text-center">
               <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1]">
-              Showcase Only - Sat&nbsp;August&nbsp;24
+              Showcase Only - Fri&nbsp;August&nbsp;22
               </button>
             </Link>
-            <Link href="https://www.oldtownschool.org/events/event.php?event_id=9164" className="text-center ml-0 sm:ml-1">
+            <Link href="https://www.oldtownschool.org/events/event.php?event_id=9484" className="text-center ml-0 sm:ml-1">
               <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1] mt-2 sm:mt-0 ml-0 sm:ml-1">
-              Showcase Only - Sun&nbsp;August&nbsp;25          
+              Showcase Only - Sat&nbsp;August&nbsp;23          
               </button>
             </Link>
           </div>
           <p className="text-white text-lg italic">
             Tickets will also be available at the door
           </p>
-          */}
+         
 
           <p className="text-white text-lg mt-6">
             <span className="font-bold">Individual Concert Tickets</span>
