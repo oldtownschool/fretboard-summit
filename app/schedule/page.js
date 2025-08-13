@@ -233,7 +233,7 @@ export default function Schedule() {
           <p className="font-bold mt-4 leading-relaxed" >4pm OM Guitar History with TJ Thompson and Greig Hutton</p>
           <p className="text-lg leading-relaxed" >Two of the world&apos;s foremost experts on all-things-Martin - repair guru TJ Thompson and archivist/author/historian Greig Hutton - discuss the history of the Martin OM. A can&apos;t-miss session for lovers of old (or new) Martins. (Szold Hall - East)</p>
 
-          <p className="font-bold mt-4 leading-relaxed" >4pm-6pm Amplified Voices Meetup Hosted by Chase Bliss</p>
+          <p className="font-bold mt-4 leading-relaxed" >4:30pm-6pm Amplified Voices Meetup Hosted by Chase Bliss</p>
           <p className="text-lg leading-relaxed" >An informal hangout for musicians, builders, artists, and guests who care deeply about making the music world more welcoming and inclusive for all kinds of people. (Mabie Gallery)</p>
 
 

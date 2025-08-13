@@ -376,7 +376,7 @@ export default function Luthiers() {
               <tr>
                 <td class="font-bold"><Link href="https://www.northfieldinstruments.com/">Northfield Stringed Instruments/ADK Designs*</Link></td>
                 <td>Mandolins</td>
-                <td>W-213</td>
+                <td>W-212</td>
               </tr>
               
               <tr>
