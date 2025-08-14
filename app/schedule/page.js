@@ -127,7 +127,7 @@ export default function Schedule() {
         <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#A4CCDA] text-[#322D25]">
 
 
-          <p className="italic text-sm leading-relaxed">Updated: July 22, 2025</p>
+          <p className="italic text-sm leading-relaxed">Updated: August 14, 2025</p>
           <p className="font-bold text-sm leading-relaxed">Fretboard Summit 2025: Full Schedule & Descriptions</p>
           
 
@@ -191,7 +191,8 @@ export default function Schedule() {
           
           <p className="font-bold mt-4 leading-relaxed" >10am Evan Gluck&apos;s Guitar Roundtable 
           </p>
-          <p className="text-lg leading-relaxed" >As a NYC-based guitar repair legend, Evan Gluck has seen it all. In what has become an annual (and often hilarious) session, Gluck and a select group of friends talk about the craft of guitar and field questions from left-field about all things guitar and guitar repair. (Maurer Hall - West)</p>
+          <p className="text-lg leading-relaxed" >As a NYC-based guitar repair legend, Evan Gluck has seen it all. In what has become an annual (and often hilarious) session, Gluck and a select group of friends talk about the craft of guitar and field questions from left-field about all things guitar and guitar repair. This year, Gluck has asked TJ Thompson, Ceil Thompson, and Mark Stutman to help him out. 
+          (Maurer Hall - West)</p>
           
           <p className="font-bold mt-4 leading-relaxed" >10am Pick Tasting with Frank Solivan and Tone Slabs </p> 
           <p className="text-lg leading-relaxed" >As one of the best bluegrass musicians around and a co-founder of Tone Slabs, mandolin player Frank Solivan knows a thing or two about picks. In this interactive session, Frank will be pairing space-age materials with some delicious, exotic woods and wire. Come see what all the fuss is about with high-end picks.
@@ -224,8 +225,11 @@ export default function Schedule() {
           <p className="font-bold mt-4 leading-relaxed" >2pm Workshop: Using Song Prompts with Anna Vogelzang</p>
           <p className="text-lg leading-relaxed" >Some of today&apos;s best songwriters use song prompts to craft their material. In this workshop, Chicago-based singer-songwriter Anna Vogelzang creates the Fretboard Summit&apos;s first-ever song club and walks us through the process. Our 2025 prompt is “Refraction.” Write a song based on that or just hear what others do.  (Szold Hall - East)</p>
 
-          <p className="font-bold mt-4 leading-relaxed" >3pm Workshop: Charlie Hunter on Blind Blake </p>
+          <p className="font-bold mt-4 leading-relaxed" >3pm Workshop: Charlie Hunter on Blind Blake</p>
           <p className="text-lg leading-relaxed" >One of Charlie Hunter&apos;s passion projects has been studying the music of ragtime and blues guitarist Blind Blake. In this workshop, we&apos;ll hear Hunter&apos;s take on Blake&apos;s music... and what makes it so special. (Maurer Hall - West)</p>
+
+          <p className="font-bold mt-4 leading-relaxed" >3pm Guitar for Introverts with Jamie Stillway</p>
+          <p className="text-lg leading-relaxed" >Acclaimed guitarist Jamie Stillway interviews NYC luthier/musician Mamie Minch for the Fretboard Journal&apos;s Guitar for Introverts podcast. <br/>Expect an introspective deep dive into music, life and more. (Mabie Gallery - West)</p>
 
           <p className="font-bold mt-4 leading-relaxed" >4pm Oral History: Twenty Years of the Fretboard Journal: A Tell-All with Jason Verlinde</p>
           <p className="text-lg leading-relaxed" >Against all the odds, the Fretboard Journal turns 20 this year. What&apos;s it take to keep a print magazine afloat for two decades? Fretboard Journal publisher Jason Verlinde will spill the beans with some hilarious, unfiltered and hopefully not too depressing tales from the front lines of niche media. Mostly, we&apos;ll share some of the FJ&apos;s most memorable stories. (Maurer Hall - West)</p>
