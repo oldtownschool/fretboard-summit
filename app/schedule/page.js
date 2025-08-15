@@ -303,7 +303,7 @@ export default function Schedule() {
           <p className="text-lg leading-relaxed" >Picture the Science Fairs of your youth, but with guitars. Our Our Summit Science is now an annual tradition.  The wildest creations and prototypes of the 2025 Summit. (Szold Hall - East)</p>
 
           <p className="font-bold mt-4 leading-relaxed" >3pm Masterclass: Alternate Tuning and Arranging with Emma Harner</p>
-          <p className="text-lg leading-relaxed" >Alternate tuning enthusiast and fingerstyle guitarist Emma Harner will take this time to talk about alternate tunings: How to choose them, how to use them, how to name them, and what they can do for you! Shewill also explore how she&apos;s used some of these tunings to inspireout-of-the-box arrangements of songs you may know. (Maurer Hall - West)</p>
+          <p className="text-lg leading-relaxed" >Alternate tuning enthusiast and fingerstyle guitarist Emma Harner will take this time to talk about alternate tunings: How to choose them, how to use them, how to name them, and what they can do for you! She will also explore how she&apos;s used some of these tunings to inspire out-of-the-box arrangements of songs you may know. (Maurer Hall - West)</p>
 
 
 
