@@ -127,7 +127,7 @@ export default function Schedule() {
         <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#A4CCDA] text-[#322D25]">
 
 
-          <p className="italic text-sm leading-relaxed">Updated: August 14, 2025</p>
+          <p className="italic text-sm leading-relaxed">Updated: August 15, 2025</p>
           <p className="font-bold text-sm leading-relaxed">Fretboard Summit 2025: Full Schedule & Descriptions</p>
           
 
@@ -301,6 +301,9 @@ export default function Schedule() {
 
           <p className="font-bold mt-4 leading-relaxed" >3pm The 4th Annual Fretboard Summit Science Fair</p>
           <p className="text-lg leading-relaxed" >Picture the Science Fairs of your youth, but with guitars. Our Our Summit Science is now an annual tradition.  The wildest creations and prototypes of the 2025 Summit. (Szold Hall - East)</p>
+
+          <p className="font-bold mt-4 leading-relaxed" >3pm Masterclass: Alternate Tuning and Arranging with Emma Harner</p>
+          <p className="text-lg leading-relaxed" >Alternate tuning enthusiast and fingerstyle guitarist Emma Harner will take this time to talk about alternate tunings: How to choose them, how to use them, how to name them, and what they can do for you! Shewill also explore how she&apos;s used some of these tunings to inspireout-of-the-box arrangements of songs you may know. (Maurer Hall - West)</p>
 
 
 
