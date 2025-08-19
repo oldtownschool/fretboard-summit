@@ -248,7 +248,7 @@ export const Footer = () => {
               height={150}
             />
           </a>
-          <a className="flex mx-1 sm:mx-2 sm:ml-12 self-center image-sm" href="https://www.lyonhealycorporation.com/" >
+          <a className="flex mx-1 sm:mx-2 sm:ml-12 self-center image-sm" href="https://www.lyonhealycorporation.com/brands/" >
             <Image
               className="mix-blend-multiply image-sm"
               src="/LyonHealy.png"

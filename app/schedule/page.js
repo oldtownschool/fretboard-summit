@@ -157,7 +157,7 @@ export default function Schedule() {
           <p className="text-lg leading-relaxed" >Gather with your fellow 3-day pass holders for happy hour with complimentary drinks and light snacks. <span className="italic">Sponsored by Henricksen Amplifiers</span> (Gallery - West)</p>
 
           <p className="font-bold mt-4 leading-relaxed" >Fretboard Summit Pinewood Derby</p>
-          <p className="text-lg leading-relaxed" >Check out the cars for the 2025 Invitational Pinewood Derby. Some of your favorite luthiers and creators were invited to put their woodworking skills to the test and design a car for the festival. Details about the races are yet to be determined! </p>
+          <p className="text-lg leading-relaxed" >Check out the cars for the 2025 Invitational Pinewood Derby. Some of your favorite luthiers and creators were invited to put their woodworking skills to the test and design a car for the festival. Details about the races are yet to be determined! (Gallery - West) </p>
           
           <h3 className="font-aurochs mt-10 uppercase text-xl sm:text-2xl tracking-wider leading-relaxed" >Workshops</h3>
           
