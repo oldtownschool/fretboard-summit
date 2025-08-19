@@ -52,7 +52,7 @@ export default function Directions() {
           <p className="mt-6">We&apos;ve asked some of our friends for their favorite hangs and eats in Chicago:</p>
 
           <figure className="max-w-screen-md mx-auto text-center mt-6 bg-yellow-50 p-4">
-            <svg aria-hidden="true" class="w-10 h-10 mx-auto text-gray-400 dark:text-gray-600" viewBox="0 0 24 27" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M14.017 18L14.017 10.609C14.017 4.905 17.748 1.039 23 0L23.995 2.151C21.563 3.068 20 5.789 20 8H24V18H14.017ZM0 18V10.609C0 4.905 3.748 1.038 9 0L9.996 2.151C7.563 3.068 6 5.789 6 8H9.983L9.983 18L0 18Z" fill="currentColor"/></svg>
+            <svg aria-hidden="true" className="w-10 h-10 mx-auto text-gray-400 dark:text-gray-600" viewBox="0 0 24 27" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M14.017 18L14.017 10.609C14.017 4.905 17.748 1.039 23 0L23.995 2.151C21.563 3.068 20 5.789 20 8H24V18H14.017ZM0 18V10.609C0 4.905 3.748 1.038 9 0L9.996 2.151C7.563 3.068 6 5.789 6 8H9.983L9.983 18L0 18Z" fill="currentColor"/></svg>
             <blockquote>
                 <p className="text-2xl italic font-medium text-gray-900">I always take the easy way out and eat wherever is convenient. Though it is non-gourmet and inelegantly spicy/barely healthy fare, I love <Link href="https://www.tacomaxmx.com/">Taco Max</Link>. I think there are two, both on the west side. Fine &#40;as in costly haute-style&#41; cuisine: <Link href="https://www.nextrestaurant.com/">Next</Link> and <Link href="https://www.proxichicago.com/"></Link>Proxi. In Andersonville: <Link href="https://www.anteprimachicago.net/">Anteprima</Link></p>
             </blockquote>
@@ -67,7 +67,7 @@ export default function Directions() {
         </figure>
 
         <figure className="max-w-screen-md mx-auto text-center mt-6 bg-yellow-50 p-4">
-            <svg aria-hidden="true" class="w-10 h-10 mx-auto text-gray-400 dark:text-gray-600" viewBox="0 0 24 27" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M14.017 18L14.017 10.609C14.017 4.905 17.748 1.039 23 0L23.995 2.151C21.563 3.068 20 5.789 20 8H24V18H14.017ZM0 18V10.609C0 4.905 3.748 1.038 9 0L9.996 2.151C7.563 3.068 6 5.789 6 8H9.983L9.983 18L0 18Z" fill="currentColor"/></svg>
+            <svg aria-hidden="true" className="w-10 h-10 mx-auto text-gray-400 dark:text-gray-600" viewBox="0 0 24 27" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M14.017 18L14.017 10.609C14.017 4.905 17.748 1.039 23 0L23.995 2.151C21.563 3.068 20 5.789 20 8H24V18H14.017ZM0 18V10.609C0 4.905 3.748 1.038 9 0L9.996 2.151C7.563 3.068 6 5.789 6 8H9.983L9.983 18L0 18Z" fill="currentColor"/></svg>
             <blockquote>
                 <p className="text-2xl italic font-medium text-gray-900">“The La Scarola to Richards Pipeline” My favorite &#91;Chicago&#93; restaurant is La Scarola and my favorite bar is Richards bar, right next door. It’s the La Scarola to Richards pipeline. I recommend the grilled octopus.</p>
             </blockquote>

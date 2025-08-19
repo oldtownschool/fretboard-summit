@@ -230,16 +230,6 @@ export const Footer = () => {
               height={150}	
             />
           </a>
-          {/* <a className="flex mx-1 sm:mx-2 sm:ml-12 self-center image-sm" href="https://www.acoustic.coffee/" >
-            <Image
-              className="mix-blend-multiply image-sm"
-              src="/image14.png"
-              alt="Acoustic Coffee Co"
-              width={60}
-              height={150}	
-            />
-          </a> */}
-          
           <a className="flex mx-1 sm:mx-2 sm:ml-12 self-center image-sm" href="https://pacificrimtonewoods.com/" >
             <Image
               className="mix-blend-difference image-sm"
@@ -249,19 +239,24 @@ export const Footer = () => {
               height={150}
             />
           </a>
-          {/* <a className="flex mx-1 sm:mx-2 sm:ml-8 self-center image-sm" href="https://stringjoy.com/" >
+          <a className="flex mx-1 sm:mx-2 sm:ml-8 self-center image-sm" href="https://theacousticshoppe.com/" >
             <Image
               className="mix-blend-multiply image-sm"
-              src="/Stringjoy.png"
-              alt="Stringjoy"
+              src="/AcousticShoppe.png"
+              alt="Acoustic Shoppe"
               width={60}
               height={150}
             />
-          </a> */}
-          
-        </div>
-
-        <div className="flex justify-center pt-4 px-2 image-container">
+          </a>
+          <a className="flex mx-1 sm:mx-2 sm:ml-12 self-center image-sm" href="https://www.lyonhealycorporation.com/" >
+            <Image
+              className="mix-blend-multiply image-sm"
+              src="/LyonHealy.png"
+              alt="Lyon & Healy"
+              width={60}
+              height={150}	
+            />
+          </a>
           <a className="flex mx-1 sm:mx-2 sm:ml-12 self-center image-sm" href="https://www.daddario.com/" >
             <Image
               className="mix-blend-multiply image-sm"
@@ -280,7 +275,29 @@ export const Footer = () => {
               height={150}
             />
           </a>
-          {/* <a className="flex mx-1 sm:mx-2 self-center image-sm" href="https://www.gibson.com/en-US/" >
+          
+        </div>
+
+        {/* <div className="flex justify-center pt-4 px-2 image-container">
+          <a className="flex mx-1 sm:mx-2 sm:ml-12 self-center image-sm" href="https://www.daddario.com/" >
+            <Image
+              className="mix-blend-multiply image-sm"
+              src="/image15.png"
+              alt="D'Addario"
+              width={60}
+              height={150}
+            />
+          </a>
+          <a className="flex mx-1 sm:mx-2 sm:ml-12 self-center image-sm" href="https://bovedainc.com/" >
+            <Image
+              className="mix-blend-multiply image-sm"
+              src="/Boveda_FretboardSponsor.png"
+              alt="D'Addario"
+              width={60}
+              height={150}
+            />
+          </a>
+          <a className="flex mx-1 sm:mx-2 self-center image-sm" href="https://www.gibson.com/en-US/" >
             <Image
               className="mix-blend-multiply image-sm"
               src="/Gibson_FretboardSponsor.png"
@@ -288,8 +305,8 @@ export const Footer = () => {
               width={60}
               height={150}	
             />
-          </a> */}
-          {/* <a className="flex mx-1 sm:mx-2 sm:ml-12 self-center image-sm" href="https://www.yanuziello.com/" >
+          </a>
+          <a className="flex mx-1 sm:mx-2 sm:ml-12 self-center image-sm" href="https://www.yanuziello.com/" >
             <Image
               className="mix-blend-multiply image-sm"
               src="/Yanuziello_FretboardSponsor.png"
@@ -297,9 +314,8 @@ export const Footer = () => {
               width={60}
               height={150}	
             />
-          </a> */}
-          
-        </div>
+          </a>
+        </div> */}
       </div>
 
       <div className="flex flex-col text-center  py-4">

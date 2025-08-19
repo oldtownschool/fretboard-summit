@@ -75,7 +75,7 @@ export default function Schedule() {
 
           {/* commented out  7/22/2025 */}
           {/* <Slider {...settings}>
-          <div>
+            <div>
               <Image src="/FBS24-Friday-A3.png" width={600} height={600} alt="Line Up Schedule fri 1"/>
             </div>
             <div>
@@ -127,7 +127,7 @@ export default function Schedule() {
         <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#A4CCDA] text-[#322D25]">
 
 
-          <p className="italic text-sm leading-relaxed">Updated: August 15, 2025</p>
+          <p className="italic text-sm leading-relaxed">Updated: August 19, 2025</p>
           <p className="font-bold text-sm leading-relaxed">Fretboard Summit 2025: Full Schedule & Descriptions</p>
           
 
@@ -141,7 +141,11 @@ export default function Schedule() {
           </p>
           <p className="italic text-lg leading-relaxed" >Note: Summit workshops, clinics, interviews and concerts are available to All-Access Passholders only. </p>
 
-          <p className="font-bold mt-4 leading-relaxed" >10am-12pm Registration / Check In</p>
+          <p className="font-bold mt-4 leading-relaxed" >10am - 12pm Registration / Check In</p>
+
+          <p className="font-bold mt-4 leading-relaxed" >10am - 12pm Own An Old Martin? With Greig Hutton</p>
+          <p className="text-lg leading-relaxed" >Own an old Martin and want to know more about its history? Greig Hutton has you covered. The author of Hutton&apos;s Guide to Martin Guitars: 1833-1969 has created an immense database using Martin&apos;s old shipping ledgers and is offering to tell you all about your guitar. All you need to do is bring the serial numbers of your personal instrument, he has stats on every known Martin from 1898 to 2015! (Lobby - West)</p>
+
 
           <p className="font-bold mt-4 leading-relaxed" >12:00pm Opening Remarks </p>
           <p className="text-lg leading-relaxed" >Just for three-day passholders: Kick off the Summit and learn about late-breaking schedule additions with the Old Town School and the Fretboard Journal teams. We&apos;ll also get an exclusive Chicago premiere of Kalamazoo Gals, the short documentary helmed by longstanding FJ contributor John Thomas on the women who built Gibson &quot;Banner&quot; guitars during WWII. (Maurer Hall - West)</p>
@@ -150,9 +154,12 @@ export default function Schedule() {
           <p className="text-lg leading-relaxed" >Exclusive preview of the Summit lutherie showcase just for three-day attendees. Scattered between the Old Town School of Folk Music&apos;s two buildings, Summit goers can find nearly 80 brands and solo builders showcasing their latest wares, including several prototypes and product launches. Meet some of the legends of the gear industry. Demo/listening rooms are available if you need a quiet space to try things out…or an amp to plug things in. (Both OTSFM buildings) </p>
 
           <p className="font-bold mt-4 leading-relaxed" >5:00pm - 6:00pm Happy Hour Hangout</p>
-          <p className="text-lg leading-relaxed" >Gather with your fellow 3-day pass holders for happy hour with complimentary drinks and light snacks. <span class="italic">Sponsored by Henricksen Amplifiers</span> (Gallery - West)</p>
+          <p className="text-lg leading-relaxed" >Gather with your fellow 3-day pass holders for happy hour with complimentary drinks and light snacks. <span className="italic">Sponsored by Henricksen Amplifiers</span> (Gallery - West)</p>
+
+          <p className="font-bold mt-4 leading-relaxed" >Fretboard Summit Pinewood Derby</p>
+          <p className="text-lg leading-relaxed" >Check out the cars for the 2025 Invitational Pinewood Derby. Some of your favorite luthiers and creators were invited to put their woodworking skills to the test and design a car for the festival. Details about the races are yet to be determined! </p>
           
-          <h3 className="font-aurochs mt-10 uppercase text-xl sm:text-2xl tracking-wider leading-relaxed" >Workshops  </h3>
+          <h3 className="font-aurochs mt-10 uppercase text-xl sm:text-2xl tracking-wider leading-relaxed" >Workshops</h3>
           
           <p className="font-bold mt-4 leading-relaxed" >2pm Leo Fender: The Pre-Tweed Years 1909-1947</p> 
           <p className="text-lg leading-relaxed" >Fender historian Terry Foster (Fender: The Golden Age 1946-1970) makes his debut appearance at the Summit! Foster will walk us through Leo Fender&apos;s early history and influences leading up to his work as a radio repairman, inventor, founder of K&F and the Fender Electric Instrument Company. Including many unseen photos and pieces of Fender history. Presentation followed by Q&A. (Maurer Hall - West)</p>
@@ -188,6 +195,9 @@ export default function Schedule() {
           <p className="font-bold mt-4 leading-relaxed" >10am - 5pm Lutherie Showcase </p>
           <p className="text-lg leading-relaxed" >The Fretboard Summit features one of the finest collections of handmade, high-end and boutique gear under one roof. Peruse both Old Town School buildings to demo and shop for gear from nearly 100 luthiers, brands, and gear makers. Can&apos;t make the rest of the Summit activities? We&apos;ll have Lutherie Showcase-only tickets available at the door on Friday and Saturday for those who just want to shop guitars. 
           (Both OTSFM buildings) </p>
+
+          <p className="font-bold mt-4 leading-relaxed" >10am - 12pm Own An Old Martin? With Greig Hutton</p>
+          <p className="text-lg leading-relaxed" >Own an old Martin and want to know more about its history? Greig Hutton has you covered. The author of Hutton&apos;s Guide to Martin Guitars: 1833-1969 has created an immense database using Martin&apos;s old shipping ledgers and is offering to tell you all about your guitar. All you need to do is bring the serial numbers of your personal instrument, he has stats on every known Martin from 1898 to 2015! (Lobby - West)</p>
           
           <p className="font-bold mt-4 leading-relaxed" >10am Evan Gluck&apos;s Guitar Roundtable 
           </p>
@@ -205,7 +215,7 @@ export default function Schedule() {
           <p className="font-bold mt-4 leading-relaxed" >11am Workshop: Songwriting with Sofia Wolfson</p>
           <p className="text-lg leading-relaxed" >Last year&apos;s Fretboard Summit songwriting workshop with singer-songwriter Sofia Wolfson was such a hit that we&apos;re bringing it back. Come crack the code on your first song, no guitar needed. (Szold Hall - East)</p>
           
-          <p className="font-bold mt-4 leading-relaxed" >12pm-4pm Record Sale Pop-Up </p>
+          <p className="font-bold mt-4 leading-relaxed" >12pm - 4pm Record Sale Pop-Up </p>
           <p className="text-lg leading-relaxed" >Stop by the Old Town School Resource Center for $1 records, $3 CDs, $3 DVDs, plus rare and collectables priced as marked. All of the proceeds from the sale support programming and collection development at the Resource Center. All items for sale are donations that are either duplicates or are better accessed through other outlets. Cards & cash welcome  (Basement Lobby - West)
           </p>
           
@@ -237,7 +247,7 @@ export default function Schedule() {
           <p className="font-bold mt-4 leading-relaxed" >4pm OM Guitar History with TJ Thompson and Greig Hutton</p>
           <p className="text-lg leading-relaxed" >Two of the world&apos;s foremost experts on all-things-Martin - repair guru TJ Thompson and archivist/author/historian Greig Hutton - discuss the history of the Martin OM. A can&apos;t-miss session for lovers of old (or new) Martins. (Szold Hall - East)</p>
 
-          <p className="font-bold mt-4 leading-relaxed" >4:30pm-6pm Amplified Voices Meetup Hosted by Chase Bliss</p>
+          <p className="font-bold mt-4 leading-relaxed" >4:30pm - 6pm Amplified Voices Meetup Hosted by Chase Bliss</p>
           <p className="text-lg leading-relaxed" >An informal hangout for musicians, builders, artists, and guests who care deeply about making the music world more welcoming and inclusive for all kinds of people. (Mabie Gallery)</p>
 
 
@@ -281,7 +291,7 @@ export default function Schedule() {
           <p className="font-bold mt-4 leading-relaxed" >11am Workshop: Roots Guitar from the African Continent with Nathaniel Braddock</p>
           <p className="text-lg leading-relaxed" >Fretboard Journal contributor Nathaniel Braddock has spent twenty years traveling in Africa and collaborating with musicians from across the continent. In this workshop, he will share music from the continent&apos;s many fingerstyle acoustic guitar traditions. We&apos;ll look at music from Ghana, Mali, Congo, and beyond, touching on the styles of palmwine, guitare seche, desert blues, makossa, and more. Tablature provided. Bring a capo. (Szold Hall - East)</p>
 
-          <p className="font-bold mt-4 leading-relaxed" >12pm-4pm Record Sale Pop-Up</p>
+          <p className="font-bold mt-4 leading-relaxed" >12pm - 4pm Record Sale Pop-Up</p>
           <p className="text-lg leading-relaxed" >Stop by the Old Town School Resource Center for $1 records, $3 CDs, $3 DVDs, plus rare and collectables priced as marked. All of the proceeds from the sale support programming and collection development at the Resource Center. All items for sale are donations that are either duplicates or are better accessed through other outlets. Cards & cash welcome  (Basement Lobby - West)</p>
 
           <p className="font-bold mt-4 leading-relaxed" >1pm Fretboard Journal Live Podcast: LA&apos;s Session Music Heroes </p>
@@ -565,7 +575,7 @@ export default function Schedule() {
 
 
           <p className="text-lg leading-relaxed" >Szold Hall - East</p>
-          <p className="pl-4 mb-4 text-lg leading-relaxed" ><span class="line-through">8:00pm		Via Mardot scores the 1934 stop-motion masterpiece, <span class="italic">The Mascot</span></span> <span class="italic">This Performance Has Been Canceled</span></p>
+          <p className="pl-4 mb-4 text-lg leading-relaxed" ><span className="line-through">8:00pm		Via Mardot scores the 1934 stop-motion masterpiece, <span className="italic">The Mascot</span></span> <span className="italic">This Performance Has Been Canceled</span></p>
           <p className="pl-4 mb-4 text-lg leading-relaxed" >8pm  &quot;The Show Must Go On&quot; Live Score To A Film TBD - featuring Duncan Price, Mike Adams and Friends</p>
           <p className="pl-4 mb-4 text-lg leading-relaxed" >9:00pm After performances	Late Night &quot;Summit All-Star Super Session:&quot; Ethan Sherman, Adam Levy, Ryan Richter and special guests </p>
 
