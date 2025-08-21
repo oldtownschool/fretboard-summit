@@ -74,20 +74,20 @@ export default function Schedule() {
 
 
           {/* commented out  7/22/2025 */}
-          {/* <Slider {...settings}>
+          <Slider {...settings}>
             <div>
-              <Image src="/FBS24-Friday-A3.png" width={600} height={600} alt="Line Up Schedule fri 1"/>
+              <Image src="/Fretboard2025_DailyScheduleSlides_Thurs.jpg" width={600} height={600} alt="Line Up Schedule Thurs 1"/>
             </div>
             <div>
-              <Image src="/FBS24-Saturday-B4.png" width={600} height={600} alt="Line Up Schedule sat 1" />
+              <Image src="/Fretboard2025_DailyScheduleSlides_Fri.jpg" width={600} height={600} alt="Line Up Schedule Fri 1" />
             </div>
             <div>
-              <Image src="/FBS24-Sunday-C4.png" width={600} height={600} alt="Line Up Schedule sun 1" />
+              <Image src="/Fretboard2025_DailyScheduleSlides_Sat.jpg" width={600} height={600} alt="Line Up Schedule Sat 1" />
             </div>
-            <div>
+            {/* <div>
               <Image src="/FBS24-Info-D3.png" width={600} height={600} alt="Line Up Schedule Info" />
-            </div>
-          </Slider> */}
+            </div> */}
+          </Slider>
         </div>
 
 
@@ -168,9 +168,11 @@ export default function Schedule() {
           <p className="text-lg leading-relaxed" >Luthier and musician Mamie Minch is a staple of the New York City blues scene. In this workshop, she&apos;ll walk us through the hypnotic beauty of Hill Country blues technique, as made popular by Mississippi Fred McDowell and others.
           (Szold Hall - East)</p>
           
-          <p className="font-bold mt-4 leading-relaxed" >4pm Funk Guitar Through the Ages with Ella Feingold</p>
-          <p className="text-lg leading-relaxed" >The legendary Ella Feingold plays guitar for Erykah Badu, Bruno Mars and Silk Sonic, Bootsy Collins and others. She&apos;s also one of the internet&apos;s best teachers. In this Summit exclusive, she&apos;ll offer a funk and rhythm guitar master class covering the playing on James Brown, Motown records and more. We&apos;ll dissect the different types of guitar arranging through the eras. Attendees do not need to bring a guitar. (Maurer Hall - West)</p>
+          {/* <p className="font-bold mt-4 leading-relaxed" >4pm Funk Guitar Through the Ages with Ella Feingold</p>
+          <p className="text-lg leading-relaxed" >The legendary Ella Feingold plays guitar for Erykah Badu, Bruno Mars and Silk Sonic, Bootsy Collins and others. She&apos;s also one of the internet&apos;s best teachers. In this Summit exclusive, she&apos;ll offer a funk and rhythm guitar master class covering the playing on James Brown, Motown records and more. We&apos;ll dissect the different types of guitar arranging through the eras. Attendees do not need to bring a guitar. (Maurer Hall - West)</p> */}
           
+          <p className="font-bold mt-4 leading-relaxed" >4pm Funk Guitar with Charlie Hunter</p>
+          <p className="text-lg leading-relaxed" >Funk and rhythm guitar master class looking at the playing, techniques, and arranging of funk guitar inspirational and influential to Charlie. Attendees do not need to bring a guitar. (Maurer Hall - West)</p>
 
 
 
@@ -178,9 +180,8 @@ export default function Schedule() {
           <h4 className="font-aurochs uppercase text-xl underline tracking-wider">Maurer Hall </h4>
           
           <p className="font-bold mt-4 leading-relaxed" >8pm Cesar Rosas & the Chi-Town Playboys</p>
-          <p className="font-bold leading-relaxed" >Charlie Hunter & Ella Feingold</p>
-          <p className="text-lg leading-relaxed mb-8" >We kick off night one of the Summit with a double-bill we know you&apos;ll love. Acclaimed guitarists Charlie Hunter and Ella Feingold perform from their new duo album, &apos;Different Strokes for Different Folks.&apos;<br/>
-          After their set, Los Lobos&apos; Cesar Rosas performs with his Chicago-based Chi-Town Playboys band. You won&apos;t want to miss it.
+          <p className="font-bold leading-relaxed" >Charlie Hunter</p>
+          <p className="text-lg leading-relaxed mb-8" >We kick off night one of the Summit with a double-bill we know you&apos;ll love. Acclaimed guitarist Charlie Hunter opens. Los Lobos&apos; Cesar Rosas performs with his Chicago-based Chi-Town Playboys band featuring Dave Herrero, Scott Tipping, Matt Thompson, Brother John Kattke, Chuck Lacy, and Joe Rendon.
           </p>
           
 
@@ -239,7 +240,7 @@ export default function Schedule() {
           <p className="text-lg leading-relaxed" >One of Charlie Hunter&apos;s passion projects has been studying the music of ragtime and blues guitarist Blind Blake. In this workshop, we&apos;ll hear Hunter&apos;s take on Blake&apos;s music... and what makes it so special. (Maurer Hall - West)</p>
 
           <p className="font-bold mt-4 leading-relaxed" >3pm Guitar for Introverts with Jamie Stillway</p>
-          <p className="text-lg leading-relaxed" >Acclaimed guitarist Jamie Stillway interviews NYC luthier/musician Mamie Minch for the Fretboard Journal&apos;s Guitar for Introverts podcast. <br/>Expect an introspective deep dive into music, life and more. (Mabie Gallery - West)</p>
+          <p className="text-lg leading-relaxed" >Acclaimed guitarist Jamie Stillway interviews NYC luthier/musician Mamie Minch for the Fretboard Journal&apos;s Guitar for Introverts podcast. <br/>Expect an introspective deep dive into music, life and more. (Szold Hall - East)</p>
 
           <p className="font-bold mt-4 leading-relaxed" >4pm Oral History: Twenty Years of the Fretboard Journal: A Tell-All with Jason Verlinde</p>
           <p className="text-lg leading-relaxed" >Against all the odds, the Fretboard Journal turns 20 this year. What&apos;s it take to keep a print magazine afloat for two decades? Fretboard Journal publisher Jason Verlinde will spill the beans with some hilarious, unfiltered and hopefully not too depressing tales from the front lines of niche media. Mostly, we&apos;ll share some of the FJ&apos;s most memorable stories. (Maurer Hall - West)</p>
