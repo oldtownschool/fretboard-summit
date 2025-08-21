@@ -76,13 +76,13 @@ export default function Schedule() {
           {/* commented out  7/22/2025 */}
           <Slider {...settings}>
             <div>
-              <Image src="/Fretboard2025_DailyScheduleSlides_Thurs.jpg" width={600} height={600} alt="Line Up Schedule Thurs 1"/>
+              <Image src="/Fretboard2025_DailyScheduleSlides_Thurs1.jpg" width={600} height={600} alt="Line Up Schedule Thurs 1"/>
             </div>
             <div>
               <Image src="/Fretboard2025_DailyScheduleSlides_Fri1.jpg" width={600} height={600} alt="Line Up Schedule Fri 1" />
             </div>
             <div>
-              <Image src="/Fretboard2025_DailyScheduleSlides_Sat.jpg" width={600} height={600} alt="Line Up Schedule Sat 1" />
+              <Image src="/Fretboard2025_DailyScheduleSlides_Sat1.jpg" width={600} height={600} alt="Line Up Schedule Sat 1" />
             </div>
             {/* <div>
               <Image src="/FBS24-Info-D3.png" width={600} height={600} alt="Line Up Schedule Info" />
@@ -157,7 +157,7 @@ export default function Schedule() {
           <p className="text-lg leading-relaxed" >Gather with your fellow 3-day pass holders for happy hour with complimentary drinks and light snacks. <span className="italic">Sponsored by Henricksen Amplifiers</span> (Gallery - West)</p>
 
           <p className="font-bold mt-4 leading-relaxed" >Fretboard Summit Pinewood Derby</p>
-          <p className="text-lg leading-relaxed" >Check out the cars for the 2025 Invitational Pinewood Derby. Some of your favorite luthiers and creators were invited to put their woodworking skills to the test and design a car for the festival. Details about the races are yet to be determined! (Gallery - West) </p>
+          <p className="text-lg leading-relaxed" >Check out the cars for the 2025 Invitational Pinewood Derby. Some of your favorite luthiers and creators were invited to put their woodworking skills to the test and design a car for the festival. Derby Race at 5pm Saturday (Gallery - West) </p>
           
           <h3 className="font-aurochs mt-10 uppercase text-xl sm:text-2xl tracking-wider leading-relaxed" >Workshops</h3>
           
@@ -316,6 +316,11 @@ export default function Schedule() {
           <p className="font-bold mt-4 leading-relaxed" >3pm Masterclass: Alternate Tuning and Arranging with Emma Harner</p>
           <p className="text-lg leading-relaxed" >Alternate tuning enthusiast and fingerstyle guitarist Emma Harner will take this time to talk about alternate tunings: How to choose them, how to use them, how to name them, and what they can do for you! She will also explore how she&apos;s used some of these tunings to inspire out-of-the-box arrangements of songs you may know. (Maurer Hall - West)</p>
 
+
+          <h3 className="font-aurochs mt-10 uppercase text-xl sm:text-2xl tracking-wider leading-relaxed" >Workshop </h3>
+
+          <p className="font-bold mt-4 leading-relaxed" >5pm Fretboard Summit Pinewood Derby 2025</p>
+          <p className="text-lg leading-relaxed" >The 2025 Invitational Pinewood Derby. Some of your favorite luthiers and creators were invited to put their woodworking skills to the test and design a car for the festival. Come check out the race. (Maurer Hall - West)</p>
 
 
 
