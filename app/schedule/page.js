@@ -25,7 +25,7 @@ export default function Schedule() {
       breakpoint: 768,
       settings: {
         slidesToShow: 2,
-        slidesToScroll: 1
+        slidesToScroll: 1,
       }
     },
     {
@@ -79,7 +79,7 @@ export default function Schedule() {
               <Image src="/Fretboard2025_DailyScheduleSlides_Thurs.jpg" width={600} height={600} alt="Line Up Schedule Thurs 1"/>
             </div>
             <div>
-              <Image src="/Fretboard2025_DailyScheduleSlides_Fri.jpg" width={600} height={600} alt="Line Up Schedule Fri 1" />
+              <Image src="/Fretboard2025_DailyScheduleSlides_Fri1.jpg" width={600} height={600} alt="Line Up Schedule Fri 1" />
             </div>
             <div>
               <Image src="/Fretboard2025_DailyScheduleSlides_Sat.jpg" width={600} height={600} alt="Line Up Schedule Sat 1" />
