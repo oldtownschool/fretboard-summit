@@ -342,7 +342,7 @@ export const Footer = () => {
           </Link>
         </ul>
         <p className="pt-6 text-slate-700">
-          ©2023 Old Town School of Folk Music
+          ©2025 Old Town School of Folk Music
         </p>
       </div>
     </div>

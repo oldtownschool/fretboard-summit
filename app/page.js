@@ -62,7 +62,7 @@ export default function Home() {
                 height={50}
               />
               <Image
-                src="/FS2025_Homepage_LeftStack_090324.png"
+                src="/FS2026_Homepage_LeftStack_100325.png"
                 alt="banner left"
                 width={500}
                 height={400}
@@ -78,7 +78,7 @@ export default function Home() {
           </div>
           <div className="w-full mt-6 sm:mt-0 sm:flex sm:w-2/4">
             <Image
-              src="/FBS2025_Hompage_RightStack_072225B.png"
+              src="/FS2026_Homepage_RightStack_100325.png"
               alt="banner left"
               width={500}
               height={400}
@@ -167,9 +167,10 @@ export default function Home() {
             <p>
               <span className="font-bold">Experience</span> the midwest’s largest and finest gathering of makers, players, and industry experts. Demo and purchase new, forthcoming and Summit-exclusive gear from over 50 luthiers, pedal makers, amp, and gear companies. 
             </p>
+            <p className="mt-2">Early Bird 2026 All Access 3-Day Passes On Sale Now!</p>
             <a href="/luthiers">
               <button className="text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1] my-2">
-              View 2025 Exhibitors
+              See 2025 Exhibitors
               </button>
             </a>
           </div>
@@ -187,7 +188,7 @@ export default function Home() {
               meet the makers
             </h2>
             <p>
-              <span className="font-bold">Meet</span> the makers and learn from the masters. Workshops. Master Classes. Jams and more. Plus an incredible lineup of featured concerts featuring Lyle Lovett, Dave Hill, Cesar Rosas & The Chi-Town Playboys, Charlie Hunter, Ella Feingold, John Smith, Jonathan Stout & Erik McIntyre, Anna Vogelzang, Sofia Wolfson and many more… plus special guests!
+              <span className="font-bold">Meet</span> the makers and learn from the masters! Workshops. Master Classes. Jams and more. Plus an incredible lineup of featured concerts! Past performers include Lyle Lovett, Jorma Kaukonen, Charlie Hunter, Bill Frisell, Blake Mills, Valerie June, Tommy Emmanuel, Jeff Parker plus special guests! New schedule announced in Spring 2026.
 
             </p>
             <a href="/schedule">

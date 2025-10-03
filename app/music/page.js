@@ -19,12 +19,19 @@ export default function Music() {
           <h2 className="mt-10 font-aurochs text-[#F0E5D1] uppercase text-6xl tracking-wider ">
             Live Performances
           </h2>
-          <h4 className="mt-10 font-aurochs text-[#F0E5D1] uppercase text-3xl tracking-wider">
-          The 2025 Lineup is here! Check out the amazing artists joining us on stage throughout the weekend.</h4>
+          <h4 className="mt-10 font-bold font-aurochs text-[#F0E5D1] uppercase text-3xl tracking-wide">
+            Great concerts in Old Town School’s legendary concert halls are a key component of Fretboard Summit!
+          </h4>
+          <p className="mt-2 font-aurochs text-[#F0E5D1] uppercase text-3xl tracking-wider">
+            Past performers include Lyle Lovett, Jorma Kaukonen, Charlie Hunter, Bill Frisell, Blake Mills, Valerie June, Tommy Emmanuel, Jeff Parker plus special guests! 
+          </p>
+          <p className="mt-2 font-aurochs text-[#F0E5D1] uppercase text-3xl tracking-wider">
+            View last year’s info before the new concert lineup is announced in Spring 2026!
+          </p>
         </div>
 
 
-        <div className="block sm:flex sm:flex-row mt-10 max-w-5xl p-2 sm:p-0">
+        {/* <div className="block sm:flex sm:flex-row mt-10 max-w-5xl p-2 sm:p-0">
           <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-0 sm:m-2 p-4 bg-[#A4CCDA] text-center text-[#322D25]">
             <div className="flex justify-center">
               <Image
@@ -57,11 +64,11 @@ export default function Music() {
               <span className="font-bold">Cesar Rosas & The Chi-Town Playboys</span>
             </h2>
           </div>
-        </div> 
+        </div>  */}
 
-        <div className="block sm:flex sm:flex-row max-w-5xl p-2 sm:p-0">
+        {/*<div className="block sm:flex sm:flex-row max-w-5xl p-2 sm:p-0">
           
-          <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-0 sm:m-2 p-4 bg-[#F0E5D1] text-center text-[#322D25]">
+           <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-0 sm:m-2 p-4 bg-[#F0E5D1] text-center text-[#322D25]">
             <div className="flex justify-center">
               <Image
                 src="/DAVE_PromoPhotoA.jpg"
@@ -76,15 +83,15 @@ export default function Music() {
               <br />
               <span className="font-bold">Dave Hill</span>
               <br />{" "}
-              {/* <span className="font-light tracking-wider">
+              <span className="font-light tracking-wider">
               Exclusive For All Access Passholders
-              </span> */}
+              </span>
             </h2>
             <p></p>
-          </div> 
+          </div>  */}
 
-          <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-0 sm:m-2 mt-4 p-4 bg-[#A4CCDA] text-center text-[#322D25]">
-             {/* <div className="mt-6 sm:mt-0 flex items-stretch justify-center">
+          {/* <div className="w-full sm:flex-col sm:flex sm:w-2/4 m-0 sm:m-2 mt-4 p-4 bg-[#A4CCDA] text-center text-[#322D25]">
+             <div className="mt-6 sm:mt-0 flex items-stretch justify-center">
               <Image
                 className="hidden sm:flex mx-2"
                 src="/border.png"
@@ -106,7 +113,7 @@ export default function Music() {
                 width={10}
                 height={400}
               />
-            </div>*/}
+            </div>
             <div className="flex justify-center  mx-auto" style={{maxWidth: '430px'}}>
               <Image
                 src="/Ella_CH.png"
@@ -121,12 +128,12 @@ export default function Music() {
               <br />
               <span className="font-bold">Charlie Hunter & Ella Feingold</span>
               <br />{" "}
-              {/* <span className="font-light tracking-wider">
+              <span className="font-light tracking-wider">
               Exclusive For All Access Passholders
-              </span> */}
+              </span>
             </h2>
           </div>
-        </div>
+        </div> */}
 
         <a href="/tickets" className="text-center my-10">
           <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1]">
@@ -172,11 +179,11 @@ export default function Music() {
 
         <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#F0E5D1] text-[#322D25]">
           <h2 className="tracking-wider font-aurochs font-normal uppercase text-5xl text-center">
-            Performances
+            Last Year's Performances
           </h2>
 
           
-          <h4 className="tracking-wide font-aurochs text-3xl mt-6">Thursday, August 21 </h4>
+          <h4 className="tracking-wide font-aurochs text-3xl mt-6">Thursday, August 21, 2025 </h4>
 
           <h3 className="tracking-wide font-aurochs font-bold text-3xl mt-4 mb-2">Cesar Rosas & The Chi-Town Playboys
           </h3>
@@ -227,7 +234,7 @@ export default function Music() {
           </div>
 
 
-          <h4 className="tracking-wide font-aurochs text-3xl mt-6">Friday, August 22</h4>
+          <h4 className="tracking-wide font-aurochs text-3xl mt-6">Friday, August 22, 2025</h4>
 
           <h3 className="tracking-wide font-aurochs font-bold text-3xl mt-4 mb-2">Dave Hill
 
@@ -292,7 +299,7 @@ export default function Music() {
             />
           </div>
 
-          <h4 className="tracking-wide font-aurochs text-3xl mt-6">Saturday, August 23</h4>
+          <h4 className="tracking-wide font-aurochs text-3xl mt-6">Saturday, August 23, 2025</h4>
 
           <h3 className="tracking-wide font-aurochs font-bold text-3xl mt-4 mb-2">Lyle Lovett with special guest John Smith</h3>
 
