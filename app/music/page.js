@@ -179,7 +179,7 @@ export default function Music() {
 
         <div className="my-10 w-full max-w-5xl sm:flex-col sm:flex p-4 sm:py-14 sm:px-20 bg-[#F0E5D1] text-[#322D25]">
           <h2 className="tracking-wider font-aurochs font-normal uppercase text-5xl text-center">
-            Last Year's Performances
+            Last Year&apos;s Performances
           </h2>
 
           
