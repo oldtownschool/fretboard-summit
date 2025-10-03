@@ -15,18 +15,18 @@ export default function Music() {
         </div>*/}
 
         
-        <div className="my-10 w-full max-w-5xl items-center sm:flex sm:flex-col px-4 lg:px-14 text-center">
-          <h2 className="mt-10 font-aurochs text-[#F0E5D1] uppercase text-6xl tracking-wider ">
+        <div className="my-10 w-full max-w-5xl sm:flex sm:flex-col px-4 lg:px-14">
+          <h2 className="mt-10 font-aurochs text-[#F0E5D1] uppercase text-6xl tracking-wider text-center">
             Live Performances
           </h2>
-          <h4 className="mt-10 font-bold font-aurochs text-[#F0E5D1] uppercase text-3xl tracking-wide">
+          <h4 className="mt-10 font-bold font-aurochs text-[#F0E5D1] uppercase text-3xl tracking-wider  text-center">
             Great concerts in Old Town School’s legendary concert halls are a key component of Fretboard Summit!
           </h4>
-          <p className="mt-2 font-aurochs text-[#F0E5D1] uppercase text-3xl tracking-wider">
-            Past performers include Lyle Lovett, Jorma Kaukonen, Charlie Hunter, Bill Frisell, Blake Mills, Valerie June, Tommy Emmanuel, Jeff Parker plus special guests! 
+          <p className="font-bold text-2xl mt-6 text-[#F0E5D1]">
+          Past performers include Lyle Lovett, Jorma Kaukonen, Charlie Hunter, Bill Frisell, Blake Mills, Valerie June, Tommy Emmanuel, Jeff Parker plus special guests! 
           </p>
-          <p className="mt-2 font-aurochs text-[#F0E5D1] uppercase text-3xl tracking-wider">
-            View last year’s info before the new concert lineup is announced in Spring 2026!
+          <p className="font-bold text-2xl mt-6 text-[#F0E5D1]">
+          View last year’s info before the new concert lineup is announced in Spring 2026!
           </p>
         </div>
 
