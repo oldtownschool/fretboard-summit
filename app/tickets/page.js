@@ -13,8 +13,9 @@ export default function Tickets() {
             Buy tickets
           </h2>
           <p className="text-[#F0E5D1] text-2xl">
-            All-access tickets include admission to all the evening concerts, workshops, events and fun, as well as our guitar showcase. It&apos;s three days of fun and inspiring programming, crafted just for guitar people by the Fretboard Journal and the Old Town School of Folk Music.
+            All-access tickets include admission to all the evening concerts, workshops, events and fun, as well as our guitar showcase. 
           </p>
+          <p className="text-[#F0E5D1] text-2xl">Three days of fun and inspiring programming crafted just for guitar people by the Fretboard Journal and Old Town School of Folk Music</p>
           {/* <p className="text-[#F0E5D1] text-lg italic mt-4">
             Please note: new schedule for 2024! Fretboard Summit will run Friday, August 23, 2024 through Sunday, August 25, 2024.
           </p> */}
@@ -36,10 +37,10 @@ export default function Tickets() {
           Early Bird Price Now Available! Price Increases January 5, 2026
           </h2>
           <h3 className="font-bold text-2xl my-6">
-            Exclusive Access To Fretboard Summit on Thursday, August 20. Experience everything at the Fretboard Summit, including concerts,
-            workshops, gear giveaways, gift bags &amp; more.
+            Experience everything at the Fretboard Summit, including concerts, workshops, gear giveaways, gift bags &amp; more.
           </h3>
           <ul className="list-disc ml-4">
+            <li>Exclusive access to Fretboard Summit on Thursday, August 20</li>
             <li>Admission to all events</li>
             <li className="ml-4">Live performances</li>
             <li className="ml-4">Workshops &amp; panel discussions</li>
@@ -115,7 +116,7 @@ export default function Tickets() {
             </div>
             <div className="flex justify-evenly w-full sm:flex-col sm:flex sm:w-2/4 m-0 sm:p-4 px-4 mt-2 sm:mt-0">
                 <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#757f7e] text-[#F0E5D1] cursor-not-allowed">
-                Available Summer 2025<br/>Sat August 22
+                Available Summer 2026<br/>Sat August 22
                 </button>
               {/* <Link href="https://ots.fm/FBS25Sat" className="text-center">
                 <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase bg-[#2B6F6D] hover:bg-[#4DB3AC] text-[#F0E5D1]">

@@ -62,7 +62,7 @@ export default function Home() {
                 height={50}
               />
               <Image
-                src="/FS2026_Homepage_LeftStack_100325.png"
+                src="/FS2026_Homepage_LeftStack_100625.png"
                 alt="banner left"
                 width={500}
                 height={400}
