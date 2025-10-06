@@ -4,6 +4,9 @@ import Image from "next/image";
 import Link from "next/link";
 
 export const Footer = () => {
+  const date = new Date(); // Creates a new Date object representing the current date and time
+  const year = date.getFullYear(); // Extracts the full year from the Date object
+
   return (
     <div className="w-full bg-[#F0E5D1] py-8">
       <div className="flex flex-col">
@@ -342,7 +345,7 @@ export const Footer = () => {
           </Link>
         </ul>
         <p className="pt-6 text-slate-700">
-          ©2025 Old Town School of Folk Music
+          ©{year} Old Town School of Folk Music
         </p>
       </div>
     </div>
