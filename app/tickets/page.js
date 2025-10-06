@@ -8,14 +8,14 @@ export default function Tickets() {
     <>
       <Navbar />
       <main className="flex min-h-screen flex-col items-center bg-gradient-to-r from-[#322D35] to-[#4C454F]">
-        <div className="my-10 mb-20 sm:mb-10 w-full max-w-5xl items-center sm:flex sm:flex-col px-4 lg:px-14 text-center">
-          <h2 className="mt-10 mb-4 font-aurochs text-[#F0E5D1] uppercase text-6xl tracking-wider ">
+        <div className="my-10 mb-20 sm:mb-10 w-full max-w-5xl items-center sm:flex sm:flex-col px-4 lg:px-14">
+          <h2 className="mt-10 mb-4 font-aurochs text-[#F0E5D1] uppercase text-6xl tracking-wider text-center">
             Buy tickets
           </h2>
-          <p className="text-[#F0E5D1] text-2xl">
+          <p className="text-[#F0E5D1] text-2xl font-bold mt-6">
             All-access tickets include admission to all the evening concerts, workshops, events and fun, as well as our guitar showcase. 
           </p>
-          <p className="text-[#F0E5D1] text-2xl">Three days of fun and inspiring programming crafted just for guitar people by the Fretboard Journal and Old Town School of Folk Music</p>
+          <p className="text-[#F0E5D1] text-2xl font-bold mt-6">Three days of fun and inspiring programming crafted just for guitar people by the Fretboard Journal and Old Town School of Folk Music</p>
           {/* <p className="text-[#F0E5D1] text-lg italic mt-4">
             Please note: new schedule for 2024! Fretboard Summit will run Friday, August 23, 2024 through Sunday, August 25, 2024.
           </p> */}
