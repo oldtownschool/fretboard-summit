@@ -161,8 +161,11 @@ export default function Directions() {
             public transportation, rideshare, or taxi.{" "}
           </p>
 
+          <p className="text-xl my-4 italic font-bold">2026 block of rooms at Hotel Zachary is now live, limited availability. </p>
+          
+
           <Link
-            href="https://www.marriott.com/events/start.mi?id=1703100585062&key=GRP"
+            href="https://app.marriott.com/reslink?id=1761835836171&key=GRP&app=resvlink&dtt=true"
             className="text-center mt-6"
           >
             <button className="tracking-wider text-3xl font-aurochs px-6 py-2 uppercase hover:bg-[#4DB3AC] bg-[#2B6F6D] text-[#F0E5D1]">
